@@ -1,0 +1,282 @@
+L 01/10/2015 - 11:06:58: Log file started (file "logfiles/L000_000_000_000_27015_201501101106_000.log") (game "/home/lladmin/STEAMCMD/Servers/csgo/csgo") (version "5906")
+L 01/10/2015 - 11:06:58: Loading map "de_dust"
+L 01/10/2015 - 11:06:58: server cvars start
+L 01/10/2015 - 11:06:58: "cash_player_killed_teammate" = "-300"
+L 01/10/2015 - 11:06:58: "sv_maxspeed" = "320"
+L 01/10/2015 - 11:06:58: "cash_player_respawn_amount" = "0"
+L 01/10/2015 - 11:06:58: "cash_team_rescued_hostage" = "0"
+L 01/10/2015 - 11:06:58: "cash_team_win_by_defusing_bomb" = "3250"
+L 01/10/2015 - 11:06:58: "sv_rollangle" = "0"
+L 01/10/2015 - 11:06:58: "r_AirboatViewZHeight" = "0.0"
+L 01/10/2015 - 11:06:58: "sv_cheats" = "0"
+L 01/10/2015 - 11:06:58: "r_VehicleViewDampen" = "1"
+L 01/10/2015 - 11:06:58: "mp_allowNPCs" = "1"
+L 01/10/2015 - 11:06:58: "mp_tournament" = "0"
+L 01/10/2015 - 11:06:58: "sv_spec_hear" = "1"
+L 01/10/2015 - 11:06:58: "cash_player_interact_with_hostage" = "150"
+L 01/10/2015 - 11:06:58: "mp_flashlight" = "0"
+L 01/10/2015 - 11:06:58: "mp_maxrounds" = "0"
+L 01/10/2015 - 11:06:58: "sv_tags" = ""
+L 01/10/2015 - 11:06:58: "sv_stepsize" = "18"
+L 01/10/2015 - 11:06:58: "mp_teamlist" = "hgrunt;scientist"
+L 01/10/2015 - 11:06:58: "sv_alltalk" = "0"
+L 01/10/2015 - 11:06:58: "mp_footsteps" = "1"
+L 01/10/2015 - 11:06:58: "sv_noclipaccelerate" = "5"
+L 01/10/2015 - 11:06:58: "sv_accelerate_debug_speed" = "0"
+L 01/10/2015 - 11:06:58: "sv_wateraccelerate" = "10"
+L 01/10/2015 - 11:06:58: "mp_autocrosshair" = "1"
+L 01/10/2015 - 11:06:58: "mp_stalemate_enable" = "0"
+L 01/10/2015 - 11:06:58: "cash_team_elimination_bomb_map" = "3250"
+L 01/10/2015 - 11:06:58: "cash_player_get_killed" = "0"
+L 01/10/2015 - 11:06:58: "mp_roundtime_defuse" = "0"
+L 01/10/2015 - 11:06:58: "sv_autobuyammo" = "1"
+L 01/10/2015 - 11:06:58: "sv_rollspeed" = "200"
+L 01/10/2015 - 11:06:58: "sv_airaccelerate" = "12"
+L 01/10/2015 - 11:06:58: "mp_teams_unbalance_limit" = "1"
+L 01/10/2015 - 11:06:58: "mp_timelimit" = "5"
+L 01/10/2015 - 11:06:58: "cash_team_loser_bonus" = "1400"
+L 01/10/2015 - 11:06:58: "sv_deadtalk" = "0"
+L 01/10/2015 - 11:06:58: "cash_player_rescued_hostage" = "1000"
+L 01/10/2015 - 11:06:58: "sv_waterfriction" = "1"
+L 01/10/2015 - 11:06:58: "sv_competitive_official_5v5" = "0"
+L 01/10/2015 - 11:06:58: "sv_steamgroup" = ""
+L 01/10/2015 - 11:06:58: "cash_player_killed_enemy_default" = "300"
+L 01/10/2015 - 11:06:58: "coop" = "0"
+L 01/10/2015 - 11:06:58: "mp_respawnwavetime" = "10.0"
+L 01/10/2015 - 11:06:58: "nextlevel" = ""
+L 01/10/2015 - 11:06:58: "sv_stopspeed" = "80"
+L 01/10/2015 - 11:06:58: "sv_specaccelerate" = "5"
+L 01/10/2015 - 11:06:58: "deathmatch" = "1"
+L 01/10/2015 - 11:06:58: "tv_enable" = "0"
+L 01/10/2015 - 11:06:58: "mp_falldamage" = "0"
+L 01/10/2015 - 11:06:58: "mp_teammates_are_enemies" = "0"
+L 01/10/2015 - 11:06:58: "mp_roundtime_hostage" = "0"
+L 01/10/2015 - 11:06:58: "mp_freezetime" = "6"
+L 01/10/2015 - 11:06:58: "sv_accelerate_use_weapon_speed" = "1"
+L 01/10/2015 - 11:06:58: "sv_voiceenable" = "1"
+L 01/10/2015 - 11:06:58: "sv_bounce" = "0"
+L 01/10/2015 - 11:06:58: "mp_disable_respawn_times" = "0"
+L 01/10/2015 - 11:06:58: "r_AirboatViewDampenFreq" = "7.0"
+L 01/10/2015 - 11:06:58: "mp_weaponstay" = "0"
+L 01/10/2015 - 11:06:58: "mp_hostagepenalty" = "10"
+L 01/10/2015 - 11:06:58: "tv_advertise_watchable" = "0"
+L 01/10/2015 - 11:06:58: "mp_friendlyfire" = "0"
+L 01/10/2015 - 11:06:58: "sv_noclipspeed" = "5"
+L 01/10/2015 - 11:06:58: "cash_team_hostage_interaction" = "500"
+L 01/10/2015 - 11:06:58: "sv_allchat" = "1"
+L 01/10/2015 - 11:06:58: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 01/10/2015 - 11:06:58: "mp_buy_during_immunity" = "0"
+L 01/10/2015 - 11:06:58: "cash_player_killed_enemy_factor" = "1"
+L 01/10/2015 - 11:06:58: "r_JeepViewDampenDamp" = "1.0"
+L 01/10/2015 - 11:06:58: "mp_c4timer" = "45"
+L 01/10/2015 - 11:06:58: "r_AirboatViewDampenDamp" = "1.0"
+L 01/10/2015 - 11:06:58: "sv_competitive_minspec" = "1"
+L 01/10/2015 - 11:06:58: "sv_max_allowed_net_graph" = "1"
+L 01/10/2015 - 11:06:58: "mp_stalemate_at_timelimit" = "0"
+L 01/10/2015 - 11:06:58: "sv_footsteps" = "1"
+L 01/10/2015 - 11:06:58: "mp_limitteams" = "2"
+L 01/10/2015 - 11:06:58: "sv_vote_issue_kick_allowed" = "1"
+L 01/10/2015 - 11:06:58: "tv_relaypassword" = ""
+L 01/10/2015 - 11:06:58: "mp_teamplay" = "0"
+L 01/10/2015 - 11:06:58: "cash_team_terrorist_win_bomb" = "3500"
+L 01/10/2015 - 11:06:58: "cash_team_elimination_hostage_map_t" = "1000"
+L 01/10/2015 - 11:06:58: "r_JeepViewDampenFreq" = "7.0"
+L 01/10/2015 - 11:06:58: "sv_specnoclip" = "1"
+L 01/10/2015 - 11:06:58: "sv_friction" = "5.2"
+L 01/10/2015 - 11:06:58: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 01/10/2015 - 11:06:58: "cash_player_bomb_planted" = "300"
+L 01/10/2015 - 11:06:58: "mp_autoteambalance" = "1"
+L 01/10/2015 - 11:06:58: "sv_contact" = ""
+L 01/10/2015 - 11:06:58: "sv_vote_kick_ban_duration" = "15"
+L 01/10/2015 - 11:06:58: "cash_player_bomb_defused" = "300"
+L 01/10/2015 - 11:06:58: "mp_roundtime" = "5"
+L 01/10/2015 - 11:06:58: "sv_kick_ban_duration" = "15"
+L 01/10/2015 - 11:06:58: "cash_team_planted_bomb_but_defused" = "800"
+L 01/10/2015 - 11:06:58: "cash_player_killed_hostage" = "-1000"
+L 01/10/2015 - 11:06:58: "sv_vote_issue_loadbackup_allowed" = "1"
+L 01/10/2015 - 11:06:58: "mp_fraglimit" = "0"
+L 01/10/2015 - 11:06:58: "mp_forcerespawn" = "1"
+L 01/10/2015 - 11:06:58: "decalfrequency" = "10"
+L 01/10/2015 - 11:06:58: "mp_winlimit" = "0"
+L 01/10/2015 - 11:06:58: "sv_accelerate" = "5.5"
+L 01/10/2015 - 11:06:58: "mp_buy_anywhere" = "0"
+L 01/10/2015 - 11:06:58: "sv_gravity" = "800"
+L 01/10/2015 - 11:06:58: "sv_password" = "***PROTECTED***"
+L 01/10/2015 - 11:06:58: "cash_team_elimination_hostage_map_ct" = "2000"
+L 01/10/2015 - 11:06:58: "cash_team_win_by_hostage_rescue" = "3500"
+L 01/10/2015 - 11:06:58: "r_JeepViewZHeight" = "10.0"
+L 01/10/2015 - 11:06:58: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 01/10/2015 - 11:06:58: "cash_player_damage_hostage" = "-30"
+L 01/10/2015 - 11:06:58: "cash_team_hostage_alive" = "0"
+L 01/10/2015 - 11:06:58: "tv_password" = ""
+L 01/10/2015 - 11:06:58: "sv_specspeed" = "3"
+L 01/10/2015 - 11:06:58: server cvars end
+L 01/10/2015 - 11:06:59: Started map "de_dust" (CRC "1112256951")
+L 01/10/2015 - 11:06:59: server_cvar: "cash_player_interact_with_hostage" "300"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_hostage_interaction" "600"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_rescued_hostage" "600"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_roundtime_hostage" "2"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_timelimit" "0"
+L 01/10/2015 - 11:06:59: server_cvar: "cash_player_killed_teammate" "-3300"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_autoteambalance" "0"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_c4timer" "35"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_freezetime" "15"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_friendlyfire" "1"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_limitteams" "0"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_maxrounds" "30"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_roundtime" "1.75"
+L 01/10/2015 - 11:06:59: server_cvar: "mp_roundtime_defuse" "1.75"
+L 01/10/2015 - 11:06:59: server_cvar: "sv_contact" "0"
+L 01/10/2015 - 11:06:59: server_cvar: "sv_kick_ban_duration" "0"
+L 01/10/2015 - 11:06:59: server_cvar: "sv_competitive_official_5v5" "1"
+L 01/10/2015 - 11:06:59: "Console<0><Console><Console>" say ""LL Config v0.2""
+L 01/10/2015 - 11:06:59: "Console<0><Console><Console>" say ""Good luck, have fun, and remember to record your personal demos""
+L 01/10/2015 - 11:07:48: "lazerkitteN @ lan<2><STEAM_1:1:752644><>" connected, address ""
+L 01/10/2015 - 11:07:48: World triggered "Round_Start"
+L 01/10/2015 - 11:07:49: "lazerkitteN @ lan<2><STEAM_1:1:752644><>" STEAM USERID validated
+L 01/10/2015 - 11:07:52: "ElasteK<3><STEAM_1:0:185874><>" connected, address ""
+L 01/10/2015 - 11:07:52: "ElasteK<3><STEAM_1:0:185874><>" STEAM USERID validated
+L 01/10/2015 - 11:07:53: "lazerkitteN @ lan<2><STEAM_1:1:752644><>" entered the game
+L 01/10/2015 - 11:07:54: "lazerkitteN @ lan<2><STEAM_1:1:752644><Unassigned>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:07:55: "bRad @ lan<4><STEAM_1:0:3852029><>" connected, address ""
+L 01/10/2015 - 11:07:55: "bRad @ lan<4><STEAM_1:0:3852029><>" STEAM USERID validated
+L 01/10/2015 - 11:07:57: "ElasteK<3><STEAM_1:0:185874><>" entered the game
+L 01/10/2015 - 11:07:59: "ElasteK<3><STEAM_1:0:185874><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:01: "bRad @ lan<4><STEAM_1:0:3852029><>" entered the game
+L 01/10/2015 - 11:08:02: "bRad @ lan<4><STEAM_1:0:3852029><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:04: "lazerkitteN @ lan<2><STEAM_1:1:752644>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:08:04: "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:08:04: World triggered "Game_Commencing"
+L 01/10/2015 - 11:08:06: "bRad @ lan<4><STEAM_1:0:3852029>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:08:06: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:07: World triggered "Round_Start"
+L 01/10/2015 - 11:08:08: "ElasteK<3><STEAM_1:0:185874>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:08:08: "ElasteK<3><STEAM_1:0:185874><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:14: "tigerz-ti<5><STEAM_1:1:5286><>" connected, address ""
+L 01/10/2015 - 11:08:14: "tigerz-ti<5><STEAM_1:1:5286><>" STEAM USERID validated
+L 01/10/2015 - 11:08:18: "LuckzZz @ lan<6><STEAM_1:1:8934418><>" connected, address ""
+L 01/10/2015 - 11:08:19: "LuckzZz @ lan<6><STEAM_1:1:8934418><>" STEAM USERID validated
+L 01/10/2015 - 11:08:19: "tigerz-ti<5><STEAM_1:1:5286><>" entered the game
+L 01/10/2015 - 11:08:21: "tigerz-ti<5><STEAM_1:1:5286><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:23: "LuckzZz @ lan<6><STEAM_1:1:8934418><>" entered the game
+L 01/10/2015 - 11:08:24: "LuckzZz @ lan<6><STEAM_1:1:8934418><Unassigned>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:08:25: "KELLoGG_<7><STEAM_1:0:1482556><>" connected, address ""
+L 01/10/2015 - 11:08:26: "KELLoGG_<7><STEAM_1:0:1482556><>" STEAM USERID validated
+L 01/10/2015 - 11:08:28: "tigerz-ti<5><STEAM_1:1:5286>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:08:28: "tigerz-ti<5><STEAM_1:1:5286><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:30: "KELLoGG_<7><STEAM_1:0:1482556><>" entered the game
+L 01/10/2015 - 11:08:30: "LuckzZz @ lan<6><STEAM_1:1:8934418>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:08:30: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:08:31: "KELLoGG_<7><STEAM_1:0:1482556><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:32: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "hi"
+L 01/10/2015 - 11:08:33: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" purchased "m4a1"
+L 01/10/2015 - 11:08:33: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:08:35: "KELLoGG_<7><STEAM_1:0:1482556>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:08:35: "KELLoGG_<7><STEAM_1:0:1482556><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:08:37: "KELLoGG_<7><STEAM_1:0:1482556><CT>" purchased "m4a1"
+L 01/10/2015 - 11:08:37: "KELLoGG_<7><STEAM_1:0:1482556><CT>" purchased "assaultsuit"
+L 01/10/2015 - 11:08:38: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "hi"
+L 01/10/2015 - 11:08:41: "JeNume @ LANFest<8><STEAM_1:0:43204461><>" connected, address ""
+L 01/10/2015 - 11:08:42: "JeNume @ LANFest<8><STEAM_1:0:43204461><>" STEAM USERID validated
+L 01/10/2015 - 11:08:42: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [257 1251 32] attacked "tigerz-ti<5><STEAM_1:1:5286><CT>" [590 1188 32] with "glock" (damage "104") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:42: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [257 1251 32] killed "tigerz-ti<5><STEAM_1:1:5286><CT>" [590 1188 96] with "glock" (headshot)
+L 01/10/2015 - 11:08:44: "IshbOO<9><STEAM_1:0:96548><>" connected, address ""
+L 01/10/2015 - 11:08:44: "IshbOO<9><STEAM_1:0:96548><>" STEAM USERID validated
+L 01/10/2015 - 11:08:45: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "are you guys @lan?"
+L 01/10/2015 - 11:08:45: "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" purchased "cz75a"
+L 01/10/2015 - 11:08:46: "JeNume @ LANFest<8><STEAM_1:0:43204461><>" entered the game
+L 01/10/2015 - 11:08:46: "mhN @ LANFEST<10><STEAM_1:1:17280241><>" connected, address ""
+L 01/10/2015 - 11:08:47: "KELLoGG_<7><STEAM_1:0:1482556><CT>" [145 290 0] attacked "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [261 661 26] with "m4a1" (damage "40") (damage_armor "0") (health "60") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:08:47: "mhN @ LANFEST<10><STEAM_1:1:17280241><>" STEAM USERID validated
+L 01/10/2015 - 11:08:47: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "ya"
+L 01/10/2015 - 11:08:47: "KELLoGG_<7><STEAM_1:0:1482556><CT>" [141 291 0] attacked "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [229 654 -3] with "m4a1" (damage "32") (damage_armor "0") (health "28") (armor "0") (hitgroup "left arm")
+L 01/10/2015 - 11:08:47: "KELLoGG_<7><STEAM_1:0:1482556><CT>" [141 291 0] attacked "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [228 654 -3] with "m4a1" (damage "32") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:47: "KELLoGG_<7><STEAM_1:0:1482556><CT>" [141 291 0] killed "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" [228 654 61] with "m4a1"
+L 01/10/2015 - 11:08:47: "JeNume @ LANFest<8><STEAM_1:0:43204461><Unassigned>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:08:50: "IshbOO<9><STEAM_1:0:96548><>" entered the game
+L 01/10/2015 - 11:08:51: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [672 1195 32] attacked "KELLoGG_<7><STEAM_1:0:1482556><CT>" [619 883 32] with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 01/10/2015 - 11:08:51: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [672 1195 32] attacked "KELLoGG_<7><STEAM_1:0:1482556><CT>" [620 894 32] with "ak47" (damage "34") (damage_armor "5") (health "32") (armor "89") (hitgroup "stomach")
+L 01/10/2015 - 11:08:51: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [672 1195 32] attacked "KELLoGG_<7><STEAM_1:0:1482556><CT>" [620 896 32] with "ak47" (damage "27") (damage_armor "4") (health "5") (armor "84") (hitgroup "chest")
+L 01/10/2015 - 11:08:52: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [672 1195 32] attacked "KELLoGG_<7><STEAM_1:0:1482556><CT>" [620 896 32] with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "79") (hitgroup "chest")
+L 01/10/2015 - 11:08:52: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [672 1195 32] killed "KELLoGG_<7><STEAM_1:0:1482556><CT>" [620 896 96] with "ak47"
+L 01/10/2015 - 11:08:52: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "col im at hom"
+L 01/10/2015 - 11:08:52: "IshbOO<9><STEAM_1:0:96548><Unassigned>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:08:55: "mhN @ LANFEST<10><STEAM_1:1:17280241><>" entered the game
+L 01/10/2015 - 11:08:55: "poptart @ lan<11><STEAM_1:1:66541973><>" connected, address ""
+L 01/10/2015 - 11:08:56: "poptart @ lan<11><STEAM_1:1:66541973><>" STEAM USERID validated
+L 01/10/2015 - 11:08:56: "JeNume @ LANFest<8><STEAM_1:0:43204461>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:08:56: "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:08:57: "mhN @ LANFEST<10><STEAM_1:1:17280241><Unassigned>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:08:57: "IshbOO<9><STEAM_1:0:96548>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:08:57: "IshbOO<9><STEAM_1:0:96548><CT>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:08:59: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [231 237 5] attacked "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" [33 -1601 61] with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0") (hitgroup "left arm")
+L 01/10/2015 - 11:09:00: "mhN @ LANFEST<10><STEAM_1:1:17280241>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:09:00: "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:09:00: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [243 235 8] attacked "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" [33 -1601 61] with "ak47" (damage "133") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:09:00: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [243 235 8] killed "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" [33 -1601 125] with "ak47" (headshot)
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "ak47"
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "smokegrenade"
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "flashbang"
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "hegrenade"
+L 01/10/2015 - 11:09:00: "ElasteK<3><STEAM_1:0:185874><CT>" purchased "flashbang"
+L 01/10/2015 - 11:09:01: "IshbOO<9><STEAM_1:0:96548><CT>" [-23 -910 95] attacked "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [256 232 8] with "hkp2000" (damage "14") (damage_armor "6") (health "86") (armor "93") (hitgroup "left arm")
+L 01/10/2015 - 11:09:01: "IshbOO<9><STEAM_1:0:96548><CT>" [-23 -910 95] attacked "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [260 231 8] with "hkp2000" (damage "56") (damage_armor "27") (health "30") (armor "65") (hitgroup "head")
+L 01/10/2015 - 11:09:01: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" say "nice"
+L 01/10/2015 - 11:09:01: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [265 230 8] attacked "IshbOO<9><STEAM_1:0:96548><CT>" [-23 -910 95] with "ak47" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:09:01: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [265 230 8] killed "IshbOO<9><STEAM_1:0:96548><CT>" [-23 -910 159] with "ak47" (headshot)
+L 01/10/2015 - 11:09:02: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [175 229 0] attacked "ElasteK<3><STEAM_1:0:185874><CT>" [124 -1529 61] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "left arm")
+L 01/10/2015 - 11:09:03: "ElasteK<3><STEAM_1:0:185874><CT>" [121 -1529 61] attacked "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [177 229 0] with "m4a1" (damage "27") (damage_armor "5") (health "3") (armor "59") (hitgroup "stomach")
+L 01/10/2015 - 11:09:03: "poptart @ lan<11><STEAM_1:1:66541973><>" entered the game
+L 01/10/2015 - 11:09:03: "ElasteK<3><STEAM_1:0:185874><CT>" [121 -1529 61] attacked "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [182 229 0] with "m4a1" (damage "27") (damage_armor "5") (health "0") (armor "53") (hitgroup "stomach")
+L 01/10/2015 - 11:09:03: "ElasteK<3><STEAM_1:0:185874><CT>" [121 -1529 61] killed "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" [182 229 64] with "m4a1_silencer"
+L 01/10/2015 - 11:09:03: "IshbOO<9><STEAM_1:0:96548><CT>" assisted killing "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>"
+L 01/10/2015 - 11:09:04: "poptart @ lan<11><STEAM_1:1:66541973><Unassigned>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:09:04: "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" purchased "m4a1"
+L 01/10/2015 - 11:09:04: "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:09:05: "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" say "sup boys"
+L 01/10/2015 - 11:09:17: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" say "hi"
+L 01/10/2015 - 11:09:17: "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" say "hiiii"
+L 01/10/2015 - 11:09:19: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "chillin"
+L 01/10/2015 - 11:09:20: "tigerz-ti<5><STEAM_1:1:5286><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:09:21: "tigerz-ti<5><STEAM_1:1:5286><CT>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:09:21: "tigerz-ti<5><STEAM_1:1:5286><CT>" triggered "clantag" (value "MmH")
+L 01/10/2015 - 11:09:22: "ElasteK<3><STEAM_1:0:185874><CT>" [478 1177 32] attacked "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" [-111 1495 32] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 01/10/2015 - 11:09:22: "ElasteK<3><STEAM_1:0:185874><CT>" [473 1173 32] attacked "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" [-101 1505 32] with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "96") (hitgroup "left leg")
+L 01/10/2015 - 11:09:22: "poptart @ lan<11><STEAM_1:1:66541973>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:09:22: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" triggered "clantag" (value "sway.csgo")
+L 01/10/2015 - 11:09:22: "ElasteK<3><STEAM_1:0:185874><CT>" [473 1173 32] attacked "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" [-98 1509 32] with "ak47" (damage "33") (damage_armor "4") (health "14") (armor "91") (hitgroup "stomach")
+L 01/10/2015 - 11:09:22: "ElasteK<3><STEAM_1:0:185874><CT>" [473 1173 32] attacked "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" [-98 1510 32] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "86") (hitgroup "stomach")
+L 01/10/2015 - 11:09:22: "ElasteK<3><STEAM_1:0:185874><CT>" [473 1173 32] killed "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" [-98 1510 96] with "ak47"
+L 01/10/2015 - 11:09:23: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "i feel so awkwrds"
+L 01/10/2015 - 11:09:23: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:09:24: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" purchased "m4a1"
+L 01/10/2015 - 11:09:26: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "with no space"
+L 01/10/2015 - 11:09:27: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say ">_<"
+L 01/10/2015 - 11:09:29: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "you want a massage?"
+L 01/10/2015 - 11:09:30: "ElasteK<3><STEAM_1:0:185874><CT>" [-56 2072 24] attacked "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" [418 2075 6] with "ak47" (damage "44") (damage_armor "0") (health "56") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:09:30: "ElasteK<3><STEAM_1:0:185874><CT>" [-56 2073 24] attacked "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" [411 2080 6] with "ak47" (damage "44") (damage_armor "0") (health "12") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:09:30: "ElasteK<3><STEAM_1:0:185874><CT>" [-56 2073 24] attacked "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" [406 2088 5] with "ak47" (damage "44") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:09:30: "ElasteK<3><STEAM_1:0:185874><CT>" [-56 2073 24] killed "lazerkitteN @ lan<2><STEAM_1:1:752644><TERRORIST>" [406 2088 69] with "ak47"
+L 01/10/2015 - 11:09:30: "JeNume @ LANFest<8><STEAM_1:0:43204461><CT>" say "same"
+L 01/10/2015 - 11:09:31: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "from a large man?"
+L 01/10/2015 - 11:09:32: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say_team "yea"
+L 01/10/2015 - 11:09:33: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" [748 2249 0] attacked "ElasteK<3><STEAM_1:0:185874><CT>" [169 2171 5] with "ak47" (damage "27") (damage_armor "3") (health "47") (armor "92") (hitgroup "left arm")
+L 01/10/2015 - 11:09:33: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" [748 2249 0] attacked "ElasteK<3><STEAM_1:0:185874><CT>" [179 2172 6] with "ak47" (damage "34") (damage_armor "4") (health "13") (armor "87") (hitgroup "stomach")
+L 01/10/2015 - 11:09:34: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" [748 2249 0] attacked "ElasteK<3><STEAM_1:0:185874><CT>" [191 2173 7] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "83") (hitgroup "chest")
+L 01/10/2015 - 11:09:34: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" [748 2249 0] killed "ElasteK<3><STEAM_1:0:185874><CT>" [191 2173 71] with "ak47"
+L 01/10/2015 - 11:09:35: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "ya"
+L 01/10/2015 - 11:09:35: "bRad @ lan<4><STEAM_1:0:3852029><TERRORIST>" say "body massage"
+L 01/10/2015 - 11:09:37: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "coming over"
+L 01/10/2015 - 11:09:37: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "come over"
+L 01/10/2015 - 11:09:40: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "im so haerd"
+L 01/10/2015 - 11:09:41: "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" say "kellogg starting early hug"
+L 01/10/2015 - 11:09:41: "KELLoGG_<7><STEAM_1:0:1482556><CT>" say "$50 a minute"
+L 01/10/2015 - 11:09:42: "mhN @ LANFEST<10><STEAM_1:1:17280241><TERRORIST>" say "huh"
+L 01/10/2015 - 11:09:44: "LuckzZz @ lan<6><STEAM_1:1:8934418><TERRORIST>" say "so hard 4 u"
+L 01/10/2015 - 11:10:10: "poptart @ lan<11><STEAM_1:1:66541973><TERRORIST>" [-601 523 131] committed suicide with "world"
+L 01/10/2015 - 11:10:31: Log file closed

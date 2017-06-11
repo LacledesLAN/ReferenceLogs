@@ -1,0 +1,478 @@
+L 01/10/2015 - 10:58:00: Log file started (file "logfiles/L000_000_000_000_27015_201501101058_000.log") (game "/home/lladmin/STEAMCMD/Servers/csgo/csgo") (version "5906")
+L 01/10/2015 - 10:58:00: Loading map "workshop/163589843/de_cache"
+L 01/10/2015 - 10:58:00: server cvars start
+L 01/10/2015 - 10:58:00: "cash_player_killed_teammate" = "-3300"
+L 01/10/2015 - 10:58:00: "sv_maxspeed" = "320"
+L 01/10/2015 - 10:58:00: "cash_player_respawn_amount" = "0"
+L 01/10/2015 - 10:58:00: "cash_team_rescued_hostage" = "600"
+L 01/10/2015 - 10:58:00: "cash_team_win_by_defusing_bomb" = "3500"
+L 01/10/2015 - 10:58:00: "sv_rollangle" = "0"
+L 01/10/2015 - 10:58:00: "r_AirboatViewZHeight" = "0.0"
+L 01/10/2015 - 10:58:00: "sv_cheats" = "0"
+L 01/10/2015 - 10:58:00: "r_VehicleViewDampen" = "1"
+L 01/10/2015 - 10:58:00: "mp_allowNPCs" = "1"
+L 01/10/2015 - 10:58:00: "mp_tournament" = "0"
+L 01/10/2015 - 10:58:00: "sv_spec_hear" = "1"
+L 01/10/2015 - 10:58:00: "cash_player_interact_with_hostage" = "300"
+L 01/10/2015 - 10:58:00: "mp_flashlight" = "0"
+L 01/10/2015 - 10:58:00: "mp_maxrounds" = "30"
+L 01/10/2015 - 10:58:00: "sv_tags" = ""
+L 01/10/2015 - 10:58:00: "sv_stepsize" = "18"
+L 01/10/2015 - 10:58:00: "mp_teamlist" = "hgrunt;scientist"
+L 01/10/2015 - 10:58:00: "sv_alltalk" = "0"
+L 01/10/2015 - 10:58:00: "mp_footsteps" = "1"
+L 01/10/2015 - 10:58:00: "sv_noclipaccelerate" = "5"
+L 01/10/2015 - 10:58:00: "sv_accelerate_debug_speed" = "0"
+L 01/10/2015 - 10:58:00: "sv_wateraccelerate" = "10"
+L 01/10/2015 - 10:58:00: "mp_autocrosshair" = "1"
+L 01/10/2015 - 10:58:00: "mp_stalemate_enable" = "0"
+L 01/10/2015 - 10:58:00: "cash_team_elimination_bomb_map" = "3250"
+L 01/10/2015 - 10:58:00: "cash_player_get_killed" = "0"
+L 01/10/2015 - 10:58:00: "mp_roundtime_defuse" = "1.75"
+L 01/10/2015 - 10:58:00: "sv_autobuyammo" = "1"
+L 01/10/2015 - 10:58:00: "sv_rollspeed" = "200"
+L 01/10/2015 - 10:58:00: "sv_airaccelerate" = "12"
+L 01/10/2015 - 10:58:00: "mp_teams_unbalance_limit" = "1"
+L 01/10/2015 - 10:58:00: "mp_timelimit" = "0"
+L 01/10/2015 - 10:58:00: "cash_team_loser_bonus" = "1400"
+L 01/10/2015 - 10:58:00: "sv_deadtalk" = "0"
+L 01/10/2015 - 10:58:00: "cash_player_rescued_hostage" = "1000"
+L 01/10/2015 - 10:58:00: "sv_waterfriction" = "1"
+L 01/10/2015 - 10:58:00: "sv_competitive_official_5v5" = "1"
+L 01/10/2015 - 10:58:00: "sv_steamgroup" = ""
+L 01/10/2015 - 10:58:00: "cash_player_killed_enemy_default" = "300"
+L 01/10/2015 - 10:58:00: "coop" = "0"
+L 01/10/2015 - 10:58:00: "mp_respawnwavetime" = "10.0"
+L 01/10/2015 - 10:58:00: "nextlevel" = ""
+L 01/10/2015 - 10:58:00: "sv_stopspeed" = "80"
+L 01/10/2015 - 10:58:00: "sv_specaccelerate" = "5"
+L 01/10/2015 - 10:58:00: "deathmatch" = "1"
+L 01/10/2015 - 10:58:00: "tv_enable" = "0"
+L 01/10/2015 - 10:58:00: "mp_falldamage" = "0"
+L 01/10/2015 - 10:58:00: "mp_teammates_are_enemies" = "0"
+L 01/10/2015 - 10:58:00: "mp_roundtime_hostage" = "2"
+L 01/10/2015 - 10:58:00: "mp_freezetime" = "15"
+L 01/10/2015 - 10:58:00: "sv_accelerate_use_weapon_speed" = "1"
+L 01/10/2015 - 10:58:00: "sv_voiceenable" = "1"
+L 01/10/2015 - 10:58:00: "sv_bounce" = "0"
+L 01/10/2015 - 10:58:00: "mp_disable_respawn_times" = "0"
+L 01/10/2015 - 10:58:00: "r_AirboatViewDampenFreq" = "7.0"
+L 01/10/2015 - 10:58:00: "mp_weaponstay" = "0"
+L 01/10/2015 - 10:58:00: "mp_hostagepenalty" = "10"
+L 01/10/2015 - 10:58:00: "tv_advertise_watchable" = "0"
+L 01/10/2015 - 10:58:00: "mp_friendlyfire" = "1"
+L 01/10/2015 - 10:58:00: "sv_noclipspeed" = "5"
+L 01/10/2015 - 10:58:00: "cash_team_hostage_interaction" = "600"
+L 01/10/2015 - 10:58:00: "sv_allchat" = "1"
+L 01/10/2015 - 10:58:00: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 01/10/2015 - 10:58:00: "mp_buy_during_immunity" = "0"
+L 01/10/2015 - 10:58:00: "cash_player_killed_enemy_factor" = "1"
+L 01/10/2015 - 10:58:00: "r_JeepViewDampenDamp" = "1.0"
+L 01/10/2015 - 10:58:00: "mp_c4timer" = "35"
+L 01/10/2015 - 10:58:00: "r_AirboatViewDampenDamp" = "1.0"
+L 01/10/2015 - 10:58:00: "sv_competitive_minspec" = "1"
+L 01/10/2015 - 10:58:00: "sv_max_allowed_net_graph" = "1"
+L 01/10/2015 - 10:58:00: "mp_stalemate_at_timelimit" = "0"
+L 01/10/2015 - 10:58:00: "sv_footsteps" = "1"
+L 01/10/2015 - 10:58:00: "mp_limitteams" = "0"
+L 01/10/2015 - 10:58:00: "sv_vote_issue_kick_allowed" = "1"
+L 01/10/2015 - 10:58:00: "tv_relaypassword" = ""
+L 01/10/2015 - 10:58:00: "mp_teamplay" = "0"
+L 01/10/2015 - 10:58:00: "cash_team_terrorist_win_bomb" = "3500"
+L 01/10/2015 - 10:58:00: "cash_team_elimination_hostage_map_t" = "3000"
+L 01/10/2015 - 10:58:00: "r_JeepViewDampenFreq" = "7.0"
+L 01/10/2015 - 10:58:00: "sv_specnoclip" = "1"
+L 01/10/2015 - 10:58:00: "sv_friction" = "5.2"
+L 01/10/2015 - 10:58:00: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 01/10/2015 - 10:58:00: "cash_player_bomb_planted" = "300"
+L 01/10/2015 - 10:58:00: "mp_autoteambalance" = "0"
+L 01/10/2015 - 10:58:00: "sv_contact" = "0"
+L 01/10/2015 - 10:58:00: "sv_vote_kick_ban_duration" = "15"
+L 01/10/2015 - 10:58:00: "cash_player_bomb_defused" = "300"
+L 01/10/2015 - 10:58:00: "mp_roundtime" = "1.75"
+L 01/10/2015 - 10:58:00: "sv_kick_ban_duration" = "0"
+L 01/10/2015 - 10:58:00: "cash_team_planted_bomb_but_defused" = "800"
+L 01/10/2015 - 10:58:00: "cash_player_killed_hostage" = "-1000"
+L 01/10/2015 - 10:58:00: "sv_vote_issue_loadbackup_allowed" = "1"
+L 01/10/2015 - 10:58:00: "mp_fraglimit" = "0"
+L 01/10/2015 - 10:58:00: "mp_forcerespawn" = "1"
+L 01/10/2015 - 10:58:00: "decalfrequency" = "10"
+L 01/10/2015 - 10:58:00: "mp_winlimit" = "0"
+L 01/10/2015 - 10:58:00: "sv_accelerate" = "5.5"
+L 01/10/2015 - 10:58:00: "mp_buy_anywhere" = "0"
+L 01/10/2015 - 10:58:00: "sv_gravity" = "800"
+L 01/10/2015 - 10:58:00: "sv_password" = "***PROTECTED***"
+L 01/10/2015 - 10:58:00: "cash_team_elimination_hostage_map_ct" = "3000"
+L 01/10/2015 - 10:58:00: "cash_team_win_by_hostage_rescue" = "2900"
+L 01/10/2015 - 10:58:00: "r_JeepViewZHeight" = "10.0"
+L 01/10/2015 - 10:58:00: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 01/10/2015 - 10:58:00: "cash_player_damage_hostage" = "-30"
+L 01/10/2015 - 10:58:00: "cash_team_hostage_alive" = "0"
+L 01/10/2015 - 10:58:00: "tv_password" = ""
+L 01/10/2015 - 10:58:00: "sv_specspeed" = "3"
+L 01/10/2015 - 10:58:00: server cvars end
+L 01/10/2015 - 10:58:02: Started map "workshop/163589843/de_cache" (CRC "-1948249824")
+L 01/10/2015 - 10:58:02: server_cvar: "cash_player_interact_with_hostage" "150"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_player_killed_teammate" "-300"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_hostage_interaction" "500"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_rescued_hostage" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_freezetime" "6"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_maxrounds" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime" "5"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime_defuse" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime_hostage" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_timelimit" "5"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_friendlyfire" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_limitteams" "2"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_player_interact_with_hostage" "300"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_hostage_interaction" "600"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_rescued_hostage" "600"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime_hostage" "2"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_timelimit" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "cash_player_killed_teammate" "-3300"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_freezetime" "15"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_friendlyfire" "1"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_limitteams" "0"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_maxrounds" "30"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime" "1.75"
+L 01/10/2015 - 10:58:02: server_cvar: "mp_roundtime_defuse" "1.75"
+L 01/10/2015 - 10:58:02: "Console<0><Console><Console>" say ""LL Config v0.2""
+L 01/10/2015 - 10:58:02: "Console<0><Console><Console>" say ""Good luck, have fun, and remember to record your personal demos""
+L 01/10/2015 - 10:59:47: "Lawly<2><STEAM_1:1:46857293><>" connected, address ""
+L 01/10/2015 - 10:59:47: World triggered "Round_Start"
+L 01/10/2015 - 10:59:47: "Lawly<2><STEAM_1:1:46857293><>" STEAM USERID validated
+L 01/10/2015 - 10:59:55: "Lawly<2><STEAM_1:1:46857293><>" entered the game
+L 01/10/2015 - 10:59:56: "Lawly<2><STEAM_1:1:46857293><Unassigned>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:00:00: "Lawly<2><STEAM_1:1:46857293>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:00:00: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:00:00: World triggered "Game_Commencing"
+L 01/10/2015 - 11:00:03: World triggered "Round_Start"
+L 01/10/2015 - 11:00:04: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:00:04: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:00:04: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "flashbang"
+L 01/10/2015 - 11:00:04: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "smokegrenade"
+L 01/10/2015 - 11:00:05: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "flashbang"
+L 01/10/2015 - 11:00:05: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "hegrenade"
+L 01/10/2015 - 11:00:10: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><>" connected, address ""
+L 01/10/2015 - 11:00:11: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><>" STEAM USERID validated
+L 01/10/2015 - 11:00:23: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><>" entered the game
+L 01/10/2015 - 11:00:25: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><Unassigned>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:04: "t1lt@LAN<4><STEAM_1:0:65344870><>" connected, address ""
+L 01/10/2015 - 11:01:04: "t1lt@LAN<4><STEAM_1:0:65344870><>" STEAM USERID validated
+L 01/10/2015 - 11:01:05: "demo25<5><STEAM_1:0:17919002><>" connected, address ""
+L 01/10/2015 - 11:01:05: "demo25<5><STEAM_1:0:17919002><>" STEAM USERID validated
+L 01/10/2015 - 11:01:09: "demo25<5><STEAM_1:0:17919002><>" entered the game
+L 01/10/2015 - 11:01:10: "demo25<5><STEAM_1:0:17919002><Unassigned>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:11: "yellowtape #lanerino<6><STEAM_1:1:26331892><>" connected, address ""
+L 01/10/2015 - 11:01:12: "yellowtape #lanerino<6><STEAM_1:1:26331892><>" STEAM USERID validated
+L 01/10/2015 - 11:01:14: "demo25<5><STEAM_1:0:17919002>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:01:14: "demo25<5><STEAM_1:0:17919002><CT>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:15: "xenomorph^<7><STEAM_1:0:10583141><>" connected, address ""
+L 01/10/2015 - 11:01:16: "xenomorph^<7><STEAM_1:0:10583141><>" STEAM USERID validated
+L 01/10/2015 - 11:01:16: "demo25<5><STEAM_1:0:17919002>" switched from team <CT> to <TERRORIST>
+L 01/10/2015 - 11:01:16: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-1498 520 -95] committed suicide with "world"
+L 01/10/2015 - 11:01:16: "Jeff<8><BOT><>" connected, address ""
+L 01/10/2015 - 11:01:16: "Jeff<8><BOT>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:01:16: "Jeff<8><BOT><>" entered the game
+L 01/10/2015 - 11:01:17: "demo25<5><STEAM_1:0:17919002><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:17: "Jeff<8><BOT><CT>" purchased "aug"
+L 01/10/2015 - 11:01:17: "Jeff<8><BOT><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:01:22: "xenomorph^<7><STEAM_1:0:10583141><>" entered the game
+L 01/10/2015 - 11:01:24: "xenomorph^<7><STEAM_1:0:10583141><Unassigned>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:25: "yellowtape #lanerino<6><STEAM_1:1:26331892><>" entered the game
+L 01/10/2015 - 11:01:26: "xenomorph^<7><STEAM_1:0:10583141>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:01:26: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:27: "yellowtape #lanerino<6><STEAM_1:1:26331892><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:01:29: "xenomorph^<7><STEAM_1:0:10583141>" switched from team <TERRORIST> to <CT>
+L 01/10/2015 - 11:01:29: "xenomorph^<7><STEAM_1:0:10583141><CT>" [2815 48 -95] committed suicide with "world"
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><>" connected, address ""
+L 01/10/2015 - 11:01:29: "Dave<9><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><>" entered the game
+L 01/10/2015 - 11:01:29: "xenomorph^<7><STEAM_1:0:10583141><CT>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><TERRORIST>" purchased "p250"
+L 01/10/2015 - 11:01:29: "Dave<9><BOT><TERRORIST>" purchased "hegrenade"
+L 01/10/2015 - 11:01:29: "nefff :^) #lanneroni<3><STEAM_1:1:95435649>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:01:29: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:30: "xenomorph^<7><STEAM_1:0:10583141><CT>" purchased "ak47"
+L 01/10/2015 - 11:01:30: "xenomorph^<7><STEAM_1:0:10583141><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:01:30: "yellowtape #lanerino<6><STEAM_1:1:26331892>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:01:30: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:01:35: "plumB<10><STEAM_1:1:10308681><>" connected, address ""
+L 01/10/2015 - 11:01:35: "plumB<10><STEAM_1:1:10308681><>" STEAM USERID validated
+L 01/10/2015 - 11:01:37: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "awp"
+L 01/10/2015 - 11:01:37: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [1007 282 -158] attacked "xenomorph^<7><STEAM_1:0:10583141><CT>" [-179 27 -74] with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100") (hitgroup "right leg")
+L 01/10/2015 - 11:01:37: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:01:38: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "smokegrenade"
+L 01/10/2015 - 11:01:38: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "hegrenade"
+L 01/10/2015 - 11:01:38: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "flashbang"
+L 01/10/2015 - 11:01:38: "rub_b3r_ducky<11><STEAM_1:1:30414055><>" connected, address ""
+L 01/10/2015 - 11:01:39: "rub_b3r_ducky<11><STEAM_1:1:30414055><>" STEAM USERID validated
+L 01/10/2015 - 11:01:40: "xenomorph^<7><STEAM_1:0:10583141><CT>" [4 31 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [861 277 -158] with "m4a1" (damage "87") (damage_armor "18") (health "13") (armor "81") (hitgroup "head")
+L 01/10/2015 - 11:01:40: "xenomorph^<7><STEAM_1:0:10583141><CT>" [4 31 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [861 277 -158] with "m4a1" (damage "87") (damage_armor "18") (health "0") (armor "62") (hitgroup "head")
+L 01/10/2015 - 11:01:40: "xenomorph^<7><STEAM_1:0:10583141><CT>" [4 31 -159] killed "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [861 277 -112] with "m4a1" (headshot)
+L 01/10/2015 - 11:01:44: "xenomorph^<7><STEAM_1:0:10583141><CT>" [372 130 -159] attacked "Dave<9><BOT><TERRORIST>" [848 325 -158] with "m4a1" (damage "89") (damage_armor "19") (health "11") (armor "80") (hitgroup "head")
+L 01/10/2015 - 11:01:44: "xenomorph^<7><STEAM_1:0:10583141><CT>" [372 130 -159] attacked "Dave<9><BOT><TERRORIST>" [848 325 -158] with "m4a1" (damage "89") (damage_armor "19") (health "0") (armor "60") (hitgroup "head")
+L 01/10/2015 - 11:01:44: "xenomorph^<7><STEAM_1:0:10583141><CT>" [372 130 -159] killed "Dave<9><BOT><TERRORIST>" [848 325 -94] with "m4a1" (headshot)
+L 01/10/2015 - 11:01:44: "demo25<5><STEAM_1:0:17919002><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:01:44: "demo25<5><STEAM_1:0:17919002><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:01:46: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [980 222 -158] attacked "xenomorph^<7><STEAM_1:0:10583141><CT>" [756 244 -159] with "glock" (damage "12") (damage_armor "7") (health "63") (armor "92") (hitgroup "chest")
+L 01/10/2015 - 11:01:46: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [972 232 -158] attacked "xenomorph^<7><STEAM_1:0:10583141><CT>" [764 246 -159] with "glock" (damage "50") (damage_armor "28") (health "13") (armor "63") (hitgroup "head")
+L 01/10/2015 - 11:01:46: "xenomorph^<7><STEAM_1:0:10583141><CT>" [781 270 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [926 284 -158] with "m4a1" (damage "40") (damage_armor "0") (health "60") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:01:46: "xenomorph^<7><STEAM_1:0:10583141><CT>" [782 274 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [915 293 -158] with "m4a1" (damage "40") (damage_armor "0") (health "20") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:01:47: "xenomorph^<7><STEAM_1:0:10583141><CT>" [782 274 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [912 295 -158] with "m4a1" (damage "32") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:01:47: "xenomorph^<7><STEAM_1:0:10583141><CT>" [782 274 -159] killed "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [912 295 -94] with "m4a1"
+L 01/10/2015 - 11:01:51: "xenomorph^<7><STEAM_1:0:10583141><CT>" [1156 58 -158] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [1836 218 -159] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "right arm")
+L 01/10/2015 - 11:01:51: "xenomorph^<7><STEAM_1:0:10583141><CT>" [1156 58 -158] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [1836 218 -159] with "m4a1" (damage "88") (damage_armor "18") (health "0") (armor "76") (hitgroup "head")
+L 01/10/2015 - 11:01:51: "xenomorph^<7><STEAM_1:0:10583141><CT>" [1156 58 -158] killed "demo25<5><STEAM_1:0:17919002><TERRORIST>" [1836 218 -95] with "m4a1" (headshot)
+L 01/10/2015 - 11:01:58: "xenomorph^<7><STEAM_1:0:10583141>" switched from team <CT> to <TERRORIST>
+L 01/10/2015 - 11:01:58: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [1600 29 -94] committed suicide with "world"
+L 01/10/2015 - 11:01:58: "Dan<12><BOT><>" connected, address ""
+L 01/10/2015 - 11:01:58: "Dan<12><BOT>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:01:58: "Dan<12><BOT><>" entered the game
+L 01/10/2015 - 11:01:58: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:01:58: "Dan<12><BOT><CT>" purchased "aug"
+L 01/10/2015 - 11:01:58: "Dan<12><BOT><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:02:00: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:02:00: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:02:01: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [2801 115 -159] attacked "Jeff<8><BOT><CT>" [2559 42 -159] with "ak47" (damage "34") (damage_armor "5") (health "66") (armor "94") (hitgroup "stomach")
+L 01/10/2015 - 11:02:01: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [2801 111 -159] attacked "Jeff<8><BOT><CT>" [2559 42 -159] with "ak47" (damage "110") (damage_armor "16") (health "0") (armor "77") (hitgroup "head")
+L 01/10/2015 - 11:02:02: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [2801 111 -159] killed "Jeff<8><BOT><CT>" [2559 42 -95] with "ak47" (headshot)
+L 01/10/2015 - 11:02:03: "Amish Jew #LL<13><STEAM_1:1:22788791><>" connected, address ""
+L 01/10/2015 - 11:02:04: "Amish Jew #LL<13><STEAM_1:1:22788791><>" STEAM USERID validated
+L 01/10/2015 - 11:02:09: "plumB<10><STEAM_1:1:10308681><>" disconnected (reason "plumB timed out")
+L 01/10/2015 - 11:02:11: "Amish Jew #LL<13><STEAM_1:1:22788791><>" entered the game
+L 01/10/2015 - 11:02:12: "rub_b3r_ducky<11><STEAM_1:1:30414055><>" entered the game
+L 01/10/2015 - 11:02:12: "Amish Jew #LL<13><STEAM_1:1:22788791><Unassigned>" triggered "clantag" (value "AmishJews")
+L 01/10/2015 - 11:02:16: "t1lt@LAN<4><STEAM_1:0:65344870><>" entered the game
+L 01/10/2015 - 11:02:16: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [1167 43 -158] attacked "Dan<12><BOT><CT>" [1034 114 -158] with "ak47" (damage "110") (damage_armor "16") (health "0") (armor "83") (hitgroup "head")
+L 01/10/2015 - 11:02:16: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [1167 43 -158] killed "Dan<12><BOT><CT>" [1034 114 -94] with "ak47" (headshot)
+L 01/10/2015 - 11:02:17: "rub_b3r_ducky<11><STEAM_1:1:30414055><Unassigned>" triggered "clantag" (value "-H4B-")
+L 01/10/2015 - 11:02:17: "Amish Jew #LL<13><STEAM_1:1:22788791>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:02:17: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" triggered "clantag" (value "AmishJews")
+L 01/10/2015 - 11:02:19: "t1lt@LAN<4><STEAM_1:0:65344870><Unassigned>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:02:22: "t1lt@LAN<4><STEAM_1:0:65344870>" switched from team <Unassigned> to <TERRORIST>
+L 01/10/2015 - 11:02:22: "Dave<9><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 01/10/2015 - 11:02:22: "Dave<9><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 01/10/2015 - 11:02:22: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" triggered "clantag" (value "rekttt")
+L 01/10/2015 - 11:02:24: "rub_b3r_ducky<11><STEAM_1:1:30414055>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:02:24: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" triggered "clantag" (value "-H4B-")
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "awp"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "deagle"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "vest"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "vesthelm"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "defuser"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "decoy"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "flashbang"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "flashbang"
+L 01/10/2015 - 11:02:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" purchased "hegrenade"
+L 01/10/2015 - 11:02:27: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-455 166 -109] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1387 333 -159] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 01/10/2015 - 11:02:28: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-456 163 -109] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1344 311 -159] with "ak47" (damage "107") (damage_armor "15") (health "0") (armor "80") (hitgroup "head")
+L 01/10/2015 - 11:02:28: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-456 163 -109] killed "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1344 311 -95] with "ak47" (headshot)
+L 01/10/2015 - 11:02:28: "Snizzy<14><STEAM_1:1:39423136><>" connected, address ""
+L 01/10/2015 - 11:02:29: "Snizzy<14><STEAM_1:1:39423136><>" STEAM USERID validated
+L 01/10/2015 - 11:02:29: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:02:29: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" purchased "assaultsuit"
+L 01/10/2015 - 11:02:30: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1543 303 -159] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-783 121 -93] with "hkp2000" (damage "22") (damage_armor "0") (health "76") (armor "100") (hitgroup "left leg")
+L 01/10/2015 - 11:02:31: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-786 100 -93] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1543 305 -159] with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:02:31: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-786 100 -93] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1531 346 -159] with "ak47" (damage "34") (damage_armor "0") (health "23") (armor "0") (hitgroup "right arm")
+L 01/10/2015 - 11:02:31: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1531 347 -159] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-787 98 -93] with "hkp2000" (damage "19") (damage_armor "9") (health "57") (armor "90") (hitgroup "stomach")
+L 01/10/2015 - 11:02:32: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1529 354 -159] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-792 85 -93] with "hkp2000" (damage "19") (damage_armor "9") (health "38") (armor "80") (hitgroup "stomach")
+L 01/10/2015 - 11:02:34: "Snizzy<14><STEAM_1:1:39423136><>" entered the game
+L 01/10/2015 - 11:02:35: "Snizzy<14><STEAM_1:1:39423136><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:02:35: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1485 465 -159] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-857 19 -158] with "hkp2000" (damage "15") (damage_armor "7") (health "23") (armor "72") (hitgroup "chest")
+L 01/10/2015 - 11:02:35: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-858 18 -158] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1483 468 -159] with "ak47" (damage "43") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:02:35: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-858 18 -158] killed "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-1483 468 -95] with "ak47"
+L 01/10/2015 - 11:02:35: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [1386 235 -158] attacked "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [1837 252 -159] with "awp" (damage "111") (damage_armor "1") (health "0") (armor "98") (hitgroup "right arm")
+L 01/10/2015 - 11:02:35: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [1386 235 -158] killed "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [1837 252 -95] with "awp"
+L 01/10/2015 - 11:02:41: "Snizzy<14><STEAM_1:1:39423136>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:02:41: "Jeff<8><BOT><CT>" disconnected (reason "Kicked by Console")
+L 01/10/2015 - 11:02:41: "Jeff<8><BOT>" switched from team <CT> to <Unassigned>
+L 01/10/2015 - 11:02:41: "Snizzy<14><STEAM_1:1:39423136><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:02:43: "Snizzy<14><STEAM_1:1:39423136><CT>" purchased "m4a1"
+L 01/10/2015 - 11:02:47: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-971 275 -158] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1133 179 -117] with "ak47" (damage "44") (damage_armor "0") (health "56") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:02:47: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-970 258 -158] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1109 170 -106] with "ak47" (damage "44") (damage_armor "0") (health "12") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:02:48: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-973 256 -158] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1085 162 -103] with "ak47" (damage "44") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:02:48: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-973 256 -158] killed "Snizzy<14><STEAM_1:1:39423136><CT>" [-1085 162 -39] with "ak47"
+L 01/10/2015 - 11:03:22: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-305 -60 -110] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-58 469 -61] with "awp" (damage "443") (damage_armor "5") (health "0") (armor "66") (hitgroup "head")
+L 01/10/2015 - 11:03:22: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-305 -60 -110] killed "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-58 469 3] with "awp" (headshot)
+L 01/10/2015 - 11:03:22: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" assisted killing "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>"
+L 01/10/2015 - 11:03:44: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "I guess I win"
+L 01/10/2015 - 11:03:56: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" say "lol"
+L 01/10/2015 - 11:04:51: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" triggered "Got_The_Bomb"
+L 01/10/2015 - 11:04:51: "Dan<12><BOT><CT>" disconnected (reason "Kicked by Console")
+L 01/10/2015 - 11:04:51: "Dan<12><BOT>" switched from team <CT> to <Unassigned>
+L 01/10/2015 - 11:04:54: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "vest"
+L 01/10/2015 - 11:04:57: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "tec9"
+L 01/10/2015 - 11:05:01: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "vest"
+L 01/10/2015 - 11:05:01: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" say "live?"
+L 01/10/2015 - 11:05:02: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" purchased "hegrenade"
+L 01/10/2015 - 11:05:04: "Snizzy<14><STEAM_1:1:39423136><CT>" say "no"
+L 01/10/2015 - 11:05:05: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "no"
+L 01/10/2015 - 11:05:06: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" say "lol"
+L 01/10/2015 - 11:05:06: World triggered "Round_Start"
+L 01/10/2015 - 11:05:08: "Snizzy<14><STEAM_1:1:39423136><CT>" say ";)"
+L 01/10/2015 - 11:05:10: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2015 - 11:05:10: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" triggered "Got_The_Bomb"
+L 01/10/2015 - 11:05:12: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" say "got scared"
+L 01/10/2015 - 11:05:13: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "if we win then yes :p"
+L 01/10/2015 - 11:05:17: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-399 8 -109] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [833 246 -158] with "hkp2000" (damage "27") (damage_armor "0") (health "73") (armor "0") (hitgroup "left arm")
+L 01/10/2015 - 11:05:18: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [767 258 -159] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-400 16 -109] with "glock" (damage "10") (damage_armor "5") (health "90") (armor "94") (hitgroup "right arm")
+L 01/10/2015 - 11:05:18: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-400 16 -109] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [835 237 -158] with "hkp2000" (damage "110") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:05:18: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-400 16 -109] killed "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [835 237 -94] with "usp_silencer" (headshot)
+L 01/10/2015 - 11:05:19: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 40 -109] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [755 282 -159] with "hkp2000" (damage "14") (damage_armor "6") (health "86") (armor "93") (hitgroup "left arm")
+L 01/10/2015 - 11:05:20: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [765 190 -159] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 40 -109] with "glock" (damage "10") (damage_armor "5") (health "80") (armor "88") (hitgroup "chest")
+L 01/10/2015 - 11:05:20: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 44 -109] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [767 177 -159] with "hkp2000" (damage "14") (damage_armor "6") (health "72") (armor "86") (hitgroup "right arm")
+L 01/10/2015 - 11:05:20: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [768 165 -159] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 44 -109] with "glock" (damage "10") (damage_armor "5") (health "70") (armor "82") (hitgroup "chest")
+L 01/10/2015 - 11:05:20: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 44 -109] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [769 154 -159] with "hkp2000" (damage "14") (damage_armor "6") (health "58") (armor "79") (hitgroup "right arm")
+L 01/10/2015 - 11:05:22: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [927 294 -158] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 45 -109] with "glock" (damage "84") (damage_armor "0") (health "0") (armor "82") (hitgroup "head")
+L 01/10/2015 - 11:05:22: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [927 294 -158] killed "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-405 45 -45] with "glock" (headshot)
+L 01/10/2015 - 11:05:22: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" threw hegrenade [329 330 -158]
+L 01/10/2015 - 11:05:24: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [651 -35 -114] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-110 495 -97] with "glock" (damage "23") (damage_armor "0") (health "77") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:05:25: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-401 35 -109] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [832 253 -158] with "hkp2000" (damage "27") (damage_armor "0") (health "73") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:05:26: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-401 35 -109] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [861 242 -158] with "hkp2000" (damage "27") (damage_armor "0") (health "46") (armor "0") (hitgroup "left arm")
+L 01/10/2015 - 11:05:27: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-402 42 -109] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [872 234 -158] with "hkp2000" (damage "27") (damage_armor "0") (health "19") (armor "0") (hitgroup "left arm")
+L 01/10/2015 - 11:05:27: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [873 230 -158] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-402 42 -109] with "glock" (damage "26") (damage_armor "0") (health "74") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:05:27: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [876 208 -158] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-402 45 -109] with "glock" (damage "21") (damage_armor "0") (health "53") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:05:27: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [714 -112 -133] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-77 532 -94] with "glock" (damage "22") (damage_armor "0") (health "55") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:05:28: "Snizzy<14><STEAM_1:1:39423136><CT>" [-81 527 -94] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [716 -109 -135] with "hkp2000" (damage "18") (damage_armor "8") (health "40") (armor "70") (hitgroup "stomach")
+L 01/10/2015 - 11:05:28: "Snizzy<14><STEAM_1:1:39423136><CT>" [-82 527 -94] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [727 -96 -140] with "hkp2000" (damage "14") (damage_armor "7") (health "26") (armor "62") (hitgroup "chest")
+L 01/10/2015 - 11:05:29: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-305 534 -146] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [724 -99 -140] with "hkp2000" (damage "111") (damage_armor "0") (health "0") (armor "62") (hitgroup "head")
+L 01/10/2015 - 11:05:29: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2015 - 11:05:29: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-305 534 -146] killed "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [724 -99 -94] with "usp_silencer" (headshot)
+L 01/10/2015 - 11:05:29: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" assisted killing "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>"
+L 01/10/2015 - 11:05:29: "plumB<15><STEAM_1:1:10308681><>" connected, address ""
+L 01/10/2015 - 11:05:30: "plumB<15><STEAM_1:1:10308681><>" STEAM USERID validated
+L 01/10/2015 - 11:05:35: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [49 1351 -85] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-365 1354 -86] with "glock" (damage "102") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:05:35: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [49 1351 -85] killed "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-365 1354 -22] with "glock" (headshot)
+L 01/10/2015 - 11:05:37: "Snizzy<14><STEAM_1:1:39423136><CT>" [-334 829 -101] attacked "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-39 1365 -86] with "hkp2000" (damage "125") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:05:37: "Snizzy<14><STEAM_1:1:39423136><CT>" [-334 829 -101] killed "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-39 1365 -22] with "usp_silencer" (headshot)
+L 01/10/2015 - 11:05:39: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" say "ns"
+L 01/10/2015 - 11:05:42: "plumB<15><STEAM_1:1:10308681><>" entered the game
+L 01/10/2015 - 11:05:45: "demo25<5><STEAM_1:0:17919002><TERRORIST>" triggered "Got_The_Bomb"
+L 01/10/2015 - 11:05:45: "plumB<15><STEAM_1:1:10308681><Unassigned>" triggered "clantag" (value "")
+L 01/10/2015 - 11:05:57: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [490 -76 10] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [618 421 -159] with "tec9" (damage "108") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:05:57: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [490 -76 10] killed "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [618 421 -95] with "tec9" (headshot)
+L 01/10/2015 - 11:06:14: "plumB<15><STEAM_1:1:10308681>" switched from team <Unassigned> to <CT>
+L 01/10/2015 - 11:06:15: "plumB<15><STEAM_1:1:10308681><CT>" triggered "clantag" (value "")
+L 01/10/2015 - 11:06:16: "plumB<15><STEAM_1:1:10308681><CT>" say "hi"
+L 01/10/2015 - 11:06:21: "plumB<15><STEAM_1:1:10308681><CT>" say "sorry bout that"
+L 01/10/2015 - 11:06:23: "demo25<5><STEAM_1:0:17919002><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/10/2015 - 11:06:46: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-676 -830 -158] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [158 -1179 -113] with "tec9" (damage "23") (damage_armor "0") (health "32") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:06:48: "Snizzy<14><STEAM_1:1:39423136><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 01/10/2015 - 11:06:49: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-494 -955 -158] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [203 -1119 -113] with "tec9" (damage "31") (damage_armor "0") (health "1") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:06:50: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [26 -1060 -113] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [185 -1158 -113] with "glock" (damage "26") (damage_armor "0") (health "0") (armor "0") (hitgroup "right arm")
+L 01/10/2015 - 11:06:50: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [26 -1060 -113] killed "Snizzy<14><STEAM_1:1:39423136><CT>" [185 -1158 -49] with "glock"
+L 01/10/2015 - 11:06:50: "demo25<5><STEAM_1:0:17919002><TERRORIST>" assisted killing "Snizzy<14><STEAM_1:1:39423136><CT>"
+L 01/10/2015 - 11:06:50: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "1")
+L 01/10/2015 - 11:06:50: Team "CT" scored "0" with "5" players
+L 01/10/2015 - 11:06:50: Team "TERRORIST" scored "1" with "5" players
+L 01/10/2015 - 11:06:50: World triggered "Round_End"
+L 01/10/2015 - 11:06:52: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" say "lol plumb, first game we play"
+L 01/10/2015 - 11:06:55: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" say "unreal"
+L 01/10/2015 - 11:07:00: "demo25<5><STEAM_1:0:17919002><TERRORIST>" triggered "Got_The_Bomb"
+L 01/10/2015 - 11:07:02: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:07:03: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "galilar"
+L 01/10/2015 - 11:07:05: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" say "are we actually playing?"
+L 01/10/2015 - 11:07:06: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "admin?"
+L 01/10/2015 - 11:07:06: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" purchased "assaultsuit"
+L 01/10/2015 - 11:07:08: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:07:10: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" say "are we live?"
+L 01/10/2015 - 11:07:13: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" say "RESTART"
+L 01/10/2015 - 11:07:15: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" purchased "p250"
+L 01/10/2015 - 11:07:15: World triggered "Round_Start"
+L 01/10/2015 - 11:07:15: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "^"
+L 01/10/2015 - 11:07:15: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" say "yeah"
+L 01/10/2015 - 11:07:16: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" purchased "hegrenade"
+L 01/10/2015 - 11:07:18: "Snizzy<14><STEAM_1:1:39423136><CT>" say "it is but we need a restart"
+L 01/10/2015 - 11:07:22: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" say "no killing xD"
+L 01/10/2015 - 11:07:25: "Snizzy<14><STEAM_1:1:39423136><CT>" say "I'll go up there"
+L 01/10/2015 - 11:07:34: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" say "one of the team leaders should ask for a restart"
+L 01/10/2015 - 11:07:35: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [497 -96 13] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-401 22 -109] with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "right arm")
+L 01/10/2015 - 11:07:38: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-142 1360 -86] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-149 303 -159] with "galilar" (damage "35") (damage_armor "0") (health "31") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:39: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [169 -10 1] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-180 178 -159] with "ak47" (damage "44") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:39: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [169 -10 1] killed "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [-180 178 -95] with "ak47"
+L 01/10/2015 - 11:07:40: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" say "now everyones here"
+L 01/10/2015 - 11:07:42: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-846 1088 -28] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-670 1208 -85] with "hkp2000" (damage "16") (damage_armor "8") (health "84") (armor "91") (hitgroup "right arm")
+L 01/10/2015 - 11:07:43: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-677 1206 -85] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-880 1156 -85] with "galilar" (damage "29") (damage_armor "0") (health "71") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:43: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-676 1205 -85] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-882 1162 -85] with "galilar" (damage "29") (damage_armor "0") (health "42") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:43: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-676 1202 -85] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-882 1158 -85] with "galilar" (damage "29") (damage_armor "0") (health "13") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:43: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-677 1207 -85] attacked "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-898 1146 -85] with "galilar" (damage "29") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:43: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-677 1207 -85] killed "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-898 1146 -21] with "galilar"
+L 01/10/2015 - 11:07:44: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-551 153 -109] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1223 235 -159] with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:44: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-552 153 -109] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1223 235 -159] with "ak47" (damage "43") (damage_armor "0") (health "14") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:44: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-552 153 -109] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1223 235 -159] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:07:44: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-552 153 -109] killed "Snizzy<14><STEAM_1:1:39423136><CT>" [-1223 235 -95] with "ak47" (headshot)
+L 01/10/2015 - 11:07:46: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-552 153 -109] attacked "plumB<15><STEAM_1:1:10308681><CT>" [-1690 217 -159] with "ak47" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:07:46: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-552 153 -109] killed "plumB<15><STEAM_1:1:10308681><CT>" [-1690 217 -95] with "ak47" (headshot)
+L 01/10/2015 - 11:07:48: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [417 1591 -85] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-685 1405 -85] with "glock" (damage "22") (damage_armor "0") (health "78") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:48: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [417 1587 -85] attacked "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-766 1394 -85] with "glock" (damage "87") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:07:48: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [417 1587 -85] killed "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" [-766 1394 -21] with "glock" (headshot)
+L 01/10/2015 - 11:07:48: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "2")
+L 01/10/2015 - 11:07:48: Team "CT" scored "0" with "5" players
+L 01/10/2015 - 11:07:48: Team "TERRORIST" scored "2" with "5" players
+L 01/10/2015 - 11:07:48: World triggered "Round_End"
+L 01/10/2015 - 11:07:52: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-385 152 -109] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1303 208 -159] with "hkp2000" (damage "4") (damage_armor "2") (health "80") (armor "88") (hitgroup "chest")
+L 01/10/2015 - 11:07:53: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] attacked "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1186 214 -159] with "hkp2000" (damage "5") (damage_armor "2") (health "75") (armor "85") (hitgroup "chest")
+L 01/10/2015 - 11:07:53: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1161 204 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "11") (damage_armor "0") (health "89") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:54: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1160 206 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "9") (damage_armor "0") (health "80") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:54: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1160 206 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "11") (damage_armor "0") (health "69") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:55: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1160 205 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "38") (damage_armor "0") (health "31") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:07:55: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1161 204 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "9") (damage_armor "0") (health "22") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:07:55: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [-1161 205 -159] attacked "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [-384 157 -109] with "galilar" (damage "11") (damage_armor "0") (health "11") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:56: "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-523 1343 -85] attacked "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-579 1304 -85] with "knife" (damage "22") (damage_armor "1") (health "78") (armor "98") (hitgroup "generic")
+L 01/10/2015 - 11:07:57: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-646 1356 -85] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-736 1202 -31] with "ak47" (damage "14") (damage_armor "0") (health "86") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:58: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-646 1356 -85] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-759 1203 -41] with "ak47" (damage "14") (damage_armor "0") (health "72") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:58: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [-646 1356 -85] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [-782 1204 -59] with "ak47" (damage "14") (damage_armor "0") (health "58") (armor "0") (hitgroup "stomach")
+L 01/10/2015 - 11:07:59: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" triggered "Got_The_Bomb"
+L 01/10/2015 - 11:08:02: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "vesthelm"
+L 01/10/2015 - 11:08:02: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "awp"
+L 01/10/2015 - 11:08:03: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" purchased "ak47"
+L 01/10/2015 - 11:08:04: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "tec9"
+L 01/10/2015 - 11:08:04: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" purchased "awp"
+L 01/10/2015 - 11:08:05: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "flashbang"
+L 01/10/2015 - 11:08:05: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" purchased "smokegrenade"
+L 01/10/2015 - 11:08:09: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" purchased "incgrenade"
+L 01/10/2015 - 11:08:13: "rub_b3r_ducky<11><STEAM_1:1:30414055><CT>" purchased "fiveseven"
+L 01/10/2015 - 11:08:13: World triggered "Round_Start"
+L 01/10/2015 - 11:08:13: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2946 -47 -159] attacked "demo25<5><STEAM_1:0:17919002><TERRORIST>" [3026 -41 -159] with "awp" (damage "151") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:13: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2946 -47 -159] killed "demo25<5><STEAM_1:0:17919002><TERRORIST>" [3026 -41 -95] with "awp" (headshot)
+L 01/10/2015 - 11:08:15: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3074 53 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2978 -25 -159] with "ak47" (damage "11") (damage_armor "0") (health "89") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:15: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3080 50 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2981 -22 -159] with "ak47" (damage "11") (damage_armor "0") (health "78") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:15: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3080 50 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2984 -19 -159] with "ak47" (damage "47") (damage_armor "0") (health "31") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:15: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3079 51 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [2985 -20 -159] with "ak47" (damage "11") (damage_armor "0") (health "20") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:16: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3071 60 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [3022 -59 -159] with "ak47" (damage "11") (damage_armor "0") (health "9") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:16: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3084 65 -159] attacked "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [3000 -43 -159] with "ak47" (damage "11") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 01/10/2015 - 11:08:16: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [3084 65 -159] killed "nefff :^) #lanneroni<3><STEAM_1:1:95435649><TERRORIST>" [3000 -43 -113] with "ak47"
+L 01/10/2015 - 11:08:17: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1489 420 -159] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1478 503 -159] with "hkp2000" (damage "45") (damage_armor "0") (health "55") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:18: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1489 420 -159] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1478 503 -159] with "hkp2000" (damage "45") (damage_armor "0") (health "10") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:19: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1489 420 -159] attacked "Snizzy<14><STEAM_1:1:39423136><CT>" [-1478 503 -159] with "hkp2000" (damage "45") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:19: "Amish Jew #LL<13><STEAM_1:1:22788791><CT>" [-1489 420 -159] killed "Snizzy<14><STEAM_1:1:39423136><CT>" [-1478 503 -95] with "usp_silencer" (headshot)
+L 01/10/2015 - 11:08:20: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [2774 -114 -159] attacked "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [2092 167 -159] with "awp" (damage "145") (damage_armor "1") (health "0") (armor "96") (hitgroup "head")
+L 01/10/2015 - 11:08:20: "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2015 - 11:08:20: "xenomorph^<7><STEAM_1:0:10583141><TERRORIST>" [2774 -114 -159] killed "t1lt@LAN<4><STEAM_1:0:65344870><TERRORIST>" [2092 167 -95] with "awp" (headshot)
+L 01/10/2015 - 11:08:20: Molotov projectile spawned at -266.435516 28.962063 6.455274, velocity 959.525879 185.413940 195.598816
+L 01/10/2015 - 11:08:22: "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" threw molotov [640 266 -135]
+L 01/10/2015 - 11:08:23: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [1050 238 -158] attacked "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [366 166 -159] with "awp" (damage "453") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 01/10/2015 - 11:08:23: "Lawly<2><STEAM_1:1:46857293><TERRORIST>" [1050 238 -158] killed "yellowtape #lanerino<6><STEAM_1:1:26331892><CT>" [366 166 -95] with "awp" (headshot)
+L 01/10/2015 - 11:08:30: "Amish Jew #LL<13><STEAM_1:1:22788791><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "rub_b3r_ducky<11><STEAM_1:1:30414055><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "Snizzy<14><STEAM_1:1:39423136><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "plumB<15><STEAM_1:1:10308681><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "xenomorph^<7><STEAM_1:0:10583141><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "yellowtape #lanerino<6><STEAM_1:1:26331892><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "demo25<5><STEAM_1:0:17919002><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "t1lt@LAN<4><STEAM_1:0:65344870><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "nefff :^) #lanneroni<3><STEAM_1:1:95435649><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: "Lawly<2><STEAM_1:1:46857293><>" disconnected (reason "Server shutting down")
+L 01/10/2015 - 11:08:30: server_message: "quit"
+L 01/10/2015 - 11:08:30: Log file closed

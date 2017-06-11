@@ -1,0 +1,295 @@
+L 12/20/2014 - 17:01:04: Log file started (file "logfiles/L127_000_001_001_27015_201412201701_001.log") (game "/home/lladmin/STEAMCMD/Servers/csgo/csgo") (version "5858")
+L 12/20/2014 - 17:01:04: Loading map "workshop/125438255/de_dust2"
+L 12/20/2014 - 17:01:04: server cvars start
+L 12/20/2014 - 17:01:04: "cash_player_killed_teammate" = "-3300"
+L 12/20/2014 - 17:01:04: "sv_maxspeed" = "320"
+L 12/20/2014 - 17:01:04: "cash_player_respawn_amount" = "0"
+L 12/20/2014 - 17:01:04: "cash_team_rescued_hostage" = "600"
+L 12/20/2014 - 17:01:04: "cash_team_win_by_defusing_bomb" = "3500"
+L 12/20/2014 - 17:01:04: "sv_rollangle" = "0"
+L 12/20/2014 - 17:01:04: "r_AirboatViewZHeight" = "0.0"
+L 12/20/2014 - 17:01:04: "sv_cheats" = "0"
+L 12/20/2014 - 17:01:04: "r_VehicleViewDampen" = "1"
+L 12/20/2014 - 17:01:04: "mp_allowNPCs" = "1"
+L 12/20/2014 - 17:01:04: "mp_tournament" = "0"
+L 12/20/2014 - 17:01:04: "sv_spec_hear" = "1"
+L 12/20/2014 - 17:01:04: "cash_player_interact_with_hostage" = "300"
+L 12/20/2014 - 17:01:04: "mp_flashlight" = "0"
+L 12/20/2014 - 17:01:04: "mp_maxrounds" = "30"
+L 12/20/2014 - 17:01:04: "sv_tags" = ""
+L 12/20/2014 - 17:01:04: "sv_stepsize" = "18"
+L 12/20/2014 - 17:01:04: "mp_teamlist" = "hgrunt;scientist"
+L 12/20/2014 - 17:01:04: "sv_alltalk" = "0"
+L 12/20/2014 - 17:01:04: "mp_footsteps" = "1"
+L 12/20/2014 - 17:01:04: "sv_noclipaccelerate" = "5"
+L 12/20/2014 - 17:01:04: "sv_accelerate_debug_speed" = "0"
+L 12/20/2014 - 17:01:04: "sv_wateraccelerate" = "10"
+L 12/20/2014 - 17:01:04: "mp_autocrosshair" = "1"
+L 12/20/2014 - 17:01:04: "mp_stalemate_enable" = "0"
+L 12/20/2014 - 17:01:04: "cash_team_elimination_bomb_map" = "3250"
+L 12/20/2014 - 17:01:04: "cash_player_get_killed" = "0"
+L 12/20/2014 - 17:01:04: "mp_roundtime_defuse" = "1.75"
+L 12/20/2014 - 17:01:04: "sv_autobuyammo" = "1"
+L 12/20/2014 - 17:01:04: "sv_rollspeed" = "200"
+L 12/20/2014 - 17:01:04: "sv_airaccelerate" = "12"
+L 12/20/2014 - 17:01:04: "mp_teams_unbalance_limit" = "1"
+L 12/20/2014 - 17:01:04: "mp_timelimit" = "0"
+L 12/20/2014 - 17:01:04: "cash_team_loser_bonus" = "1400"
+L 12/20/2014 - 17:01:04: "sv_deadtalk" = "0"
+L 12/20/2014 - 17:01:04: "cash_player_rescued_hostage" = "1000"
+L 12/20/2014 - 17:01:04: "sv_waterfriction" = "1"
+L 12/20/2014 - 17:01:04: "sv_competitive_official_5v5" = "1"
+L 12/20/2014 - 17:01:04: "sv_steamgroup" = ""
+L 12/20/2014 - 17:01:04: "cash_player_killed_enemy_default" = "300"
+L 12/20/2014 - 17:01:04: "coop" = "0"
+L 12/20/2014 - 17:01:04: "mp_respawnwavetime" = "10.0"
+L 12/20/2014 - 17:01:04: "nextlevel" = ""
+L 12/20/2014 - 17:01:04: "sv_stopspeed" = "80"
+L 12/20/2014 - 17:01:04: "sv_specaccelerate" = "5"
+L 12/20/2014 - 17:01:04: "deathmatch" = "1"
+L 12/20/2014 - 17:01:04: "tv_enable" = "0"
+L 12/20/2014 - 17:01:04: "mp_falldamage" = "0"
+L 12/20/2014 - 17:01:04: "mp_teammates_are_enemies" = "0"
+L 12/20/2014 - 17:01:04: "mp_roundtime_hostage" = "2"
+L 12/20/2014 - 17:01:04: "mp_freezetime" = "15"
+L 12/20/2014 - 17:01:04: "sv_accelerate_use_weapon_speed" = "1"
+L 12/20/2014 - 17:01:04: "sv_voiceenable" = "1"
+L 12/20/2014 - 17:01:04: "sv_bounce" = "0"
+L 12/20/2014 - 17:01:04: "mp_disable_respawn_times" = "0"
+L 12/20/2014 - 17:01:04: "r_AirboatViewDampenFreq" = "7.0"
+L 12/20/2014 - 17:01:04: "mp_weaponstay" = "0"
+L 12/20/2014 - 17:01:04: "mp_hostagepenalty" = "10"
+L 12/20/2014 - 17:01:04: "tv_advertise_watchable" = "0"
+L 12/20/2014 - 17:01:04: "mp_friendlyfire" = "1"
+L 12/20/2014 - 17:01:04: "sv_noclipspeed" = "5"
+L 12/20/2014 - 17:01:04: "cash_team_hostage_interaction" = "600"
+L 12/20/2014 - 17:01:04: "sv_allchat" = "1"
+L 12/20/2014 - 17:01:04: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 12/20/2014 - 17:01:04: "mp_buy_during_immunity" = "0"
+L 12/20/2014 - 17:01:04: "cash_player_killed_enemy_factor" = "1"
+L 12/20/2014 - 17:01:04: "r_JeepViewDampenDamp" = "1.0"
+L 12/20/2014 - 17:01:04: "mp_c4timer" = "35"
+L 12/20/2014 - 17:01:04: "r_AirboatViewDampenDamp" = "1.0"
+L 12/20/2014 - 17:01:04: "sv_competitive_minspec" = "1"
+L 12/20/2014 - 17:01:04: "sv_max_allowed_net_graph" = "1"
+L 12/20/2014 - 17:01:04: "mp_stalemate_at_timelimit" = "0"
+L 12/20/2014 - 17:01:04: "sv_footsteps" = "1"
+L 12/20/2014 - 17:01:04: "mp_limitteams" = "0"
+L 12/20/2014 - 17:01:04: "sv_vote_issue_kick_allowed" = "1"
+L 12/20/2014 - 17:01:04: "tv_relaypassword" = ""
+L 12/20/2014 - 17:01:04: "mp_teamplay" = "0"
+L 12/20/2014 - 17:01:04: "cash_team_terrorist_win_bomb" = "3500"
+L 12/20/2014 - 17:01:04: "cash_team_elimination_hostage_map_t" = "3000"
+L 12/20/2014 - 17:01:04: "r_JeepViewDampenFreq" = "7.0"
+L 12/20/2014 - 17:01:04: "sv_specnoclip" = "1"
+L 12/20/2014 - 17:01:04: "sv_friction" = "5.2"
+L 12/20/2014 - 17:01:04: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 12/20/2014 - 17:01:04: "cash_player_bomb_planted" = "300"
+L 12/20/2014 - 17:01:04: "mp_autoteambalance" = "0"
+L 12/20/2014 - 17:01:04: "sv_contact" = "0"
+L 12/20/2014 - 17:01:04: "sv_vote_kick_ban_duration" = "15"
+L 12/20/2014 - 17:01:04: "cash_player_bomb_defused" = "300"
+L 12/20/2014 - 17:01:04: "mp_roundtime" = "1.75"
+L 12/20/2014 - 17:01:04: "sv_kick_ban_duration" = "0"
+L 12/20/2014 - 17:01:04: "cash_team_planted_bomb_but_defused" = "800"
+L 12/20/2014 - 17:01:04: "cash_player_killed_hostage" = "-1000"
+L 12/20/2014 - 17:01:04: "sv_vote_issue_loadbackup_allowed" = "1"
+L 12/20/2014 - 17:01:04: "mp_fraglimit" = "0"
+L 12/20/2014 - 17:01:04: "mp_forcerespawn" = "1"
+L 12/20/2014 - 17:01:04: "decalfrequency" = "10"
+L 12/20/2014 - 17:01:04: "mp_winlimit" = "0"
+L 12/20/2014 - 17:01:04: "sv_accelerate" = "5.5"
+L 12/20/2014 - 17:01:04: "mp_buy_anywhere" = "0"
+L 12/20/2014 - 17:01:04: "sv_gravity" = "800"
+L 12/20/2014 - 17:01:04: "sv_password" = ""
+L 12/20/2014 - 17:01:04: "cash_team_elimination_hostage_map_ct" = "3000"
+L 12/20/2014 - 17:01:04: "cash_team_win_by_hostage_rescue" = "2900"
+L 12/20/2014 - 17:01:04: "r_JeepViewZHeight" = "10.0"
+L 12/20/2014 - 17:01:04: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 12/20/2014 - 17:01:04: "cash_player_damage_hostage" = "-30"
+L 12/20/2014 - 17:01:04: "cash_team_hostage_alive" = "0"
+L 12/20/2014 - 17:01:04: "tv_password" = ""
+L 12/20/2014 - 17:01:04: "sv_specspeed" = "3"
+L 12/20/2014 - 17:01:04: server cvars end
+L 12/20/2014 - 17:01:05: Started map "workshop/125438255/de_dust2" (CRC "-1511947686")
+L 12/20/2014 - 17:01:05: server_cvar: "cash_player_interact_with_hostage" "150"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_player_killed_teammate" "-300"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_hostage_interaction" "500"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_rescued_hostage" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_freezetime" "6"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_maxrounds" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime" "5"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime_defuse" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime_hostage" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_timelimit" "5"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_friendlyfire" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_limitteams" "2"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_player_interact_with_hostage" "300"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_hostage_interaction" "600"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_rescued_hostage" "600"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime_hostage" "2"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_timelimit" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "cash_player_killed_teammate" "-3300"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_freezetime" "15"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_friendlyfire" "1"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_limitteams" "0"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_maxrounds" "30"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime" "1.75"
+L 12/20/2014 - 17:01:05: server_cvar: "mp_roundtime_defuse" "1.75"
+L 12/20/2014 - 17:01:05: "Console<0><Console><Console>" say ""LL Config v0.2""
+L 12/20/2014 - 17:01:05: "Console<0><Console><Console>" say ""Good luck, have fun, and remember to record your personal demos""
+L 12/20/2014 - 17:01:11: "[LL] Dudsmack<2><STEAM_1:1:3648970><>" connected, address ""
+L 12/20/2014 - 17:01:11: World triggered "Round_Start"
+L 12/20/2014 - 17:01:11: "[LL] Dudsmack<2><STEAM_1:1:3648970><>" STEAM USERID validated
+L 12/20/2014 - 17:01:14: "[LL] Dudsmack<2><STEAM_1:1:3648970><>" entered the game
+L 12/20/2014 - 17:01:16: "[LL] Dudsmack<2><STEAM_1:1:3648970><Unassigned>" triggered "clantag" (value "")
+L 12/20/2014 - 17:01:21: "[LL] Dudsmack<2><STEAM_1:1:3648970>" switched from team <Unassigned> to <CT>
+L 12/20/2014 - 17:01:21: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" triggered "clantag" (value "")
+L 12/20/2014 - 17:01:21: World triggered "Game_Commencing"
+L 12/20/2014 - 17:01:23: World triggered "Round_Start"
+L 12/20/2014 - 17:01:24: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" purchased "m4a1"
+L 12/20/2014 - 17:01:24: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" purchased "defuser"
+L 12/20/2014 - 17:01:24: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" purchased "vesthelm"
+L 12/20/2014 - 17:01:42: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" purchased "elite"
+L 12/20/2014 - 17:01:42: "[LL] Loddy<3><STEAM_1:0:4665189><>" connected, address ""
+L 12/20/2014 - 17:01:43: "[LL] Loddy<3><STEAM_1:0:4665189><>" STEAM USERID validated
+L 12/20/2014 - 17:01:45: "[LL] Loddy<3><STEAM_1:0:4665189><>" entered the game
+L 12/20/2014 - 17:01:47: "[LL] Loddy<3><STEAM_1:0:4665189><Unassigned>" triggered "clantag" (value "")
+L 12/20/2014 - 17:01:50: World triggered "Round_Start"
+L 12/20/2014 - 17:01:53: "[LL] Loddy<3><STEAM_1:0:4665189>" switched from team <Unassigned> to <TERRORIST>
+L 12/20/2014 - 17:01:53: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "clantag" (value "")
+L 12/20/2014 - 17:01:53: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:02:17: server_cvar: "mp_maxrounds" "6"
+L 12/20/2014 - 17:02:40: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1526 2182 9] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1494 2177 8] with "knife" (damage "25") (damage_armor "0") (health "75") (armor "0") (hitgroup "generic")
+L 12/20/2014 - 17:02:40: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1494 2097 6] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1526 2117 8] with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0") (hitgroup "generic")
+L 12/20/2014 - 17:02:40: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1526 2081 12] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1494 2082 6] with "knife" (damage "25") (damage_armor "0") (health "50") (armor "0") (hitgroup "generic")
+L 12/20/2014 - 17:02:41: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1526 1981 9] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1494 1989 7] with "knife" (damage "25") (damage_armor "0") (health "25") (armor "0") (hitgroup "generic")
+L 12/20/2014 - 17:02:41: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1480 1892 4] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1524 1885 7] with "knife" (damage "65") (damage_armor "0") (health "0") (armor "0") (hitgroup "generic")
+L 12/20/2014 - 17:02:41: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:02:41: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1480 1892 4] killed "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1524 1885 71] with "knife_default_ct"
+L 12/20/2014 - 17:02:41: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "0")
+L 12/20/2014 - 17:02:41: Team "CT" scored "1" with "1" players
+L 12/20/2014 - 17:02:41: Team "TERRORIST" scored "0" with "1" players
+L 12/20/2014 - 17:02:41: World triggered "Round_End"
+L 12/20/2014 - 17:02:51: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:02:57: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" purchased "galilar"
+L 12/20/2014 - 17:02:57: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" purchased "assaultsuit"
+L 12/20/2014 - 17:03:06: World triggered "Round_Start"
+L 12/20/2014 - 17:03:24: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1285 1181 1] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1490 2339 21] with "galilar" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "stomach")
+L 12/20/2014 - 17:03:29: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1252 2032 13] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1465 1556 34] with "elite" (damage "21") (damage_armor "0") (health "79") (armor "0") (hitgroup "right leg")
+L 12/20/2014 - 17:03:30: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1241 2046 15] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1554 1689 65] with "elite" (damage "21") (damage_armor "0") (health "58") (armor "0") (hitgroup "left leg")
+L 12/20/2014 - 17:03:31: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1227 2060 15] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1556 1728 57] with "elite" (damage "36") (damage_armor "0") (health "22") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:03:31: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1196 2088 12] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1558 1774 55] with "elite" (damage "36") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:03:31: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:03:31: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1196 2088 12] killed "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1558 1774 119] with "elite"
+L 12/20/2014 - 17:03:31: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "0")
+L 12/20/2014 - 17:03:31: Team "CT" scored "2" with "1" players
+L 12/20/2014 - 17:03:31: Team "TERRORIST" scored "0" with "1" players
+L 12/20/2014 - 17:03:31: World triggered "Round_End"
+L 12/20/2014 - 17:03:41: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:03:48: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" purchased "assaultsuit"
+L 12/20/2014 - 17:03:56: World triggered "Round_Start"
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1501 1488 6] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1584 1387 50] with "galilar" (damage "22") (damage_armor "0") (health "78") (armor "100") (hitgroup "left leg")
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1499 1490 5] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1584 1401 31] with "galilar" (damage "28") (damage_armor "4") (health "50") (armor "95") (hitgroup "stomach")
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1493 1496 5] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1582 1410 20] with "galilar" (damage "23") (damage_armor "3") (health "27") (armor "91") (hitgroup "chest")
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1423 1559 1] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1531 1424 50] with "galilar" (damage "22") (damage_armor "0") (health "5") (armor "91") (hitgroup "left leg")
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1417 1564 2] attacked "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1522 1426 36] with "galilar" (damage "22") (damage_armor "0") (health "0") (armor "91") (hitgroup "left leg")
+L 12/20/2014 - 17:04:18: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:04:18: "[LL] Dudsmack<2><STEAM_1:1:3648970><CT>" [1417 1564 2] killed "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1522 1426 100] with "galilar"
+L 12/20/2014 - 17:04:18: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "0")
+L 12/20/2014 - 17:04:18: Team "CT" scored "3" with "1" players
+L 12/20/2014 - 17:04:18: Team "TERRORIST" scored "0" with "1" players
+L 12/20/2014 - 17:04:18: World triggered "Round_End"
+L 12/20/2014 - 17:04:48: "[LL] Dudsmack<2><STEAM_1:1:3648970>" switched from team <CT> to <TERRORIST>
+L 12/20/2014 - 17:04:48: "[LL] Loddy<3><STEAM_1:0:4665189>" switched from team <TERRORIST> to <CT>
+L 12/20/2014 - 17:04:48: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:04:49: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "clantag" (value "")
+L 12/20/2014 - 17:04:49: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" triggered "clantag" (value "")
+L 12/20/2014 - 17:04:53: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "incgrenade"
+L 12/20/2014 - 17:04:53: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "vest"
+L 12/20/2014 - 17:05:03: World triggered "Round_Start"
+L 12/20/2014 - 17:05:21: Molotov projectile spawned at 1024.793579 2458.460205 232.410751, velocity -670.021240 44.975605 -68.364655
+L 12/20/2014 - 17:05:22: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" threw molotov [537 2491 98]
+L 12/20/2014 - 17:05:22: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [491 2458 96] with "inferno" (damage "1") (damage_armor "0") (health "99") (armor "99") (hitgroup "stomach")
+L 12/20/2014 - 17:05:22: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [526 2484 96] with "inferno" (damage "1") (damage_armor "0") (health "98") (armor "98") (hitgroup "stomach")
+L 12/20/2014 - 17:05:23: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [536 2492 96] with "inferno" (damage "2") (damage_armor "0") (health "96") (armor "97") (hitgroup "stomach")
+L 12/20/2014 - 17:05:23: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [518 2491 96] with "inferno" (damage "3") (damage_armor "0") (health "93") (armor "96") (hitgroup "stomach")
+L 12/20/2014 - 17:05:23: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [498 2505 96] with "inferno" (damage "3") (damage_armor "0") (health "90") (armor "95") (hitgroup "stomach")
+L 12/20/2014 - 17:05:23: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [488 2536 96] with "inferno" (damage "4") (damage_armor "0") (health "86") (armor "94") (hitgroup "stomach")
+L 12/20/2014 - 17:05:23: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [491 2535 96] with "inferno" (damage "4") (damage_armor "0") (health "82") (armor "93") (hitgroup "stomach")
+L 12/20/2014 - 17:05:24: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [491 2503 96] with "inferno" (damage "5") (damage_armor "0") (health "77") (armor "92") (hitgroup "stomach")
+L 12/20/2014 - 17:05:24: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [476 2462 96] with "inferno" (damage "5") (damage_armor "1") (health "72") (armor "90") (hitgroup "stomach")
+L 12/20/2014 - 17:05:24: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [470 2431 96] with "inferno" (damage "5") (damage_armor "1") (health "67") (armor "88") (hitgroup "stomach")
+L 12/20/2014 - 17:05:24: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [491 2424 96] with "inferno" (damage "5") (damage_armor "1") (health "62") (armor "86") (hitgroup "stomach")
+L 12/20/2014 - 17:05:24: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [479 2435 96] with "inferno" (damage "5") (damage_armor "1") (health "57") (armor "84") (hitgroup "stomach")
+L 12/20/2014 - 17:05:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [466 2430 96] with "inferno" (damage "5") (damage_armor "1") (health "52") (armor "82") (hitgroup "stomach")
+L 12/20/2014 - 17:05:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [424 2431 96] with "inferno" (damage "5") (damage_armor "1") (health "47") (armor "80") (hitgroup "stomach")
+L 12/20/2014 - 17:05:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [432 2464 96] with "inferno" (damage "5") (damage_armor "1") (health "42") (armor "78") (hitgroup "stomach")
+L 12/20/2014 - 17:05:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [461 2481 96] with "inferno" (damage "5") (damage_armor "1") (health "37") (armor "76") (hitgroup "stomach")
+L 12/20/2014 - 17:05:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1041 2457 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [502 2469 96] with "inferno" (damage "5") (damage_armor "1") (health "32") (armor "74") (hitgroup "stomach")
+L 12/20/2014 - 17:05:26: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1032 2458 170] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [540 2473 96] with "inferno" (damage "5") (damage_armor "1") (health "27") (armor "72") (hitgroup "stomach")
+L 12/20/2014 - 17:05:26: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1003 2460 208] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [554 2505 96] with "inferno" (damage "5") (damage_armor "1") (health "22") (armor "70") (hitgroup "stomach")
+L 12/20/2014 - 17:05:26: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [975 2462 226] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [529 2525 96] with "inferno" (damage "5") (damage_armor "1") (health "17") (armor "68") (hitgroup "stomach")
+L 12/20/2014 - 17:05:26: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [946 2464 212] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [492 2510 96] with "inferno" (damage "5") (damage_armor "1") (health "12") (armor "66") (hitgroup "stomach")
+L 12/20/2014 - 17:05:26: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [914 2467 159] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [475 2471 96] with "inferno" (damage "5") (damage_armor "1") (health "7") (armor "64") (hitgroup "stomach")
+L 12/20/2014 - 17:05:27: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [886 2469 96] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [469 2426 96] with "inferno" (damage "5") (damage_armor "1") (health "2") (armor "62") (hitgroup "stomach")
+L 12/20/2014 - 17:05:27: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [851 2471 96] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [454 2382 96] with "inferno" (damage "5") (damage_armor "1") (health "0") (armor "60") (hitgroup "stomach")
+L 12/20/2014 - 17:05:27: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:05:27: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [851 2471 96] killed "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [454 2382 160] with "inferno"
+L 12/20/2014 - 17:05:27: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "3")
+L 12/20/2014 - 17:05:27: Team "CT" scored "1" with "1" players
+L 12/20/2014 - 17:05:27: Team "TERRORIST" scored "3" with "1" players
+L 12/20/2014 - 17:05:27: World triggered "Round_End"
+L 12/20/2014 - 17:05:37: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:05:42: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "flashbang"
+L 12/20/2014 - 17:05:44: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "aug"
+L 12/20/2014 - 17:05:45: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "smokegrenade"
+L 12/20/2014 - 17:05:52: World triggered "Round_Start"
+L 12/20/2014 - 17:06:11: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" threw flashbang [1231 2386 104]
+L 12/20/2014 - 17:06:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1277 2310 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1343 2331 15] with "aug" (damage "27") (damage_armor "0") (health "73") (armor "0") (hitgroup "chest")
+L 12/20/2014 - 17:06:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1277 2310 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1354 2326 15] with "aug" (damage "34") (damage_armor "0") (health "39") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:06:14: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" threw smokegrenade [1339 2351 17]
+L 12/20/2014 - 17:06:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1539 2644 91] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1511 1666 10] with "aug" (damage "107") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 12/20/2014 - 17:06:25: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:06:25: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1539 2644 91] killed "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1511 1666 74] with "aug" (headshot)
+L 12/20/2014 - 17:06:25: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "3")
+L 12/20/2014 - 17:06:25: Team "CT" scored "2" with "1" players
+L 12/20/2014 - 17:06:25: Team "TERRORIST" scored "3" with "1" players
+L 12/20/2014 - 17:06:25: World triggered "Round_End"
+L 12/20/2014 - 17:06:35: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:06:41: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "m4a1"
+L 12/20/2014 - 17:06:41: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "defuser"
+L 12/20/2014 - 17:06:49: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "m4a1"
+L 12/20/2014 - 17:06:50: World triggered "Round_Start"
+L 12/20/2014 - 17:06:51: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "decoy"
+L 12/20/2014 - 17:06:52: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" purchased "flashbang"
+L 12/20/2014 - 17:07:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1288 2318 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1418 1574 2] with "aug" (damage "33") (damage_armor "0") (health "67") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:07:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1288 2318 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1421 1592 2] with "aug" (damage "33") (damage_armor "0") (health "34") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:07:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1288 2318 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1425 1622 2] with "aug" (damage "20") (damage_armor "0") (health "14") (armor "0") (hitgroup "right leg")
+L 12/20/2014 - 17:07:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1288 2318 128] attacked "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1424 1629 2] with "aug" (damage "34") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 12/20/2014 - 17:07:14: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:07:14: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" [1288 2318 128] killed "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" [1424 1629 66] with "aug"
+L 12/20/2014 - 17:07:14: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "3")
+L 12/20/2014 - 17:07:14: Team "CT" scored "3" with "1" players
+L 12/20/2014 - 17:07:14: Team "TERRORIST" scored "3" with "1" players
+L 12/20/2014 - 17:07:14: World triggered "Round_End"
+L 12/20/2014 - 17:07:15: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" threw flashbang [1241 2272 6]
+L 12/20/2014 - 17:07:44: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Got_The_Bomb"
+L 12/20/2014 - 17:07:51: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "m4a1"
+L 12/20/2014 - 17:07:51: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "defuser"
+L 12/20/2014 - 17:07:51: "[LL] Loddy<3><STEAM_1:0:4665189><CT>" purchased "vesthelm"
+L 12/20/2014 - 17:07:54: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" disconnected (reason "Disconnect")
+L 12/20/2014 - 17:07:54: "[LL] Dudsmack<2><STEAM_1:1:3648970><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/20/2014 - 17:07:54: "[LL] Dudsmack<2><STEAM_1:1:3648970>" switched from team <TERRORIST> to <Unassigned>
+L 12/20/2014 - 17:07:59: World triggered "Round_Start"
+L 12/20/2014 - 17:08:06: "[LL] Loddy<3><STEAM_1:0:4665189><>" disconnected (reason "Server shutting down")
+L 12/20/2014 - 17:08:07: server_message: "quit"
+L 12/20/2014 - 17:08:07: Log file closed
