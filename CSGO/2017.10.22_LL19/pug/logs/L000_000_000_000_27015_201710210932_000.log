@@ -1,0 +1,627 @@
+L 10/21/2017 - 09:32:09: Log file started (file "logs/L000_000_000_000_27015_201710210932_000.log") (game "/home/sysoper/gameserver/csgo") (version "6878")
+L 10/21/2017 - 09:32:09: Loading map "de_dust2"
+L 10/21/2017 - 09:32:09: server cvars start
+L 10/21/2017 - 09:32:09: "cash_player_killed_teammate" = "-300"
+L 10/21/2017 - 09:32:09: "cash_player_respawn_amount" = "0"
+L 10/21/2017 - 09:32:09: "sv_maxspeed" = "320"
+L 10/21/2017 - 09:32:09: "cash_team_rescued_hostage" = "0"
+L 10/21/2017 - 09:32:09: "cash_team_win_by_defusing_bomb" = "3250"
+L 10/21/2017 - 09:32:09: "sv_rollangle" = "0"
+L 10/21/2017 - 09:32:09: "r_AirboatViewZHeight" = "0.0"
+L 10/21/2017 - 09:32:09: "sv_cheats" = "0"
+L 10/21/2017 - 09:32:09: "r_VehicleViewDampen" = "1"
+L 10/21/2017 - 09:32:09: "metamod_version" = "1.11.0-dev+1097V"
+L 10/21/2017 - 09:32:09: "mp_allowNPCs" = "1"
+L 10/21/2017 - 09:32:09: "mp_tournament" = "0"
+L 10/21/2017 - 09:32:09: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/21/2017 - 09:32:09: "sv_spec_hear" = "1"
+L 10/21/2017 - 09:32:09: "cash_player_interact_with_hostage" = "150"
+L 10/21/2017 - 09:32:09: "mp_maxrounds" = "0"
+L 10/21/2017 - 09:32:09: "mp_flashlight" = "0"
+L 10/21/2017 - 09:32:09: "sv_tags" = ""
+L 10/21/2017 - 09:32:09: "sv_stepsize" = "18"
+L 10/21/2017 - 09:32:09: "sv_alltalk" = "0"
+L 10/21/2017 - 09:32:09: "mp_teamlist" = "hgrunt;scientist"
+L 10/21/2017 - 09:32:09: "mp_footsteps" = "1"
+L 10/21/2017 - 09:32:09: "sv_noclipaccelerate" = "5"
+L 10/21/2017 - 09:32:09: "sv_accelerate_debug_speed" = "0"
+L 10/21/2017 - 09:32:09: "sv_wateraccelerate" = "10"
+L 10/21/2017 - 09:32:09: "mp_stalemate_enable" = "0"
+L 10/21/2017 - 09:32:09: "mp_autocrosshair" = "1"
+L 10/21/2017 - 09:32:09: "sourcemod_version" = "1.9.0.6148"
+L 10/21/2017 - 09:32:09: "cash_team_elimination_bomb_map" = "3250"
+L 10/21/2017 - 09:32:09: "cash_player_get_killed" = "0"
+L 10/21/2017 - 09:32:09: "mp_roundtime_defuse" = "0"
+L 10/21/2017 - 09:32:09: "sv_autobuyammo" = "0"
+L 10/21/2017 - 09:32:09: "sv_rollspeed" = "200"
+L 10/21/2017 - 09:32:09: "sv_airaccelerate" = "12"
+L 10/21/2017 - 09:32:09: "sv_show_team_equipment_prohibit" = "0"
+L 10/21/2017 - 09:32:09: "mp_teams_unbalance_limit" = "1"
+L 10/21/2017 - 09:32:09: "mp_timelimit" = "5"
+L 10/21/2017 - 09:32:09: "cash_team_loser_bonus" = "1400"
+L 10/21/2017 - 09:32:09: "sv_deadtalk" = "0"
+L 10/21/2017 - 09:32:09: "cash_player_rescued_hostage" = "1000"
+L 10/21/2017 - 09:32:09: "sv_waterfriction" = "1"
+L 10/21/2017 - 09:32:09: "sv_competitive_official_5v5" = "0"
+L 10/21/2017 - 09:32:09: "sv_steamgroup" = ""
+L 10/21/2017 - 09:32:09: "cash_player_killed_enemy_default" = "300"
+L 10/21/2017 - 09:32:09: "coop" = "0"
+L 10/21/2017 - 09:32:09: "mp_respawnwavetime" = "10.0"
+L 10/21/2017 - 09:32:09: "sv_teamid_overhead" = "1"
+L 10/21/2017 - 09:32:09: "tv_enable1" = "0"
+L 10/21/2017 - 09:32:09: "nextlevel" = ""
+L 10/21/2017 - 09:32:09: "sv_stopspeed" = "80"
+L 10/21/2017 - 09:32:09: "sv_specaccelerate" = "5"
+L 10/21/2017 - 09:32:09: "deathmatch" = "1"
+L 10/21/2017 - 09:32:09: "tv_enable" = "0"
+L 10/21/2017 - 09:32:09: "mp_roundtime_hostage" = "0"
+L 10/21/2017 - 09:32:09: "mp_freezetime" = "6"
+L 10/21/2017 - 09:32:09: "mp_teammates_are_enemies" = "0"
+L 10/21/2017 - 09:32:09: "mp_falldamage" = "0"
+L 10/21/2017 - 09:32:09: "sv_accelerate_use_weapon_speed" = "1"
+L 10/21/2017 - 09:32:09: "sv_voiceenable" = "1"
+L 10/21/2017 - 09:32:09: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/21/2017 - 09:32:09: "sv_bounce" = "0"
+L 10/21/2017 - 09:32:09: "mp_disable_respawn_times" = "0"
+L 10/21/2017 - 09:32:09: "r_AirboatViewDampenFreq" = "7.0"
+L 10/21/2017 - 09:32:09: "mp_weaponstay" = "0"
+L 10/21/2017 - 09:32:09: "mp_hostagepenalty" = "10"
+L 10/21/2017 - 09:32:09: "tv_advertise_watchable" = "0"
+L 10/21/2017 - 09:32:09: "mp_friendlyfire" = "0"
+L 10/21/2017 - 09:32:09: "cash_team_hostage_interaction" = "500"
+L 10/21/2017 - 09:32:09: "sv_noclipspeed" = "5"
+L 10/21/2017 - 09:32:09: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/21/2017 - 09:32:09: "sv_allchat" = "1"
+L 10/21/2017 - 09:32:09: "mp_buy_during_immunity" = "0"
+L 10/21/2017 - 09:32:09: "cash_player_killed_enemy_factor" = "1"
+L 10/21/2017 - 09:32:09: "mp_c4timer" = "40"
+L 10/21/2017 - 09:32:09: "r_JeepViewDampenDamp" = "1.0"
+L 10/21/2017 - 09:32:09: "sv_competitive_minspec" = "1"
+L 10/21/2017 - 09:32:09: "r_AirboatViewDampenDamp" = "1.0"
+L 10/21/2017 - 09:32:09: "sm_nextmap" = ""
+L 10/21/2017 - 09:32:09: "sv_max_allowed_net_graph" = "1"
+L 10/21/2017 - 09:32:09: "mp_stalemate_at_timelimit" = "0"
+L 10/21/2017 - 09:32:09: "mp_limitteams" = "2"
+L 10/21/2017 - 09:32:09: "sv_footsteps" = "1"
+L 10/21/2017 - 09:32:09: "sv_vote_issue_kick_allowed" = "1"
+L 10/21/2017 - 09:32:09: "cash_team_survive_guardian_wave" = "1000"
+L 10/21/2017 - 09:32:09: "tv_relaypassword" = ""
+L 10/21/2017 - 09:32:09: "mp_teamplay" = "0"
+L 10/21/2017 - 09:32:09: "cash_team_terrorist_win_bomb" = "3500"
+L 10/21/2017 - 09:32:09: "cash_team_elimination_hostage_map_t" = "1000"
+L 10/21/2017 - 09:32:09: "r_JeepViewDampenFreq" = "7.0"
+L 10/21/2017 - 09:32:09: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/21/2017 - 09:32:09: "sv_specnoclip" = "1"
+L 10/21/2017 - 09:32:09: "sv_friction" = "5.2"
+L 10/21/2017 - 09:32:09: "cash_player_bomb_planted" = "300"
+L 10/21/2017 - 09:32:09: "mp_autoteambalance" = "1"
+L 10/21/2017 - 09:32:09: "sv_contact" = ""
+L 10/21/2017 - 09:32:09: "sv_vote_kick_ban_duration" = "15"
+L 10/21/2017 - 09:32:09: "cash_player_bomb_defused" = "300"
+L 10/21/2017 - 09:32:09: "mp_roundtime" = "5"
+L 10/21/2017 - 09:32:09: "sv_kick_ban_duration" = "15"
+L 10/21/2017 - 09:32:09: "cash_team_planted_bomb_but_defused" = "800"
+L 10/21/2017 - 09:32:09: "cash_player_killed_hostage" = "-1000"
+L 10/21/2017 - 09:32:09: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/21/2017 - 09:32:09: "nextmode" = ""
+L 10/21/2017 - 09:32:09: "mp_fraglimit" = "0"
+L 10/21/2017 - 09:32:09: "mp_forcerespawn" = "1"
+L 10/21/2017 - 09:32:09: "mp_winlimit" = "0"
+L 10/21/2017 - 09:32:09: "sv_accelerate" = "5.5"
+L 10/21/2017 - 09:32:09: "mp_buy_anywhere" = "0"
+L 10/21/2017 - 09:32:09: "sv_gravity" = "800"
+L 10/21/2017 - 09:32:09: "sv_password" = ""
+L 10/21/2017 - 09:32:09: "cash_team_elimination_hostage_map_ct" = "2000"
+L 10/21/2017 - 09:32:09: "cash_team_win_by_hostage_rescue" = "3500"
+L 10/21/2017 - 09:32:09: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/21/2017 - 09:32:09: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/21/2017 - 09:32:09: "cash_player_damage_hostage" = "-30"
+L 10/21/2017 - 09:32:09: "r_JeepViewZHeight" = "10.0"
+L 10/21/2017 - 09:32:09: "cash_team_hostage_alive" = "0"
+L 10/21/2017 - 09:32:09: "tv_password" = ""
+L 10/21/2017 - 09:32:09: "sv_specspeed" = "3"
+L 10/21/2017 - 09:32:09: server cvars end
+L 10/21/2017 - 09:32:11: Started map "de_dust2" (CRC "-708017797")
+L 10/21/2017 - 09:32:12: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_hostage_interaction" "600"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_rescued_hostage" "600"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 10/21/2017 - 09:32:12: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_freezetime" "15"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_maxrounds" "30"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_roundtime" "1.92"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_roundtime_hostage" "1.92"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_roundtime_defuse" "1.92"
+L 10/21/2017 - 09:32:12: server_cvar: "mp_timelimit" "0"
+L 10/21/2017 - 09:32:12: server_cvar: "sv_deadtalk" "1"
+L 10/21/2017 - 09:32:14: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/21/2017 - 09:32:14: World triggered "Round_Start"
+L 10/21/2017 - 10:27:53: "natE<2><STEAM_1:0:1504589><>" connected, address ""
+L 10/21/2017 - 10:27:54: "natE<2><STEAM_1:0:1504589><>" STEAM USERID validated
+L 10/21/2017 - 10:28:06: "natE<2><STEAM_1:0:1504589><>" entered the game
+L 10/21/2017 - 10:28:13: "natE<2><STEAM_1:0:1504589><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 10:28:21: "natE<2><STEAM_1:0:1504589>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 10:28:21: World triggered "Game_Commencing"
+L 10/21/2017 - 10:28:21: "Xander<3><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Xander<3><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 10:28:21: "Xander<3><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Don<4><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Don<4><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 10:28:21: "Don<4><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Wade<5><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Wade<5><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 10:28:21: "Wade<5><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Dan<6><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Dan<6><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 10:28:21: "Dan<6><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Reed<7><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Reed<7><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 10:28:21: "Reed<7><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Zim<8><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Zim<8><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 10:28:21: "Zim<8><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Victor<9><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Victor<9><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 10:28:21: "Victor<9><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Chet<10><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Chet<10><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 10:28:21: "Chet<10><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT><>" connected, address ""
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT><>" entered the game
+L 10/21/2017 - 10:28:21: "Xander<3><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:21: "Xander<3><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Xander<3><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 10:28:21: "Don<4><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2017 - 10:28:21: "Don<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Don<4><BOT><TERRORIST>" purchased "decoy"
+L 10/21/2017 - 10:28:21: "Wade<5><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:21: "Wade<5><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Dan<6><BOT><CT>" purchased "aug"
+L 10/21/2017 - 10:28:21: "Dan<6><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Dan<6><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:28:21: "Reed<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:28:21: "Reed<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Reed<7><BOT><TERRORIST>" purchased "flashbang"
+L 10/21/2017 - 10:28:21: "Zim<8><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:28:21: "Zim<8><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Victor<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:21: "Victor<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Chet<10><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:21: "Chet<10><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Chet<10><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:21: "Jeff<11><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2017 - 10:28:22: Starting Freeze period
+L 10/21/2017 - 10:28:22: World triggered "Match_Start" on "de_dust2"
+L 10/21/2017 - 10:28:22: "Xander<3><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:22: "Xander<3><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Xander<3><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:28:22: "Wade<5><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:22: "Wade<5><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Wade<5><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:28:22: "Reed<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:28:22: "Reed<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Victor<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:22: "Victor<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Victor<9><BOT><CT>" purchased "p250"
+L 10/21/2017 - 10:28:22: "Jeff<11><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 10:28:22: "Jeff<11><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Jeff<11><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 10:28:22: "Don<4><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2017 - 10:28:22: "Don<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Dan<6><BOT><CT>" purchased "aug"
+L 10/21/2017 - 10:28:22: "Dan<6><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Dan<6><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 10:28:22: "Zim<8><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:28:22: "Zim<8><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Zim<8><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2017 - 10:28:22: "Chet<10><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:22: "Chet<10><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:22: "Chet<10><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:28:23: "natE<2><STEAM_1:0:1504589><TERRORIST>" triggered "clantag" (value "")
+L 10/21/2017 - 10:28:24: World triggered "Round_Start"
+L 10/21/2017 - 10:28:31: "natE<2><STEAM_1:0:1504589><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 10:28:31: "natE<2><STEAM_1:0:1504589><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:31: "Wade<5><BOT><CT>" threw hegrenade [-368 783 0]
+L 10/21/2017 - 10:28:32: "Xander<3><BOT><CT>" threw hegrenade [-421 861 -5]
+L 10/21/2017 - 10:28:35: "Jeff<11><BOT><TERRORIST>" [-356 750 0] killed "Wade<5><BOT><CT>" [-450 1163 -34] with "sg556"
+L 10/21/2017 - 10:28:37: "Victor<9><BOT><CT>" [-443 1712 -131] killed "Reed<7><BOT><TERRORIST>" [-304 981 23] with "m4a1"
+L 10/21/2017 - 10:28:37: "Xander<3><BOT><CT>" assisted killing "Reed<7><BOT><TERRORIST>"
+L 10/21/2017 - 10:28:37: "Jeff<11><BOT><TERRORIST>" [-431 818 -12] killed "Xander<3><BOT><CT>" [-463 1491 -60] with "sg556"
+L 10/21/2017 - 10:28:37: "Zim<8><BOT><TERRORIST>" assisted killing "Xander<3><BOT><CT>"
+L 10/21/2017 - 10:28:39: "Jeff<11><BOT><TERRORIST>" [-431 818 -12] killed "Chet<10><BOT><CT>" [-386 1446 -65] with "sg556"
+L 10/21/2017 - 10:28:39: "Wade<5><BOT><CT>" purchased "aug"
+L 10/21/2017 - 10:28:39: "Wade<5><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:39: "Wade<5><BOT><CT>" purchased "p250"
+L 10/21/2017 - 10:28:40: "Chet<10><BOT><CT>" threw hegrenade [-418 693 23]
+L 10/21/2017 - 10:28:41: "Reed<7><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 10:28:41: "Reed<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:41: "Reed<7><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 10:28:42: "Xander<3><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:28:42: "Xander<3><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:42: "Xander<3><BOT><CT>" purchased "p250"
+L 10/21/2017 - 10:28:43: "Chet<10><BOT><CT>" purchased "awp"
+L 10/21/2017 - 10:28:43: "Chet<10><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:47: "Dan<6><BOT><CT>" [-430 1734 -129] killed "Jeff<11><BOT><TERRORIST>" [-336 476 59] with "aug"
+L 10/21/2017 - 10:28:47: "Chet<10><BOT><CT>" assisted killing "Jeff<11><BOT><TERRORIST>"
+L 10/21/2017 - 10:28:49: "Zim<8><BOT><TERRORIST>" threw hegrenade [-485 544 3]
+L 10/21/2017 - 10:28:50: "Victor<9><BOT><CT>" [-584 1824 -114] killed "Don<4><BOT><TERRORIST>" [-275 1495 -48] with "m4a1" (penetrated)
+L 10/21/2017 - 10:28:50: "Wade<5><BOT><CT>" assisted killing "Don<4><BOT><TERRORIST>"
+L 10/21/2017 - 10:28:51: "Jeff<11><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 10:28:51: "Jeff<11><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:51: "Jeff<11><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 10:28:54: "Don<4><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 10:28:54: "Don<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:28:54: "Don<4><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 10:28:54: "Don<4><BOT><TERRORIST>" purchased "molotov"
+L 10/21/2017 - 10:29:02: "natE<2><STEAM_1:0:1504589><TERRORIST>" [1376 2191 -10] killed "Chet<10><BOT><CT>" [-30 2092 -63] with "deagle" (headshot)
+L 10/21/2017 - 10:29:07: "natE<2><STEAM_1:0:1504589><TERRORIST>" [1383 2305 3] killed "Wade<5><BOT><CT>" [110 2208 -66] with "deagle" (headshot)
+L 10/21/2017 - 10:29:09: "natE<2><STEAM_1:0:1504589><TERRORIST>" [1388 2256 -6] killed "Chet<10><BOT><CT>" [264 2210 -64] with "deagle" (headshot)
+L 10/21/2017 - 10:29:11: "Wade<5><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:29:11: "Wade<5><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:14: "Chet<10><BOT><CT>" purchased "awp"
+L 10/21/2017 - 10:29:14: "Chet<10><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:17: "Wade<5><BOT><CT>" [920 2082 -20] killed "Reed<7><BOT><TERRORIST>" [1420 2223 52] with "m4a1"
+L 10/21/2017 - 10:29:17: "Don<4><BOT><TERRORIST>" [1277 2040 1] killed "Wade<5><BOT><CT>" [917 2105 48] with "galilar"
+L 10/21/2017 - 10:29:17: "Reed<7><BOT><TERRORIST>" assisted killing "Wade<5><BOT><CT>"
+L 10/21/2017 - 10:29:20: "Dan<6><BOT><CT>" [-524 2237 -125] killed "Don<4><BOT><TERRORIST>" [1270 2027 48] with "aug"
+L 10/21/2017 - 10:29:20: "Xander<3><BOT><CT>" assisted killing "Don<4><BOT><TERRORIST>"
+L 10/21/2017 - 10:29:21: "Reed<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:29:21: "Reed<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:22: "Wade<5><BOT><CT>" purchased "famas"
+L 10/21/2017 - 10:29:22: "Wade<5><BOT><CT>" purchased "item_kevlar"
+L 10/21/2017 - 10:29:22: "Don<4><BOT><TERRORIST>" purchased "awp"
+L 10/21/2017 - 10:29:22: "Don<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:22: "Don<4><BOT><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 10:29:26: "Zim<8><BOT><TERRORIST>" [1740 2264 25] killed "Chet<10><BOT><CT>" [113 2113 -63] with "ak47"
+L 10/21/2017 - 10:29:29: "Xander<3><BOT><CT>" [7 2179 -131] killed "Zim<8><BOT><TERRORIST>" [1740 2264 89] with "m4a1"
+L 10/21/2017 - 10:29:33: "Zim<8><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 10:29:33: "Zim<8><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:34: "Xander<3><BOT><CT>" [-177 2167 -126] killed "Jeff<11><BOT><TERRORIST>" [1251 2060 65] with "m4a1"
+L 10/21/2017 - 10:29:38: "Jeff<11><BOT><TERRORIST>" purchased "awp"
+L 10/21/2017 - 10:29:38: "Jeff<11><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:38: "Jeff<11><BOT><TERRORIST>" purchased "smokegrenade"
+L 10/21/2017 - 10:29:40: "Zim<8><BOT><TERRORIST>" [-416 133 -0] killed "Xander<3><BOT><CT>" [-417 2098 -66] with "sg556"
+L 10/21/2017 - 10:29:42: "Chet<10><BOT><CT>" [1341 2645 91] killed "natE<2><STEAM_1:0:1504589><TERRORIST>" [557 2525 160] with "hkp2000"
+L 10/21/2017 - 10:29:45: "Xander<3><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:29:45: "Xander<3><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:45: "Xander<3><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 10:29:45: "Xander<3><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:29:51: "Jeff<11><BOT><TERRORIST>" [-437 -403 -3] killed "Victor<9><BOT><CT>" [-354 518 60] with "awp" (penetrated)
+L 10/21/2017 - 10:29:51: "Wade<5><BOT><CT>" [1282 1209 0] killed "Reed<7><BOT><TERRORIST>" [1173 1132 65] with "m4a1"
+L 10/21/2017 - 10:29:55: "Victor<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:29:55: "Victor<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:55: "Reed<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:29:55: "Reed<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:29:55: "Reed<7><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 10:30:11: "Don<4><BOT><TERRORIST>" [-2126 -1000 131] killed "Dan<6><BOT><CT>" [-1773 -92 73] with "awp" (penetrated)
+L 10/21/2017 - 10:30:15: "Xander<3><BOT><CT>" threw hegrenade [542 -50 -4]
+L 10/21/2017 - 10:30:15: "Dan<6><BOT><CT>" purchased "scar20"
+L 10/21/2017 - 10:30:15: "Dan<6><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:30:16: "Xander<3><BOT><CT>" [507 -118 -7] killed "Reed<7><BOT><TERRORIST>" [611 136 62] with "m4a1"
+L 10/21/2017 - 10:30:21: "Zim<8><BOT><TERRORIST>" [-1836 -239 40] killed "Victor<9><BOT><CT>" [-1662 1063 95] with "aug"
+L 10/21/2017 - 10:30:25: "Victor<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:30:25: "Victor<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:30:25: "Victor<9><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 10:30:28: "Don<4><BOT><TERRORIST>" [-2177 -1019 129] killed "Xander<3><BOT><CT>" [-603 -834 178] with "awp"
+L 10/21/2017 - 10:30:32: Molotov projectile spawned at 224.138641 208.936539 74.746040, velocity 652.765442 -60.457291 72.342865
+L 10/21/2017 - 10:30:33: "Xander<3><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:30:33: "Xander<3><BOT><CT>" purchased "flashbang"
+L 10/21/2017 - 10:30:33: "Wade<5><BOT><CT>" threw molotov [716 153 3]
+L 10/21/2017 - 10:30:37: "Wade<5><BOT><CT>" [155 244 4] killed "Reed<7><BOT><TERRORIST>" [253 -182 72] with "m4a1"
+L 10/21/2017 - 10:30:43: "Don<4><BOT><TERRORIST>" [-366 -821 83] killed "Wade<5><BOT><CT>" [206 -321 64] with "awp"
+L 10/21/2017 - 10:30:45: "natE<2><STEAM_1:0:1504589><TERRORIST>" [-1655 1215 32] killed "Dan<6><BOT><CT>" [-1222 1113 83] with "m4a1" (headshot)
+L 10/21/2017 - 10:30:45: "Jeff<11><BOT><TERRORIST>" [-465 498 -1] killed "Xander<3><BOT><CT>" [-475 1257 -49] with "awp"
+L 10/21/2017 - 10:30:46: "Chet<10><BOT><CT>" [-1119 1148 -39] killed "natE<2><STEAM_1:0:1504589><TERRORIST>" [-1617 1230 99] with "m4a1" (penetrated)
+L 10/21/2017 - 10:30:46: "Victor<9><BOT><CT>" assisted killing "natE<2><STEAM_1:0:1504589><TERRORIST>"
+L 10/21/2017 - 10:30:49: "Dan<6><BOT><CT>" purchased "aug"
+L 10/21/2017 - 10:30:49: "Dan<6><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:30:49: "Dan<6><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 10:30:58: "Dan<6><BOT><CT>" [-559 2031 -119] killed "Jeff<11><BOT><TERRORIST>" [-570 1697 -49] with "aug" (headshot)
+L 10/21/2017 - 10:31:02: "Zim<8><BOT><TERRORIST>" [-1730 436 1] killed "Victor<9><BOT><CT>" [-1667 916 93] with "aug"
+L 10/21/2017 - 10:31:06: "Zim<8><BOT><TERRORIST>" [-1699 1040 31] killed "Wade<5><BOT><CT>" [-1875 1193 96] with "aug"
+L 10/21/2017 - 10:31:06: "Victor<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 10:31:07: "Chet<10><BOT><CT>" [-1702 973 34] killed "Zim<8><BOT><TERRORIST>" [-1652 1108 96] with "m4a1" (headshot)
+L 10/21/2017 - 10:31:09: "Dan<6><BOT><CT>" [-1030 2120 -9] killed "Reed<7><BOT><TERRORIST>" [-624 2287 -56] with "aug"
+L 10/21/2017 - 10:31:12: "Zim<8><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 10:31:12: "Zim<8><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:31:12: "Zim<8><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2017 - 10:31:23: "Chet<10><BOT><CT>" threw hegrenade [-1776 102 17]
+L 10/21/2017 - 10:31:27: "Zim<8><BOT><TERRORIST>" [509 225 3] killed "Victor<9><BOT><CT>" [626 265 64] with "sg556"
+L 10/21/2017 - 10:31:28: "Reed<7><BOT><TERRORIST>" [-1435 658 36] killed "Chet<10><BOT><CT>" [-1680 688 96] with "glock"
+L 10/21/2017 - 10:31:32: "Wade<5><BOT><CT>" [-1706 971 35] killed "Don<4><BOT><TERRORIST>" [-1713 606 96] with "hkp2000"
+L 10/21/2017 - 10:31:32: "Chet<10><BOT><CT>" assisted killing "Don<4><BOT><TERRORIST>"
+L 10/21/2017 - 10:31:33: "Reed<7><BOT><TERRORIST>" [-1597 598 32] killed "Wade<5><BOT><CT>" [-1687 999 94] with "glock" (headshot)
+L 10/21/2017 - 10:31:36: "Don<4><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 10:31:36: "Don<4><BOT><TERRORIST>" purchased "item_kevlar"
+L 10/21/2017 - 10:31:38: "Xander<3><BOT><CT>" [785 927 -2] killed "Zim<8><BOT><TERRORIST>" [539 669 66] with "galilar"
+L 10/21/2017 - 10:31:42: "Zim<8><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 10:31:42: "Zim<8><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 10:31:47: "Xander<3><BOT><CT>" [1311 1845 0] killed "natE<2><STEAM_1:0:1504589><TERRORIST>" [1271 2086 74] with "ak47"
+L 10/21/2017 - 10:31:47: "Victor<9><BOT><CT>" assisted killing "natE<2><STEAM_1:0:1504589><TERRORIST>"
+L 10/21/2017 - 10:31:55: "Chet<10><BOT><CT>" [-1682 1387 43] killed "Reed<7><BOT><TERRORIST>" [-1706 924 80] with "hkp2000"
+L 10/21/2017 - 10:31:56: "Xander<3><BOT><CT>" [862 1071 2] killed "Don<4><BOT><TERRORIST>" [638 751 65] with "ak47"
+L 10/21/2017 - 10:32:09: "Reed<7><BOT><TERRORIST>" [-428 959 -49] killed "Dan<6><BOT><CT>" [-487 1466 -47] with "glock"
+L 10/21/2017 - 10:32:10: "Zim<8><BOT><TERRORIST>" [-157 1230 -1] killed "Wade<5><BOT><CT>" [-555 1417 -49] with "ak47"
+L 10/21/2017 - 10:32:16: "Victor<9><BOT><CT>" [-1236 2174 5] killed "natE<2><STEAM_1:0:1504589><TERRORIST>" [-242 2279 -56] with "hkp2000"
+L 10/21/2017 - 10:32:16: "Chet<10><BOT><CT>" assisted killing "natE<2><STEAM_1:0:1504589><TERRORIST>"
+L 10/21/2017 - 10:32:19: "Jeff<11><BOT><TERRORIST>" threw hegrenade [901 2333 27]
+L 10/21/2017 - 10:32:21: "Zim<8><BOT><TERRORIST>" [273 1621 8] killed "Xander<3><BOT><CT>" [386 1923 160] with "ak47"
+L 10/21/2017 - 10:32:22: "Dan<6><BOT><CT>" [1269 2232 6] killed "Jeff<11><BOT><TERRORIST>" [1640 1996 64] with "hkp2000"
+L 10/21/2017 - 10:32:22: "Reed<7><BOT><TERRORIST>" [-548 1705 -114] killed "Wade<5><BOT><CT>" [-438 2152 -68] with "m4a1"
+L 10/21/2017 - 10:32:27: "Zim<8><BOT><TERRORIST>" [500 2161 99] killed "Dan<6><BOT><CT>" [1251 2149 64] with "ak47"
+L 10/21/2017 - 10:32:31: "Don<4><BOT><TERRORIST>" [-138 1454 -1] killed "Chet<10><BOT><CT>" [-746 1414 -48] with "m4a1"
+L 10/21/2017 - 10:32:37: "Xander<3><BOT><CT>" [-553 1943 -119] killed "Reed<7><BOT><TERRORIST>" [-333 1773 -55] with "hkp2000"
+L 10/21/2017 - 10:32:45: "Victor<9><BOT><CT>" [-587 2135 -121] killed "Don<4><BOT><TERRORIST>" [-389 1572 -66] with "hkp2000"
+L 10/21/2017 - 10:32:45: "Chet<10><BOT><CT>" assisted killing "Don<4><BOT><TERRORIST>"
+L 10/21/2017 - 10:32:47: "Chet<10><BOT><CT>" [-590 2135 -121] killed "Zim<8><BOT><TERRORIST>" [-429 1627 -67] with "hkp2000"
+L 10/21/2017 - 10:32:58: Starting Freeze period
+L 10/21/2017 - 10:32:58: World triggered "Match_Start" on "de_dust2"
+L 10/21/2017 - 10:32:58: "natE<2><STEAM_1:0:1504589><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 10:33:12: "natE<2><STEAM_1:0:1504589><TERRORIST>" disconnected (reason "Disconnect")
+L 10/21/2017 - 10:33:13: "natE<2><STEAM_1:0:1504589><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 10:33:13: "natE<2><STEAM_1:0:1504589>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 10:33:13: World triggered "Round_Start"
+L 10/21/2017 - 10:33:13: "Xander<3><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Xander<3><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Don<4><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Don<4><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Wade<5><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Wade<5><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Dan<6><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Dan<6><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Reed<7><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Reed<7><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Zim<8><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Zim<8><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Victor<9><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Victor<9><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Jeff<11><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Jeff<11><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 10:33:13: "Chet<10><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 10:33:13: "Chet<10><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 16:03:40: "{CC} Dynamite<12><STEAM_1:1:12273896><>" connected, address ""
+L 10/21/2017 - 16:03:40: "{CC} Dynamite<12><STEAM_1:1:12273896><>" STEAM USERID validated
+L 10/21/2017 - 16:04:03: "{CC} Dynamite<12><STEAM_1:1:12273896><>" entered the game
+L 10/21/2017 - 16:04:09: "{CC} Dynamite<12><STEAM_1:1:12273896><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 16:04:14: "{CC} Dynamite<12><STEAM_1:1:12273896>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 16:04:14: World triggered "Game_Commencing"
+L 10/21/2017 - 16:04:14: "Kevin<13><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:14: "Kevin<13><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 16:04:14: "Kevin<13><BOT><>" entered the game
+L 10/21/2017 - 16:04:14: "Vladimir<14><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:14: "Vladimir<14><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 16:04:14: "Vladimir<14><BOT><>" entered the game
+L 10/21/2017 - 16:04:14: "Wayne<15><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:14: "Wayne<15><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 16:04:14: "Wayne<15><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Troy<16><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Troy<16><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 16:04:15: "Troy<16><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Ivan<17><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Ivan<17><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 16:04:15: "Ivan<17><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Jeff<18><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Jeff<18><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 16:04:15: "Jeff<18><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Ted<19><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Ted<19><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 16:04:15: "Ted<19><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Don<20><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Don<20><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 16:04:15: "Don<20><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "Dan<21><BOT><>" connected, address ""
+L 10/21/2017 - 16:04:15: "Dan<21><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 16:04:15: "Dan<21><BOT><>" entered the game
+L 10/21/2017 - 16:04:15: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 16:04:15: Starting Freeze period
+L 10/21/2017 - 16:04:15: World triggered "Match_Start" on "de_dust2"
+L 10/21/2017 - 16:04:15: "Troy<16><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:04:30: World triggered "Round_Start"
+L 10/21/2017 - 16:04:37: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-411 1854 -128] killed "Wayne<15><BOT><TERRORIST>" [-411 263 64] with "hkp2000" (headshot)
+L 10/21/2017 - 16:04:43: "Troy<16><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:04:43: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-434 1954 -128] killed "Troy<16><BOT><TERRORIST>" [-410 1322 -64] with "hkp2000" (headshot)
+L 10/21/2017 - 16:04:47: "Dan<21><BOT><TERRORIST>" [-605 615 8] killed "Ivan<17><BOT><CT>" [611 55 63] with "glock"
+L 10/21/2017 - 16:04:49: "Kevin<13><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:04:49: "Kevin<13><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:04:49: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-464 1989 -127] killed "Kevin<13><BOT><TERRORIST>" [-425 1560 -63] with "hkp2000" (headshot)
+L 10/21/2017 - 16:04:50: "Ted<19><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:04:51: "Ted<19><BOT><TERRORIST>" [-379 1358 -128] killed "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-435 1972 -82] with "glock" (headshot)
+L 10/21/2017 - 16:04:59: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-458 556 -1] killed "Dan<21><BOT><TERRORIST>" [-489 -33 47] with "hkp2000"
+L 10/21/2017 - 16:05:09: "Ted<19><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/21/2017 - 16:05:14: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1653 2418 6] killed "Ted<19><BOT><TERRORIST>" [-1442 2689 62] with "hkp2000" (headshot)
+L 10/21/2017 - 16:05:18: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 10/21/2017 - 16:05:27: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 10/21/2017 - 16:05:37: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "Defused_The_Bomb"
+L 10/21/2017 - 16:05:37: Team "CT" triggered "SFUI_Notice_Bomb_Defused" (CT "1") (T "0")
+L 10/21/2017 - 16:05:37: Team "CT" scored "1" with "5" players
+L 10/21/2017 - 16:05:37: Team "TERRORIST" scored "0" with "5" players
+L 10/21/2017 - 16:05:37: World triggered "Round_End"
+L 10/21/2017 - 16:05:44: Starting Freeze period
+L 10/21/2017 - 16:05:44: "Wayne<15><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:05:44: "Vladimir<14><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:05:44: "Vladimir<14><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:05:44: "Troy<16><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:05:44: "Jeff<18><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 16:05:44: "Jeff<18><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:05:44: "Jeff<18><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 16:05:44: "Don<20><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 16:05:44: "Don<20><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:05:44: "Don<20><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 16:05:44: "Don<20><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 16:05:44: "Kevin<13><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:05:44: "Wayne<15><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:05:44: "Wayne<15><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 16:05:44: "Ivan<17><BOT><CT>" purchased "aug"
+L 10/21/2017 - 16:05:44: "Ivan<17><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:05:44: "Ted<19><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:05:44: "Dan<21><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:05:47: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "m4a1"
+L 10/21/2017 - 16:05:49: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "p250"
+L 10/21/2017 - 16:05:59: World triggered "Round_Start"
+L 10/21/2017 - 16:06:11: "Wayne<15><BOT><TERRORIST>" [630 713 1] killed "Vladimir<14><BOT><CT>" [916 1092 66] with "ak47"
+L 10/21/2017 - 16:06:12: "Wayne<15><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:06:12: "Ivan<17><BOT><CT>" [1029 1210 2] killed "Wayne<15><BOT><TERRORIST>" [630 713 65] with "aug"
+L 10/21/2017 - 16:06:13: "Ivan<17><BOT><CT>" [1132 1059 -3] killed "Dan<21><BOT><TERRORIST>" [624 726 65] with "aug"
+L 10/21/2017 - 16:06:13: "Don<20><BOT><CT>" assisted killing "Dan<21><BOT><TERRORIST>"
+L 10/21/2017 - 16:06:14: "Troy<16><BOT><TERRORIST>" [589 694 1] killed "Ivan<17><BOT><CT>" [1162 1011 61] with "ak47" (penetrated)
+L 10/21/2017 - 16:06:14: "Ted<19><BOT><TERRORIST>" [647 753 1] killed "Don<20><BOT><CT>" [1177 1196 66] with "sg556"
+L 10/21/2017 - 16:06:16: "Ted<19><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:06:16: "Jeff<18><BOT><CT>" threw hegrenade [-470 760 14]
+L 10/21/2017 - 16:06:28: "Jeff<18><BOT><CT>" [448 263 5] killed "Troy<16><BOT><TERRORIST>" [565 132 61] with "xm1014"
+L 10/21/2017 - 16:06:28: "Don<20><BOT><CT>" assisted killing "Troy<16><BOT><TERRORIST>"
+L 10/21/2017 - 16:06:30: "Ted<19><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:06:30: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [412 1984 96] killed "Ted<19><BOT><TERRORIST>" [1269 2648 191] with "m4a1" (headshot)
+L 10/21/2017 - 16:06:41: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" threw hegrenade [1334 1830 -8]
+L 10/21/2017 - 16:06:54: "Kevin<13><BOT><TERRORIST>" [-389 -223 2] killed "Jeff<18><BOT><CT>" [-422 -510 63] with "sg556"
+L 10/21/2017 - 16:07:28: "Kevin<13><BOT><TERRORIST>" [467 2240 96] killed "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [1160 2615 152] with "sg556" (headshot)
+L 10/21/2017 - 16:07:28: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "1")
+L 10/21/2017 - 16:07:28: Team "CT" scored "1" with "5" players
+L 10/21/2017 - 16:07:28: Team "TERRORIST" scored "1" with "5" players
+L 10/21/2017 - 16:07:28: World triggered "Round_End"
+L 10/21/2017 - 16:07:34: "Kevin<13><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:07:35: Starting Freeze period
+L 10/21/2017 - 16:07:35: "Kevin<13><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:07:35: "Troy<16><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:07:35: "Troy<16><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:07:35: "Jeff<18><BOT><CT>" purchased "p90"
+L 10/21/2017 - 16:07:35: "Jeff<18><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:07:35: "Jeff<18><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 16:07:35: "Wayne<15><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:07:35: "Wayne<15><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2017 - 16:07:35: "Ted<19><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2017 - 16:07:35: "Ted<19><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:07:35: "Dan<21><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:07:35: "Dan<21><BOT><TERRORIST>" purchased "item_kevlar"
+L 10/21/2017 - 16:07:35: "Kevin<13><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:07:35: "Ivan<17><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:07:35: "Ivan<17><BOT><CT>" purchased "smokegrenade"
+L 10/21/2017 - 16:07:42: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "m4a1"
+L 10/21/2017 - 16:07:50: World triggered "Round_Start"
+L 10/21/2017 - 16:07:56: "Kevin<13><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:07:56: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-411 2101 -130] killed "Kevin<13><BOT><TERRORIST>" [-414 261 63] with "m4a1" (headshot)
+L 10/21/2017 - 16:07:59: "Troy<16><BOT><TERRORIST>" [-419 -34 0] killed "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-412 2101 -84] with "ak47"
+L 10/21/2017 - 16:08:01: "Don<20><BOT><CT>" [-372 1573 -129] killed "Ted<19><BOT><TERRORIST>" [-394 601 62] with "hkp2000"
+L 10/21/2017 - 16:08:10: "Troy<16><BOT><TERRORIST>" [-485 -31 1] killed "Don<20><BOT><CT>" [-335 957 29] with "ak47"
+L 10/21/2017 - 16:08:10: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-415 2079 -129] killed "Wayne<15><BOT><TERRORIST>" [-405 -218 47] with "m4a1" (headshot)
+L 10/21/2017 - 16:08:12: "Wayne<15><BOT><TERRORIST>" threw hegrenade [-424 -201 -1]
+L 10/21/2017 - 16:08:18: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-413 2136 -132] killed "Dan<21><BOT><TERRORIST>" [-452 237 62] with "m4a1" (penetrated)
+L 10/21/2017 - 16:08:23: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-409 1565 -129] killed "Troy<16><BOT><TERRORIST>" [-346 313 63] with "m4a1" (headshot)
+L 10/21/2017 - 16:08:23: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "1")
+L 10/21/2017 - 16:08:23: Team "CT" scored "2" with "5" players
+L 10/21/2017 - 16:08:23: Team "TERRORIST" scored "1" with "5" players
+L 10/21/2017 - 16:08:23: World triggered "Round_End"
+L 10/21/2017 - 16:08:30: Starting Freeze period
+L 10/21/2017 - 16:08:30: "Troy<16><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:08:30: "Kevin<13><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:08:30: "Kevin<13><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:08:30: "Kevin<13><BOT><TERRORIST>" purchased "p250"
+L 10/21/2017 - 16:08:30: "Ivan<17><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:08:30: "Ted<19><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2017 - 16:08:30: "Ted<19><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2017 - 16:08:30: "Vladimir<14><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:08:30: "Vladimir<14><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:08:30: "Vladimir<14><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 16:08:30: "Don<20><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:08:30: "Don<20><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:08:30: "Don<20><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 16:08:31: "Jeff<18><BOT><CT>" purchased "item_kevlar"
+L 10/21/2017 - 16:08:31: "Troy<16><BOT><TERRORIST>" purchased "ssg08"
+L 10/21/2017 - 16:08:38: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:08:41: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "ssg08"
+L 10/21/2017 - 16:08:45: World triggered "Round_Start"
+L 10/21/2017 - 16:08:58: "Jeff<18><BOT><CT>" threw hegrenade [582 792 5]
+L 10/21/2017 - 16:08:58: "Ivan<17><BOT><CT>" threw smokegrenade [833 890 2]
+L 10/21/2017 - 16:08:58: "Ted<19><BOT><TERRORIST>" threw hegrenade [-1614 1110 37]
+L 10/21/2017 - 16:09:02: "Vladimir<14><BOT><CT>" threw hegrenade [-1906 1164 34]
+L 10/21/2017 - 16:09:09: "Ivan<17><BOT><CT>" [592 282 2] killed "Dan<21><BOT><TERRORIST>" [439 -270 64] with "m4a1"
+L 10/21/2017 - 16:09:15: "Troy<16><BOT><TERRORIST>" [-1910 1134 32] killed "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1958 1580 97] with "ssg08"
+L 10/21/2017 - 16:09:19: "Troy<16><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:09:19: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1954 2578 29] killed "Troy<16><BOT><TERRORIST>" [-1935 1042 80] with "m4a1"
+L 10/21/2017 - 16:09:24: "Jeff<18><BOT><CT>" [651 320 0] killed "Wayne<15><BOT><TERRORIST>" [595 685 65] with "m4a1"
+L 10/21/2017 - 16:09:27: "Ted<19><BOT><TERRORIST>" [-1905 -697 125] killed "Don<20><BOT><CT>" [-391 -995 166] with "glock"
+L 10/21/2017 - 16:09:30: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1587 1158 33] killed "Ted<19><BOT><TERRORIST>" [-1913 -652 192] with "m4a1"
+L 10/21/2017 - 16:09:30: "Ivan<17><BOT><CT>" assisted killing "Ted<19><BOT><TERRORIST>"
+L 10/21/2017 - 16:09:32: "Kevin<13><BOT><TERRORIST>" [-1803 156 1] killed "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1587 1158 79] with "ak47"
+L 10/21/2017 - 16:09:32: "Troy<16><BOT><TERRORIST>" assisted killing "{CC} Dynamite<12><STEAM_1:1:12273896><CT>"
+L 10/21/2017 - 16:09:38: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1432 -315 133] killed "Kevin<13><BOT><TERRORIST>" [-1705 983 98] with "m4a1"
+L 10/21/2017 - 16:09:38: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "1")
+L 10/21/2017 - 16:09:38: Team "CT" scored "3" with "5" players
+L 10/21/2017 - 16:09:38: Team "TERRORIST" scored "1" with "5" players
+L 10/21/2017 - 16:09:38: World triggered "Round_End"
+L 10/21/2017 - 16:09:45: Starting Freeze period
+L 10/21/2017 - 16:09:45: "Ted<19><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:09:45: "Wayne<15><BOT><TERRORIST>" purchased "p90"
+L 10/21/2017 - 16:09:45: "Wayne<15><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:09:45: "Ivan<17><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 16:09:45: "Ivan<17><BOT><CT>" purchased "item_kevlar"
+L 10/21/2017 - 16:09:45: "Vladimir<14><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:09:45: "Vladimir<14><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:09:45: "Troy<16><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2017 - 16:09:45: "Troy<16><BOT><TERRORIST>" purchased "item_kevlar"
+L 10/21/2017 - 16:09:45: "Don<20><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 16:09:45: "Don<20><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:09:45: "Don<20><BOT><CT>" purchased "p250"
+L 10/21/2017 - 16:09:45: "Dan<21><BOT><TERRORIST>" purchased "ump45"
+L 10/21/2017 - 16:09:45: "Dan<21><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:09:45: "Jeff<18><BOT><CT>" purchased "item_kevlar"
+L 10/21/2017 - 16:09:45: "Jeff<18><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 16:09:45: "Kevin<13><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 16:09:45: "Ted<19><BOT><TERRORIST>" purchased "galilar"
+L 10/21/2017 - 16:09:57: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:10:00: World triggered "Round_Start"
+L 10/21/2017 - 16:10:02: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "ssg08"
+L 10/21/2017 - 16:10:09: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-411 2215 -130] killed "Troy<16><BOT><TERRORIST>" [-436 459 61] with "ssg08" (headshot)
+L 10/21/2017 - 16:10:15: "Jeff<18><BOT><CT>" threw hegrenade [-2043 1300 52]
+L 10/21/2017 - 16:10:25: "Vladimir<14><BOT><CT>" [-106 1483 -0] killed "Kevin<13><BOT><TERRORIST>" [-522 985 22] with "m4a1"
+L 10/21/2017 - 16:10:34: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-412 618 -0] killed "Dan<21><BOT><TERRORIST>" [223 329 60] with "galilar"
+L 10/21/2017 - 16:10:46: "Wayne<15><BOT><TERRORIST>" [485 133 -4] killed "Ivan<17><BOT><CT>" [-1 317 63] with "p90"
+L 10/21/2017 - 16:10:46: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-267 560 0] killed "Wayne<15><BOT><TERRORIST>" [483 129 60] with "galilar"
+L 10/21/2017 - 16:10:56: "Ted<19><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/21/2017 - 16:11:11: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1195 2164 6] killed "Ted<19><BOT><TERRORIST>" [-1317 2231 48] with "galilar"
+L 10/21/2017 - 16:11:15: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 10/21/2017 - 16:11:25: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" triggered "Defused_The_Bomb"
+L 10/21/2017 - 16:11:25: Team "CT" triggered "SFUI_Notice_Bomb_Defused" (CT "4") (T "1")
+L 10/21/2017 - 16:11:25: Team "CT" scored "4" with "5" players
+L 10/21/2017 - 16:11:25: Team "TERRORIST" scored "1" with "5" players
+L 10/21/2017 - 16:11:25: World triggered "Round_End"
+L 10/21/2017 - 16:11:32: Starting Freeze period
+L 10/21/2017 - 16:11:32: "Dan<21><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:11:32: "Vladimir<14><BOT><CT>" purchased "item_kevlar"
+L 10/21/2017 - 16:11:32: "Vladimir<14><BOT><CT>" purchased "decoy"
+L 10/21/2017 - 16:11:32: "Troy<16><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:11:32: "Jeff<18><BOT><CT>" purchased "aug"
+L 10/21/2017 - 16:11:32: "Kevin<13><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:11:32: "Kevin<13><BOT><TERRORIST>" purchased "item_kevlar"
+L 10/21/2017 - 16:11:32: "Wayne<15><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:11:32: "Wayne<15><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:11:32: "Ivan<17><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 16:11:32: "Ivan<17><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:11:32: "Ted<19><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:11:32: "Ted<19><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:11:32: "Dan<21><BOT><TERRORIST>" purchased "ssg08"
+L 10/21/2017 - 16:11:32: "Dan<21><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:11:35: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" purchased "awp"
+L 10/21/2017 - 16:11:47: World triggered "Round_Start"
+L 10/21/2017 - 16:11:53: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-412 2175 -132] killed "Kevin<13><BOT><TERRORIST>" [-427 -359 61] with "awp" (headshot)
+L 10/21/2017 - 16:11:56: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-406 2176 -132] killed "Troy<16><BOT><TERRORIST>" [-411 224 64] with "awp"
+L 10/21/2017 - 16:12:13: "Dan<21><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/21/2017 - 16:12:13: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1308 2155 4] killed "Dan<21><BOT><TERRORIST>" [-1518 2586 53] with "awp"
+L 10/21/2017 - 16:12:15: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-1259 2110 12] killed "Wayne<15><BOT><TERRORIST>" [-1380 2232 64] with "awp" (headshot)
+L 10/21/2017 - 16:12:27: "{CC} Dynamite<12><STEAM_1:1:12273896><CT>" [-2088 2916 32] killed "Ted<19><BOT><TERRORIST>" [-1960 1123 97] with "awp"
+L 10/21/2017 - 16:12:27: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "5") (T "1")
+L 10/21/2017 - 16:12:27: Team "CT" scored "5" with "5" players
+L 10/21/2017 - 16:12:27: Team "TERRORIST" scored "1" with "5" players
+L 10/21/2017 - 16:12:27: World triggered "Round_End"
+L 10/21/2017 - 16:12:34: Starting Freeze period
+L 10/21/2017 - 16:12:34: "Wayne<15><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/21/2017 - 16:12:34: "Ted<19><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 16:12:34: "Dan<21><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 16:12:34: "Dan<21><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 16:12:34: "Vladimir<14><BOT><CT>" purchased "xm1014"
+L 1

@@ -1,0 +1,5 @@
+
+20:43:24 - ===== Map change to de_dust2 =====
+
+20:44:32 - <BEan | LacledesLAN.com> <STEAM_1:0:3804719> <172.30.0.109> CONNECTED from <Unknown>
+20:45:45 - <BEan | LacledesLAN.com> <STEAM_1:0:3804719> <172.30.0.109> DISCONNECTED after 2 minutes. <Disconnect>
