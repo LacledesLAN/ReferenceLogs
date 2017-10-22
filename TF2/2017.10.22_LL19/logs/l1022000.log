@@ -1,0 +1,66 @@
+L 10/22/2017 - 10:02:51: Log file started (file "logs/L1022000.log") (game "/home/sysoper/gameserver/tf") (version "4193938")
+L 10/22/2017 - 10:02:51: server_cvar: "mp_timelimit" "15"
+L 10/22/2017 - 10:02:51: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/22/2017 - 10:02:51: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/22/2017 - 10:02:51: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/22/2017 - 10:02:51: Assigned anonymous gameserver Steam ID [A:1:2988756994:9220].
+L 10/22/2017 - 10:02:51: VAC secure mode disabled.
+L 10/22/2017 - 10:22:33: tf_server_identity_account_id not set; not logging into registered account
+L 10/22/2017 - 10:31:06: "Brak | LacledesLAN.com<2><[U:1:75056154]><>" connected, address "172.30.40.3:27005"
+L 10/22/2017 - 10:31:06: "Brak | LacledesLAN.com<2><[U:1:75056154]><>" STEAM USERID validated
+L 10/22/2017 - 10:31:40: "[LL] allhawkeye85<3><[U:1:28500804]><>" connected, address "172.30.40.27:27005"
+L 10/22/2017 - 10:31:40: "[LL] allhawkeye85<3><[U:1:28500804]><>" STEAM USERID validated
+L 10/22/2017 - 10:31:53: "Brak | LacledesLAN.com<2><[U:1:75056154]><>" entered the game
+L 10/22/2017 - 10:32:10: "[LL] allhawkeye85<3><[U:1:28500804]><>" entered the game
+L 10/22/2017 - 10:33:29: "Brak | LacledesLAN.com<2><[U:1:75056154]><Unassigned>" joined team "Blue"
+L 10/22/2017 - 10:33:43: "Brak | LacledesLAN.com<2><[U:1:75056154]><Blue>" changed role to "soldier"
+L 10/22/2017 - 10:34:03: "BEan | LacledesLAN.com<4><[U:1:7609438]><>" connected, address "172.30.40.9:27005"
+L 10/22/2017 - 10:34:03: "BEan | LacledesLAN.com<4><[U:1:7609438]><>" STEAM USERID validated
+L 10/22/2017 - 10:34:14: World triggered "Round_Start"
+L 10/22/2017 - 10:34:21: "BEan | LacledesLAN.com<4><[U:1:7609438]><>" entered the game
+L 10/22/2017 - 10:34:43: "BEan | LacledesLAN.com<4><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/22/2017 - 10:34:47: "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/22/2017 - 10:35:51: "Brak | LacledesLAN.com<2><[U:1:75056154]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/22/2017 - 10:35:59: "[LL] allhawkeye85<3><[U:1:28500804]><Unassigned>" joined team "Blue"
+L 10/22/2017 - 10:36:01: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "heavyweapons"
+L 10/22/2017 - 10:37:26: "Weather Report @Lacledes LAN<5><[U:1:112588584]><>" connected, address "172.30.41.7:27005"
+L 10/22/2017 - 10:37:26: "Weather Report @Lacledes LAN<5><[U:1:112588584]><>" STEAM USERID validated
+L 10/22/2017 - 10:38:08: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" with "minigun" (attacker_position "1471 -2053 -447") (victim_position "1444 -1727 -441")
+L 10/22/2017 - 10:38:09: "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "world" (attacker_position "1417 -1765 -417") (victim_position "1657 -2334 -844")
+L 10/22/2017 - 10:38:12: "Weather Report @Lacledes LAN<5><[U:1:112588584]><>" entered the game
+L 10/22/2017 - 10:38:16: "Col_Hogan@LAN<6><[U:1:11097602]><>" connected, address "172.30.40.239:27005"
+L 10/22/2017 - 10:38:16: "Col_Hogan@LAN<6><[U:1:11097602]><>" STEAM USERID validated
+L 10/22/2017 - 10:38:23: "Weather Report @Lacledes LAN<5><[U:1:112588584]><Unassigned>" joined team "Red"
+L 10/22/2017 - 10:38:25: "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" changed role to "scout"
+L 10/22/2017 - 10:38:27: "[LL]arcticfox012<7><[U:1:5015550]><>" connected, address "172.30.40.7:27005"
+L 10/22/2017 - 10:38:27: "[LL]arcticfox012<7><[U:1:5015550]><>" STEAM USERID validated
+L 10/22/2017 - 10:38:32: "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" say "/mp_timelmit 40"
+L 10/22/2017 - 10:38:39: "Col_Hogan@LAN<6><[U:1:11097602]><>" entered the game
+L 10/22/2017 - 10:38:46: "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" say "!mp_timelimit 45"
+L 10/22/2017 - 10:38:52: "Col_Hogan@LAN<6><[U:1:11097602]><Unassigned>" joined team "Blue"
+L 10/22/2017 - 10:38:54: "Col_Hogan@LAN<6><[U:1:11097602]><Blue>" changed role to "soldier"
+L 10/22/2017 - 10:39:33: "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "scattergun" (attacker_position "1156 -573 -202") (victim_position "1087 -802 -251")
+L 10/22/2017 - 10:39:34: "Col_Hogan@LAN<6><[U:1:11097602]><Blue>" killed "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" with "reserve_shooter" (attacker_position "1167 -711 -252") (victim_position "1092 -647 -206")
+L 10/22/2017 - 10:39:34: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "kill assist" against "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" (assister_position "1078 -814 -225") (attacker_position "1167 -711 -252") (victim_position "1092 -647 -206")
+L 10/22/2017 - 10:39:42: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "the Fountain of Youth") (numcappers "1") (player1 "Col_Hogan@LAN<6><[U:1:11097602]><Blue>") (position1 "1103 -1061 -240") 
+L 10/22/2017 - 10:39:46: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "demoman"
+L 10/22/2017 - 10:39:59: "Brak | LacledesLAN.com<8><[U:1:75056154]><>" connected, address "172.30.40.3:27005"
+L 10/22/2017 - 10:39:59: "Brak | LacledesLAN.com<8><[U:1:75056154]><>" STEAM USERID validated
+L 10/22/2017 - 10:40:02: "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" killed "Col_Hogan@LAN<6><[U:1:11097602]><Blue>" with "pep_pistol" (attacker_position "2442 -659 -227") (victim_position "2483 -997 -255")
+L 10/22/2017 - 10:40:11: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" with "tf_projectile_pipe" (attacker_position "1253 -2028 -459") (victim_position "1023 -1030 -240")
+L 10/22/2017 - 10:40:25: "Brak | LacledesLAN.com<8><[U:1:75056154]><>" entered the game
+L 10/22/2017 - 10:40:32: "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "scattergun" (attacker_position "2184 140 -255") (victim_position "2037 180 -255")
+L 10/22/2017 - 10:40:36: "Brak | LacledesLAN.com<8><[U:1:75056154]><Unassigned>" joined team "Red"
+L 10/22/2017 - 10:40:36: "[LL]arcticfox012<7><[U:1:5015550]><>" entered the game
+L 10/22/2017 - 10:40:38: "Brak | LacledesLAN.com<8><[U:1:75056154]><Red>" changed role to "soldier"
+L 10/22/2017 - 10:40:39: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "scout"
+L 10/22/2017 - 10:40:41: "Col_Hogan@LAN<6><[U:1:11097602]><Blue>" killed "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>" with "liberty_launcher" (attacker_position "1238 -1103 -192") (victim_position "1354 -982 -255")
+L 10/22/2017 - 10:40:46: "BEan | LacledesLAN.com<4><[U:1:7609438]><Red>" say "!sm_admin"
+L 10/22/2017 - 10:40:55: "Arkarian @ Laclede's LAN<9><[U:1:51757215]><>" connected, address "172.30.41.76:27005"
+L 10/22/2017 - 10:40:55: "Arkarian @ Laclede's LAN<9><[U:1:51757215]><>" STEAM USERID validated
+L 10/22/2017 - 10:40:56: "Brak | LacledesLAN.com<8><[U:1:75056154]><Red>" killed "Col_Hogan@LAN<6><[U:1:11097602]><Blue>" with "tf_projectile_rocket" (attacker_position "2107 218 -251") (victim_position "2366 -44 -255")
+L 10/22/2017 - 10:41:16: Team "Red" triggered "pointcaptured" (cp "0") (cpname "the Fountain of Youth") (numcappers "2") (player1 "Weather Report @Lacledes LAN<5><[U:1:112588584]><Red>") (position1 "1124 -989 -240") (player2 "Brak | LacledesLAN.com<8><[U:1:75056154]><Red>") (position2 "1042 -1057 -240") 
+L 10/22/2017 - 10:41:19: "Arkarian @ Laclede's LAN<9><[U:1:51757215]><>" entered the game
+L 10/22/2017 - 10:41:25: "[LL]arcticfox012<7><[U:1:5015550]><Unassigned>" joined team "Blue"
+L 10/22/2017 - 10:41:26: rcon from "172.30.40.9:61574": command "echo Welcome user!"
+L 10/22/2017 - 10:41:27: Log file closed.

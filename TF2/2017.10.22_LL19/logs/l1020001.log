@@ -1,0 +1,159 @@
+L 10/20/2017 - 17:36:11: Log file started (file "logs/L1020001.log") (game "/home/sysoper/gameserver/tf") (version "4192434")
+L 10/20/2017 - 17:36:11: server_cvar: "mp_timelimit" "15"
+L 10/20/2017 - 17:36:11: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/20/2017 - 17:36:11: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/20/2017 - 17:36:11: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/20/2017 - 17:36:11: Assigned anonymous gameserver Steam ID [A:1:3510441984:9214].
+L 10/20/2017 - 17:36:11: VAC secure mode disabled.
+L 10/20/2017 - 17:36:16: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" connected, address "172.30.40.9:27005"
+L 10/20/2017 - 17:36:16: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" STEAM USERID validated
+L 10/20/2017 - 17:36:30: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" entered the game
+L 10/20/2017 - 17:36:50: "BEan | LacledesLAN.com<2><[U:1:7609438]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/20/2017 - 17:43:52: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 17:49:30: Vote failed "NextLevel " with code 4
+L 10/20/2017 - 18:06:05: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 18:11:30: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 18:24:11: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 18:28:50: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 18:39:42: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 19:07:36: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 19:30:01: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 19:32:54: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 19:48:26: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 19:58:25: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 21:26:31: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 21:42:52: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 22:52:00: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 22:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:01:52: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:11:59: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:21:52: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:26:54: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:28:30: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 23:31:53: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:36:53: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:41:52: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:46:54: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:52:01: Your server needs to be restarted in order to receive the latest update.
+L 10/20/2017 - 23:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:01:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:11:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:21:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:26:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:32:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:36:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:41:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:46:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:52:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 00:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:01:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:12:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:21:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:26:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:36:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:41:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:46:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:52:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 01:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:01:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:12:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:21:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:26:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:36:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:41:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:46:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:52:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 02:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:12:01: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:26:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:36:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:46:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:51:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 03:56:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:06:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:11:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:16:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:36:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:46:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:52:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 04:56:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:06:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:12:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:16:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:32:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:36:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:46:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:51:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 05:56:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:06:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:12:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:16:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:32:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:36:52: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:46:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:51:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 06:56:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:06:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:11:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:16:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:32:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:36:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:46:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:52:03: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 07:56:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:06:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:11:14: tf_server_identity_account_id not set; not logging into registered account
+L 10/21/2017 - 08:11:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:16:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:36:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:41:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:46:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:51:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 08:56:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:01:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:06:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:11:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:16:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:21:54: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:26:53: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:31:59: Your server needs to be restarted in order to receive the latest update.
+L 10/21/2017 - 09:34:01: [META] Loaded 0 plugins (1 already loaded)
+L 10/21/2017 - 09:34:02: server_message: "quit"
+L 10/21/2017 - 09:34:02: Log file closed.

@@ -1,0 +1,10 @@
+L 10/16/2017 - 19:58:58: Log file started (file "logs/L1016000.log") (game "/home/sysoper/gameserver/tf") (version "4085139")
+L 10/16/2017 - 19:58:58: server_cvar: "mp_timelimit" "15"
+L 10/16/2017 - 19:58:58: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/16/2017 - 19:58:58: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/16/2017 - 19:58:58: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/16/2017 - 19:58:59: Assigned anonymous gameserver Steam ID [A:1:3180643334:9203].
+L 10/16/2017 - 19:58:59: VAC secure mode disabled.
+L 10/16/2017 - 20:02:28: [META] Loaded 0 plugins (1 already loaded)
+L 10/16/2017 - 20:02:28: server_message: "quit"
+L 10/16/2017 - 20:02:28: Log file closed.

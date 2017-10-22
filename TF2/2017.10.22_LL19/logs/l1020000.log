@@ -1,0 +1,19 @@
+L 10/20/2017 - 17:11:31: Log file started (file "logs/L1020000.log") (game "/home/sysoper/gameserver/tf") (version "4192434")
+L 10/20/2017 - 17:11:31: server_cvar: "mp_timelimit" "15"
+L 10/20/2017 - 17:11:31: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/20/2017 - 17:11:31: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/20/2017 - 17:11:31: server_cvar: "sv_tags" "alltalk,cp,noquickplay"
+L 10/20/2017 - 17:11:31: Assigned anonymous gameserver Steam ID [A:1:3310561284:9214].
+L 10/20/2017 - 17:11:31: VAC secure mode disabled.
+L 10/20/2017 - 17:13:49: tf_server_identity_account_id not set; not logging into registered account
+L 10/20/2017 - 17:34:05: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" connected, address "172.30.40.9:27005"
+L 10/20/2017 - 17:34:05: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" STEAM USERID validated
+L 10/20/2017 - 17:34:42: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" entered the game
+L 10/20/2017 - 17:34:55: "BEan | LacledesLAN.com<2><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/20/2017 - 17:34:58: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" changed role to "heavyweapons"
+L 10/20/2017 - 17:35:06: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" say "!sm_admin"
+L 10/20/2017 - 17:35:28: World triggered "Round_Start"
+L 10/20/2017 - 17:35:35: [META] Loaded 0 plugins (1 already loaded)
+L 10/20/2017 - 17:35:35: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" disconnected (reason "Server shutting down")
+L 10/20/2017 - 17:35:35: server_message: "quit"
+L 10/20/2017 - 17:35:35: Log file closed.

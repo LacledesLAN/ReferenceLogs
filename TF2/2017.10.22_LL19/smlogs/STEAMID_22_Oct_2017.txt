@@ -1,0 +1,81 @@
+
+10:01:52 - ===== Map change to ctf_gorge =====
+
+10:02:26 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> DISCONNECTED after 2 minutes. <Disconnect by user.>
+
+10:02:51 - ===== Map change to koth_lazarus =====
+
+10:31:11 - <Brak | LacledesLAN.com> <STEAM_0:0:37528077> <172.30.40.3> CONNECTED from <Unknown>
+10:31:45 - <[LL] allhawkeye85> <STEAM_0:0:14250402> <172.30.40.27> CONNECTED from <Unknown>
+10:34:08 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+10:35:51 - <Brak | LacledesLAN.com> <STEAM_0:0:37528077> <172.30.40.3> DISCONNECTED after 5 minutes. <Disconnect by user.>
+10:37:31 - <Weather Report @Lacledes LAN> <STEAM_0:0:56294292> <172.30.41.7> CONNECTED from <Unknown>
+10:38:21 - <Col_Hogan@LAN> <STEAM_0:0:5548801> <172.30.40.239> CONNECTED from <Unknown>
+10:38:32 - <[LL]arcticfox012> <STEAM_0:0:2507775> <172.30.40.7> CONNECTED from <Unknown>
+10:40:04 - <Brak | LacledesLAN.com> <STEAM_0:0:37528077> <172.30.40.3> CONNECTED from <Unknown>
+10:41:00 - <Arkarian @ Laclede's LAN> <STEAM_0:1:25878607> <172.30.41.76> CONNECTED from <Unknown>
+10:44:18 - <{CC} Gert> <STEAM_0:0:6605605> <172.30.41.63> CONNECTED from <Unknown>
+10:46:06 - <silenc3> <STEAM_0:1:2456742> <172.30.40.32> CONNECTED from <Unknown>
+10:47:28 - <Chipmunk> <STEAM_0:0:79723371> <172.30.41.113> CONNECTED from <Unknown>
+10:51:06 - <Ikem> <STEAM_0:0:19508040> <172.30.41.78> CONNECTED from <Unknown>
+10:58:55 - <{CC} Dynamite> <STEAM_0:1:12273896> <172.30.41.53> CONNECTED from <Unknown>
+
+11:02:14 - ===== Map change to koth_brazil =====
+
+11:02:35 - <silenc3> <STEAM_0:1:2456742> <172.30.40.32> CONNECTED from <Unknown>
+11:02:41 - <Col_Hogan@LAN> <STEAM_0:0:5548801> <172.30.40.239> DISCONNECTED after 25 minutes. <Disconnect by user.>
+11:02:50 - <{CC} Dynamite> <STEAM_0:1:12273896> <172.30.41.53> CONNECTED from <Unknown>
+11:03:03 - <Chipmunk> <STEAM_0:0:79723371> <172.30.41.113> DISCONNECTED after 16 minutes. <Disconnect by user.>
+11:04:59 - <Ikem> <STEAM_0:0:19508040> <172.30.41.78> DISCONNECTED after 14 minutes. <Disconnect by user.>
+11:05:07 - <silenc3> <STEAM_0:1:2456742> <172.30.40.32> DISCONNECTED after 3 minutes. <Disconnect by user.>
+11:06:22 - <Snek> <STEAM_0:1:61232725> <172.30.40.232> CONNECTED from <Unknown>
+11:10:55 - <Crumbledorf> <STEAM_0:0:2291677> <172.30.40.233> CONNECTED from <Unknown>
+11:11:53 - <Squirrell @ Lan> <STEAM_0:1:33676811> <172.30.41.114> CONNECTED from <Unknown>
+11:13:54 - <BraveSirRobbin> <STEAM_0:1:1626752> <172.30.41.140> CONNECTED from <Unknown>
+11:14:42 - <Snek> <STEAM_0:1:61232725> <172.30.40.232> DISCONNECTED after 9 minutes. <Disconnect by user.>
+11:15:18 - <J-Craxy> <STEAM_0:0:6625562> <172.30.40.231> CONNECTED from <Unknown>
+11:16:09 - <[LL] Dudsmack> <STEAM_0:1:3648970> <172.30.40.24> CONNECTED from <Unknown>
+11:17:34 - <Buddha> <STEAM_0:0:1365877> <172.30.40.15> CONNECTED from <Unknown>
+11:18:37 - <Squirrell @ Lan> <STEAM_0:1:33676811> <172.30.41.114> DISCONNECTED after 7 minutes. <Disconnect by user.>
+11:22:57 - <[LL] Dudsmack> <STEAM_0:1:3648970> <172.30.40.24> DISCONNECTED after 7 minutes. <Disconnect by user.>
+11:23:46 - <[LL] Dudsmack> <STEAM_0:1:3648970> <172.30.40.24> CONNECTED from <Unknown>
+11:25:52 - <{CC} Gert> <STEAM_0:0:6605605> <172.30.41.63> DISCONNECTED after 42 minutes. <Disconnect by user.>
+11:30:44 - <Crumbledorf> <STEAM_0:0:2291677> <172.30.40.233> DISCONNECTED after 20 minutes. <Disconnect by user.>
+
+11:30:58 - ===== Map change to cp_mossrock =====
+
+11:31:01 - <{CC} Dynamite> <STEAM_0:1:12273896> <172.30.41.53> DISCONNECTED after -1 minutes. <Disconnect by user.>
+11:31:03 - <[LL] Dudsmack> <STEAM_0:1:3648970> <172.30.40.24> CONNECTED from <Unknown>
+11:31:03 - <[LL] allhawkeye85> <STEAM_0:0:14250402> <172.30.40.27> CONNECTED from <Unknown>
+11:31:03 - <Arkarian @ Laclede's LAN> <STEAM_0:1:25878607> <172.30.41.76> CONNECTED from <Unknown>
+11:31:03 - <Weather Report @Lacledes LAN> <STEAM_0:0:56294292> <172.30.41.7> CONNECTED from <Unknown>
+11:31:03 - <[LL]arcticfox012> <STEAM_0:0:2507775> <172.30.40.7> CONNECTED from <Unknown>
+11:31:03 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+11:31:03 - <Brak | LacledesLAN.com> <STEAM_0:0:37528077> <172.30.40.3> CONNECTED from <Unknown>
+11:31:03 - <BraveSirRobbin> <STEAM_0:1:1626752> <172.30.41.140> CONNECTED from <Unknown>
+11:31:03 - <Buddha> <STEAM_0:0:1365877> <172.30.40.15> CONNECTED from <Unknown>
+11:31:03 - <J-Craxy> <STEAM_0:0:6625562> <172.30.40.231> CONNECTED from <Unknown>
+11:40:54 - <{CC} Gert> <STEAM_0:0:6605605> <172.30.41.63> CONNECTED from <Unknown>
+11:41:08 - <{CC} Dynamite> <STEAM_0:1:12273896> <172.30.41.53> CONNECTED from <Unknown>
+11:46:52 - <Weather Report @Lacledes LAN> <STEAM_0:0:56294292> <172.30.41.7> DISCONNECTED after 16 minutes. <Disconnect by user.>
+11:54:03 - <Buddha> <STEAM_0:0:1365877> <172.30.40.15> DISCONNECTED after 24 minutes. <Disconnect by user.>
+11:59:33 - <[LL] sargentwolf> <STEAM_0:1:6618789> <172.30.40.229> CONNECTED from <Unknown>
+11:59:44 - <silenc3> <STEAM_0:1:2456742> <172.30.40.32> CONNECTED from <Unknown>
+
+12:01:58 - ===== Map change to koth_brazil =====
+
+12:02:05 - <[LL] sargentwolf> <STEAM_0:1:6618789> <172.30.40.229> CONNECTED from <Unknown>
+12:07:40 - <{CC} Gert> <STEAM_0:0:6605605> <172.30.41.63> DISCONNECTED after 27 minutes. <Disconnect by user.>
+12:11:19 - <S†ella_Maris> <STEAM_0:1:31304961> <172.30.41.102> CONNECTED from <Unknown>
+12:15:29 - <silenc3> <STEAM_0:1:2456742> <172.30.40.32> DISCONNECTED after 16 minutes. <Disconnect by user.>
+12:15:46 - <{CC} Dynamite> <STEAM_0:1:12273896> <172.30.41.53> DISCONNECTED after 35 minutes. <Disconnect by user.>
+12:17:22 - <[LL] allhawkeye85> <STEAM_0:0:14250402> <172.30.40.27> DISCONNECTED after 47 minutes. <Disconnect by user.>
+12:17:32 - <[LL] Dudsmack> <STEAM_0:1:3648970> <172.30.40.24> DISCONNECTED after 47 minutes. <Disconnect by user.>
+12:17:58 - <BraveSirRobbin> <STEAM_0:1:1626752> <172.30.41.140> DISCONNECTED after 47 minutes. <Disconnect by user.>
+12:18:12 - <Brak | LacledesLAN.com> <STEAM_0:0:37528077> <172.30.40.3> DISCONNECTED after 48 minutes. <Disconnect by user.>
+12:18:19 - <[LL]arcticfox012> <STEAM_0:0:2507775> <172.30.40.7> DISCONNECTED after 48 minutes. <Disconnect by user.>
+12:18:45 - <Arkarian @ Laclede's LAN> <STEAM_0:1:25878607> <172.30.41.76> DISCONNECTED after 48 minutes. <Disconnect by user.>
+12:18:56 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> DISCONNECTED after 48 minutes. <Disconnect by user.>
+12:19:14 - <[LL] sargentwolf> <STEAM_0:1:6618789> <172.30.40.229> DISCONNECTED after 18 minutes. <Disconnect by user.>
+12:19:33 - <J-Craxy> <STEAM_0:0:6625562> <172.30.40.231> DISCONNECTED after 49 minutes. <Disconnect by user.>
+12:20:31 - <S†ella_Maris> <STEAM_0:1:31304961> <172.30.41.102> DISCONNECTED after 10 minutes. <Disconnect by user.>

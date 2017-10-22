@@ -1,0 +1,9 @@
+
+17:11:31 - ===== Map change to koth_lolcano_b3 =====
+
+17:34:10 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+
+17:36:11 - ===== Map change to koth_brazil =====
+
+17:36:21 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+17:36:50 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> DISCONNECTED after 1 minutes. <Disconnect by user.>

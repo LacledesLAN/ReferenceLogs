@@ -1,0 +1,11 @@
+
+09:34:24 - ===== Map change to cp_mercenarypark =====
+
+
+23:53:44 - ===== Map change to koth_brazil =====
+
+23:54:12 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+23:55:42 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> DISCONNECTED after 2 minutes. <Disconnect by user.>
+10:00:16 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
+10:01:07 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> DISCONNECTED after 1 minutes. <Disconnect by user.>
+10:01:20 - <BEan | LacledesLAN.com> <STEAM_0:0:3804719> <172.30.40.9> CONNECTED from <Unknown>
