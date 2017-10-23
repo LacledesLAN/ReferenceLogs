@@ -1,0 +1,22 @@
+
+01:50:04 - ===== Map change to de_nuke =====
+
+01:53:14 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+01:53:48 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+01:53:55 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+01:54:21 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+01:55:39 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+01:58:19 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+01:58:20 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+01:58:32 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+01:58:44 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+01:58:44 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+02:28:03 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 34 minutes. <Disconnect>
+02:29:20 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+02:29:51 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 1 minutes. <Disconnect>
+02:30:09 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+02:53:46 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 59 minutes. <Disconnect>
+02:53:53 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 61 minutes. <Disconnect>
+02:53:55 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> DISCONNECTED after 61 minutes. <Disconnect>
+02:54:01 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 61 minutes. <Disconnect>
+02:54:53 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> DISCONNECTED after 57 minutes. <Disconnect>

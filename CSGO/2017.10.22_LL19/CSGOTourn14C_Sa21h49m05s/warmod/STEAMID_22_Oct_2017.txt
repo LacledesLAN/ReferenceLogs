@@ -1,0 +1,23 @@
+
+02:49:32 - ===== Map change to de_overpass =====
+
+02:56:09 - <SAUCY #luckistoxic> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+02:59:16 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+02:59:23 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+02:59:57 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+03:00:42 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+03:01:03 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+03:01:15 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+03:01:16 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+03:01:38 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+03:01:39 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+03:53:09 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> DISCONNECTED after 54 minutes. <Disconnect>
+03:54:07 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 55 minutes. <Disconnect>
+03:54:07 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 53 minutes. <Disconnect>
+03:54:36 - <doku> <STEAM_1:0:59627425> <172.30.40.164> DISCONNECTED after 54 minutes. <Disconnect>
+03:54:40 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> DISCONNECTED after 54 minutes. <Disconnect>
+03:55:39 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> DISCONNECTED after 55 minutes. <Disconnect>
+03:55:41 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> DISCONNECTED after 55 minutes. <Disconnect>
+03:55:45 - <SAUCY #luckistoxic> <STEAM_1:0:44975263> <172.30.40.49> DISCONNECTED after 60 minutes. <Disconnect>
+03:59:51 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> DISCONNECTED after 61 minutes. <Disconnect>
+04:08:01 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> DISCONNECTED after 68 minutes. <Disconnect>

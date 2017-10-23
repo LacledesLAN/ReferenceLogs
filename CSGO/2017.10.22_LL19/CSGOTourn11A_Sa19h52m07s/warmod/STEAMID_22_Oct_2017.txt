@@ -1,0 +1,18 @@
+
+00:52:46 - ===== Map change to de_train =====
+
+00:53:50 - <stratjuan> <STEAM_1:0:59942879> <172.30.40.99> CONNECTED from <Unknown>
+00:54:33 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> CONNECTED from <Unknown>
+00:54:44 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> CONNECTED from <Unknown>
+00:55:22 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+00:55:50 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> CONNECTED from <Unknown>
+00:55:58 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> CONNECTED from <Unknown>
+00:56:01 - <DarkSkittle> <STEAM_1:0:31619715> <172.30.41.13> CONNECTED from <Unknown>
+00:56:20 - <Worrthy> <STEAM_1:0:91078496> <172.30.40.98> CONNECTED from <Unknown>
+00:56:20 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.30.40.227> CONNECTED from <Unknown>
+00:58:51 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> CONNECTED from <Unknown>
+01:30:03 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> DISCONNECTED after 32 minutes. <Disconnect>
+01:30:09 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> DISCONNECTED after 35 minutes. <Disconnect>
+01:30:11 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> DISCONNECTED after 36 minutes. <Disconnect>
+01:30:31 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 36 minutes. <Disconnect>
+01:30:49 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.30.40.227> DISCONNECTED after 35 minutes. <Disconnect>

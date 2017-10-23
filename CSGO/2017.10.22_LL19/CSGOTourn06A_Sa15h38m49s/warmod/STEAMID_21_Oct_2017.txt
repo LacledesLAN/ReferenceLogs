@@ -1,0 +1,24 @@
+
+20:39:27 - ===== Map change to de_nuke =====
+
+20:40:21 - <HeavenlySeven> <STEAM_1:0:16891123> <172.30.40.241> CONNECTED from <Unknown>
+20:40:31 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+20:40:32 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+20:40:42 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> DISCONNECTED after 1 minutes. <blinK @ LAN timed out>
+20:40:43 - <{Valhalla}Boushe> <STEAM_1:1:17357973> <172.30.40.226> CONNECTED from <Unknown>
+20:40:48 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+20:40:50 - <Vladimir Purrrtin> <STEAM_1:0:15881648> <172.30.40.240> CONNECTED from <Unknown>
+20:40:52 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+20:41:11 - <Harnetoad @LAN> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+20:41:18 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+20:41:33 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> DISCONNECTED after 1 minutes. <Disconnect>
+20:41:38 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+20:41:50 - <JamesAdams1988> <STEAM_1:0:15304602> <172.30.40.244> CONNECTED from <Unknown>
+20:58:53 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> DISCONNECTED after 19 minutes. <Disconnect>
+20:59:10 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+21:18:01 - <{Valhalla}Boushe> <STEAM_1:1:17357973> <172.30.40.226> DISCONNECTED after 38 minutes. <Disconnect>
+21:18:06 - <JamesAdams1988> <STEAM_1:0:15304602> <172.30.40.244> DISCONNECTED after 37 minutes. <Disconnect>
+21:18:08 - <Vladimir Purrrtin> <STEAM_1:0:15881648> <172.30.40.240> DISCONNECTED after 38 minutes. <Disconnect>
+21:18:10 - <HeavenlySeven> <STEAM_1:0:16891123> <172.30.40.241> DISCONNECTED after 38 minutes. <Disconnect>
+21:18:25 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> DISCONNECTED after 38 minutes. <Disconnect>
+21:18:38 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> DISCONNECTED after 38 minutes. <Disconnect>

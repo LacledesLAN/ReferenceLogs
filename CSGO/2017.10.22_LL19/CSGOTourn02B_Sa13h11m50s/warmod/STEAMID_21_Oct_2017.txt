@@ -1,0 +1,23 @@
+
+18:12:34 - ===== Map change to de_inferno =====
+
+18:21:20 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+18:21:54 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+18:21:55 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+18:22:01 - <Wheezus Christ> <STEAM_1:0:78251735> <172.30.40.85> CONNECTED from <Unknown>
+18:22:17 - <Revochi> <STEAM_1:1:223437444> <172.30.40.92> CONNECTED from <Unknown>
+18:22:38 - <Tye Tass> <STEAM_1:1:39528403> <172.30.41.6> CONNECTED from <Unknown>
+18:22:40 - <Tim> <STEAM_1:1:63013555> <172.30.40.249> CONNECTED from <Unknown>
+18:22:49 - <Lustful Larry> <STEAM_1:0:61405731> <172.30.40.80> CONNECTED from <Unknown>
+18:23:18 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+18:27:01 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+18:54:25 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 33 minutes. <Disconnect>
+18:54:30 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> DISCONNECTED after 34 minutes. <Disconnect>
+18:54:33 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 33 minutes. <Disconnect>
+18:54:33 - <Lustful Larry> <STEAM_1:0:61405731> <172.30.40.80> DISCONNECTED after 32 minutes. <Disconnect>
+18:54:36 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 28 minutes. <Disconnect>
+18:54:37 - <Wheezus Christ> <STEAM_1:0:78251735> <172.30.40.85> DISCONNECTED after 33 minutes. <Disconnect>
+18:54:38 - <Tim> <STEAM_1:1:63013555> <172.30.40.249> DISCONNECTED after 33 minutes. <Disconnect>
+18:54:39 - <Tye Tass> <STEAM_1:1:39528403> <172.30.41.6> DISCONNECTED after 33 minutes. <Disconnect>
+18:54:47 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 32 minutes. <Disconnect>
+18:56:07 - <Revochi> <STEAM_1:1:223437444> <172.30.40.92> DISCONNECTED after 34 minutes. <Disconnect>

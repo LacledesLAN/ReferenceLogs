@@ -1,0 +1,25 @@
+
+20:11:23 - ===== Map change to de_inferno =====
+
+20:12:19 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+20:12:27 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+20:12:48 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+20:12:58 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+20:13:34 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+20:14:22 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+20:15:12 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+20:15:46 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+20:18:20 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+20:20:03 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> DISCONNECTED after 8 minutes. <Disconnect>
+20:20:33 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+20:21:32 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+21:07:12 - <doku> <STEAM_1:0:59627425> <172.30.40.164> DISCONNECTED after 52 minutes. <Disconnect>
+21:07:14 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> DISCONNECTED after 53 minutes. <Disconnect>
+21:07:23 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> DISCONNECTED after 55 minutes. <Disconnect>
+21:07:43 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> DISCONNECTED after 48 minutes. <Disconnect>
+21:07:58 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 53 minutes. <Disconnect>
+21:08:00 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> DISCONNECTED after 56 minutes. <Disconnect>
+21:08:08 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> DISCONNECTED after 50 minutes. <Disconnect>
+21:08:12 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> DISCONNECTED after 47 minutes. <Disconnect>
+21:08:14 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> DISCONNECTED after 56 minutes. <Disconnect>
+21:08:43 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 56 minutes. <Disconnect>

@@ -1,0 +1,381 @@
+L 10/21/2017 - 18:13:20: Log file started (file "logs/L172_017_000_002_27015_201710211813_000.log") (game "/app/csgo") (version "6878")
+L 10/21/2017 - 18:13:20: rcon from "172.30.40.16:62633": command "log on"
+L 10/21/2017 - 18:13:20: rcon from "172.30.40.16:62633": command "logaddress_add 165.134.31.36:52371"
+L 10/21/2017 - 18:13:24: rcon from "172.30.40.16:62633": command "stats"
+L 10/21/2017 - 18:13:26: rcon from "172.30.40.16:62633": command "status"
+L 10/21/2017 - 18:20:37: rcon from "172.30.40.18:51314": command "echo Welcome user!"
+L 10/21/2017 - 18:20:37: server_cvar: "sv_password" "***PROTECTED***"
+L 10/21/2017 - 18:20:37: rcon from "172.30.40.18:51314": command "sv_password ***PROTECTED***"
+L 10/21/2017 - 18:21:15: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><>" connected, address ""
+L 10/21/2017 - 18:21:16: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><>" STEAM USERID validated
+L 10/21/2017 - 18:21:22: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><>" entered the game
+L 10/21/2017 - 18:21:28: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:21:32: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:21:32: World triggered "Game_Commencing"
+L 10/21/2017 - 18:21:32: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:21:32: Starting Freeze period
+L 10/21/2017 - 18:21:32: World triggered "Match_Start" on "de_inferno"
+L 10/21/2017 - 18:21:32: Team playing "CT": OMEGALUL
+L 10/21/2017 - 18:21:32: Team playing "TERRORIST": Clueless5
+L 10/21/2017 - 18:21:34: World triggered "Round_Start"
+L 10/21/2017 - 18:21:49: "RylerTowe<4><STEAM_1:0:197066498><>" connected, address ""
+L 10/21/2017 - 18:21:49: "RylerTowe<4><STEAM_1:0:197066498><>" STEAM USERID validated
+L 10/21/2017 - 18:21:49: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:21:49: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "m4a1"
+L 10/21/2017 - 18:21:49: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:21:50: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:21:50: "brandon^v^<5><STEAM_1:1:86108244><>" connected, address ""
+L 10/21/2017 - 18:21:50: "brandon^v^<5><STEAM_1:1:86108244><>" STEAM USERID validated
+L 10/21/2017 - 18:21:56: "Wheezus Christ<6><STEAM_1:0:78251735><>" connected, address ""
+L 10/21/2017 - 18:21:56: "Wheezus Christ<6><STEAM_1:0:78251735><>" STEAM USERID validated
+L 10/21/2017 - 18:21:58: "brandon^v^<5><STEAM_1:1:86108244><>" entered the game
+L 10/21/2017 - 18:22:02: "RylerTowe<4><STEAM_1:0:197066498><>" entered the game
+L 10/21/2017 - 18:22:03: "brandon^v^<5><STEAM_1:1:86108244><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:05: "brandon^v^<5><STEAM_1:1:86108244>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 18:22:05: "brandon^v^<5><STEAM_1:1:86108244><TERRORIST>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:06: "Wheezus Christ<6><STEAM_1:0:78251735><>" entered the game
+L 10/21/2017 - 18:22:07: "brandon^v^<5><STEAM_1:1:86108244>" switched from team <TERRORIST> to <CT>
+L 10/21/2017 - 18:22:07: "brandon^v^<5><STEAM_1:1:86108244><CT>" [-1708 674 15] committed suicide with "world"
+L 10/21/2017 - 18:22:07: "brandon^v^<5><STEAM_1:1:86108244><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/21/2017 - 18:22:07: "Rick<7><BOT><>" connected, address ""
+L 10/21/2017 - 18:22:07: "Rick<7><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 18:22:07: "Rick<7><BOT><>" entered the game
+L 10/21/2017 - 18:22:07: "brandon^v^<5><STEAM_1:1:86108244><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:07: "Rick<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:22:07: "Rick<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:09: "Rick<7><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:09: "RylerTowe<4><STEAM_1:0:197066498><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:11: "Wheezus Christ<6><STEAM_1:0:78251735><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:12: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "m4a1"
+L 10/21/2017 - 18:22:12: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:12: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "fiveseven"
+L 10/21/2017 - 18:22:12: "Revochi<8><STEAM_1:1:223437444><>" connected, address ""
+L 10/21/2017 - 18:22:13: "Revochi<8><STEAM_1:1:223437444><>" STEAM USERID validated
+L 10/21/2017 - 18:22:15: "Wheezus Christ<6><STEAM_1:0:78251735>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:15: "Wheezus Christ<6><STEAM_1:0:78251735><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:15: "RylerTowe<4><STEAM_1:0:197066498>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:15: "RylerTowe<4><STEAM_1:0:197066498><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:16: "Rick<7><BOT><TERRORIST>" [-885 526 -32] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-769 539 -15] with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "chest")
+L 10/21/2017 - 18:22:16: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-835 516 -29] attacked "Rick<7><BOT><TERRORIST>" [-885 526 -32] with "knife" (damage "55") (damage_armor "4") (health "45") (armor "95") (hitgroup "generic")
+L 10/21/2017 - 18:22:17: "Rick<7><BOT><TERRORIST>" [-885 526 -32] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-841 527 10] with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "95") (hitgroup "left leg")
+L 10/21/2017 - 18:22:17: "Rick<7><BOT><TERRORIST>" [-885 526 -32] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-844 523 -4] with "ak47" (damage "27") (damage_armor "4") (health "20") (armor "90") (hitgroup "chest")
+L 10/21/2017 - 18:22:17: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-854 539 -32] attacked "Rick<7><BOT><TERRORIST>" [-885 522 -32] with "knife" (damage "55") (damage_armor "4") (health "0") (armor "90") (hitgroup "generic")
+L 10/21/2017 - 18:22:17: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-854 539 -32] killed "Rick<7><BOT><TERRORIST>" [-885 522 32] with "knife_default_ct"
+L 10/21/2017 - 18:22:18: "brandon^v^<5><STEAM_1:1:86108244><CT>" left buyzone with [ weapon_knife weapon_fiveseven weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:18: "Rick<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:22:18: "Rick<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:20: "Rick<7><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:20: "Wheezus Christ<6><STEAM_1:0:78251735>" switched from team <CT> to <TERRORIST>
+L 10/21/2017 - 18:22:20: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [2434 2157 192] committed suicide with "world"
+L 10/21/2017 - 18:22:21: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock ]
+L 10/21/2017 - 18:22:21: "Hank<9><BOT><>" connected, address ""
+L 10/21/2017 - 18:22:21: "Hank<9><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:21: "Hank<9><BOT><>" entered the game
+L 10/21/2017 - 18:22:21: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:21: "Hank<9><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 18:22:21: "Hank<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:21: "RylerTowe<4><STEAM_1:0:197066498><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2017 - 18:22:24: "Hank<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_xm1014 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:28: "Revochi<8><STEAM_1:1:223437444><>" entered the game
+L 10/21/2017 - 18:22:28: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock ]
+L 10/21/2017 - 18:22:33: "Tye Tass<10><STEAM_1:1:39528403><>" connected, address ""
+L 10/21/2017 - 18:22:33: "Tye Tass<10><STEAM_1:1:39528403><>" STEAM USERID validated
+L 10/21/2017 - 18:22:34: "Rick<7><BOT><TERRORIST>" [-407 -37 14] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [371 -259 88] with "ak47" (damage "14") (damage_armor "2") (health "6") (armor "87") (hitgroup "stomach")
+L 10/21/2017 - 18:22:34: "Revochi<8><STEAM_1:1:223437444><Unassigned>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:22:35: "Rick<7><BOT><TERRORIST>" [-407 -37 14] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [375 -247 88] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "82") (hitgroup "stomach")
+L 10/21/2017 - 18:22:35: "Rick<7><BOT><TERRORIST>" [-407 -37 14] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [375 -247 152] with "ak47"
+L 10/21/2017 - 18:22:35: "Tim<11><STEAM_1:1:63013555><>" connected, address ""
+L 10/21/2017 - 18:22:35: "Tim<11><STEAM_1:1:63013555><>" STEAM USERID validated
+L 10/21/2017 - 18:22:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "m4a1"
+L 10/21/2017 - 18:22:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:22:37: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:22:40: "Revochi<8><STEAM_1:1:223437444>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:40: "Tye Tass<10><STEAM_1:1:39528403><>" entered the game
+L 10/21/2017 - 18:22:40: "Revochi<8><STEAM_1:1:223437444><CT>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:22:41: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:41: "Rick<7><BOT><TERRORIST>" [100 -61 47] attacked "Hank<9><BOT><CT>" [737 -39 91] with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2017 - 18:22:41: "Rick<7><BOT><TERRORIST>" [100 -61 47] killed "Hank<9><BOT><CT>" [737 -39 155] with "ak47" (headshot)
+L 10/21/2017 - 18:22:41: "Hank<9><BOT><CT>" purchased "p90"
+L 10/21/2017 - 18:22:41: "Hank<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:42: "Hank<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_p90 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:42: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock kevlar(100) helmet ]
+L 10/21/2017 - 18:22:44: "Revochi<8><STEAM_1:1:223437444><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2017 - 18:22:44: "Lustful Larry<12><STEAM_1:0:61405731><>" connected, address ""
+L 10/21/2017 - 18:22:45: "Lustful Larry<12><STEAM_1:0:61405731><>" STEAM USERID validated
+L 10/21/2017 - 18:22:46: "brandon^v^<5><STEAM_1:1:86108244><CT>" say "switch teams for clueless 5"
+L 10/21/2017 - 18:22:47: "Tye Tass<10><STEAM_1:1:39528403><Unassigned>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:22:49: "Rick<7><BOT><TERRORIST>" [769 80 96] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [882 300 125] with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "right leg")
+L 10/21/2017 - 18:22:50: "Rick<7><BOT><TERRORIST>" [769 80 96] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [869 289 149] with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "100") (hitgroup "left leg")
+L 10/21/2017 - 18:22:50: "Rick<7><BOT><TERRORIST>" [769 80 96] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [869 285 145] with "ak47" (damage "110") (damage_armor "16") (health "0") (armor "83") (hitgroup "head")
+L 10/21/2017 - 18:22:50: "Rick<7><BOT><TERRORIST>" [769 80 96] killed "brandon^v^<5><STEAM_1:1:86108244><CT>" [869 285 209] with "ak47" (headshot)
+L 10/21/2017 - 18:22:51: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "m4a1"
+L 10/21/2017 - 18:22:51: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:51: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "fiveseven"
+L 10/21/2017 - 18:22:52: "Tye Tass<10><STEAM_1:1:39528403>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 18:22:52: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:22:53: "brandon^v^<5><STEAM_1:1:86108244><CT>" left buyzone with [ weapon_knife weapon_fiveseven weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:54: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:54: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [876 -656 97] attacked "Rick<7><BOT><TERRORIST>" [931 7 91] with "m4a1" (damage "88") (damage_armor "19") (health "12") (armor "80") (hitgroup "head")
+L 10/21/2017 - 18:22:54: "Rick<7><BOT><TERRORIST>" [931 7 91] attacked "RylerTowe<4><STEAM_1:0:197066498><CT>" [676 -7 88] with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:22:54: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] attacked "Hank<9><BOT><CT>" [1314 577 125] with "glock" (damage "48") (damage_armor "27") (health "52") (armor "72") (hitgroup "head")
+L 10/21/2017 - 18:22:54: "Rick<7><BOT><TERRORIST>" [931 7 91] attacked "RylerTowe<4><STEAM_1:0:197066498><CT>" [616 -10 85] with "ak47" (damage "26") (damage_armor "0") (health "39") (armor "0") (hitgroup "left leg")
+L 10/21/2017 - 18:22:54: "RylerTowe<4><STEAM_1:0:197066498><CT>" [615 -10 85] attacked "Rick<7><BOT><TERRORIST>" [931 7 91] with "hkp2000" (damage "16") (damage_armor "8") (health "0") (armor "71") (hitgroup "chest")
+L 10/21/2017 - 18:22:54: "RylerTowe<4><STEAM_1:0:197066498><CT>" [615 -10 85] killed "Rick<7><BOT><TERRORIST>" [931 7 137] with "usp_silencer"
+L 10/21/2017 - 18:22:54: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" assisted killing "Rick<7><BOT><TERRORIST>"
+L 10/21/2017 - 18:22:55: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] attacked "Hank<9><BOT><CT>" [1314 577 125] with "glock" (damage "11") (damage_armor "6") (health "41") (armor "65") (hitgroup "chest")
+L 10/21/2017 - 18:22:55: "Rick<7><BOT><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:22:55: "Rick<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:55: "Hank<9><BOT><CT>" [1314 577 125] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] with "p90" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:22:55: "Hank<9><BOT><CT>" [1314 577 125] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] with "p90" (damage "19") (damage_armor "4") (health "62") (armor "90") (hitgroup "stomach")
+L 10/21/2017 - 18:22:55: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] attacked "Hank<9><BOT><CT>" [1314 577 125] with "glock" (damage "48") (damage_armor "27") (health "0") (armor "37") (hitgroup "head")
+L 10/21/2017 - 18:22:55: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] killed "Hank<9><BOT><CT>" [1314 577 189] with "glock" (headshot)
+L 10/21/2017 - 18:22:55: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [887 -631 99] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 87] with "m4a1" (damage "86") (damage_armor "18") (health "0") (armor "71") (hitgroup "head")
+L 10/21/2017 - 18:22:55: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [887 -631 99] killed "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [809 522 151] with "m4a1" (headshot)
+L 10/21/2017 - 18:22:55: "Hank<9><BOT><CT>" purchased "aug"
+L 10/21/2017 - 18:22:55: "Hank<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:55: "Hank<9><BOT><CT>" purchased "p250"
+L 10/21/2017 - 18:22:58: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:58: "Hank<9><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_aug kevlar(100) helmet ]
+L 10/21/2017 - 18:22:58: "Rick<7><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:58: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:22:59: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:23:00: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:01: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:02: "Revochi<8><STEAM_1:1:223437444>" switched from team <CT> to <TERRORIST>
+L 10/21/2017 - 18:23:02: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1544 1115 222] committed suicide with "world"
+L 10/21/2017 - 18:23:02: "Seth<13><BOT><>" connected, address ""
+L 10/21/2017 - 18:23:02: "Seth<13><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:23:02: "Seth<13><BOT><>" entered the game
+L 10/21/2017 - 18:23:02: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:23:03: "Seth<13><BOT><CT>" purchased "aug"
+L 10/21/2017 - 18:23:03: "Seth<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:03: "Seth<13><BOT><CT>" purchased "p250"
+L 10/21/2017 - 18:23:03: "Seth<13><BOT><CT>" purchased "incgrenade"
+L 10/21/2017 - 18:23:05: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" purchased "item_kevlar"
+L 10/21/2017 - 18:23:05: "Seth<13><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_aug weapon_incgrenade kevlar(100) helmet ]
+L 10/21/2017 - 18:23:06: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" purchased "g3sg1"
+L 10/21/2017 - 18:23:06: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_g3sg1 kevlar(100) ]
+L 10/21/2017 - 18:23:08: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-547 -134 3] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [914 -119 298] with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100") (hitgroup "right leg")
+L 10/21/2017 - 18:23:08: "brandon^v^<5><STEAM_1:1:86108244><CT>" [896 -104 296] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-547 -134 3] with "m4a1" (damage "21") (damage_armor "4") (health "79") (armor "95") (hitgroup "chest")
+L 10/21/2017 - 18:23:09: "brandon^v^<5><STEAM_1:1:86108244><CT>" [896 -105 296] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-547 -134 3] with "m4a1" (damage "84") (damage_armor "18") (health "0") (armor "76") (hitgroup "head")
+L 10/21/2017 - 18:23:09: "brandon^v^<5><STEAM_1:1:86108244><CT>" [896 -105 296] killed "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-547 -134 67] with "m4a1" (headshot)
+L 10/21/2017 - 18:23:10: "RylerTowe<4><STEAM_1:0:197066498><CT>" [-522 882 24] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-727 632 -32] with "hkp2000" (damage "66") (damage_armor "32") (health "34") (armor "67") (hitgroup "head")
+L 10/21/2017 - 18:23:11: "Rick<7><BOT><TERRORIST>" [-362 -242 15] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [710 -138 91] with "ak47" (damage "26") (damage_armor "3") (health "49") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:23:11: "Lustful Larry<12><STEAM_1:0:61405731><>" entered the game
+L 10/21/2017 - 18:23:11: "RylerTowe<4><STEAM_1:0:197066498><CT>" [-532 873 24] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-727 632 -32] with "hkp2000" (damage "66") (damage_armor "32") (health "0") (armor "34") (hitgroup "head")
+L 10/21/2017 - 18:23:11: "RylerTowe<4><STEAM_1:0:197066498><CT>" [-532 873 24] killed "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-727 632 32] with "usp_silencer" (headshot)
+L 10/21/2017 - 18:23:11: "Rick<7><BOT><TERRORIST>" [-362 -242 15] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [643 -141 88] with "ak47" (damage "6") (damage_armor "0") (health "43") (armor "96") (hitgroup "left leg")
+L 10/21/2017 - 18:23:12: "Rick<7><BOT><TERRORIST>" [-362 -242 15] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [548 -144 88] with "ak47" (damage "5") (damage_armor "0") (health "38") (armor "96") (hitgroup "right leg")
+L 10/21/2017 - 18:23:12: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:13: "Rick<7><BOT><TERRORIST>" [-362 -242 15] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [503 -164 88] with "ak47" (damage "26") (damage_armor "3") (health "12") (armor "92") (hitgroup "right arm")
+L 10/21/2017 - 18:23:13: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:23:13: "Honor<14><STEAM_1:0:40867433><>" connected, address ""
+L 10/21/2017 - 18:23:13: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "awp"
+L 10/21/2017 - 18:23:13: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-864 41 3] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [469 -199 141] with "g3sg1" (damage "56") (damage_armor "0") (health "0") (armor "92") (hitgroup "right leg")
+L 10/21/2017 - 18:23:13: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-864 41 3] killed "brandon^v^<5><STEAM_1:1:86108244><CT>" [469 -199 205] with "g3sg1"
+L 10/21/2017 - 18:23:13: "Rick<7><BOT><TERRORIST>" assisted killing "brandon^v^<5><STEAM_1:1:86108244><CT>"
+L 10/21/2017 - 18:23:13: "Honor<14><STEAM_1:0:40867433><>" STEAM USERID validated
+L 10/21/2017 - 18:23:14: "RylerTowe<4><STEAM_1:0:197066498><CT>" [-540 876 24] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-865 36 8] with "hkp2000" (damage "118") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/21/2017 - 18:23:14: "RylerTowe<4><STEAM_1:0:197066498><CT>" [-540 876 24] killed "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-865 36 54] with "usp_silencer" (headshot)
+L 10/21/2017 - 18:23:15: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "m4a1"
+L 10/21/2017 - 18:23:15: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:15: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 ]
+L 10/21/2017 - 18:23:15: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "fiveseven"
+L 10/21/2017 - 18:23:15: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:23:15: "brandon^v^<5><STEAM_1:1:86108244><CT>" left buyzone with [ weapon_knife weapon_fiveseven weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:16: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" purchased "g3sg1"
+L 10/21/2017 - 18:23:18: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_g3sg1 ]
+L 10/21/2017 - 18:23:18: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-969 492 -37] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-253 877 12] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:23:19: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-975 520 -38] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-274 867 11] with "ak47" (damage "33") (damage_armor "4") (health "40") (armor "91") (hitgroup "stomach")
+L 10/21/2017 - 18:23:20: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-960 498 -36] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-310 909 7] with "ak47" (damage "26") (damage_armor "0") (health "14") (armor "91") (hitgroup "right leg")
+L 10/21/2017 - 18:23:20: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-959 497 -36] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-313 910 -4] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "87") (hitgroup "chest")
+L 10/21/2017 - 18:23:20: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-959 497 -36] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-313 910 52] with "ak47"
+L 10/21/2017 - 18:23:21: "Lustful Larry<12><STEAM_1:0:61405731><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:23:22: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:22: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "m4a1"
+L 10/21/2017 - 18:23:22: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:23:22: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:23:24: "Honor<14><STEAM_1:0:40867433><>" entered the game
+L 10/21/2017 - 18:23:26: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-208 825 20] attacked "Hank<9><BOT><CT>" [81 912 75] with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "chest")
+L 10/21/2017 - 18:23:26: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-193 792 22] attacked "Hank<9><BOT><CT>" [81 912 75] with "ak47" (damage "34") (damage_armor "5") (health "39") (armor "89") (hitgroup "stomach")
+L 10/21/2017 - 18:23:26: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-190 788 23] attacked "Hank<9><BOT><CT>" [81 912 75] with "ak47" (damage "27") (damage_armor "4") (health "12") (armor "84") (hitgroup "chest")
+L 10/21/2017 - 18:23:26: "Hank<9><BOT><CT>" [81 912 75] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-195 802 22] with "aug" (damage "20") (damage_armor "0") (health "80") (armor "0") (hitgroup "right leg")
+L 10/21/2017 - 18:23:27: "Hank<9><BOT><CT>" [81 912 75] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-197 807 22] with "aug" (damage "27") (damage_armor "0") (health "53") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:27: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-198 809 22] attacked "Hank<9><BOT><CT>" [81 912 75] with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "79") (hitgroup "chest")
+L 10/21/2017 - 18:23:27: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [-198 809 22] killed "Hank<9><BOT><CT>" [81 912 139] with "ak47"
+L 10/21/2017 - 18:23:27: "Hank<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:23:27: "Hank<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:27: "Hank<9><BOT><CT>" purchased "p250"
+L 10/21/2017 - 18:23:29: "Lustful Larry<12><STEAM_1:0:61405731>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 18:23:29: "Honor<14><STEAM_1:0:40867433><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:23:29: "Hank<9><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" triggered "clantag" (value "")
+L 10/21/2017 - 18:23:29: "Rick<7><BOT><TERRORIST>" [34 -99 41] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [529 -207 88] with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:23:30: "Rick<7><BOT><TERRORIST>" [34 -99 41] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [526 -206 88] with "ak47" (damage "27") (damage_armor "3") (health "39") (armor "91") (hitgroup "chest")
+L 10/21/2017 - 18:23:30: "Rick<7><BOT><TERRORIST>" [34 -99 41] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [526 -206 88] with "ak47" (damage "27") (damage_armor "3") (health "12") (armor "87") (hitgroup "chest")
+L 10/21/2017 - 18:23:31: "Rick<7><BOT><TERRORIST>" [34 -99 41] attacked "brandon^v^<5><STEAM_1:1:86108244><CT>" [526 -206 88] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "87") (hitgroup "left leg")
+L 10/21/2017 - 18:23:31: "Rick<7><BOT><TERRORIST>" [34 -99 41] killed "brandon^v^<5><STEAM_1:1:86108244><CT>" [526 -206 152] with "ak47"
+L 10/21/2017 - 18:23:34: "Honor<14><STEAM_1:0:40867433>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:23:34: "Hank<9><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 18:23:34: "Hank<9><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2017 - 18:23:34: "Honor<14><STEAM_1:0:40867433><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:23:35: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [381 2108 130] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [204 1290 124] with "m4a1" (damage "21") (damage_armor "4") (health "79") (armor "95") (hitgroup "chest")
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [380 2108 130] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [215 1312 108] with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "90") (hitgroup "chest")
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [380 2108 130] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [220 1324 98] with "m4a1" (damage "22") (damage_armor "4") (health "36") (armor "85") (hitgroup "left arm")
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [380 2108 130] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [218 1332 98] with "m4a1" (damage "22") (damage_armor "4") (health "14") (armor "80") (hitgroup "chest")
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [380 2108 130] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [214 1334 98] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "chest")
+L 10/21/2017 - 18:23:35: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [380 2108 130] killed "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [214 1334 162] with "m4a1"
+L 10/21/2017 - 18:23:37: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:38: "Honor<14><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2017 - 18:23:38: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "awp"
+L 10/21/2017 - 18:23:39: "Honor<14><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2017 - 18:23:40: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:23:40: "RylerTowe<4><STEAM_1:0:197066498><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-27 792 59] with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-28 793 59] with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-27 792 59] with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [29 899 70] with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-25 791 60] with "m4a1" (damage "19") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] killed "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-25 791 124] with "m4a1" (penetrated)
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [207 1206 102] attacked "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [42 895 70] with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:42: rcon from "172.30.40.16:62633": command "score"
+L 10/21/2017 - 18:23:42: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [198 1212 101] attacked "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [56 881 71] with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:43: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [208 1207 102] attacked "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [63 871 71] with "m4a1" (damage "32") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:43: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [208 1207 102] killed "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [63 871 135] with "m4a1"
+L 10/21/2017 - 18:23:44: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [-1468 386 -64] killed other "chicken<200>" [-1475 210 -64] with "glock"
+L 10/21/2017 - 18:23:44: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/21/2017 - 18:23:45: "Seth<13><BOT><CT>" [327 -462 96] attacked "Rick<7><BOT><TERRORIST>" [292 204 4] with "aug" (damage "24") (damage_armor "1") (health "76") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:23:45: "Seth<13><BOT><CT>" [327 -462 96] killed other "chicken<197>" [301 459 3] with "aug" (penetrated)
+L 10/21/2017 - 18:23:45: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [152 928 79] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-737 666 -32] with "m4a1" (damage "87") (damage_armor "18") (health "13") (armor "81") (hitgroup "head")
+L 10/21/2017 - 18:23:45: "Seth<13><BOT><CT>" [327 -462 96] attacked "Rick<7><BOT><TERRORIST>" [292 204 4] with "aug" (damage "24") (damage_armor "1") (health "52") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:23:46: "Rick<7><BOT><TERRORIST>" [292 204 4] attacked "Seth<13><BOT><CT>" [327 -462 96] with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "left leg")
+L 10/21/2017 - 18:23:46: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:23:46: "Seth<13><BOT><CT>" [327 -462 96] attacked "Rick<7><BOT><TERRORIST>" [292 204 4] with "aug" (damage "20") (damage_armor "0") (health "32") (armor "96") (hitgroup "left leg")
+L 10/21/2017 - 18:23:46: "Seth<13><BOT><CT>" [327 -462 96] attacked "Rick<7><BOT><TERRORIST>" [292 204 4] with "aug" (damage "30") (damage_armor "1") (health "2") (armor "94") (hitgroup "stomach")
+L 10/21/2017 - 18:23:46: "Seth<13><BOT><CT>" [327 -462 96] attacked "Rick<7><BOT><TERRORIST>" [292 204 4] with "aug" (damage "24") (damage_armor "1") (health "0") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:23:46: "Seth<13><BOT><CT>" [327 -462 96] killed "Rick<7><BOT><TERRORIST>" [292 204 68] with "aug"
+L 10/21/2017 - 18:23:47: "Rick<7><BOT><TERRORIST>" purchased "sg556"
+L 10/21/2017 - 18:23:47: "Rick<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:47: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 ]
+L 10/21/2017 - 18:23:47: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-752 700 -32] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-49 903 55] with "awp" (damage "110") (damage_armor "1") (health "0") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:23:47: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [-752 700 -32] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [-49 903 119] with "awp"
+L 10/21/2017 - 18:23:49: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2017 - 18:23:49: "RylerTowe<4><STEAM_1:0:197066498><CT>" [2339 1155 162] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1972 1092 212] with "hkp2000" (damage "24") (damage_armor "0") (health "29") (armor "0") (hitgroup "left leg")
+L 10/21/2017 - 18:23:49: "RylerTowe<4><STEAM_1:0:197066498><CT>" [2344 1150 162] attacked "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1898 1103 169] with "hkp2000" (damage "32") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:23:49: "RylerTowe<4><STEAM_1:0:197066498><CT>" [2344 1150 162] killed "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1898 1103 215] with "usp_silencer"
+L 10/21/2017 - 18:23:50: "Rick<7><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_sg556 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:51: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:23:53: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 ]
+L 10/21/2017 - 18:23:55: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "m4a1"
+L 10/21/2017 - 18:23:56: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:23:56: "brandon^v^<5><STEAM_1:1:86108244><CT>" purchased "fiveseven"
+L 10/21/2017 - 18:23:57: "brandon^v^<5><STEAM_1:1:86108244><CT>" left buyzone with [ weapon_knife weapon_fiveseven weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:23:57: "RylerTowe<4><STEAM_1:0:197066498><CT>" say ".ready"
+L 10/21/2017 - 18:23:58: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" purchased "g3sg1"
+L 10/21/2017 - 18:23:59: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_g3sg1 ]
+L 10/21/2017 - 18:24:00: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [244 556 81] attacked "Seth<13><BOT><CT>" [283 667 21] with "ak47" (damage "111") (damage_armor "16") (health "0") (armor "83") (hitgroup "head")
+L 10/21/2017 - 18:24:00: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [244 556 81] killed "Seth<13><BOT><CT>" [283 667 85] with "ak47" (headshot)
+L 10/21/2017 - 18:24:01: "Seth<13><BOT><CT>" purchased "famas"
+L 10/21/2017 - 18:24:01: "Seth<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:01: "brandon^v^<5><STEAM_1:1:86108244><CT>" say ".bothonor"
+L 10/21/2017 - 18:24:01: "Tim<11><STEAM_1:1:63013555><>" entered the game
+L 10/21/2017 - 18:24:04: "Seth<13><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_famas kevlar(100) helmet ]
+L 10/21/2017 - 18:24:05: "brandon^v^<5><STEAM_1:1:86108244><CT>" say ".ready"
+L 10/21/2017 - 18:24:10: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1706 1196 162] attacked "Seth<13><BOT><CT>" [2459 1137 160] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:24:10: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1707 1202 162] attacked "Seth<13><BOT><CT>" [2459 1137 160] with "ak47" (damage "33") (damage_armor "4") (health "40") (armor "91") (hitgroup "stomach")
+L 10/21/2017 - 18:24:11: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1706 1198 162] attacked "Seth<13><BOT><CT>" [2459 1137 160] with "ak47" (damage "33") (damage_armor "4") (health "7") (armor "86") (hitgroup "stomach")
+L 10/21/2017 - 18:24:11: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1706 1198 162] attacked "Seth<13><BOT><CT>" [2459 1137 160] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "81") (hitgroup "stomach")
+L 10/21/2017 - 18:24:11: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1706 1198 162] killed "Seth<13><BOT><CT>" [2459 1137 224] with "ak47"
+L 10/21/2017 - 18:24:12: "Seth<13><BOT><CT>" purchased "famas"
+L 10/21/2017 - 18:24:12: "Seth<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:12: "Seth<13><BOT><CT>" purchased "p250"
+L 10/21/2017 - 18:24:13: "Tim<11><STEAM_1:1:63013555><Unassigned>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:24:13: "Seth<13><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_famas kevlar(100) helmet ]
+L 10/21/2017 - 18:24:16: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1782 1630 160] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2202 1744 160] with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:16: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [1782 1630 160] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2202 1744 224] with "ak47" (headshot)
+L 10/21/2017 - 18:24:16: "Tim<11><STEAM_1:1:63013555>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2017 - 18:24:16: "Rick<7><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2017 - 18:24:16: "Rick<7><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2017 - 18:24:16: "Tim<11><STEAM_1:1:63013555><TERRORIST>" triggered "clantag" (value "Clueless5")
+L 10/21/2017 - 18:24:18: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [846 2755 128] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2110 2746 156] with "ak47" (damage "136") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:18: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [846 2755 128] killed "Honor<14><STEAM_1:0:40867433><CT>" [2110 2746 220] with "ak47" (headshot)
+L 10/21/2017 - 18:24:19: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2154 1661 160] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2454 2212 132] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:19: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2154 1661 160] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2454 2212 196] with "ak47" (headshot)
+L 10/21/2017 - 18:24:19: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:22: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2338 1438 160] attacked "Seth<13><BOT><CT>" [2243 2276 128] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:24:22: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2341 1438 160] attacked "Seth<13><BOT><CT>" [2243 2276 128] with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:24:23: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1208 3005 128] attacked "Seth<13><BOT><CT>" [2243 2276 128] with "ak47" (damage "26") (damage_armor "3") (health "22") (armor "88") (hitgroup "right arm")
+L 10/21/2017 - 18:24:23: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1208 3005 128] attacked "Seth<13><BOT><CT>" [2261 2263 128] with "ak47" (damage "26") (damage_armor "3") (health "0") (armor "84") (hitgroup "chest")
+L 10/21/2017 - 18:24:23: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1208 3005 128] killed "Seth<13><BOT><CT>" [2261 2263 192] with "ak47"
+L 10/21/2017 - 18:24:23: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" assisted killing "Seth<13><BOT><CT>"
+L 10/21/2017 - 18:24:23: "Seth<13><BOT><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:26: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2374 1425 160] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2358 1791 128] with "ak47" (damage "108") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:26: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2374 1425 160] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2358 1791 192] with "ak47" (headshot penetrated)
+L 10/21/2017 - 18:24:26: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:27: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2293 1436 160] attacked "Seth<13><BOT><CT>" [2496 2057 132] with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0") (hitgroup "left leg")
+L 10/21/2017 - 18:24:27: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2289 1438 160] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2460 1904 132] with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:24:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2289 1438 160] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2460 1904 132] with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:24:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2289 1438 160] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2460 1904 132] with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2289 1438 160] killed "Honor<14><STEAM_1:0:40867433><CT>" [2460 1904 196] with "ak47" (headshot)
+L 10/21/2017 - 18:24:29: "Honor<14><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2303 1435 160] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2421 1966 128] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:29: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2303 1435 160] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2421 1966 192] with "ak47" (headshot)
+L 10/21/2017 - 18:24:29: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:32: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1212 3010 128] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2297 2200 128] with "ak47" (damage "136") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:32: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1212 3010 128] killed "Honor<14><STEAM_1:0:40867433><CT>" [2297 2200 192] with "ak47" (headshot)
+L 10/21/2017 - 18:24:32: "Honor<14><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:34: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2312 1388 160] attacked "Seth<13><BOT><CT>" [2272 2179 166] with "ak47" (damage "17") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 10/21/2017 - 18:24:35: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2323 1388 160] attacked "Seth<13><BOT><CT>" [2282 2167 128] with "ak47" (damage "43") (damage_armor "0") (health "14") (armor "0") (hitgroup "stomach")
+L 10/21/2017 - 18:24:35: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2323 1388 160] attacked "Seth<13><BOT><CT>" [2284 2153 128] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:35: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2323 1388 160] killed "Seth<13><BOT><CT>" [2284 2153 192] with "ak47" (headshot)
+L 10/21/2017 - 18:24:35: "Seth<13><BOT><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:35: "Seth<13><BOT><CT>" purchased "aug"
+L 10/21/2017 - 18:24:35: "Seth<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:35: "Seth<13><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 18:24:35: "Seth<13><BOT><CT>" purchased "decoy"
+L 10/21/2017 - 18:24:36: "Honor<14><STEAM_1:0:40867433><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:36: "Honor<14><STEAM_1:0:40867433><CT>" purchased "deagle"
+L 10/21/2017 - 18:24:37: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [1775 2921 127] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2449 2010 128] with "awp" (damage "112") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:24:37: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [1775 2921 127] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2449 2010 192] with "awp"
+L 10/21/2017 - 18:24:37: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:38: "Honor<14><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:24:38: "Seth<13><BOT><CT>" left buyzone with [ weapon_knife weapon_deagle weapon_aug weapon_decoy kevlar(100) helmet ]
+L 10/21/2017 - 18:24:39: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2441 1419 160] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2332 1582 160] with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "chest")
+L 10/21/2017 - 18:24:39: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2431 1415 160] attacked "Honor<14><STEAM_1:0:40867433><CT>" [2332 1582 160] with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "90") (hitgroup "chest")
+L 10/21/2017 - 18:24:39: "Honor<14><STEAM_1:0:40867433><CT>" [2337 1562 160] attacked "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2389 1395 160] with "deagle" (damage "235") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:39: "Honor<14><STEAM_1:0:40867433><CT>" [2337 1562 160] killed "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" [2389 1395 224] with "deagle" (headshot)
+L 10/21/2017 - 18:24:40: "RylerTowe<4><STEAM_1:0:197066498><CT>" [985 2696 128] attacked "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [1202 2658 134] with "hkp2000" (damage "16") (damage_armor "8") (health "0") (armor "72") (hitgroup "chest")
+L 10/21/2017 - 18:24:40: "RylerTowe<4><STEAM_1:0:197066498><CT>" [985 2696 128] killed "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" [1202 2658 198] with "usp_silencer"
+L 10/21/2017 - 18:24:40: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1539 2799 128] attacked "RylerTowe<4><STEAM_1:0:197066498><CT>" [986 2699 128] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "0") (hitgroup "left leg")
+L 10/21/2017 - 18:24:40: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1539 2799 128] killed "RylerTowe<4><STEAM_1:0:197066498><CT>" [986 2699 192] with "ak47"
+L 10/21/2017 - 18:24:41: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1912 2905 128] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2367 2073 128] with "g3sg1" (damage "308") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:41: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1912 2905 128] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2367 2073 192] with "g3sg1" (headshot)
+L 10/21/2017 - 18:24:41: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:41: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1915 2900 128] attacked "RylerTowe<4><STEAM_1:0:197066498><CT>" [2462 2126 132] with "g3sg1" (damage "308") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2017 - 18:24:41: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1915 2900 128] killed "RylerTowe<4><STEAM_1:0:197066498><CT>" [2462 2126 196] with "g3sg1" (headshot)
+L 10/21/2017 - 18:24:41: "RylerTowe<4><STEAM_1:0:197066498><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:42: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" purchased "p250"
+L 10/21/2017 - 18:24:42: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock ]
+L 10/21/2017 - 18:24:43: "RylerTowe<4><STEAM_1:0:197066498><CT>" purchased "awp"
+L 10/21/2017 - 18:24:44: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1915 2900 128] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2470 2094 132] with "g3sg1" (damage "76") (damage_armor "0") (health "24") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:24:44: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:44: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1598 2730 196] attacked "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2470 2094 132] with "ak47" (damage "34") (damage_armor "0") (health "0") (armor "0") (hitgroup "right arm")
+L 10/21/2017 - 18:24:44: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1598 2730 196] killed "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" [2470 2094 196] with "ak47"
+L 10/21/2017 - 18:24:44: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" assisted killing "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>"
+L 10/21/2017 - 18:24:44: "愛莉|twitch.tv/tiltediairi<3><STEAM_1:0:88677298><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:44: "RylerTowe<4><STEAM_1:0:197066498><CT>" [2448 1889 128] attacked "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1910 2897 128] with "awp" (damage "112") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2017 - 18:24:44: "RylerTowe<4><STEAM_1:0:197066498><CT>" [2448 1889 128] killed "Revochi<8><STEAM_1:1:223437444><TERRORIST>" [1910 2897 192] with "awp"
+L 10/21/2017 - 18:24:45: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" purchased "awp"
+L 10/21/2017 - 18:24:46: "Lustful Larry<12><STEAM_1:0:61405731><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_p250 ]
+L 10/21/2017 - 18:24:46: "Wheezus Christ<6><STEAM_1:0:78251735><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:24:47: "Revochi<8><STEAM_1:1:223437444><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/21/2017 - 18:24:47: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1622 2688 160] attacked "Seth<13><BOT><CT>" [2358 2128 128] with "ak47" (damage "17") (damage_armor "2") (health "83") (armor "97") (hitgroup "chest")
+L 10/21/2017 - 18:24:47: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1624 2690 160] attacked "Seth<13><BOT><CT>" [2358 2138 128] with "ak47" (damage "107") (damage_armor "15") (health "0") (armor "81") (hitgroup "head")
+L 10/21/2017 - 18:24:47: "Tye Tass<10><STEAM_1:1:39528403><TERRORIST>" [1624 2690 160] killed "Seth<13><BOT><CT>" [2358 2138 192] with "ak47" (headshot)
+L 10/21/2017 - 18:24:47: "Seth<13><BOT><CT>" left buyzone with [ ]
+L 10/21/2017 - 18:24:48: "Seth<13><BOT><CT>" purchased "xm1014"
+L 10/21/2017 - 18:24:48: "Seth<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:48: "Seth<13><BOT><CT>" purchased "hegrenade"
+L 10/21/2017 - 18:24:48: Log file closed

@@ -1,0 +1,21 @@
+
+20:56:27 - ===== Map change to de_inferno =====
+
+20:57:14 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+20:57:26 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> CONNECTED from <Unknown>
+20:57:35 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> CONNECTED from <Unknown>
+20:57:41 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> CONNECTED from <Unknown>
+20:57:45 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+20:58:15 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+20:58:20 - <SonicPigFish> <STEAM_1:1:16702250> <172.30.40.252> CONNECTED from <Unknown>
+20:58:25 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+20:59:27 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+20:59:39 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.17.0.1> CONNECTED from <Unknown>
+21:24:55 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> DISCONNECTED after 28 minutes. <Disconnect>
+21:25:02 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> DISCONNECTED after 28 minutes. <Disconnect>
+21:25:05 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.17.0.1> DISCONNECTED after 26 minutes. <Disconnect>
+21:25:08 - <SonicPigFish> <STEAM_1:1:16702250> <172.30.40.252> DISCONNECTED after 27 minutes. <Disconnect>
+21:25:13 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> DISCONNECTED after 28 minutes. <Disconnect>
+21:25:18 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 26 minutes. <Disconnect>
+21:25:55 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 28 minutes. <Disconnect>
+21:27:35 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> DISCONNECTED after 30 minutes. <LucK timed out>

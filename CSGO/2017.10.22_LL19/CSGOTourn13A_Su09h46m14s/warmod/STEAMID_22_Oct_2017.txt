@@ -1,0 +1,26 @@
+
+14:49:09 - ===== Map change to de_mirage =====
+
+14:52:11 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+14:52:12 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+14:52:23 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+14:52:29 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+14:52:40 - <AngryNoob @ LAN CS.MONEY> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+14:52:51 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+14:52:59 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+14:53:01 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> DISCONNECTED after 1 minutes. <Disconnect>
+14:53:06 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+14:53:31 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 1 minutes. <Disconnect>
+14:54:15 - <strat1> <STEAM_1:0:59942879> <172.30.40.99> CONNECTED from <Unknown>
+14:55:50 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> CONNECTED from <Unknown>
+15:00:49 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> CONNECTED from <Unknown>
+15:00:54 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+15:04:14 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+15:06:39 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 6 minutes. <Disconnect>
+15:06:49 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+15:45:21 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 42 minutes. <Disconnect>
+15:45:35 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+16:04:13 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> DISCONNECTED after 73 minutes. <Disconnect>
+16:04:31 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 19 minutes. <Disconnect>
+16:05:41 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 59 minutes. <Disconnect>
+16:06:59 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> DISCONNECTED after 67 minutes. <Disconnect>

@@ -1,0 +1,12 @@
+L 10/21/2017 - 17:20:25: Log file started (file "logs/L172_017_000_002_27015_201710211720_002.log") (game "/app/csgo") (version "6878")
+L 10/21/2017 - 17:20:25: rcon from "172.30.40.9:52518": command "log on"
+L 10/21/2017 - 17:20:25: rcon from "172.30.40.9:52518": command "logaddress_add 165.134.31.36:52371"
+L 10/21/2017 - 17:20:30: [WarMod_BFG] {"timestamp": "2017-10-21 17:20:30", "event": "player_say", "round": 1, "player": {"name": "JeNume @ LanFest", "userId": 8, "uniqueId": "STEAM_1:0:43204461", "team": 2}, "message": "yea one person is afk", "teamOnly": 0}
+L 10/21/2017 - 17:20:30: "JeNume @ LanFest<8><STEAM_1:0:43204461><TERRORIST>" say "yea one person is afk"
+L 10/21/2017 - 17:20:34: [WarMod_BFG] {"timestamp": "2017-10-21 17:20:34", "event": "player_say", "round": 1, "player": {"name": "JeNume @ LanFest", "userId": 8, "uniqueId": "STEAM_1:0:43204461", "team": 2}, "message": "went to bathroom", "teamOnly": 0}
+L 10/21/2017 - 17:20:34: "JeNume @ LanFest<8><STEAM_1:0:43204461><TERRORIST>" say "went to bathroom"
+L 10/21/2017 - 17:21:03: "Console<0><Console><Console>" say "I am going to execute overtime when all says ready."
+L 10/21/2017 - 17:21:03: rcon from "172.30.40.9:52518": command "say I am going to execute overtime when all says ready."
+L 10/21/2017 - 17:21:17: "Console<0><Console><Console>" say "please say ready in chat."
+L 10/21/2017 - 17:21:17: rcon from "172.30.40.9:52518": command "say please say ready in chat."
+L 10/21/2017 - 17:21:20: Log file closed

@@ -1,0 +1,14 @@
+
+21:44:16 - ===== Map change to de_mirage =====
+
+21:45:20 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+21:46:07 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+21:46:56 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+21:46:58 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+21:47:00 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+21:47:08 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+21:47:22 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+21:47:38 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+21:48:06 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+21:48:08 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+22:27:55 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 41 minutes. <Disconnect>

@@ -1,0 +1,6 @@
+L 10/21/2017 - 16:24:58: Log file started (file "logs/L172_017_000_002_27015_201710211624_000.log") (game "/app/csgo") (version "6878")
+L 10/21/2017 - 16:24:58: rcon from "172.30.40.16:61745": command "log on"
+L 10/21/2017 - 16:24:58: rcon from "172.30.40.16:61745": command "logaddress_add 165.134.31.36:52371"
+L 10/21/2017 - 16:25:02: rcon from "172.30.40.16:61745": command "status"
+L 10/21/2017 - 16:28:31: rcon from "172.30.40.16:61745": command "status"
+L 10/21/2017 - 16:29:50: Log file closed

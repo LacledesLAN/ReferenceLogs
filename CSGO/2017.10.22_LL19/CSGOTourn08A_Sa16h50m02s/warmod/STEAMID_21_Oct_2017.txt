@@ -1,0 +1,20 @@
+
+21:50:35 - ===== Map change to de_inferno =====
+
+21:51:56 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+21:52:14 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+21:52:16 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+21:52:41 - <DallyBar> <STEAM_1:0:204413034> <172.30.40.129> CONNECTED from <Unknown>
+21:52:41 - <tylerkohl18> <STEAM_1:0:56559822> <172.30.40.251> CONNECTED from <Unknown>
+21:52:55 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+21:52:59 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+21:53:17 - <OopsIPoops> <STEAM_1:1:64347437> <172.30.40.121> CONNECTED from <Unknown>
+21:53:46 - <austino> <STEAM_1:0:217033847> <172.30.40.250> CONNECTED from <Unknown>
+22:21:12 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> DISCONNECTED after 30 minutes. <Disconnect>
+22:21:14 - <OopsIPoops> <STEAM_1:1:64347437> <172.30.40.121> DISCONNECTED after 29 minutes. <Disconnect>
+22:21:22 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> DISCONNECTED after 30 minutes. <Disconnect>
+22:21:36 - <DallyBar> <STEAM_1:0:204413034> <172.30.40.129> DISCONNECTED after 29 minutes. <Disconnect>
+22:21:37 - <austino> <STEAM_1:0:217033847> <172.30.40.250> DISCONNECTED after 28 minutes. <Disconnect>
+22:21:38 - <tylerkohl18> <STEAM_1:0:56559822> <172.30.40.251> DISCONNECTED after 29 minutes. <Disconnect>
+22:23:00 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> DISCONNECTED after 31 minutes. <Disconnect>
+22:26:17 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> DISCONNECTED after 34 minutes. <Disconnect>

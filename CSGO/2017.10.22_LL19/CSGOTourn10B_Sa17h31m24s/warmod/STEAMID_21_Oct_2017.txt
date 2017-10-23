@@ -1,0 +1,21 @@
+
+22:32:00 - ===== Map change to de_train =====
+
+22:32:47 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+22:32:50 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+22:32:54 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+22:32:57 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+22:33:19 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+22:33:20 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+22:34:28 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+22:34:38 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+22:38:17 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+22:38:45 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+23:20:15 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> DISCONNECTED after 48 minutes. <Disconnect>
+23:20:24 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 42 minutes. <Disconnect>
+23:20:25 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 43 minutes. <Disconnect>
+23:22:28 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 49 minutes. <Disconnect>
+23:22:55 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> DISCONNECTED after 51 minutes. <Disconnect>
+23:23:21 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 49 minutes. <Disconnect>
+23:27:20 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> DISCONNECTED after 55 minutes. <Disconnect>
+23:35:40 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 63 minutes. <Disconnect>

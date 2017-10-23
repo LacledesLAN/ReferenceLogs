@@ -1,0 +1,18 @@
+
+00:58:40 - ===== Map change to de_cbble =====
+
+01:00:04 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+01:00:29 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+01:00:42 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+01:00:48 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+01:01:09 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+01:03:12 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+01:03:35 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+01:03:38 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+01:03:47 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+01:03:48 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+01:56:52 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> DISCONNECTED after 57 minutes. <Disconnect>
+01:56:59 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 54 minutes. <Disconnect>
+01:57:07 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> DISCONNECTED after 57 minutes. <Disconnect>
+01:57:55 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> DISCONNECTED after 55 minutes. <Disconnect>
+02:00:39 - <doku> <STEAM_1:0:59627425> <172.30.40.164> DISCONNECTED after 61 minutes. <Disconnect>

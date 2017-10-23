@@ -1,0 +1,37 @@
+L 10/21/2017 - 18:00:15: SourceMod log file session started (file "L20171021.log") (Version "1.9.0.6148")
+L 10/21/2017 - 18:00:15: -------- Mapchange to de_nuke --------
+L 10/21/2017 - 18:00:15: [GEOIP] GeoIP database info: GEO-106FREE 20170801 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 10/21/2017 - 18:00:17: [warmod.smx] Current Map: de_nuke, Warmod Version: 17.08.12.1053
+L 10/21/2017 - 18:00:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/master.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d2.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2valve.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep1.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.csgo.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.sdk2013.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.contagion.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.blade.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.swarm.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.darkm.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.css.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.bgt.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/game.dinodday.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.eye.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/engine.insurgency.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/blacklist.plugins.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.fof.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.pvkii.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.hl2ctf.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/common.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2ctf.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] Successfully updated gamedata file "sdktools.games/common.games.txt"
+L 10/21/2017 - 18:00:19: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 10/21/2017 - 18:00:41: [warmod.smx] "set_min_ready" (player "Console<0><Console><Console>") (min_ready "9")

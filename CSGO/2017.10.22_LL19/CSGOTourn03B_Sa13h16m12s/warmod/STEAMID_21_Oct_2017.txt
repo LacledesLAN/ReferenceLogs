@@ -1,0 +1,13 @@
+
+18:19:14 - ===== Map change to de_nuke =====
+
+18:20:12 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+18:20:41 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+18:21:15 - <trance @ LacledesLAN> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+18:22:02 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+18:22:09 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+18:29:32 - <trance @ LacledesLAN> <STEAM_1:1:91023470> <172.30.40.156> DISCONNECTED after 9 minutes. <Disconnect>
+18:29:53 - <doku> <STEAM_1:0:59627425> <172.30.40.164> DISCONNECTED after 8 minutes. <Disconnect>
+18:29:56 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> DISCONNECTED after 10 minutes. <Disconnect>
+18:29:57 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> DISCONNECTED after 8 minutes. <Disconnect>
+18:31:28 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> DISCONNECTED after 12 minutes. <Disconnect>

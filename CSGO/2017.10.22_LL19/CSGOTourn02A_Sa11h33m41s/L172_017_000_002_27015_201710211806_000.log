@@ -1,0 +1,8 @@
+L 10/21/2017 - 18:06:33: Log file started (file "logs/L172_017_000_002_27015_201710211806_000.log") (game "/app/csgo") (version "6878")
+L 10/21/2017 - 18:06:33: rcon from "172.30.40.18:51288": command "log on"
+L 10/21/2017 - 18:06:33: rcon from "172.30.40.18:51288": command "logaddress_add 165.134.31.36:52371"
+L 10/21/2017 - 18:06:36: rcon from "172.30.40.18:51288": command "score"
+L 10/21/2017 - 18:06:40: rcon from "172.30.40.16:61868": command "status"
+L 10/21/2017 - 18:06:43: rcon from "172.30.40.16:61868": command "score"
+L 10/21/2017 - 18:09:47: rcon from "172.30.40.18:51288": command "score"
+L 10/21/2017 - 18:09:53: Log file closed

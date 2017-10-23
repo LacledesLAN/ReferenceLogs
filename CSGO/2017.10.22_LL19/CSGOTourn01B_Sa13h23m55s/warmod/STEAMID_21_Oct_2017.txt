@@ -1,0 +1,20 @@
+
+18:24:37 - ===== Map change to de_cache =====
+
+18:26:42 - <Harnetoad @LAN> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+18:26:43 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+18:26:49 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+18:27:11 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+18:27:33 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+18:27:33 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+18:27:48 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+18:28:40 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+18:29:24 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+18:31:45 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+19:17:51 - <Harnetoad @LAN> <STEAM_1:0:82506529> <172.30.40.235> DISCONNECTED after 52 minutes. <Disconnect>
+19:18:03 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> DISCONNECTED after 51 minutes. <Disconnect>
+19:19:32 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 48 minutes. <Disconnect>
+19:19:51 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 52 minutes. <Disconnect>
+19:20:51 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> DISCONNECTED after 54 minutes. <Disconnect>
+19:21:04 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> DISCONNECTED after 54 minutes. <Disconnect>
+19:22:03 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> DISCONNECTED after 53 minutes. <LucK timed out>

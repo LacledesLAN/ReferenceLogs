@@ -1,0 +1,4 @@
+L 10/21/2017 - 15:06:05: SourceMod log file session started (file "L20171021.log") (Version "1.9.0.6148")
+L 10/21/2017 - 15:06:05: -------- Mapchange to gg_ctm_csgo --------
+L 10/21/2017 - 15:06:06: [GEOIP] GeoIP database info: GEO-106FREE 20170801 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 10/21/2017 - 15:06:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")

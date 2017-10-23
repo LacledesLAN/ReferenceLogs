@@ -1,0 +1,27 @@
+
+21:26:14 - ===== Map change to de_cbble =====
+
+21:27:21 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+21:27:54 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+21:27:57 - <stratjuan> <STEAM_1:0:59942879> <172.30.40.99> CONNECTED from <Unknown>
+21:28:35 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+21:29:03 - <stratjuan> <STEAM_1:0:59942879> <172.30.40.99> DISCONNECTED after 2 minutes. <Disconnect>
+21:29:17 - <malevolent> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+21:29:44 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+21:29:53 - <stratjuan> <STEAM_1:0:59942879> <172.30.40.99> CONNECTED from <Unknown>
+21:30:28 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+21:30:44 - <Worrthy> <STEAM_1:0:91078496> <172.30.40.98> CONNECTED from <Unknown>
+21:31:33 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> CONNECTED from <Unknown>
+21:31:42 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> CONNECTED from <Unknown>
+21:32:21 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> DISCONNECTED after 6 minutes. <Disconnect>
+21:34:11 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+22:13:29 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> DISCONNECTED after 42 minutes. <Disconnect>
+22:13:34 - <tcE1> <STEAM_1:1:91023470> <172.30.40.156> DISCONNECTED after 45 minutes. <Disconnect>
+22:13:34 - <stratjuan> <STEAM_1:0:59942879> <172.30.40.99> DISCONNECTED after 44 minutes. <Disconnect>
+22:13:36 - <doku> <STEAM_1:0:59627425> <172.30.40.164> DISCONNECTED after 46 minutes. <Disconnect>
+22:13:37 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> DISCONNECTED after 46 minutes. <Disconnect>
+22:13:43 - <Worrthy> <STEAM_1:0:91078496> <172.30.40.98> DISCONNECTED after 44 minutes. <Disconnect>
+22:13:43 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> DISCONNECTED after 45 minutes. <Disconnect>
+22:13:48 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 44 minutes. <Disconnect>
+22:13:49 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> DISCONNECTED after 43 minutes. <Disconnect>
+22:15:50 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> DISCONNECTED after 42 minutes. <Disconnect>

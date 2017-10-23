@@ -1,0 +1,16 @@
+
+02:03:07 - ===== Map change to de_nuke =====
+
+02:04:06 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+02:05:17 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+02:05:17 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+02:06:16 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+02:06:35 - <SAUCY #luckistoxic> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+02:06:58 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+02:07:07 - <doku> <STEAM_1:0:59627425> <172.30.40.164> CONNECTED from <Unknown>
+02:07:09 - <trancexD> <STEAM_1:1:91023470> <172.30.40.156> CONNECTED from <Unknown>
+02:07:21 - <Ady> <STEAM_1:1:15473605> <172.30.40.150> CONNECTED from <Unknown>
+02:11:23 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+02:45:08 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> DISCONNECTED after 40 minutes. <Disconnect>
+02:45:11 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> DISCONNECTED after 39 minutes. <Disconnect>
+02:45:14 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> DISCONNECTED after 40 minutes. <Disconnect>

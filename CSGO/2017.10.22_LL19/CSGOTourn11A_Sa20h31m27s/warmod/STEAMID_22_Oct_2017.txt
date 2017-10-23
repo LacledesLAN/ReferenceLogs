@@ -1,0 +1,23 @@
+
+01:32:07 - ===== Map change to de_inferno =====
+
+01:32:26 - <strat1> <STEAM_1:0:59942879> <172.30.40.99> CONNECTED from <Unknown>
+01:32:30 - <Worrthy> <STEAM_1:0:91078496> <172.17.0.1> CONNECTED from <Unknown>
+01:32:40 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> CONNECTED from <Unknown>
+01:32:45 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> CONNECTED from <Unknown>
+01:32:47 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> CONNECTED from <Unknown>
+01:32:49 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> CONNECTED from <Unknown>
+01:32:50 - <DarkSkittle> <STEAM_1:0:31619715> <172.30.41.13> CONNECTED from <Unknown>
+01:33:20 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> CONNECTED from <Unknown>
+01:34:11 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.30.40.227> CONNECTED from <Unknown>
+01:35:06 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> CONNECTED from <Unknown>
+02:09:11 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> DISCONNECTED after 35 minutes. <Disconnect>
+02:09:16 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> DISCONNECTED after 37 minutes. <Disconnect>
+02:09:21 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> DISCONNECTED after 37 minutes. <Disconnect>
+02:09:21 - <LuckeGG @ LAN> <STEAM_1:0:26077869> <172.30.40.96> DISCONNECTED after 37 minutes. <Disconnect>
+02:09:27 - <DarkSkittle> <STEAM_1:0:31619715> <172.30.41.13> DISCONNECTED after 37 minutes. <Disconnect>
+02:09:31 - <Worrthy> <STEAM_1:0:91078496> <172.17.0.1> DISCONNECTED after 38 minutes. <Disconnect>
+02:09:32 - <Crosby_FIlms @Laclede's LAN> <STEAM_1:1:60831423> <172.30.40.126> DISCONNECTED after 37 minutes. <Disconnect>
+02:12:10 - <Wayyyy @Lacledes LAN> <STEAM_1:0:91346038> <172.30.41.1> DISCONNECTED after 40 minutes. <Disconnect>
+02:12:52 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.30.40.227> DISCONNECTED after 39 minutes. <Disconnect>
+02:12:59 - <strat1> <STEAM_1:0:59942879> <172.30.40.99> DISCONNECTED after 41 minutes. <Disconnect>

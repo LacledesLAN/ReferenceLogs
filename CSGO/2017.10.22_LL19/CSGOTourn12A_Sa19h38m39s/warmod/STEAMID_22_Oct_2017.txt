@@ -1,0 +1,24 @@
+
+00:39:43 - ===== Map change to de_cbble =====
+
+00:42:16 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+00:43:21 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> CONNECTED from <Unknown>
+00:43:43 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+00:43:53 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.3> CONNECTED from <Unknown>
+00:45:16 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+00:45:53 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> CONNECTED from <Unknown>
+00:46:00 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> CONNECTED from <Unknown>
+00:46:06 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+00:46:41 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> CONNECTED from <Unknown>
+00:47:48 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+00:49:03 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 2 minutes. <Disconnect>
+00:49:48 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+01:38:04 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> DISCONNECTED after 56 minutes. <Disconnect>
+01:38:13 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 55 minutes. <Disconnect>
+01:38:14 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 49 minutes. <Disconnect>
+01:41:58 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 56 minutes. <Disconnect>
+01:42:02 - <Harnetoad> <STEAM_1:0:82506529> <172.30.40.235> DISCONNECTED after 56 minutes. <Disconnect>
+01:42:03 - <Sunny Drizzle> <STEAM_1:1:52074304> <172.30.41.27> DISCONNECTED after 57 minutes. <Disconnect>
+01:43:52 - <AngryNoob @ LAN> <STEAM_1:0:13749057> <172.30.40.238> DISCONNECTED after 61 minutes. <Disconnect>
+01:43:57 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 59 minutes. <Disconnect>
+01:45:16 - <no0ty @ LAN> <STEAM_1:1:155617015> <172.30.40.237> DISCONNECTED after 60 minutes. <Disconnect>

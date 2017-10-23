@@ -1,0 +1,29 @@
+
+16:36:44 - ===== Map change to de_mirage =====
+
+16:38:29 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> CONNECTED from <Unknown>
+16:39:04 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+16:39:24 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+16:40:05 - <Wheezus Christ> <STEAM_1:0:78251735> <172.30.40.85> CONNECTED from <Unknown>
+16:40:07 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+16:40:48 - <Tye Tass> <STEAM_1:1:39528403> <172.30.41.6> CONNECTED from <Unknown>
+16:40:59 - <Revochi> <STEAM_1:1:223437444> <172.30.40.92> CONNECTED from <Unknown>
+16:41:05 - <Tim> <STEAM_1:1:63013555> <172.30.40.249> CONNECTED from <Unknown>
+16:41:07 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> CONNECTED from <Unknown>
+16:41:07 - <Lustful Larry> <STEAM_1:0:61405731> <172.30.40.80> CONNECTED from <Unknown>
+17:08:12 - <Honor> <STEAM_1:0:40867433> <172.30.40.163> DISCONNECTED after 28 minutes. <Disconnect>
+17:10:41 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 32 minutes. <Disconnect>
+17:10:48 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> CONNECTED from <Unknown>
+17:14:36 - <愛莉|twitch.tv/tiltediairi> <STEAM_1:0:88677298> <172.30.40.225> DISCONNECTED after 37 minutes. <Disconnect>
+17:16:14 - <Tim> <STEAM_1:1:63013555> <172.30.40.249> DISCONNECTED after 36 minutes. <Tim timed out>
+17:16:14 - <Wheezus Christ> <STEAM_1:0:78251735> <172.30.40.85> DISCONNECTED after 37 minutes. <Wheezus Christ timed out>
+17:16:14 - <Tye Tass> <STEAM_1:1:39528403> <172.30.41.6> DISCONNECTED after 36 minutes. <Tye Tass timed out>
+17:16:14 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 37 minutes. <RylerTowe timed out>
+17:16:14 - <Lustful Larry> <STEAM_1:0:61405731> <172.30.40.80> DISCONNECTED after 36 minutes. <Lustful Larry timed out>
+17:16:14 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 37 minutes. <boose timed out>
+17:16:14 - <Revochi> <STEAM_1:1:223437444> <172.30.40.92> DISCONNECTED after 36 minutes. <Revochi timed out>
+17:29:33 - <boose> <STEAM_1:0:17282441> <172.30.41.34> CONNECTED from <Unknown>
+17:30:10 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> CONNECTED from <Unknown>
+17:37:31 - <boose> <STEAM_1:0:17282441> <172.30.41.34> DISCONNECTED after 9 minutes. <Disconnect>
+17:41:47 - <brandon^v^> <STEAM_1:1:86108244> <172.30.40.127> DISCONNECTED after 32 minutes. <Disconnect>
+17:48:33 - <RylerTowe> <STEAM_1:0:197066498> <172.30.41.24> DISCONNECTED after 19 minutes. <Disconnect>

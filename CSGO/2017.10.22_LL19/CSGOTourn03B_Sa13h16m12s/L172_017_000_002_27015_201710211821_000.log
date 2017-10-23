@@ -1,0 +1,372 @@
+L 10/21/2017 - 18:21:00: Log file started (file "logs/L172_017_000_002_27015_201710211821_000.log") (game "/app/csgo") (version "6878")
+L 10/21/2017 - 18:21:00: rcon from "172.30.40.16:62679": command "log on"
+L 10/21/2017 - 18:21:00: rcon from "172.30.40.16:62679": command "logaddress_add 165.134.31.36:52371"
+L 10/21/2017 - 18:21:03: rcon from "172.30.40.16:62679": command "status"
+L 10/21/2017 - 18:21:10: "trance @ LacledesLAN<6><STEAM_1:1:91023470><>" connected, address ""
+L 10/21/2017 - 18:21:10: "trance @ LacledesLAN<6><STEAM_1:1:91023470><>" STEAM USERID validated
+L 10/21/2017 - 18:21:29: "trance @ LacledesLAN<6><STEAM_1:1:91023470><>" entered the game
+L 10/21/2017 - 18:21:32: "trance @ LacledesLAN<6><STEAM_1:1:91023470><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:21:57: "Ady<7><STEAM_1:1:15473605><>" connected, address ""
+L 10/21/2017 - 18:21:57: "trance @ LacledesLAN<6><STEAM_1:1:91023470>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:21:57: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:21:57: "Ady<7><STEAM_1:1:15473605><>" STEAM USERID validated
+L 10/21/2017 - 18:22:04: "doku<8><STEAM_1:0:59627425><>" connected, address ""
+L 10/21/2017 - 18:22:04: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "m4a1"
+L 10/21/2017 - 18:22:04: "doku<8><STEAM_1:0:59627425><>" STEAM USERID validated
+L 10/21/2017 - 18:22:04: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:04: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:22:08: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:22:08: "Ady<7><STEAM_1:1:15473605><>" entered the game
+L 10/21/2017 - 18:22:12: "Ady<7><STEAM_1:1:15473605><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:15: "Ady<7><STEAM_1:1:15473605>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:15: "Ady<7><STEAM_1:1:15473605><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:20: "Ady<7><STEAM_1:1:15473605><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/21/2017 - 18:22:22: "doku<8><STEAM_1:0:59627425><>" entered the game
+L 10/21/2017 - 18:22:26: "doku<8><STEAM_1:0:59627425><Unassigned>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:30: "Ady<7><STEAM_1:1:15473605><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/21/2017 - 18:22:31: "Ady<7><STEAM_1:1:15473605><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/21/2017 - 18:22:33: "Ady<7><STEAM_1:1:15473605><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/21/2017 - 18:22:42: "doku<8><STEAM_1:0:59627425>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:22:42: "doku<8><STEAM_1:0:59627425><CT>" triggered "clantag" (value "")
+L 10/21/2017 - 18:22:56: "doku<8><STEAM_1:0:59627425><CT>" purchased "m4a1"
+L 10/21/2017 - 18:22:56: "doku<8><STEAM_1:0:59627425><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:22:57: "doku<8><STEAM_1:0:59627425><CT>" say_team ".noclip"
+L 10/21/2017 - 18:22:58: "doku<8><STEAM_1:0:59627425><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:22:58: "doku<8><STEAM_1:0:59627425><CT>" say_team ".noclip"
+L 10/21/2017 - 18:23:09: "doku<8><STEAM_1:0:59627425><CT>" say_team ".noclip"
+L 10/21/2017 - 18:23:10: "doku<8><STEAM_1:0:59627425><CT>" say_team ".noclip"
+L 10/21/2017 - 18:23:35: rcon from "172.30.40.16:62679": command "score"
+L 10/21/2017 - 18:24:21: "doku<8><STEAM_1:0:59627425>" switched from team <CT> to <TERRORIST>
+L 10/21/2017 - 18:24:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [1214 -804 -160] committed suicide with "world"
+L 10/21/2017 - 18:24:21: "Vinny<9><BOT><>" connected, address ""
+L 10/21/2017 - 18:24:21: "Vinny<9><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2017 - 18:24:21: "Vinny<9><BOT><>" entered the game
+L 10/21/2017 - 18:24:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" triggered "clantag" (value "")
+L 10/21/2017 - 18:24:22: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:24:22: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:22: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:24:22: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:24:24: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:24:31: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [115 -2231 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-325 -1669 -416] with "m4a1" (damage "88") (damage_armor "18") (health "12") (armor "81") (hitgroup "head")
+L 10/21/2017 - 18:24:31: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [115 -2231 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-314 -1681 -416] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "76") (hitgroup "chest")
+L 10/21/2017 - 18:24:31: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [115 -2231 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-314 -1681 -352] with "m4a1"
+L 10/21/2017 - 18:24:32: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:24:32: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:34: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:24:37: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1116 -927 -417] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-436 -1482 -416] with "ak47" (damage "33") (damage_armor "4") (health "37") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:24:40: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-421 -1521 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1150 -972 -418] with "m4a1" (damage "87") (damage_armor "18") (health "13") (armor "81") (hitgroup "head")
+L 10/21/2017 - 18:24:40: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-420 -1519 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1147 -970 -418] with "m4a1" (damage "23") (damage_armor "0") (health "0") (armor "81") (hitgroup "right leg")
+L 10/21/2017 - 18:24:40: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-420 -1519 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1147 -970 -354] with "m4a1"
+L 10/21/2017 - 18:24:41: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:24:41: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:42: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:24:45: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1288 -1006 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-791 -1131 -414] with "ak47" (damage "27") (damage_armor "3") (health "24") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:24:45: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1289 -1010 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-793 -1121 -414] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:24:45: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1289 -1010 -418] killed "Joke<5><STEAM_1:1:43512645><CT>" [-793 -1121 -352] with "ak47"
+L 10/21/2017 - 18:24:46: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1293 -1028 -417] attacked "Vinny<9><BOT><CT>" [-520 -1231 -416] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:24:46: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1292 -1024 -417] attacked "Vinny<9><BOT><CT>" [-518 -1226 -416] with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "80") (hitgroup "head")
+L 10/21/2017 - 18:24:46: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1292 -1024 -417] killed "Vinny<9><BOT><CT>" [-518 -1226 -352] with "ak47" (headshot)
+L 10/21/2017 - 18:24:46: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:24:46: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:48: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:24:48: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:49: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:24:50: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:24:50: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-892 -1264 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-902 -1080 -417] with "hkp2000" (damage "68") (damage_armor "33") (health "32") (armor "66") (hitgroup "head")
+L 10/21/2017 - 18:24:51: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-850 -1051 -414] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-889 -1264 -416] with "ak47" (damage "27") (damage_armor "4") (health "10") (armor "90") (hitgroup "right arm")
+L 10/21/2017 - 18:24:51: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-889 -1264 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-858 -1048 -414] with "hkp2000" (damage "16") (damage_armor "8") (health "16") (armor "57") (hitgroup "chest")
+L 10/21/2017 - 18:24:51: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-865 -1046 -414] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-889 -1264 -416] with "ak47" (damage "34") (damage_armor "5") (health "0") (armor "84") (hitgroup "stomach")
+L 10/21/2017 - 18:24:51: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-865 -1046 -414] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-889 -1264 -352] with "ak47"
+L 10/21/2017 - 18:24:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "awp"
+L 10/21/2017 - 18:24:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:24:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:24:56: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_awp defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:25:01: "Joke<5><STEAM_1:1:43512645><CT>" [602 -2045 -368] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [103 -2047 -416] with "awp" (damage "111") (damage_armor "1") (health "0") (armor "55") (hitgroup "chest")
+L 10/21/2017 - 18:25:01: "Joke<5><STEAM_1:1:43512645><CT>" [602 -2045 -368] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [103 -2047 -352] with "awp"
+L 10/21/2017 - 18:25:03: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:03: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:05: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:25:09: "Joke<5><STEAM_1:1:43512645><CT>" [-328 -1563 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-917 -1107 -416] with "awp" (damage "110") (damage_armor "1") (health "0") (armor "98") (hitgroup "right arm")
+L 10/21/2017 - 18:25:09: "Joke<5><STEAM_1:1:43512645><CT>" [-328 -1563 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-917 -1107 -352] with "awp"
+L 10/21/2017 - 18:25:10: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:10: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:25:12: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" say ".ready"
+L 10/21/2017 - 18:25:13: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1696 -1067 -414] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-637 -1154 -418] with "ak47" (damage "106") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2017 - 18:25:13: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1696 -1067 -414] killed "Joke<5><STEAM_1:1:43512645><CT>" [-637 -1154 -354] with "ak47" (headshot)
+L 10/21/2017 - 18:25:15: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:25:15: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:17: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:25:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-425 -810 -172] attacked "Vinny<9><BOT><CT>" [-72 -1075 -172] with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:25:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-427 -813 -172] attacked "Vinny<9><BOT><CT>" [-76 -1081 -172] with "ak47" (damage "34") (damage_armor "4") (health "32") (armor "90") (hitgroup "stomach")
+L 10/21/2017 - 18:25:23: "Vinny<9><BOT><CT>" [-79 -1085 -172] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-429 -815 -172] with "m4a1" (damage "28") (damage_armor "6") (health "72") (armor "93") (hitgroup "stomach")
+L 10/21/2017 - 18:25:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-429 -816 -172] attacked "Vinny<9><BOT><CT>" [-79 -1085 -172] with "ak47" (damage "27") (damage_armor "3") (health "5") (armor "86") (hitgroup "left arm")
+L 10/21/2017 - 18:25:23: "Vinny<9><BOT><CT>" [-84 -1092 -172] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-431 -818 -172] with "m4a1" (damage "28") (damage_armor "6") (health "44") (armor "86") (hitgroup "stomach")
+L 10/21/2017 - 18:25:23: "Vinny<9><BOT><CT>" [-93 -1103 -172] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-433 -821 -172] with "m4a1" (damage "24") (damage_armor "0") (health "20") (armor "86") (hitgroup "right leg")
+L 10/21/2017 - 18:25:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-435 -823 -172] attacked "Vinny<9><BOT><CT>" [-100 -1112 -172] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "86") (hitgroup "left leg")
+L 10/21/2017 - 18:25:23: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-435 -823 -172] killed "Vinny<9><BOT><CT>" [-100 -1112 -108] with "ak47"
+L 10/21/2017 - 18:25:24: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:25:24: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:26: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-261 -1966 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-135 -1085 -172] with "awp" (damage "110") (damage_armor "1") (health "0") (armor "84") (hitgroup "chest")
+L 10/21/2017 - 18:25:26: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-261 -1966 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-135 -1085 -108] with "awp"
+L 10/21/2017 - 18:25:26: "Vinny<9><BOT><CT>" assisted killing "doku<8><STEAM_1:0:59627425><TERRORIST>"
+L 10/21/2017 - 18:25:26: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:25:27: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:27: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:29: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:25:34: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-602 -1090 -417] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1726 -1231 -348] with "awp" (damage "137") (damage_armor "1") (health "0") (armor "98") (hitgroup "stomach")
+L 10/21/2017 - 18:25:34: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-602 -1090 -417] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1726 -1231 -284] with "awp"
+L 10/21/2017 - 18:25:35: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:36: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:38: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2002 -1027 -419] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-662 -1182 -418] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:25:38: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-662 -1182 -418] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2002 -1028 -419] with "awp" (damage "136") (damage_armor "1") (health "0") (armor "98") (hitgroup "stomach")
+L 10/21/2017 - 18:25:38: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-662 -1182 -418] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2002 -1028 -373] with "awp"
+L 10/21/2017 - 18:25:38: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ ]
+L 10/21/2017 - 18:25:39: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:39: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:41: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-887 -1127 -414] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2339 -1043 -417] with "awp" (damage "108") (damage_armor "1") (health "0") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:25:41: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-887 -1127 -414] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2339 -1043 -371] with "awp"
+L 10/21/2017 - 18:25:41: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ ]
+L 10/21/2017 - 18:25:42: "Joke<5><STEAM_1:1:43512645><CT>" [-640 -1172 -418] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2420 -999 -418] with "awp" (damage "110") (damage_armor "0") (health "0") (armor "0") (hitgroup "right arm")
+L 10/21/2017 - 18:25:42: "Joke<5><STEAM_1:1:43512645><CT>" [-640 -1172 -418] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2420 -999 -354] with "awp"
+L 10/21/2017 - 18:25:42: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ ]
+L 10/21/2017 - 18:25:43: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:43: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:45: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:25:48: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1359 -1270 -408] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1786 -993 -416] with "awp" (damage "111") (damage_armor "1") (health "0") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:25:48: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1359 -1270 -408] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1786 -993 -352] with "awp"
+L 10/21/2017 - 18:25:49: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:25:49: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:50: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2426 -1099 -415] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-835 -1160 -414] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "right arm")
+L 10/21/2017 - 18:25:53: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2426 -1092 -415] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-877 -1056 -414] with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:25:54: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2426 -1121 -415] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1257 -1054 -419] with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96") (hitgroup "left leg")
+L 10/21/2017 - 18:25:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1257 -1054 -419] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2426 -1120 -415] with "awp" (damage "109") (damage_armor "1") (health "0") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:25:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1257 -1054 -419] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2426 -1120 -369] with "awp"
+L 10/21/2017 - 18:25:54: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ ]
+L 10/21/2017 - 18:25:55: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "awp"
+L 10/21/2017 - 18:25:55: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:25:58: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:25:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2615 -1073 -416] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1267 -1068 -418] with "awp" (damage "136") (damage_armor "1") (health "0") (armor "94") (hitgroup "stomach")
+L 10/21/2017 - 18:25:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2615 -1073 -416] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-1267 -1068 -372] with "awp"
+L 10/21/2017 - 18:26:00: "Joke<5><STEAM_1:1:43512645><CT>" [-839 -1130 -414] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2608 -1012 -417] with "awp" (damage "108") (damage_armor "1") (health "0") (armor "98") (hitgroup "right arm")
+L 10/21/2017 - 18:26:00: "Joke<5><STEAM_1:1:43512645><CT>" [-839 -1130 -414] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2608 -1012 -353] with "awp"
+L 10/21/2017 - 18:26:01: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:01: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:26:03: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:04: "Joke<5><STEAM_1:1:43512645><CT>" [-886 -1153 -414] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1842 -1083 -417] with "awp" (damage "110") (damage_armor "1") (health "0") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:26:04: "Joke<5><STEAM_1:1:43512645><CT>" [-886 -1153 -414] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1842 -1083 -353] with "awp"
+L 10/21/2017 - 18:26:05: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:26:05: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:05: "Joke<5><STEAM_1:1:43512645><CT>" [-878 -1160 -414] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2028 -1020 -419] with "awp" (damage "136") (damage_armor "1") (health "0") (armor "98") (hitgroup "stomach")
+L 10/21/2017 - 18:26:05: "Joke<5><STEAM_1:1:43512645><CT>" [-878 -1160 -414] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2028 -1020 -355] with "awp"
+L 10/21/2017 - 18:26:05: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ ]
+L 10/21/2017 - 18:26:06: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "m4a1"
+L 10/21/2017 - 18:26:06: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:06: rcon from "172.30.40.16:62679": command "score"
+L 10/21/2017 - 18:26:07: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:26:07: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:07: rcon from "172.30.40.16:62679": command "status"
+L 10/21/2017 - 18:26:08: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:09: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1861 -1043 -417] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-888 -1168 -414] with "ak47" (damage "26") (damage_armor "3") (health "22") (armor "88") (hitgroup "right arm")
+L 10/21/2017 - 18:26:10: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:11: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1746 -1064 -414] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-889 -1160 -414] with "ak47" (damage "26") (damage_armor "3") (health "0") (armor "84") (hitgroup "chest")
+L 10/21/2017 - 18:26:11: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1746 -1064 -414] killed "Joke<5><STEAM_1:1:43512645><CT>" [-889 -1160 -350] with "ak47"
+L 10/21/2017 - 18:26:11: "Vinny<9><BOT><CT>" [-1245 -1059 -419] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1745 -1065 -414] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "left arm")
+L 10/21/2017 - 18:26:12: "Vinny<9><BOT><CT>" [-1245 -1059 -419] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1743 -1085 -414] with "m4a1" (damage "24") (damage_armor "0") (health "54") (armor "95") (hitgroup "left leg")
+L 10/21/2017 - 18:26:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1743 -1085 -414] attacked "Vinny<9><BOT><CT>" [-1245 -1059 -419] with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:26:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1743 -1089 -414] attacked "Vinny<9><BOT><CT>" [-1245 -1059 -419] with "ak47" (damage "27") (damage_armor "3") (health "39") (armor "91") (hitgroup "chest")
+L 10/21/2017 - 18:26:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1742 -1092 -414] attacked "Vinny<9><BOT><CT>" [-1245 -1059 -419] with "ak47" (damage "34") (damage_armor "4") (health "5") (armor "86") (hitgroup "stomach")
+L 10/21/2017 - 18:26:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1742 -1095 -414] attacked "Vinny<9><BOT><CT>" [-1245 -1059 -419] with "ak47" (damage "34") (damage_armor "4") (health "0") (armor "81") (hitgroup "stomach")
+L 10/21/2017 - 18:26:12: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1742 -1095 -414] killed "Vinny<9><BOT><CT>" [-1245 -1059 -355] with "ak47"
+L 10/21/2017 - 18:26:12: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:26:12: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:14: "Joke<5><STEAM_1:1:43512645><CT>" purchased "scar20"
+L 10/21/2017 - 18:26:14: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:15: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:17: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_scar20 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:29: "doku<8><STEAM_1:0:59627425><TERRORIST>" [180 -1773 -28] attacked "Joke<5><STEAM_1:1:43512645><CT>" [735 -1880 -372] with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:26:29: "doku<8><STEAM_1:0:59627425><TERRORIST>" [179 -1776 -29] attacked "Joke<5><STEAM_1:1:43512645><CT>" [718 -1881 -365] with "ak47" (damage "27") (damage_armor "3") (health "40") (armor "91") (hitgroup "right arm")
+L 10/21/2017 - 18:26:29: "doku<8><STEAM_1:0:59627425><TERRORIST>" [178 -1780 -29] attacked "Joke<5><STEAM_1:1:43512645><CT>" [700 -1884 -366] with "ak47" (damage "27") (damage_armor "3") (health "13") (armor "87") (hitgroup "chest")
+L 10/21/2017 - 18:26:31: "doku<8><STEAM_1:0:59627425><TERRORIST>" [201 -1831 -41] attacked "Joke<5><STEAM_1:1:43512645><CT>" [426 -1957 -360] with "glock" (damage "15") (damage_armor "8") (health "0") (armor "78") (hitgroup "stomach")
+L 10/21/2017 - 18:26:31: "doku<8><STEAM_1:0:59627425><TERRORIST>" [201 -1831 -41] killed "Joke<5><STEAM_1:1:43512645><CT>" [426 -1957 -296] with "glock"
+L 10/21/2017 - 18:26:33: "Joke<5><STEAM_1:1:43512645><CT>" purchased "scar20"
+L 10/21/2017 - 18:26:33: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:36: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_scar20 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:37: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [382 -1998 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [305 -1792 -416] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "90") (hitgroup "chest")
+L 10/21/2017 - 18:26:37: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [382 -1998 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [305 -1792 -370] with "m4a1"
+L 10/21/2017 - 18:26:39: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:26:39: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:40: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:45: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-489 -1526 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-807 -1025 -414] with "m4a1" (damage "89") (damage_armor "19") (health "11") (armor "80") (hitgroup "head")
+L 10/21/2017 - 18:26:45: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-802 -1031 -414] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-489 -1526 -416] with "ak47" (damage "27") (damage_armor "3") (health "51") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:26:45: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-480 -1521 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-802 -1031 -414] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "chest")
+L 10/21/2017 - 18:26:45: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-480 -1521 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-802 -1031 -367] with "m4a1"
+L 10/21/2017 - 18:26:47: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:26:47: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:48: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:26:50: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1639 -1090 -416] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-827 -1177 -414] with "ak47" (damage "27") (damage_armor "3") (health "24") (armor "92") (hitgroup "right arm")
+L 10/21/2017 - 18:26:52: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1635 -1083 -416] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-798 -1118 -414] with "ak47" (damage "107") (damage_armor "15") (health "0") (armor "76") (hitgroup "head")
+L 10/21/2017 - 18:26:52: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1635 -1083 -416] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-798 -1118 -350] with "ak47" (headshot)
+L 10/21/2017 - 18:26:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "cz75a"
+L 10/21/2017 - 18:26:54: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:26:56: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1025 -990 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-149 -1831 -416] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:26:56: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1027 -993 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-153 -1821 -416] with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "92") (hitgroup "right arm")
+L 10/21/2017 - 18:26:56: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1030 -996 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-154 -1817 -416] with "ak47" (damage "33") (damage_armor "4") (health "15") (armor "87") (hitgroup "stomach")
+L 10/21/2017 - 18:26:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1034 -1000 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-152 -1813 -416] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "82") (hitgroup "stomach")
+L 10/21/2017 - 18:26:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1034 -1000 -418] killed "Joke<5><STEAM_1:1:43512645><CT>" [-152 -1813 -352] with "ak47"
+L 10/21/2017 - 18:26:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1031 -997 -418] attacked "Vinny<9><BOT><CT>" [-485 -1569 -416] with "ak47" (damage "13") (damage_armor "1") (health "87") (armor "98") (hitgroup "stomach")
+L 10/21/2017 - 18:26:57: "Vinny<9><BOT><CT>" [-485 -1560 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1030 -995 -418] with "m4a1" (damage "27") (damage_armor "5") (health "73") (armor "94") (hitgroup "stomach")
+L 10/21/2017 - 18:26:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1029 -995 -418] attacked "Vinny<9><BOT><CT>" [-485 -1560 -416] with "ak47" (damage "27") (damage_armor "3") (health "60") (armor "94") (hitgroup "chest")
+L 10/21/2017 - 18:26:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1028 -993 -418] attacked "Vinny<9><BOT><CT>" [-485 -1559 -416] with "ak47" (damage "27") (damage_armor "3") (health "33") (armor "90") (hitgroup "chest")
+L 10/21/2017 - 18:26:57: "Vinny<9><BOT><CT>" [-485 -1559 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1028 -993 -418] with "m4a1" (damage "27") (damage_armor "5") (health "46") (armor "88") (hitgroup "stomach")
+L 10/21/2017 - 18:26:58: "Vinny<9><BOT><CT>" [-485 -1559 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1027 -992 -418] with "m4a1" (damage "27") (damage_armor "5") (health "19") (armor "82") (hitgroup "stomach")
+L 10/21/2017 - 18:26:58: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:26:58: "Vinny<9><BOT><CT>" [-485 -1559 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1029 -994 -418] with "m4a1" (damage "27") (damage_armor "5") (health "0") (armor "76") (hitgroup "stomach")
+L 10/21/2017 - 18:26:58: "Vinny<9><BOT><CT>" [-485 -1559 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1029 -994 -372] with "m4a1"
+L 10/21/2017 - 18:26:58: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_kevlar"
+L 10/21/2017 - 18:26:58: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_cz75a kevlar(100) helmet ]
+L 10/21/2017 - 18:26:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "awp"
+L 10/21/2017 - 18:26:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:01: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) ]
+L 10/21/2017 - 18:27:01: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1998 -1031 -419] attacked "Vinny<9><BOT><CT>" [-772 -1168 -414] with "awp" (damage "136") (damage_armor "1") (health "0") (armor "88") (hitgroup "stomach")
+L 10/21/2017 - 18:27:01: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1998 -1031 -419] killed "Vinny<9><BOT><CT>" [-772 -1168 -350] with "awp"
+L 10/21/2017 - 18:27:02: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:27:02: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:02: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:27:03: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:27:14: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [552 -2358 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [52 -2107 -417] with "p250" (damage "21") (damage_armor "3") (health "79") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:27:14: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [552 -2359 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [52 -2107 -417] with "p250" (damage "85") (damage_armor "12") (health "0") (armor "83") (hitgroup "head")
+L 10/21/2017 - 18:27:14: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [552 -2359 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [52 -2107 -353] with "cz75a" (headshot)
+L 10/21/2017 - 18:27:15: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:27:15: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:16: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:27:24: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-986 -1090 -417] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [66 -1942 -416] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:27:24: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-988 -1093 -417] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [64 -1945 -416] with "ak47" (damage "105") (damage_armor "15") (health "0") (armor "80") (hitgroup "head")
+L 10/21/2017 - 18:27:24: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-988 -1093 -417] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [64 -1945 -365] with "ak47" (headshot)
+L 10/21/2017 - 18:27:25: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1008 -1082 -417] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-568 -767 -408] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "right arm")
+L 10/21/2017 - 18:27:25: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1008 -1083 -417] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-577 -766 -408] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:27:25: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1008 -1083 -417] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-579 -762 -408] with "ak47" (damage "27") (damage_armor "3") (health "19") (armor "88") (hitgroup "chest")
+L 10/21/2017 - 18:27:25: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1008 -1083 -417] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-578 -758 -416] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "88") (hitgroup "head")
+L 10/21/2017 - 18:27:25: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1008 -1083 -417] killed "Joke<5><STEAM_1:1:43512645><CT>" [-578 -758 -352] with "ak47" (headshot)
+L 10/21/2017 - 18:27:26: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:27:26: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "cz75a"
+L 10/21/2017 - 18:27:27: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:27: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:28: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:27:28: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_cz75a kevlar(100) helmet ]
+L 10/21/2017 - 18:27:37: "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] attacked "Vinny<9><BOT><CT>" [583 -2058 -368] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:27:37: "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] attacked "Vinny<9><BOT><CT>" [583 -2058 -368] with "ak47" (damage "34") (damage_armor "4") (health "39") (armor "91") (hitgroup "stomach")
+L 10/21/2017 - 18:27:37: "Vinny<9><BOT><CT>" [583 -2058 -368] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] with "m4a1" (damage "28") (damage_armor "6") (health "30") (armor "93") (hitgroup "stomach")
+L 10/21/2017 - 18:27:37: "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] attacked "Vinny<9><BOT><CT>" [583 -2058 -368] with "ak47" (damage "27") (damage_armor "3") (health "12") (armor "87") (hitgroup "chest")
+L 10/21/2017 - 18:27:38: "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] attacked "Vinny<9><BOT><CT>" [583 -2058 -368] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "83") (hitgroup "chest")
+L 10/21/2017 - 18:27:38: "doku<8><STEAM_1:0:59627425><TERRORIST>" [364 -1668 -416] killed "Vinny<9><BOT><CT>" [583 -2058 -304] with "ak47"
+L 10/21/2017 - 18:27:38: "Vinny<9><BOT><CT>" purchased "m4a1"
+L 10/21/2017 - 18:27:38: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:38: "Vinny<9><BOT><CT>" purchased "p250"
+L 10/21/2017 - 18:27:40: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2017 - 18:27:40: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [1206 -1923 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [377 -1796 -416] with "p250" (damage "78") (damage_armor "11") (health "0") (armor "81") (hitgroup "head")
+L 10/21/2017 - 18:27:40: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [1206 -1923 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [377 -1796 -352] with "cz75a" (headshot)
+L 10/21/2017 - 18:27:41: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:27:41: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:42: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:27:51: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-904 -1075 -417] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [0 -2057 -416] with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 10/21/2017 - 18:27:52: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-7 -2044 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-901 -1072 -417] with "p250" (damage "20") (damage_armor "3") (health "80") (armor "96") (hitgroup "stomach")
+L 10/21/2017 - 18:27:52: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-886 -1058 -414] attacked "Joke<5><STEAM_1:1:43512645><CT>" [16 -2057 -416] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:27:52: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-884 -1056 -414] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-35 -2039 -416] with "ak47" (damage "25") (damage_armor "0") (health "42") (armor "95") (hitgroup "left leg")
+L 10/21/2017 - 18:27:53: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-882 -1054 -414] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-33 -2036 -416] with "ak47" (damage "33") (damage_armor "4") (health "9") (armor "90") (hitgroup "stomach")
+L 10/21/2017 - 18:27:53: "Joke<5><STEAM_1:1:43512645><CT>" [7 -2065 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-880 -1052 -414] with "awp" (damage "109") (damage_armor "1") (health "0") (armor "94") (hitgroup "left arm")
+L 10/21/2017 - 18:27:53: "Joke<5><STEAM_1:1:43512645><CT>" [7 -2065 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-880 -1052 -368] with "awp"
+L 10/21/2017 - 18:27:54: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "ak47"
+L 10/21/2017 - 18:27:54: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:27:55: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2017 - 18:27:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1096 -988 -419] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-629 -1230 -414] with "ak47" (damage "27") (damage_armor "3") (health "47") (armor "92") (hitgroup "chest")
+L 10/21/2017 - 18:27:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1096 -988 -419] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-633 -1249 -388] with "ak47" (damage "26") (damage_armor "0") (health "21") (armor "92") (hitgroup "right leg")
+L 10/21/2017 - 18:28:00: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1512 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1096 -988 -419] with "p250" (damage "18") (damage_armor "0") (health "82") (armor "100") (hitgroup "right leg")
+L 10/21/2017 - 18:28:00: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1096 -987 -419] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-637 -1268 -371] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "92") (hitgroup "right leg")
+L 10/21/2017 - 18:28:00: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1096 -987 -419] killed "Joke<5><STEAM_1:1:43512645><CT>" [-637 -1268 -307] with "ak47"
+L 10/21/2017 - 18:28:00: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1092 -982 -419] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1512 -416] with "ak47" (damage "7") (damage_armor "1") (health "2") (armor "88") (hitgroup "right arm")
+L 10/21/2017 - 18:28:00: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1512 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1090 -979 -418] with "p250" (damage "19") (damage_armor "2") (health "63") (armor "97") (hitgroup "right arm")
+L 10/21/2017 - 18:28:00: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1512 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1089 -978 -418] with "p250" (damage "18") (damage_armor "0") (health "45") (armor "97") (hitgroup "right leg")
+L 10/21/2017 - 18:28:00: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-402 -1510 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1089 -978 -418] with "p250" (damage "19") (damage_armor "2") (health "26") (armor "94") (hitgroup "chest")
+L 10/21/2017 - 18:28:00: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1089 -978 -418] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1511 -416] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "83") (hitgroup "stomach")
+L 10/21/2017 - 18:28:00: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1089 -978 -418] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-403 -1511 -352] with "ak47"
+L 10/21/2017 - 18:28:01: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:28:02: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:02: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "deagle"
+L 10/21/2017 - 18:28:02: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:04: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:28:05: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:28:13: "doku<8><STEAM_1:0:59627425><TERRORIST>" [715 -2427 -416] attacked "Joke<5><STEAM_1:1:43512645><CT>" [1120 -1710 -416] with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2017 - 18:28:13: "doku<8><STEAM_1:0:59627425><TERRORIST>" [715 -2427 -416] killed "Joke<5><STEAM_1:1:43512645><CT>" [1120 -1710 -352] with "ak47" (headshot)
+L 10/21/2017 - 18:28:13: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [1897 -1527 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [715 -2427 -416] with "deagle" (damage "127") (damage_armor "4") (health "0") (armor "89") (hitgroup "head")
+L 10/21/2017 - 18:28:13: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [1897 -1527 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [715 -2427 -353] with "deagle" (headshot)
+L 10/21/2017 - 18:28:14: "Joke<5><STEAM_1:1:43512645><CT>" purchased "awp"
+L 10/21/2017 - 18:28:14: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:16: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:28:16: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 18:28:16: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:18: "Joke<5><STEAM_1:1:43512645><CT>" purchased "deagle"
+L 10/21/2017 - 18:28:19: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:28:19: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_deagle weapon_awp kevlar(100) helmet ]
+L 10/21/2017 - 18:28:20: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1682 -1125 -416] attacked "Vinny<9><BOT><CT>" [-880 -1070 -414] with "deagle" (damage "41") (damage_armor "1") (health "59") (armor "98") (hitgroup "right arm")
+L 10/21/2017 - 18:28:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1682 -1108 -415] attacked "Vinny<9><BOT><CT>" [-879 -1071 -414] with "deagle" (damage "52") (damage_armor "1") (health "7") (armor "96") (hitgroup "stomach")
+L 10/21/2017 - 18:28:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1682 -1107 -415] attacked "Vinny<9><BOT><CT>" [-878 -1092 -414] with "deagle" (damage "52") (damage_armor "1") (health "0") (armor "94") (hitgroup "stomach")
+L 10/21/2017 - 18:28:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1682 -1107 -415] killed "Vinny<9><BOT><CT>" [-878 -1092 -350] with "deagle"
+L 10/21/2017 - 18:28:22: "Vinny<9><BOT><CT>" purchased "aug"
+L 10/21/2017 - 18:28:22: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:22: "Vinny<9><BOT><CT>" purchased "deagle"
+L 10/21/2017 - 18:28:24: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_deagle weapon_aug kevlar(100) helmet ]
+L 10/21/2017 - 18:28:27: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-979 -1021 -418] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [38 -2090 -417] with "deagle" (damage "31") (damage_armor "1") (health "69") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:28:31: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1011 -1054 -418] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [140 -1990 -416] with "deagle" (damage "127") (damage_armor "4") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2017 - 18:28:31: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1011 -1054 -418] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [140 -1990 -352] with "deagle" (headshot)
+L 10/21/2017 - 18:28:33: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "ssg08"
+L 10/21/2017 - 18:28:34: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:34: "Joke<5><STEAM_1:1:43512645><CT>" [186 -2076 -368] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-862 -1103 -414] with "deagle" (damage "32") (damage_armor "1") (health "68") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:28:34: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-863 -1104 -414] attacked "Joke<5><STEAM_1:1:43512645><CT>" [186 -2077 -368] with "deagle" (damage "32") (damage_armor "1") (health "68") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:28:35: "Joke<5><STEAM_1:1:43512645><CT>" [184 -2078 -368] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-856 -1095 -414] with "deagle" (damage "32") (damage_armor "1") (health "36") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:28:36: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_ssg08 kevlar(100) helmet ]
+L 10/21/2017 - 18:28:38: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_deagle weapon_aug kevlar(100) helmet ]
+L 10/21/2017 - 18:28:42: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-450 -1482 -416] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-67 -2053 -416] with "deagle" (damage "44") (damage_armor "1") (health "24") (armor "96") (hitgroup "chest")
+L 10/21/2017 - 18:28:44: "Joke<5><STEAM_1:1:43512645><CT>" [-76 -2061 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-365 -1507 -385] with "deagle" (damage "56") (damage_armor "2") (health "0") (armor "93") (hitgroup "stomach")
+L 10/21/2017 - 18:28:44: "Joke<5><STEAM_1:1:43512645><CT>" [-76 -2061 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-365 -1507 -321] with "deagle"
+L 10/21/2017 - 18:28:46: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 18:28:46: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:47: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:28:51: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1067 -939 -418] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-158 -1836 -416] with "deagle" (damage "34") (damage_armor "1") (health "66") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:28:53: "Joke<5><STEAM_1:1:43512645><CT>" [-644 -1337 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1125 -1001 -419] with "deagle" (damage "184") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2017 - 18:28:53: "Joke<5><STEAM_1:1:43512645><CT>" [-644 -1337 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1125 -1001 -373] with "deagle" (headshot)
+L 10/21/2017 - 18:28:55: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 18:28:56: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2256 -1005 -418] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-733 -1178 -414] with "deagle" (damage "31") (damage_armor "1") (health "0") (armor "94") (hitgroup "chest")
+L 10/21/2017 - 18:28:57: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2256 -1005 -418] killed "Joke<5><STEAM_1:1:43512645><CT>" [-733 -1178 -350] with "deagle"
+L 10/21/2017 - 18:28:57: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-570 -1182 -408] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2256 -1005 -418] with "ssg08" (damage "69") (damage_armor "6") (health "31") (armor "93") (hitgroup "chest")
+L 10/21/2017 - 18:28:59: "Joke<5><STEAM_1:1:43512645><CT>" purchased "deagle"
+L 10/21/2017 - 18:28:59: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:28:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2256 -999 -419] attacked "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-571 -1195 -408] with "deagle" (damage "116") (damage_armor "4") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2017 - 18:28:59: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-2256 -999 -419] killed "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" [-571 -1195 -344] with "deagle" (headshot)
+L 10/21/2017 - 18:29:01: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(93) helmet ]
+L 10/21/2017 - 18:29:02: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:29:03: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "m4a1"
+L 10/21/2017 - 18:29:03: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:29:04: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" purchased "item_defuser"
+L 10/21/2017 - 18:29:06: "Vinny<9><BOT><CT>" [-599 -1375 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-694 -1043 -360] with "aug" (damage "24") (damage_armor "1") (health "7") (armor "91") (hitgroup "chest")
+L 10/21/2017 - 18:29:07: "Vinny<9><BOT><CT>" [-581 -1368 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [-673 -1032 -363] with "aug" (damage "20") (damage_armor "0") (health "0") (armor "91") (hitgroup "right leg")
+L 10/21/2017 - 18:29:07: "Vinny<9><BOT><CT>" [-581 -1368 -416] killed "doku<8><STEAM_1:0:59627425><TERRORIST>" [-673 -1032 -299] with "aug"
+L 10/21/2017 - 18:29:08: "trance @ LacledesLAN<6><STEAM_1:1:91023470><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2017 - 18:29:10: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "deagle"
+L 10/21/2017 - 18:29:11: "doku<8><STEAM_1:0:59627425><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:29:13: "doku<8><STEAM_1:0:59627425><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:29:15: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1646 -1137 -416] attacked "Vinny<9><BOT><CT>" [-801 -1015 -414] with "deagle" (damage "165") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2017 - 18:29:15: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-1646 -1137 -416] killed "Vinny<9><BOT><CT>" [-801 -1015 -350] with "deagle" (headshot)
+L 10/21/2017 - 18:29:16: "Vinny<9><BOT><CT>" purchased "aug"
+L 10/21/2017 - 18:29:16: "Vinny<9><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:29:18: "Vinny<9><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_aug kevlar(100) helmet ]
+L 10/21/2017 - 18:29:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-876 -1076 -414] attacked "Joke<5><STEAM_1:1:43512645><CT>" [-374 -1605 -416] with "deagle" (damage "174") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2017 - 18:29:21: "doku<8><STEAM_1:0:59627425><TERRORIST>" [-876 -1076 -414] killed "Joke<5><STEAM_1:1:43512645><CT>" [-374 -1605 -352] with "deagle" (headshot)
+L 10/21/2017 - 18:29:22: "Joke<5><STEAM_1:1:43512645><CT>" purchased "deagle"
+L 10/21/2017 - 18:29:22: "Joke<5><STEAM_1:1:43512645><CT>" purchased "item_assaultsuit"
+L 10/21/2017 - 18:29:25: "Joke<5><STEAM_1:1:43512645><CT>" left buyzone with [ weapon_knife_butterfly weapon_deagle kevlar(100) helmet ]
+L 10/21/2017 - 18:29:29: "Vinny<9><BOT><CT>" [1026 -1761 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [212 -2133 -416] with "aug" (damage "20") (damage_armor "0") (health "80") (armor "100") (hitgroup "right leg")
+L 10/21/2017 - 18:29:29: "Vinny<9><BOT><CT>" [1018 -1767 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [227 -2152 -416] with "aug" (damage "24") (damage_armor "1") (health "56") (armor "98") (hitgroup "chest")
+L 10/21/2017 - 18:29:30: "Vinny<9><BOT><CT>" [1018 -1767 -416] attacked "doku<8><STEAM_1:0:59627425><TERRORIST>" [231 -2159 -416] with "aug" (damage "30") (damage_armor "1") (health "26") (armor "96") (hitgroup 

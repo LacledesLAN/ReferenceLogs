@@ -1,0 +1,8 @@
+
+16:52:47 - ===== Map change to de_nuke =====
+
+17:00:43 - <SAUCY> <STEAM_1:0:44975263> <172.30.40.49> CONNECTED from <Unknown>
+17:01:14 - <Joke> <STEAM_1:1:43512645> <172.30.40.248> CONNECTED from <Unknown>
+17:02:37 - <tylerkohl18> <STEAM_1:0:56559822> <172.30.40.251> CONNECTED from <Unknown>
+17:04:30 - <austino> <STEAM_1:0:217033847> <172.30.40.250> CONNECTED from <Unknown>
+17:07:59 - <DallyBar> <STEAM_1:0:204413034> <172.30.40.129> CONNECTED from <Unknown>

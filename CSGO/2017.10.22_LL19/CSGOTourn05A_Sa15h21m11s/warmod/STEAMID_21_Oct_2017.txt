@@ -1,0 +1,14 @@
+
+20:22:05 - ===== Map change to de_mirage =====
+
+20:23:30 - <pandah @ Laclede's LAN> <STEAM_1:0:79542179> <172.30.40.245> CONNECTED from <Unknown>
+20:23:47 - <KevinJ> <STEAM_1:0:129920862> <172.30.40.243> CONNECTED from <Unknown>
+20:24:10 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> CONNECTED from <Unknown>
+20:24:20 - <poptart> <STEAM_1:1:91310280> <172.30.40.109> CONNECTED from <Unknown>
+20:24:33 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.40.108> CONNECTED from <Unknown>
+20:24:34 - <Monferno7> <STEAM_1:1:96533699> <172.30.40.247> CONNECTED from <Unknown>
+20:24:52 - <SonOfBULITS @ Laclede's LAN> <STEAM_1:1:124138375> <172.30.40.227> CONNECTED from <Unknown>
+20:25:06 - <LucK> <STEAM_1:1:8934418> <172.30.40.82> CONNECTED from <Unknown>
+20:25:07 - <LAZERKITTEN> <STEAM_1:1:752644> <172.30.40.81> CONNECTED from <Unknown>
+20:25:10 - <SonicPigFish> <STEAM_1:1:16702250> <172.30.40.252> CONNECTED from <Unknown>
+20:54:53 - <mhN (tralala)> <STEAM_1:1:17280241> <172.30.40.112> DISCONNECTED after 31 minutes. <Disconnect>

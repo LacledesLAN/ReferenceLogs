@@ -1,0 +1,43 @@
+L 10/21/2017 - 15:06:05: SourceMod error session started
+L 10/21/2017 - 15:06:05: Info (map "gg_ctm_csgo") (file "errors_20171021.log")
+L 10/21/2017 - 15:06:05: [CRASH] WARNING: Sigscan for GetSpew failed, console output will not be included in crash reports.
+L 10/21/2017 - 15:06:07: [SM] Unable to load extension "steamtools.ext": libvstdlib_srv.so: cannot open shared object file: No such file or directory
+L 10/21/2017 - 15:06:07: [SM] Exception reported: Could not hook event teamplay_setup_finished
+L 10/21/2017 - 15:06:07: [SM] Blaming: simple-alltalkmanager.smx
+L 10/21/2017 - 15:06:07: [SM] Call stack trace:
+L 10/21/2017 - 15:06:07: [SM]   [0] SetFailState
+L 10/21/2017 - 15:06:07: [SM]   [1] Line 352, C:\Compiler\scripting\simple-alltalkmanager.sp::LoadEventsFromConfig
+L 10/21/2017 - 15:06:07: [SM]   [2] Line 132, C:\Compiler\scripting\simple-alltalkmanager.sp::OnPluginStart
+L 10/21/2017 - 15:06:07: [SM] Unable to load plugin "simple-alltalkmanager.smx": Error detected in plugin startup (see error logs)
+L 10/21/2017 - 15:07:23: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sm-cstrike.games/master.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sm-cstrike.games/game.csgo.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.l4d2.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.ep2valve.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.l4d.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.ep1.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.csgo.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.sdk2013.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.ep2.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.contagion.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.blade.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.swarm.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.darkm.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.css.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.bgt.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/game.dinodday.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.eye.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/engine.insurgency.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/blacklist.plugins.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/core.games/common.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/funcommands.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdkhooks.games/game.fof.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdkhooks.games/game.pvkii.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdkhooks.games/game.hl2ctf.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdkhooks.games/engine.ep2v.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdkhooks.games/common.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sm-tf2.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdktools.games/game.tf.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdktools.games/game.hl2ctf.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] Could not open /app/csgo/addons/sourcemod/gamedata/sdktools.games/common.games.txt for writing
+L 10/21/2017 - 15:07:23: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
