@@ -1,0 +1,70 @@
+L 04/21/2018 - 16:00:30: Log file started (file "logs/L0421000.log") (game "/app/tf") (version "4463499")
+L 04/21/2018 - 16:00:30: server_cvar: "sv_alltalk" "1"
+L 04/21/2018 - 16:00:30: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers"
+L 04/21/2018 - 16:00:30: server_cvar: "mp_timelimit" "15"
+L 04/21/2018 - 16:00:30: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 04/21/2018 - 16:00:30: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 04/21/2018 - 16:00:30: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 04/21/2018 - 16:00:30: Connection to Steam servers successful.
+L 04/21/2018 - 16:00:30:    Public IP is 165.134.31.36.
+L 04/21/2018 - 16:00:30: Assigned anonymous gameserver Steam ID [A:1:2149245954:9854].
+L 04/21/2018 - 16:00:30: VAC secure mode is activated.
+L 04/21/2018 - 17:27:14: rcon from "172.30.40.9:56119": command "echo HLSW: Test"
+L 04/21/2018 - 17:27:19: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:27:30: rcon from "172.30.40.9:56119": command "log"
+L 04/21/2018 - 17:27:30: rcon from "172.30.40.9:56119": command "logaddress_add "172.30.40.9:7130""
+L 04/21/2018 - 17:27:30: rcon from "172.30.40.9:56119": command "logaddress_del "172.30.40.9:7130""
+L 04/21/2018 - 17:27:30: rcon from "172.30.40.9:56119": command "logaddress_add "172.30.40.9:7130""
+L 04/21/2018 - 17:27:34: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:28:26: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" connected, address "172.30.40.9:27005"
+L 04/21/2018 - 17:28:27: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" STEAM USERID validated
+L 04/21/2018 - 17:28:40: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:28:42: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:28:42: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:29:10: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" entered the game
+L 04/21/2018 - 17:29:11: rcon from "172.30.40.9:56119": command "maps *"
+L 04/21/2018 - 17:33:42: "Col_Hogan<3><[U:1:11097602]><>" connected, address "172.30.41.184:27005"
+L 04/21/2018 - 17:33:42: "Col_Hogan<3><[U:1:11097602]><>" STEAM USERID validated
+L 04/21/2018 - 17:34:03: "Col_Hogan<3><[U:1:11097602]><>" entered the game
+L 04/21/2018 - 17:34:44: "Col_Hogan<3><[U:1:11097602]><Unassigned>" joined team "Blue"
+L 04/21/2018 - 17:34:47: "Col_Hogan<3><[U:1:11097602]><Blue>" changed role to "soldier"
+L 04/21/2018 - 17:35:18: World triggered "Round_Start"
+L 04/21/2018 - 17:35:44: "[LL] allhawkeye85<4><[U:1:28500804]><>" connected, address "172.30.41.145:27005"
+L 04/21/2018 - 17:35:45: "[LL] allhawkeye85<4><[U:1:28500804]><>" STEAM USERID validated
+L 04/21/2018 - 17:36:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Unassigned>" joined team "Red"
+L 04/21/2018 - 17:36:16: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" changed role to "pyro"
+L 04/21/2018 - 17:36:27: "[LL] allhawkeye85<4><[U:1:28500804]><>" entered the game
+L 04/21/2018 - 17:36:44: "[LL] allhawkeye85<4><[U:1:28500804]><Unassigned>" joined team "Blue"
+L 04/21/2018 - 17:37:23: "[LL] allhawkeye85<4><[U:1:28500804]><Blue>" changed role to "demoman"
+L 04/21/2018 - 17:38:31: "Halfsack6<5><[U:1:21082888]><>" connected, address "172.30.41.221:27005"
+L 04/21/2018 - 17:38:31: "Halfsack6<5><[U:1:21082888]><>" STEAM USERID validated
+L 04/21/2018 - 17:38:33: "BraveSirRobbin<6><[U:1:3253505]><>" connected, address "172.30.41.140:27005"
+L 04/21/2018 - 17:38:34: "BraveSirRobbin<6><[U:1:3253505]><>" STEAM USERID validated
+L 04/21/2018 - 17:38:37: "Halfsack6<5><[U:1:21082888]><>" disconnected (reason "Connection closing")
+L 04/21/2018 - 17:38:37: "Halfsack6<7><[U:1:21082888]><>" connected, address "172.30.41.221:27005"
+L 04/21/2018 - 17:38:37: "Halfsack6<7><[U:1:21082888]><>" STEAM USERID validated
+L 04/21/2018 - 17:38:50: "BraveSirRobbin<6><[U:1:3253505]><>" entered the game
+L 04/21/2018 - 17:39:02: "BraveSirRobbin<6><[U:1:3253505]><Unassigned>" joined team "Red"
+L 04/21/2018 - 17:39:05: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "1") (player1 "Col_Hogan<3><[U:1:11097602]><Blue>") (position1 "7 79 9") 
+L 04/21/2018 - 17:39:25: "Halfsack6<7><[U:1:21082888]><>" entered the game
+L 04/21/2018 - 17:39:34: "BraveSirRobbin<6><[U:1:3253505]><Red>" changed role to "heavyweapons"
+L 04/21/2018 - 17:39:44: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "the RED Forward Point") (numcappers "1") (player1 "Col_Hogan<3><[U:1:11097602]><Blue>") (position1 "1958 -393 231") 
+L 04/21/2018 - 17:39:45: "Halfsack6<7><[U:1:21082888]><Unassigned>" joined team "Red"
+L 04/21/2018 - 17:39:50: "Halfsack6<7><[U:1:21082888]><Red>" changed role to "engineer"
+L 04/21/2018 - 17:39:57: "BraveSirRobbin<6><[U:1:3253505]><Red>" killed "Col_Hogan<3><[U:1:11097602]><Blue>" with "natascha" (attacker_position "3150 -109 224") (victim_position "3185 -572 224")
+L 04/21/2018 - 17:40:21: "Halfsack6<7><[U:1:21082888]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2098 -1646 224")
+L 04/21/2018 - 17:40:30: "Halfsack6<7><[U:1:21082888]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1987 -1716 224")
+L 04/21/2018 - 17:40:30: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" say "wannna do KOTH?"
+L 04/21/2018 - 17:40:31: Team "Red" triggered "pointcaptured" (cp "3") (cpname "the RED Forward Point") (numcappers "1") (player1 "BraveSirRobbin<6><[U:1:3253505]><Red>") (position1 "1921 -397 231") 
+L 04/21/2018 - 17:40:33: "Halfsack6<7><[U:1:21082888]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1968 -1701 224")
+L 04/21/2018 - 17:40:33: "Halfsack6<7><[U:1:21082888]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1968 -1701 224")
+L 04/21/2018 - 17:40:36: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" say "!Vote"
+L 04/21/2018 - 17:40:38: "Halfsack6<7><[U:1:21082888]><Red>" killed "Col_Hogan<3><[U:1:11097602]><Blue>" with "shotgun_primary" (attacker_position "1246 -1429 160") (victim_position "1270 -965 176")
+L 04/21/2018 - 17:40:38: "BraveSirRobbin<6><[U:1:3253505]><Red>" triggered "kill assist" against "Col_Hogan<3><[U:1:11097602]><Blue>" (assister_position "1838 -706 224") (attacker_position "1246 -1429 160") (victim_position "1270 -965 176")
+L 04/21/2018 - 17:40:52: "Col_Hogan<3><[U:1:11097602]><Blue>" say "anything but this lame map"
+L 04/21/2018 - 17:41:01: Vote succeeded "ChangeLevel koth_lolcano_b3"
+L 04/21/2018 - 17:41:02: "BraveSirRobbin<6><[U:1:3253505]><Red>" killed "[LL] allhawkeye85<4><[U:1:28500804]><Blue>" with "natascha" (attacker_position "988 -688 80") (victim_position "836 -824 80")
+L 04/21/2018 - 17:41:02: "Halfsack6<7><[U:1:21082888]><Red>" triggered "kill assist" against "[LL] allhawkeye85<4><[U:1:28500804]><Blue>" (assister_position "808 -1268 160") (attacker_position "988 -688 80") (victim_position "836 -824 80")
+L 04/21/2018 - 17:41:04: "Halfsack6<7><[U:1:21082888]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "898 -781 80")
+L 04/21/2018 - 17:41:04: [META] Loaded 0 plugins (1 already loaded)
+L 04/21/2018 - 17:41:04: Log file closed.
