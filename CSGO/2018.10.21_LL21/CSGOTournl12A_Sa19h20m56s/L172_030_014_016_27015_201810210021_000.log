@@ -1,0 +1,901 @@
+L 10/21/2018 - 00:21:25: Log file started (file "logs/L172_030_014_016_27015_201810210021_000.log") (game "/app/csgo") (version "7268")
+L 10/21/2018 - 00:21:25: Loading map "de_overpass"
+L 10/21/2018 - 00:21:25: server cvars start
+L 10/21/2018 - 00:21:25: "cash_player_killed_teammate" = "-300"
+L 10/21/2018 - 00:21:25: "cash_player_respawn_amount" = "0"
+L 10/21/2018 - 00:21:25: "sv_maxspeed" = "320"
+L 10/21/2018 - 00:21:25: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/21/2018 - 00:21:25: "cash_team_rescued_hostage" = "0"
+L 10/21/2018 - 00:21:25: "cash_team_win_by_defusing_bomb" = "3250"
+L 10/21/2018 - 00:21:25: "sv_rollangle" = "0"
+L 10/21/2018 - 00:21:25: "r_AirboatViewZHeight" = "0.0"
+L 10/21/2018 - 00:21:25: "sv_cheats" = "0"
+L 10/21/2018 - 00:21:25: "r_VehicleViewDampen" = "1"
+L 10/21/2018 - 00:21:25: "metamod_version" = "1.11.0-dev+1097V"
+L 10/21/2018 - 00:21:25: "mp_allowNPCs" = "1"
+L 10/21/2018 - 00:21:25: "mp_tournament" = "0"
+L 10/21/2018 - 00:21:25: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/21/2018 - 00:21:25: "sv_spec_hear" = "1"
+L 10/21/2018 - 00:21:25: "cash_player_interact_with_hostage" = "150"
+L 10/21/2018 - 00:21:25: "mp_maxrounds" = "0"
+L 10/21/2018 - 00:21:25: "mp_flashlight" = "0"
+L 10/21/2018 - 00:21:25: "sv_tags" = ""
+L 10/21/2018 - 00:21:25: "sv_stepsize" = "18"
+L 10/21/2018 - 00:21:25: "sv_alltalk" = "0"
+L 10/21/2018 - 00:21:25: "mp_teamlist" = "hgrunt;scientist"
+L 10/21/2018 - 00:21:25: "mp_footsteps" = "1"
+L 10/21/2018 - 00:21:25: "sv_noclipaccelerate" = "5"
+L 10/21/2018 - 00:21:25: "sv_accelerate_debug_speed" = "0"
+L 10/21/2018 - 00:21:25: "sv_wateraccelerate" = "10"
+L 10/21/2018 - 00:21:25: "mp_stalemate_enable" = "0"
+L 10/21/2018 - 00:21:25: "mp_autocrosshair" = "1"
+L 10/21/2018 - 00:21:25: "sourcemod_version" = "1.9.0.6148"
+L 10/21/2018 - 00:21:25: "cash_team_elimination_bomb_map" = "3250"
+L 10/21/2018 - 00:21:25: "cash_player_get_killed" = "0"
+L 10/21/2018 - 00:21:25: "mp_roundtime_defuse" = "0"
+L 10/21/2018 - 00:21:25: "sv_autobuyammo" = "0"
+L 10/21/2018 - 00:21:25: "sv_rollspeed" = "200"
+L 10/21/2018 - 00:21:25: "sv_airaccelerate" = "12"
+L 10/21/2018 - 00:21:25: "sv_show_team_equipment_prohibit" = "0"
+L 10/21/2018 - 00:21:25: "mp_teams_unbalance_limit" = "1"
+L 10/21/2018 - 00:21:25: "mp_timelimit" = "5"
+L 10/21/2018 - 00:21:25: "cash_team_loser_bonus" = "1400"
+L 10/21/2018 - 00:21:25: "sv_deadtalk" = "0"
+L 10/21/2018 - 00:21:25: "cash_player_rescued_hostage" = "1000"
+L 10/21/2018 - 00:21:25: "sv_waterfriction" = "1"
+L 10/21/2018 - 00:21:25: "sv_competitive_official_5v5" = "0"
+L 10/21/2018 - 00:21:25: "sv_steamgroup" = ""
+L 10/21/2018 - 00:21:25: "cash_player_killed_enemy_default" = "300"
+L 10/21/2018 - 00:21:25: "coop" = "0"
+L 10/21/2018 - 00:21:25: "mp_respawnwavetime" = "10.0"
+L 10/21/2018 - 00:21:25: "sv_teamid_overhead" = "1"
+L 10/21/2018 - 00:21:25: "tv_enable1" = "0"
+L 10/21/2018 - 00:21:25: "nextlevel" = ""
+L 10/21/2018 - 00:21:25: "sv_stopspeed" = "80"
+L 10/21/2018 - 00:21:25: "sv_specaccelerate" = "5"
+L 10/21/2018 - 00:21:25: "deathmatch" = "1"
+L 10/21/2018 - 00:21:25: "tv_enable" = "0"
+L 10/21/2018 - 00:21:25: "mp_roundtime_hostage" = "0"
+L 10/21/2018 - 00:21:25: "mp_freezetime" = "6"
+L 10/21/2018 - 00:21:25: "mp_teammates_are_enemies" = "0"
+L 10/21/2018 - 00:21:25: "mp_falldamage" = "0"
+L 10/21/2018 - 00:21:25: "sv_accelerate_use_weapon_speed" = "1"
+L 10/21/2018 - 00:21:25: "sv_voiceenable" = "1"
+L 10/21/2018 - 00:21:25: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/21/2018 - 00:21:25: "sv_bounce" = "0"
+L 10/21/2018 - 00:21:25: "mp_disable_respawn_times" = "0"
+L 10/21/2018 - 00:21:25: "r_AirboatViewDampenFreq" = "7.0"
+L 10/21/2018 - 00:21:25: "mp_weaponstay" = "0"
+L 10/21/2018 - 00:21:25: "mp_hostagepenalty" = "10"
+L 10/21/2018 - 00:21:25: "tv_advertise_watchable" = "0"
+L 10/21/2018 - 00:21:25: "mp_friendlyfire" = "0"
+L 10/21/2018 - 00:21:25: "cash_team_hostage_interaction" = "500"
+L 10/21/2018 - 00:21:25: "sv_noclipspeed" = "5"
+L 10/21/2018 - 00:21:25: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/21/2018 - 00:21:25: "sv_allchat" = "1"
+L 10/21/2018 - 00:21:25: "mp_buy_during_immunity" = "0"
+L 10/21/2018 - 00:21:25: "cash_player_killed_enemy_factor" = "1"
+L 10/21/2018 - 00:21:25: "mp_c4timer" = "40"
+L 10/21/2018 - 00:21:25: "r_JeepViewDampenDamp" = "1.0"
+L 10/21/2018 - 00:21:25: "sv_competitive_minspec" = "1"
+L 10/21/2018 - 00:21:25: "r_AirboatViewDampenDamp" = "1.0"
+L 10/21/2018 - 00:21:25: "sm_nextmap" = ""
+L 10/21/2018 - 00:21:25: "sv_max_allowed_net_graph" = "1"
+L 10/21/2018 - 00:21:25: "mp_stalemate_at_timelimit" = "0"
+L 10/21/2018 - 00:21:25: "mp_limitteams" = "2"
+L 10/21/2018 - 00:21:25: "sv_footsteps" = "1"
+L 10/21/2018 - 00:21:25: "sv_vote_issue_kick_allowed" = "1"
+L 10/21/2018 - 00:21:25: "cash_team_survive_guardian_wave" = "1000"
+L 10/21/2018 - 00:21:25: "tv_relaypassword" = "CoyotesLoveAdventure"
+L 10/21/2018 - 00:21:25: "mp_teamplay" = "0"
+L 10/21/2018 - 00:21:25: "cash_team_terrorist_win_bomb" = "3500"
+L 10/21/2018 - 00:21:25: "cash_team_elimination_hostage_map_t" = "1000"
+L 10/21/2018 - 00:21:25: "r_JeepViewDampenFreq" = "7.0"
+L 10/21/2018 - 00:21:25: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/21/2018 - 00:21:25: "sv_specnoclip" = "1"
+L 10/21/2018 - 00:21:25: "sv_friction" = "5.2"
+L 10/21/2018 - 00:21:25: "cash_player_bomb_planted" = "300"
+L 10/21/2018 - 00:21:25: "mp_autoteambalance" = "1"
+L 10/21/2018 - 00:21:25: "sv_contact" = ""
+L 10/21/2018 - 00:21:25: "sv_vote_kick_ban_duration" = "15"
+L 10/21/2018 - 00:21:25: "cash_player_bomb_defused" = "300"
+L 10/21/2018 - 00:21:25: "mp_roundtime" = "5"
+L 10/21/2018 - 00:21:25: "sv_kick_ban_duration" = "15"
+L 10/21/2018 - 00:21:25: "cash_team_planted_bomb_but_defused" = "800"
+L 10/21/2018 - 00:21:25: "cash_player_killed_hostage" = "-1000"
+L 10/21/2018 - 00:21:25: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/21/2018 - 00:21:25: "nextmode" = ""
+L 10/21/2018 - 00:21:25: "mp_fraglimit" = "0"
+L 10/21/2018 - 00:21:25: "mp_forcerespawn" = "1"
+L 10/21/2018 - 00:21:25: "mp_winlimit" = "0"
+L 10/21/2018 - 00:21:25: "sv_accelerate" = "5.5"
+L 10/21/2018 - 00:21:25: "mp_buy_anywhere" = "0"
+L 10/21/2018 - 00:21:25: "sv_gravity" = "800"
+L 10/21/2018 - 00:21:25: "sv_password" = "pandas51"
+L 10/21/2018 - 00:21:25: "cash_team_elimination_hostage_map_ct" = "2000"
+L 10/21/2018 - 00:21:25: "cash_team_win_by_hostage_rescue" = "3500"
+L 10/21/2018 - 00:21:25: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/21/2018 - 00:21:25: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/21/2018 - 00:21:25: "cash_player_damage_hostage" = "-30"
+L 10/21/2018 - 00:21:25: "r_JeepViewZHeight" = "10.0"
+L 10/21/2018 - 00:21:25: "cash_team_hostage_alive" = "0"
+L 10/21/2018 - 00:21:25: "tv_password" = "CoyotesLoveAdventure"
+L 10/21/2018 - 00:21:25: "sv_specspeed" = "3"
+L 10/21/2018 - 00:21:25: server cvars end
+L 10/21/2018 - 00:21:28: Started map "de_overpass" (CRC "-1122022338")
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running server.cfg""
+L 10/21/2018 - 00:21:29: server_cvar: "sv_teamid_overhead_always_prohibit" "1"
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:21:29: server_cvar: "wm_autodemoupload_completed" "0"
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:21:29: server_cvar: "tv_enable" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "wm_auto_knife" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "wm_pause_confirm" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "wm_pause_limit" "5"
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:21:29: server_cvar: "sv_contact" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_rescued_hostage" "750"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_alive" "150"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_interaction" "150"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_limitteams" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_timelimit" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "sv_competitive_official_5v5" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_maxrounds" "30"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime" "1.75"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime_defuse" "1.75"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_autoteambalance" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "sv_deadtalk" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "sv_kick_ban_duration" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "wm_warmup_respawn" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "wm_block_warm_up_grenades" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_alive" "0"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_interaction" "600"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_rescued_hostage" "600"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime" "1.92"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime_hostage" "1.92"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime_defuse" "1.92"
+L 10/21/2018 - 00:21:29: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_rescued_hostage" "750"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_alive" "150"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_team_hostage_interaction" "150"
+L 10/21/2018 - 00:21:29: server_cvar: "cash_player_interact_with_hostage" "150"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime" "1.75"
+L 10/21/2018 - 00:21:29: server_cvar: "mp_roundtime_defuse" "1.75"
+L 10/21/2018 - 00:21:33: "GOTV<2><BOT><>" connected, address ""
+L 10/21/2018 - 00:21:33: "GOTV<2><BOT><>" entered the game
+L 10/21/2018 - 00:21:33: "GOTV<2><BOT><Unassigned>" changed name to "zLLTV_CSGO_BRACKET_l12"
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:21:33: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:21:33: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running /sourcemod.plugin.warmod.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:21:33: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:21:33: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:21:33: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:21:33: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:21:33: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:21:33: World triggered "Round_Start"
+L 10/21/2018 - 00:28:16: "blinK @ Lan<3><STEAM_1:1:33626697><>" connected, address ""
+L 10/21/2018 - 00:28:17: "blinK @ Lan<3><STEAM_1:1:33626697><>" STEAM USERID validated
+L 10/21/2018 - 00:28:22: "blinK @ Lan<3><STEAM_1:1:33626697><>" entered the game
+L 10/21/2018 - 00:28:53: "blinK @ Lan<3><STEAM_1:1:33626697>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:28:53: World triggered "Game_Commencing"
+L 10/21/2018 - 00:28:53: Starting Freeze period
+L 10/21/2018 - 00:28:53: World triggered "Match_Start" on "de_overpass"
+L 10/21/2018 - 00:28:53: Team playing "CT": Not_fast
+L 10/21/2018 - 00:28:53: Team playing "TERRORIST": ex_nihilo
+L 10/21/2018 - 00:28:55: World triggered "Round_Start"
+L 10/21/2018 - 00:29:09: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 10/21/2018 - 00:29:11: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 10/21/2018 - 00:29:21: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 10/21/2018 - 00:29:22: "Drizzle@LAN<4><STEAM_1:1:52074304><>" connected, address ""
+L 10/21/2018 - 00:29:22: "Drizzle@LAN<4><STEAM_1:1:52074304><>" STEAM USERID validated
+L 10/21/2018 - 00:29:29: "Drizzle@LAN<4><STEAM_1:1:52074304><>" entered the game
+L 10/21/2018 - 00:29:31: "WillSixtySix<5><STEAM_1:1:54855314><>" connected, address ""
+L 10/21/2018 - 00:29:31: "WillSixtySix<5><STEAM_1:1:54855314><>" STEAM USERID validated
+L 10/21/2018 - 00:29:39: "WillSixtySix<5><STEAM_1:1:54855314><>" entered the game
+L 10/21/2018 - 00:29:43: "Peanut Butter<6><STEAM_1:0:40867433><>" connected, address ""
+L 10/21/2018 - 00:29:43: "Peanut Butter<6><STEAM_1:0:40867433><>" STEAM USERID validated
+L 10/21/2018 - 00:29:51: "Peanut Butter<6><STEAM_1:0:40867433><>" entered the game
+L 10/21/2018 - 00:29:58: "Peanut Butter<6><STEAM_1:0:40867433>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:30:06: "cyber<7><STEAM_1:0:441450813><>" connected, address ""
+L 10/21/2018 - 00:30:06: "cyber<7><STEAM_1:0:441450813><>" STEAM USERID validated
+L 10/21/2018 - 00:30:16: "cyber<7><STEAM_1:0:441450813><>" entered the game
+L 10/21/2018 - 00:30:16: "Khaos<8><STEAM_1:0:207914052><>" connected, address ""
+L 10/21/2018 - 00:30:16: "Khaos<8><STEAM_1:0:207914052><>" STEAM USERID validated
+L 10/21/2018 - 00:30:25: "Khaos<8><STEAM_1:0:207914052><>" entered the game
+L 10/21/2018 - 00:30:27: "cyber<7><STEAM_1:0:441450813>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:30:31: "Khaos<8><STEAM_1:0:207914052>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:30:34: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ weapon_bayonet weapon_glock ]
+L 10/21/2018 - 00:30:40: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:30:41: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" purchased "item_kevlar"
+L 10/21/2018 - 00:30:41: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:30:42: "JJTHEGREAT123<9><STEAM_1:0:188697657><>" connected, address ""
+L 10/21/2018 - 00:30:43: "JJTHEGREAT123<9><STEAM_1:0:188697657><>" STEAM USERID validated
+L 10/21/2018 - 00:30:43: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ weapon_bayonet weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:30:51: "Psycho<10><STEAM_1:1:168418375><>" connected, address ""
+L 10/21/2018 - 00:30:51: "JJTHEGREAT123<9><STEAM_1:0:188697657><>" entered the game
+L 10/21/2018 - 00:30:51: "Psycho<10><STEAM_1:1:168418375><>" STEAM USERID validated
+L 10/21/2018 - 00:31:00: "JJTHEGREAT123<9><STEAM_1:0:188697657>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:31:00: "Psycho<10><STEAM_1:1:168418375><>" entered the game
+L 10/21/2018 - 00:31:05: "ZaGen<11><STEAM_1:0:224444651><>" connected, address ""
+L 10/21/2018 - 00:31:05: "ZaGen<11><STEAM_1:0:224444651><>" STEAM USERID validated
+L 10/21/2018 - 00:31:05: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:31:09: "Psycho<10><STEAM_1:1:168418375>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:31:14: "cyber<7><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/21/2018 - 00:31:25: "ZaGen<11><STEAM_1:0:224444651><>" entered the game
+L 10/21/2018 - 00:31:25: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 ]
+L 10/21/2018 - 00:31:32: "ZaGen<11><STEAM_1:0:224444651>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:31:40: "Drizzle@LAN<4><STEAM_1:1:52074304>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:31:41: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 ]
+L 10/21/2018 - 00:31:42: "ZaGen<11><STEAM_1:0:224444651>" switched from team <TERRORIST> to <CT>
+L 10/21/2018 - 00:31:42: "ZaGen<11><STEAM_1:0:224444651><CT>" [-1274 -3083 331] committed suicide with "world"
+L 10/21/2018 - 00:31:42: "ZaGen<11><STEAM_1:0:224444651><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:31:42: "Hank<12><BOT><>" connected, address ""
+L 10/21/2018 - 00:31:42: "Hank<12><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:31:42: "Hank<12><BOT><>" entered the game
+L 10/21/2018 - 00:31:42: "Hank<12><BOT><TERRORIST>" purchased "xm1014"
+L 10/21/2018 - 00:31:42: "Hank<12><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:31:42: "Hank<12><BOT><TERRORIST>" purchased "hegrenade"
+L 10/21/2018 - 00:31:44: "WillSixtySix<5><STEAM_1:1:54855314>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:31:44: "Hank<12><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_xm1014 weapon_hegrenade kevlar(100) helmet ]
+L 10/21/2018 - 00:31:46: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:31:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:31:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "m4a1"
+L 10/21/2018 - 00:31:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:31:46: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:31:46: "ZaGen<11><STEAM_1:0:224444651><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:31:47: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:31:49: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:31:49: "ZaGen<11><STEAM_1:0:224444651><CT>" [-2590 308 455] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2615 -26 432] with "hkp2000" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:31:49: "ZaGen<11><STEAM_1:0:224444651><CT>" [-2590 308 455] killed "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2615 -26 496] with "usp_silencer" (headshot)
+L 10/21/2018 - 00:31:53: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:31:54: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:31:55: "cyber<7><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:31:58: "ZaGen<11><STEAM_1:0:224444651>" switched from team <CT> to <TERRORIST>
+L 10/21/2018 - 00:31:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2279 -671 448] committed suicide with "world"
+L 10/21/2018 - 00:31:58: "Hank<12><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/21/2018 - 00:31:58: "Hank<12><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2018 - 00:31:58: "Ted<13><BOT><>" connected, address ""
+L 10/21/2018 - 00:31:58: "Ted<13><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:31:58: "Ted<13><BOT><>" entered the game
+L 10/21/2018 - 00:31:59: "Ted<13><BOT><CT>" purchased "m4a1"
+L 10/21/2018 - 00:31:59: "Ted<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:00: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2626 -1635 465] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2459 -2079 472] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:32:00: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2450 -2077 472] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2626 -1635 465] with "ak47" (damage "109") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2018 - 00:32:00: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2450 -2077 472] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2626 -1635 529] with "ak47" (headshot)
+L 10/21/2018 - 00:32:02: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/21/2018 - 00:32:03: "Ted<13><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:32:05: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:32:06: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:13: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2721 -1469 434] attacked "Ted<13><BOT><CT>" [-2396 -1007 411] with "deagle" (damage "186") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:32:13: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2721 -1469 434] killed "Ted<13><BOT><CT>" [-2396 -1007 475] with "deagle" (headshot)
+L 10/21/2018 - 00:32:13: "Ted<13><BOT><CT>" purchased "aug"
+L 10/21/2018 - 00:32:13: "Ted<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:13: "Ted<13><BOT><CT>" purchased "hegrenade"
+L 10/21/2018 - 00:32:14: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:32:14: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:14: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 541] with "ak47" (headshot)
+L 10/21/2018 - 00:32:14: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2292 692 474] with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2292 692 474] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] killed "Psycho<10><STEAM_1:1:168418375><CT>" [-2292 692 538] with "ak47" (headshot)
+L 10/21/2018 - 00:32:15: "Psycho<10><STEAM_1:1:168418375><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2205 881 480] with "ak47" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2672 -175 432] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2205 881 544] with "ak47" (headshot)
+L 10/21/2018 - 00:32:15: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:16: "Ted<13><BOT><CT>" [-2338 757 472] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2646 -185 432] with "aug" (damage "30") (damage_armor "1") (health "48") (armor "93") (hitgroup "stomach")
+L 10/21/2018 - 00:32:19: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:19: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "m4a1"
+L 10/21/2018 - 00:32:19: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:32:19: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2659 -134 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2256 837 472] with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:20: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2659 -134 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2256 837 472] with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2281 802 472] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2654 -137 432] with "m4a1" (damage "21") (damage_armor "4") (health "27") (armor "88") (hitgroup "chest")
+L 10/21/2018 - 00:32:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2281 802 472] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2657 -136 432] with "m4a1" (damage "21") (damage_armor "4") (health "6") (armor "83") (hitgroup "right arm")
+L 10/21/2018 - 00:32:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2281 802 472] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2657 -135 432] with "m4a1" (damage "21") (damage_armor "4") (health "0") (armor "78") (hitgroup "chest")
+L 10/21/2018 - 00:32:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2281 802 472] killed "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2657 -135 490] with "m4a1"
+L 10/21/2018 - 00:32:22: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:32:22: "Ted<13><BOT><CT>" threw hegrenade [-2439 260 492]
+L 10/21/2018 - 00:32:22: "Ted<13><BOT><CT>" [-2248 608 475] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2450 57 424] with "hegrenade" (damage "2") (damage_armor "0") (health "98") (armor "99") (hitgroup "generic")
+L 10/21/2018 - 00:32:23: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2454 95 427] attacked "Ted<13><BOT><CT>" [-2243 597 475] with "deagle" (damage "187") (damage_armor "6") (health "0") (armor "92") (hitgroup "head")
+L 10/21/2018 - 00:32:23: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2454 95 427] killed "Ted<13><BOT><CT>" [-2243 597 521] with "deagle" (headshot)
+L 10/21/2018 - 00:32:23: "Ted<13><BOT><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:23: "Ted<13><BOT><CT>" purchased "scar20"
+L 10/21/2018 - 00:32:23: "Ted<13><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:23: "Ted<13><BOT><CT>" purchased "p250"
+L 10/21/2018 - 00:32:23: "Ted<13><BOT><CT>" purchased "hegrenade"
+L 10/21/2018 - 00:32:25: "Ted<13><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_scar20 weapon_hegrenade kevlar(100) helmet ]
+L 10/21/2018 - 00:32:25: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2673 -79 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2256 837 472] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:25: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2673 -79 432] killed "Psycho<10><STEAM_1:1:168418375><CT>" [-2256 837 536] with "ak47" (headshot)
+L 10/21/2018 - 00:32:25: "Psycho<10><STEAM_1:1:168418375><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:25: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2437 142 431] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2192 744 472] with "deagle" (damage "192") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:25: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2437 142 431] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2192 744 536] with "deagle" (headshot)
+L 10/21/2018 - 00:32:25: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:27: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2662 852 475] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2647 -146 432] with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0") (hitgroup "right arm")
+L 10/21/2018 - 00:32:28: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2649 852 475] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2630 -146 432] with "m4a1" (damage "38") (damage_armor "0") (health "31") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:32:28: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2648 852 475] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2626 -146 432] with "m4a1" (damage "23") (damage_armor "0") (health "8") (armor "0") (hitgroup "right leg")
+L 10/21/2018 - 00:32:28: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2648 852 475] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2628 -146 432] with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:32:28: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2648 852 475] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2628 -146 496] with "m4a1"
+L 10/21/2018 - 00:32:30: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "ssg08"
+L 10/21/2018 - 00:32:31: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2771 823 480] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2395 134 431] with "hkp2000" (damage "61") (damage_armor "29") (health "37") (armor "69") (hitgroup "head")
+L 10/21/2018 - 00:32:31: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2394 134 431] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2774 821 480] with "deagle" (damage "170") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:32:31: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2394 134 431] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2774 821 544] with "deagle" (headshot)
+L 10/21/2018 - 00:32:32: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:32:32: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2425 139 431] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "deagle" (damage "205") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:32: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2425 139 431] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 541] with "deagle" (headshot)
+L 10/21/2018 - 00:32:32: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:34: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 ]
+L 10/21/2018 - 00:32:34: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2242 731 472] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2413 136 431] with "hkp2000" (damage "15") (damage_armor "7") (health "22") (armor "61") (hitgroup "chest")
+L 10/21/2018 - 00:32:36: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2271 739 472] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2410 110 429] with "hkp2000" (damage "15") (damage_armor "7") (health "7") (armor "53") (hitgroup "chest")
+L 10/21/2018 - 00:32:36: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2410 110 429] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2335 869 472] with "deagle" (damage "183") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:36: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2410 110 429] killed "Psycho<10><STEAM_1:1:168418375><CT>" [-2335 869 536] with "deagle" (headshot)
+L 10/21/2018 - 00:32:36: "Psycho<10><STEAM_1:1:168418375><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:37: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2430 114 429] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2292 692 474] with "deagle" (damage "197") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:37: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2430 114 429] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2292 692 538] with "deagle" (headshot)
+L 10/21/2018 - 00:32:37: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:38: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 10/21/2018 - 00:32:39: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2656 -64 432] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2330 369 484] with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:39: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2653 -65 432] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2332 370 484] with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:39: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2651 -67 432] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2339 372 484] with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:39: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2651 -67 432] killed "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2339 372 548] with "ak47"
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2636 -83 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2371 726 475] with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2636 -88 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2341 767 472] with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2637 -93 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2341 767 472] with "ak47" (damage "26") (damage_armor "0") (health "31") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2629 -116 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2371 726 475] with "ak47" (damage "43") (damage_armor "0") (health "23") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:32:40: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2622 -129 432] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2371 726 475] with "ak47" (damage "34") (damage_armor "0") (health "0") (armor "0") (hitgroup "right arm")
+L 10/21/2018 - 00:32:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2622 -129 432] killed "Psycho<10><STEAM_1:1:168418375><CT>" [-2371 726 539] with "ak47"
+L 10/21/2018 - 00:32:40: "Psycho<10><STEAM_1:1:168418375><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:40: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2333 765 472] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2620 -133 432] with "hkp2000" (damage "59") (damage_armor "29") (health "41") (armor "70") (hitgroup "head")
+L 10/21/2018 - 00:32:41: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2292 752 472] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2648 -126 432] with "hkp2000" (damage "14") (damage_armor "7") (health "27") (armor "62") (hitgroup "chest")
+L 10/21/2018 - 00:32:42: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:32:42: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2252 736 472] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2635 -133 432] with "hkp2000" (damage "14") (damage_armor "7") (health "13") (armor "54") (hitgroup "chest")
+L 10/21/2018 - 00:32:42: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2432 151 434] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2227 726 472] with "deagle" (damage "196") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:42: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2432 151 434] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2227 726 518] with "deagle" (headshot)
+L 10/21/2018 - 00:32:42: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" assisted killing "Drizzle@LAN<4><STEAM_1:1:52074304><CT>"
+L 10/21/2018 - 00:32:42: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:43: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2419 147 433] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2160 894 480] with "deagle" (damage "45") (damage_armor "0") (health "55") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:44: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:32:44: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:44: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2413 140 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2284 969 480] with "deagle" (damage "166") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:32:44: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2413 140 432] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2284 969 544] with "deagle" (headshot)
+L 10/21/2018 - 00:32:44: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:45: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2408 139 431] attacked "Psycho<10><STEAM_1:1:168418375><CT>" [-2396 812 472] with "deagle" (damage "190") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:45: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2408 139 431] killed "Psycho<10><STEAM_1:1:168418375><CT>" [-2396 812 536] with "deagle" (headshot)
+L 10/21/2018 - 00:32:45: "Psycho<10><STEAM_1:1:168418375><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2262 933 480] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2432 143 431] with "hkp2000" (damage "60") (damage_armor "29") (health "0") (armor "23") (hitgroup "head")
+L 10/21/2018 - 00:32:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2262 933 480] killed "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2432 143 495] with "usp_silencer" (headshot)
+L 10/21/2018 - 00:32:46: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2688 -149 432] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2160 894 480] with "ak47" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:32:46: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2688 -149 432] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2160 894 544] with "ak47" (headshot)
+L 10/21/2018 - 00:32:46: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:32:47: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2678 -154 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2231 925 480] with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:32:47: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2231 925 480] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2673 -156 432] with "hkp2000" (damage "56") (damage_armor "27") (health "0") (armor "26") (hitgroup "head")
+L 10/21/2018 - 00:32:47: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2231 925 480] killed "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2673 -156 478] with "usp_silencer" (headshot)
+L 10/21/2018 - 00:32:48: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:48: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:32:48: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:32:49: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:49: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:32:49: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:50: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:32:51: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:32:51: "cyber<7><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:32:51: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:32:52: "Jelly @ LAN<14><STEAM_1:0:215487283><>" connected, address ""
+L 10/21/2018 - 00:32:52: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:32:52: "Jelly @ LAN<14><STEAM_1:0:215487283><>" STEAM USERID validated
+L 10/21/2018 - 00:32:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "yo"
+L 10/21/2018 - 00:33:01: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "wtf is this ping"
+L 10/21/2018 - 00:33:01: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2555 -898 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2835 -1477 435] with "deagle" (damage "180") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:33:01: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2555 -898 432] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2835 -1477 499] with "deagle" (headshot)
+L 10/21/2018 - 00:33:04: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:04: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2653 -1818 472] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2742 -1226 435] with "ak47" (damage "27") (damage_armor "3") (health "39") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:33:04: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2655 -1818 472] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2744 -1241 435] with "ak47" (damage "27") (damage_armor "3") (health "12") (armor "92") (hitgroup "chest")
+L 10/21/2018 - 00:33:04: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2655 -1818 472] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2738 -1243 435] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "88") (hitgroup "chest")
+L 10/21/2018 - 00:33:04: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2655 -1818 472] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2738 -1243 499] with "ak47"
+L 10/21/2018 - 00:33:05: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:33:07: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:33:07: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:07: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:33:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:33:09: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:33:12: "Jelly @ LAN<14><STEAM_1:0:215487283><>" entered the game
+L 10/21/2018 - 00:33:13: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2210 -742 384] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2299 -130 397] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:33:14: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2210 -742 384] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2325 -133 399] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 10/21/2018 - 00:33:14: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2328 -134 399] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2210 -742 384] with "deagle" (damage "182") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:33:14: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2328 -134 399] killed "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2210 -742 430] with "deagle" (headshot)
+L 10/21/2018 - 00:33:15: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:16: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:33:18: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:33:18: "Jelly @ LAN<14><STEAM_1:0:215487283>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:33:18: "Ted<13><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2018 - 00:33:18: "Ted<13><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2018 - 00:33:20: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2018 - 00:33:22: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" say ".ready"
+L 10/21/2018 - 00:33:23: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "HEY BOYS"
+L 10/21/2018 - 00:33:25: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2018 - 00:33:27: "cyber<7><STEAM_1:0:441450813><TERRORIST>" say "sup"
+L 10/21/2018 - 00:33:27: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "join ur team"
+L 10/21/2018 - 00:33:28: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2276 -1312 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-3176 -1587 540] with "deagle" (damage "39") (damage_armor "1") (health "61") (armor "98") (hitgroup "chest")
+L 10/21/2018 - 00:33:29: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2201 -1305 414] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-3172 -1559 524] with "deagle" (damage "155") (damage_armor "5") (health "0") (armor "92") (hitgroup "head")
+L 10/21/2018 - 00:33:29: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2201 -1305 414] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-3172 -1559 588] with "deagle" (headshot)
+L 10/21/2018 - 00:33:31: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:31: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-3046 -1741 517] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2514 -1311 434] with "deagle" (damage "44") (damage_armor "1") (health "2") (armor "90") (hitgroup "chest")
+L 10/21/2018 - 00:33:31: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:33:33: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:33:33: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2561 -1254 434] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-3049 -1733 518] with "deagle" (damage "177") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:33:33: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2561 -1254 434] killed "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-3049 -1733 582] with "deagle" (headshot)
+L 10/21/2018 - 00:33:34: "cyber<7><STEAM_1:0:441450813><TERRORIST>" say "like our ping"
+L 10/21/2018 - 00:33:35: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2654 -1361 434] attacked "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2702 -1926 472] with "deagle" (damage "185") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:33:35: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2654 -1361 434] killed "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-2702 -1926 536] with "deagle" (headshot)
+L 10/21/2018 - 00:33:38: "WillSixtySix<5><STEAM_1:1:54855314><TERRORIST>" [-1420 -3139 351] committed suicide with "world"
+L 10/21/2018 - 00:33:38: "WillSixtySix<5><STEAM_1:1:54855314>" switched from team <TERRORIST> to <Spectator>
+L 10/21/2018 - 00:33:38: "WillSixtySix<5><STEAM_1:1:54855314><Spectator>" left buyzone with [ ]
+L 10/21/2018 - 00:33:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:33:40: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2648 720 571] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2094 851 480] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:33:40: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2648 720 571] killed "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2094 851 544] with "ak47" (headshot)
+L 10/21/2018 - 00:33:40: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:33:40: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:33:41: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2647 718 571] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2192 744 472] with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:33:41: "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2647 718 571] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2192 744 536] with "ak47" (headshot)
+L 10/21/2018 - 00:33:41: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:33:43: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2053 795 480] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2654 702 571] with "hkp2000" (damage "63") (damage_armor "30") (health "37") (armor "69") (hitgroup "head")
+L 10/21/2018 - 00:33:44: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2053 795 480] attacked "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2654 702 571] with "hkp2000" (damage "63") (damage_armor "30") (health "0") (armor "38") (hitgroup "head")
+L 10/21/2018 - 00:33:44: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2053 795 480] killed "cyber<7><STEAM_1:0:441450813><TERRORIST>" [-2654 702 635] with "usp_silencer" (headshot)
+L 10/21/2018 - 00:33:45: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-1938 -2347 439] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1807 -2219 443] with "deagle" (damage "54") (damage_armor "1") (health "46") (armor "98") (hitgroup "chest")
+L 10/21/2018 - 00:33:46: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:33:46: "cyber<7><STEAM_1:0:441450813><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:48: "cyber<7><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:33:52: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-1571 -2405 336] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-1879 -2394 425] with "ak47" (damage "110") (damage_armor "15") (health "0") (armor "74") (hitgroup "head")
+L 10/21/2018 - 00:33:52: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-1571 -2405 336] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-1879 -2394 489] with "ak47" (headshot)
+L 10/21/2018 - 00:33:54: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:33:54: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:33:57: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:04: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "yo who here is at lan\"
+L 10/21/2018 - 00:34:06: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2353 -518 430] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2794 -1258 435] with "deagle" (damage "164") (damage_armor "6") (health "0") (armor "91") (hitgroup "head")
+L 10/21/2018 - 00:34:06: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2353 -518 430] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2794 -1258 499] with "deagle" (headshot)
+L 10/21/2018 - 00:34:07: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "tell psycho to switchs ides"
+L 10/21/2018 - 00:34:08: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2845 -1594 439] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2226 -765 384] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:34:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2842 -1597 439] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2233 -763 384] with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "92") (hitgroup "chest")
+L 10/21/2018 - 00:34:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2829 -1606 438] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2249 -753 384] with "ak47" (damage "33") (damage_armor "4") (health "15") (armor "87") (hitgroup "stomach")
+L 10/21/2018 - 00:34:08: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:34:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2824 -1610 437] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2247 -755 384] with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "82") (hitgroup "stomach")
+L 10/21/2018 - 00:34:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2824 -1610 437] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2247 -755 446] with "ak47"
+L 10/21/2018 - 00:34:10: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:34:10: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:10: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:10: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "we are"
+L 10/21/2018 - 00:34:11: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "hes afk"
+L 10/21/2018 - 00:34:12: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:12: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" say "im at home"
+L 10/21/2018 - 00:34:16: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2203 -908 387] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2298 -317 385] with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2018 - 00:34:16: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2203 -908 387] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2298 -317 449] with "ak47" (headshot)
+L 10/21/2018 - 00:34:17: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "run to his comp"
+L 10/21/2018 - 00:34:17: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:34:18: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:34:19: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:34:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:34:21: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:34:21: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:22: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:22: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2018 - 00:34:25: "Psycho<10><STEAM_1:1:168418375>" switched from team <CT> to <TERRORIST>
+L 10/21/2018 - 00:34:25: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2404 652 542] committed suicide with "world"
+L 10/21/2018 - 00:34:25: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/21/2018 - 00:34:25: "Reed<15><BOT><>" connected, address ""
+L 10/21/2018 - 00:34:25: "Reed<15><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:34:25: "Reed<15><BOT><>" entered the game
+L 10/21/2018 - 00:34:26: "Reed<15><BOT><CT>" purchased "m4a1"
+L 10/21/2018 - 00:34:26: "Reed<15><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:26: "Reed<15><BOT><CT>" purchased "p250"
+L 10/21/2018 - 00:34:26: "Reed<15><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:34:36: "WillSixtySix<5><STEAM_1:1:54855314>" switched from team <Spectator> to <CT>
+L 10/21/2018 - 00:34:36: "Reed<15><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/21/2018 - 00:34:36: "Reed<15><BOT>" switched from team <CT> to <Unassigned>
+L 10/21/2018 - 00:34:38: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:34:38: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:39: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:34:39: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "literlly bouta suck that d if he doesn't come back"
+L 10/21/2018 - 00:34:43: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:34:45: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "d row has the ping advantage over f row"
+L 10/21/2018 - 00:34:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2649 781 477] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2611 -175 432] with "m4a1" (damage "87") (damage_armor "18") (health "13") (armor "81") (hitgroup "head")
+L 10/21/2018 - 00:34:47: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "suckas"
+L 10/21/2018 - 00:34:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2649 781 477] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2621 -175 432] with "m4a1" (damage "27") (damage_armor "5") (health "0") (armor "75") (hitgroup "stomach")
+L 10/21/2018 - 00:34:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2649 781 477] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2621 -175 496] with "m4a1"
+L 10/21/2018 - 00:34:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2733 755 480] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2405 48 422] with "m4a1" (damage "88") (damage_armor "18") (health "12") (armor "81") (hitgroup "head")
+L 10/21/2018 - 00:34:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2733 755 480] attacked "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2423 52 422] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "76") (hitgroup "chest")
+L 10/21/2018 - 00:34:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2733 755 480] killed "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" [-2423 52 485] with "m4a1"
+L 10/21/2018 - 00:34:49: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:50: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:34:51: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:51: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "yo"
+L 10/21/2018 - 00:34:52: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:34:56: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "our ping.."
+L 10/21/2018 - 00:34:57: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:34:57: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:34:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "molotov"
+L 10/21/2018 - 00:34:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "smokegrenade"
+L 10/21/2018 - 00:34:58: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "lmao"
+L 10/21/2018 - 00:34:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "hegrenade"
+L 10/21/2018 - 00:34:58: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" purchased "flashbang"
+L 10/21/2018 - 00:34:59: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 weapon_molotov weapon_smokegrenade weapon_hegrenade weapon_flashbang kevlar(100) helmet ]
+L 10/21/2018 - 00:35:00: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "go ask admin"
+L 10/21/2018 - 00:35:04: "cyber<7><STEAM_1:0:441450813><TERRORIST>" say "10 sv btw"
+L 10/21/2018 - 00:35:06: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "reconnect?"
+L 10/21/2018 - 00:35:08: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" say "but i dont wannnnaaa"
+L 10/21/2018 - 00:35:10: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2972 -1572 521] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2633 -966 464] with "deagle" (damage "44") (damage_armor "1") (health "56") (armor "98") (hitgroup "chest")
+L 10/21/2018 - 00:35:14: "ZaGen<11><STEAM_1:0:224444651><TERRORIST>" disconnected (reason "Disconnect")
+L 10/21/2018 - 00:35:14: "ZaGen<11><STEAM_1:0:224444651>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2654 -905 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2638 -1500 434] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2652 -906 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2624 -1499 433] with "m4a1" (damage "22") (damage_armor "4") (health "56") (armor "90") (hitgroup "chest")
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2652 -906 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2619 -1495 434] with "m4a1" (damage "22") (damage_armor "4") (health "34") (armor "85") (hitgroup "left arm")
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2652 -906 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2615 -1491 434] with "m4a1" (damage "22") (damage_armor "4") (health "12") (armor "80") (hitgroup "chest")
+L 10/21/2018 - 00:35:14: "ZaGen<16><STEAM_1:0:224444651><>" connected, address ""
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2652 -906 432] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2611 -1486 434] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "left arm")
+L 10/21/2018 - 00:35:14: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2652 -906 432] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2611 -1486 498] with "m4a1"
+L 10/21/2018 - 00:35:14: "ZaGen<16><STEAM_1:0:224444651><>" STEAM USERID validated
+L 10/21/2018 - 00:35:16: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" say "yo drizzle "
+L 10/21/2018 - 00:35:16: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:17: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:35:17: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "10sv is normal"
+L 10/21/2018 - 00:35:19: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:35:21: "ZaGen<16><STEAM_1:0:224444651><>" entered the game
+L 10/21/2018 - 00:35:21: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:35:23: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "yo"
+L 10/21/2018 - 00:35:24: "cyber<7><STEAM_1:0:441450813><TERRORIST>" disconnected (reason "Disconnect")
+L 10/21/2018 - 00:35:24: "cyber<7><STEAM_1:0:441450813>" switched from team <TERRORIST> to <Unassigned>
+L 10/21/2018 - 00:35:27: "ZaGen<16><STEAM_1:0:224444651>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:35:30: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1833 -2158 464] with "m4a1" (damage "21") (damage_armor "4") (health "79") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:35:30: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1837 -2145 467] with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "90") (hitgroup "chest")
+L 10/21/2018 - 00:35:30: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1841 -2141 468] with "m4a1" (damage "21") (damage_armor "4") (health "37") (armor "85") (hitgroup "chest")
+L 10/21/2018 - 00:35:31: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" say "were we almostr on a team together or is that a different guy"
+L 10/21/2018 - 00:35:31: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1896 -2199 459] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] with "deagle" (damage "35") (damage_armor "1") (health "21") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:35:32: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1875 -2168 464] with "m4a1" (damage "21") (damage_armor "4") (health "16") (armor "80") (hitgroup "chest")
+L 10/21/2018 - 00:35:32: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1872 -2163 465] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 549] with "deagle" (damage "35") (damage_armor "1") (health "0") (armor "94") (hitgroup "chest")
+L 10/21/2018 - 00:35:32: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1872 -2163 465] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2921 -1529 613] with "deagle"
+L 10/21/2018 - 00:35:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:35:34: "WillSixtySix<5><STEAM_1:1:54855314><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:34: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:34: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:35:34: "WillSixtySix<5><STEAM_1:1:54855314><CT>" purchased "m4a1"
+L 10/21/2018 - 00:35:34: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1954 -2270 449] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2653 -1619 458] with "deagle" (damage "158") (damage_armor "5") (health "0") (armor "94") (hitgroup "head")
+L 10/21/2018 - 00:35:34: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1954 -2270 449] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2653 -1619 522] with "deagle" (headshot)
+L 10/21/2018 - 00:35:35: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:35:35: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:35: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:35:36: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:35:36: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:35:38: "WillSixtySix<5><STEAM_1:1:54855314><CT>" say ".ready"
+L 10/21/2018 - 00:35:43: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "for open?"
+L 10/21/2018 - 00:35:45: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "deagle"
+L 10/21/2018 - 00:35:46: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:46: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" say "yea"
+L 10/21/2018 - 00:35:46: "cyber<17><STEAM_1:0:441450813><>" connected, address ""
+L 10/21/2018 - 00:35:47: "cyber<17><STEAM_1:0:441450813><>" STEAM USERID validated
+L 10/21/2018 - 00:35:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2634 -1349 434] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2784 -2050 472] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "chest")
+L 10/21/2018 - 00:35:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2634 -1349 434] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2784 -2050 536] with "m4a1"
+L 10/21/2018 - 00:35:49: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:35:51: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:35:52: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:35:54: "cyber<17><STEAM_1:0:441450813><>" entered the game
+L 10/21/2018 - 00:35:55: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1818 -2261 424] with "m4a1" (damage "27") (damage_armor "5") (health "73") (armor "94") (hitgroup "stomach")
+L 10/21/2018 - 00:35:56: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1825 -2277 420] with "m4a1" (damage "22") (damage_armor "4") (health "51") (armor "89") (hitgroup "chest")
+L 10/21/2018 - 00:35:56: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1828 -2282 419] with "m4a1" (damage "22") (damage_armor "4") (health "29") (armor "84") (hitgroup "chest")
+L 10/21/2018 - 00:35:56: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1830 -2286 419] with "m4a1" (damage "22") (damage_armor "4") (health "7") (armor "79") (hitgroup "chest")
+L 10/21/2018 - 00:35:56: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1830 -2286 419] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "74") (hitgroup "chest")
+L 10/21/2018 - 00:35:56: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2318 -2063 472] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1830 -2286 483] with "m4a1"
+L 10/21/2018 - 00:35:58: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" say "taht"
+L 10/21/2018 - 00:36:01: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "idk ive been playin around with some dudes this season but before that nothing"
+L 10/21/2018 - 00:36:01: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1641 -2365 336] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1342 -2299 364] with "m4a1" (damage "28") (damage_armor "6") (health "72") (armor "93") (hitgroup "stomach")
+L 10/21/2018 - 00:36:01: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1641 -2365 336] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1321 -2259 389] with "m4a1" (damage "24") (damage_armor "0") (health "48") (armor "93") (hitgroup "right leg")
+L 10/21/2018 - 00:36:02: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1613 -2421 336] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1164 -2159 336] with "m4a1" (damage "89") (damage_armor "19") (health "11") (armor "80") (hitgroup "head")
+L 10/21/2018 - 00:36:02: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1613 -2421 336] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1164 -2159 336] with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "chest")
+L 10/21/2018 - 00:36:02: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1613 -2421 336] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1164 -2159 400] with "m4a1"
+L 10/21/2018 - 00:36:02: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" say "disrespect"
+L 10/21/2018 - 00:36:03: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:36:03: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:03: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:36:03: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1572 -2437 336] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1376 -2209 336] with "m4a1" (damage "90") (damage_armor "19") (health "0") (armor "73") (hitgroup "head")
+L 10/21/2018 - 00:36:03: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-1572 -2437 336] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1376 -2209 400] with "m4a1" (headshot)
+L 10/21/2018 - 00:36:04: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:36:05: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:06: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:36:07: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:36:08: "cyber<17><STEAM_1:0:441450813>" switched from team <Unassigned> to <TERRORIST>
+L 10/21/2018 - 00:36:08: "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-816 -2162 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-631 -2420 146] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:36:09: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-630 -2420 146] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-816 -2162 240] with "ak47" (damage "110") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 10/21/2018 - 00:36:09: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-630 -2420 146] killed "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-816 -2162 286] with "ak47" (headshot)
+L 10/21/2018 - 00:36:10: "WillSixtySix<5><STEAM_1:1:54855314><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:10: "WillSixtySix<5><STEAM_1:1:54855314><CT>" purchased "m4a1"
+L 10/21/2018 - 00:36:11: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:36:12: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "maybe"
+L 10/21/2018 - 00:36:13: "cyber<17><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/21/2018 - 00:36:13: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "come down and setup your pc in d row its sick"
+L 10/21/2018 - 00:36:16: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1717 -2408 353] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-1948 -2205 459] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:36:16: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1715 -2406 352] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-1948 -2205 459] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 10/21/2018 - 00:36:16: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1714 -2404 350] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-1949 -2205 458] with "ak47" (damage "110") (damage_armor "15") (health "0") (armor "76") (hitgroup "head")
+L 10/21/2018 - 00:36:16: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1714 -2404 350] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-1949 -2205 507] with "ak47" (headshot)
+L 10/21/2018 - 00:36:17: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "deagle"
+L 10/21/2018 - 00:36:17: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:19: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:36:24: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" say "oh okay "
+L 10/21/2018 - 00:36:28: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/21/2018 - 00:36:29: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2654 -1471 434] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2707 -2157 472] with "deagle" (damage "176") (damage_armor "6") (health "0") (armor "93") (hitgroup "head")
+L 10/21/2018 - 00:36:29: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2654 -1471 434] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2707 -2157 536] with "deagle" (headshot)
+L 10/21/2018 - 00:36:30: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3043 -1721 519] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2611 -1389 434] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:36:30: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3043 -1721 519] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2624 -1373 434] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 10/21/2018 - 00:36:30: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2623 -1374 434] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3043 -1721 519] with "deagle" (damage "46") (damage_armor "1") (health "32") (armor "93") (hitgroup "right arm")
+L 10/21/2018 - 00:36:30: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3041 -1723 519] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2623 -1374 434] with "ak47" (damage "27") (damage_armor "3") (health "19") (armor "88") (hitgroup "chest")
+L 10/21/2018 - 00:36:31: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3038 -1726 518] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2621 -1377 434] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "84") (hitgroup "chest")
+L 10/21/2018 - 00:36:31: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-3038 -1726 518] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2621 -1377 480] with "ak47"
+L 10/21/2018 - 00:36:40: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2055 -949 393] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2430 53 422] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/21/2018 - 00:36:41: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2681 -224 432] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2701 -191 432] with "glock" (damage "55") (damage_armor "31") (health "45") (armor "68") (hitgroup "head")
+L 10/21/2018 - 00:36:42: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2592 -224 432] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2701 -191 432] with "glock" (damage "54") (damage_armor "30") (health "0") (armor "37") (hitgroup "head")
+L 10/21/2018 - 00:36:42: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2592 -224 432] killed "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2701 -191 496] with "glock" (headshot)
+L 10/21/2018 - 00:36:43: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2692 -155 432] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2335 869 472] with "glock" (damage "84") (damage_armor "0") (health "16") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:45: "Peanut Butter<6><STEAM_1:0:40867433><CT>" say "/READY"
+L 10/21/2018 - 00:36:45: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2672 -161 432] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2311 806 472] with "glock" (damage "86") (damage_armor "0") (health "14") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:45: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2171 -452 389] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2474 78 426] with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "80") (hitgroup "head")
+L 10/21/2018 - 00:36:45: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2171 -452 389] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2474 78 490] with "ak47" (headshot)
+L 10/21/2018 - 00:36:47: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2461 102 428] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "31") (damage_armor "0") (health "69") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:36:47: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2455 107 428] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "25") (damage_armor "0") (health "44") (armor "0") (hitgroup "left arm")
+L 10/21/2018 - 00:36:48: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2425 120 430] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "25") (damage_armor "0") (health "19") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:36:48: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2387 848 472] attacked "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2416 119 430] with "hkp2000" (damage "30") (damage_armor "0") (health "70") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:36:48: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2387 848 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2439 -60 421] with "hkp2000" (damage "5") (damage_armor "2") (health "27") (armor "90") (hitgroup "chest")
+L 10/21/2018 - 00:36:49: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2416 119 430] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "102") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:49: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2416 119 430] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 541] with "glock" (headshot)
+L 10/21/2018 - 00:36:49: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:36:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2018 - 00:36:49: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2383 848 472] attacked "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2415 119 430] with "hkp2000" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:49: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2383 848 472] killed "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2415 119 492] with "usp_silencer" (headshot)
+L 10/21/2018 - 00:36:49: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2445 -54 423] attacked "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2383 848 472] with "ak47" (damage "43") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:36:49: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2445 -54 423] killed "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-2383 848 536] with "ak47"
+L 10/21/2018 - 00:36:49: "cyber<17><STEAM_1:0:441450813><TERRORIST>" assisted killing "Drizzle@LAN<4><STEAM_1:1:52074304><CT>"
+L 10/21/2018 - 00:36:49: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:36:50: "cyber<17><STEAM_1:0:441450813><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:36:50: "cyber<17><STEAM_1:0:441450813><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:50: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2440 -29 421] attacked "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2335 869 472] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:50: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2440 -29 421] killed "blinK @ Lan<3><STEAM_1:1:33626697><CT>" [-2335 869 536] with "ak47" (headshot)
+L 10/21/2018 - 00:36:50: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:36:51: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "deagle"
+L 10/21/2018 - 00:36:51: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:51: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2471 -23 426] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2258 761 472] with "ak47" (damage "21") (damage_armor "0") (health "79") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:36:51: "cyber<17><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:36:52: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2471 -23 426] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2258 761 472] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:52: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2471 -23 426] killed "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2258 761 536] with "ak47" (headshot)
+L 10/21/2018 - 00:36:52: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:36:52: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2661 -156 432] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "22") (damage_armor "0") (health "78") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:36:52: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2659 -156 432] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 477] with "glock" (damage "91") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:52: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2659 -156 432] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2332 620 541] with "glock" (headshot)
+L 10/21/2018 - 00:36:52: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:36:54: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2653 -162 432] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2379 870 472] with "glock" (damage "40") (damage_armor "22") (health "60") (armor "77") (hitgroup "head")
+L 10/21/2018 - 00:36:54: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2373 868 472] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2656 -161 432] with "deagle" (damage "40") (damage_armor "0") (health "60") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:36:55: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2410 879 472] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2434 91 426] with "deagle" (damage "169") (damage_armor "6") (health "0") (armor "83") (hitgroup "head")
+L 10/21/2018 - 00:36:55: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2410 879 472] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-2434 91 490] with "deagle" (headshot)
+L 10/21/2018 - 00:36:56: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2373 866 472] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2668 -158 432] with "deagle" (damage "50") (damage_armor "0") (health "10") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:36:57: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:36:58: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2630 -169 432] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2384 871 472] with "glock" (damage "40") (damage_armor "22") (health "20") (armor "54") (hitgroup "head")
+L 10/21/2018 - 00:36:58: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:36:58: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(54) helmet ]
+L 10/21/2018 - 00:36:59: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2686 -154 432] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2371 726 475] with "glock" (damage "89") (damage_armor "0") (health "11") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:36:59: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:37:03: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "do you guys notice any lag? we can talk to admin about it"
+L 10/21/2018 - 00:37:06: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:37:07: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(54) helmet ]
+L 10/21/2018 - 00:37:08: "cyber<17><STEAM_1:0:441450813><TERRORIST>" say "yeah"
+L 10/21/2018 - 00:37:08: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2662 779 479] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2672 -208 432] with "deagle" (damage "41") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:37:08: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2662 779 479] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2672 -208 496] with "deagle"
+L 10/21/2018 - 00:37:10: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:37:11: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:37:11: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:37:13: "cyber<17><STEAM_1:0:441450813><TERRORIST>" say "we are getting like 10 sv "
+L 10/21/2018 - 00:37:13: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "go tell the admin"
+L 10/21/2018 - 00:37:15: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_kevlar"
+L 10/21/2018 - 00:37:17: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:37:17: "cyber<17><STEAM_1:0:441450813><TERRORIST>" say "we are rn"
+L 10/21/2018 - 00:37:21: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "all of oyu"
+L 10/21/2018 - 00:37:22: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "XD"
+L 10/21/2018 - 00:37:27: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2666 -208 432] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2368 807 472] with "deagle" (damage "151") (damage_armor "5") (health "0") (armor "94") (hitgroup "head")
+L 10/21/2018 - 00:37:27: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2666 -208 432] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2368 807 536] with "deagle" (headshot)
+L 10/21/2018 - 00:37:27: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:37:27: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2443 175 439] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2371 726 475] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:37:27: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2443 175 439] killed "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2371 726 539] with "ak47" (headshot)
+L 10/21/2018 - 00:37:27: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:37:28: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2444 175 439] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2160 894 480] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:37:28: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2444 175 439] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2160 894 544] with "ak47" (headshot)
+L 10/21/2018 - 00:37:28: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:37:28: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:37:28: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:37:32: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2420 143 432] attacked "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2396 812 472] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:37:32: "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2420 143 432] killed "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2396 812 536] with "ak47" (headshot)
+L 10/21/2018 - 00:37:32: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:37:32: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2289 909 480] attacked "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2415 143 432] with "m4a1" (damage "88") (damage_armor "18") (health "12") (armor "81") (hitgroup "head")
+L 10/21/2018 - 00:37:32: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2289 909 480] attacked "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2411 143 432] with "m4a1" (damage "88") (damage_armor "18") (health "0") (armor "62") (hitgroup "head")
+L 10/21/2018 - 00:37:32: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2289 909 480] killed "cyber<17><STEAM_1:0:441450813><TERRORIST>" [-2411 143 496] with "m4a1" (headshot)
+L 10/21/2018 - 00:37:33: "cyber<17><STEAM_1:0:441450813><TERRORIST>" purchased "ak47"
+L 10/21/2018 - 00:37:34: "cyber<17><STEAM_1:0:441450813><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:37:34: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:37:35: "cyber<17><STEAM_1:0:441450813><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/21/2018 - 00:37:43: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" say "wtf is the ping"
+L 10/21/2018 - 00:37:49: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer ]
+L 10/21/2018 - 00:37:51: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2598 -214 432] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2681 742 480] with "deagle" (damage "158") (damage_armor "5") (health "0") (armor "94") (hitgroup "head")
+L 10/21/2018 - 00:37:51: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2598 -214 432] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2681 742 544] with "deagle" (headshot)
+L 10/21/2018 - 00:37:55: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2660 -208 432] attacked "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2326 786 472] with "deagle" (damage "162") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:37:55: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2660 -208 432] killed "WillSixtySix<5><STEAM_1:1:54855314><CT>" [-2326 786 536] with "deagle" (headshot)
+L 10/21/2018 - 00:37:55: "WillSixtySix<5><STEAM_1:1:54855314><CT>" left buyzone with [ ]
+L 10/21/2018 - 00:38:00: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:38:01: "Peanut Butter<6><STEAM_1:0:40867433><CT>" [-2011 926 480] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1933 889 480] with "hkp2000" (damage "17") (damage_armor "8") (health "83") (armor "91") (hitgroup "chest")
+L 10/21/2018 - 00:38:06: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:38:06: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "cz75a"
+L 10/21/2018 - 00:38:07: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "awp"
+L 10/21/2018 - 00:38:10: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_cz75a weapon_awp kevlar(100) helmet ]
+L 10/21/2018 - 00:38:16: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "m4a1"
+L 10/21/2018 - 00:38:17: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_cz75a weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:38:20: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "theyre gonna fix it"
+L 10/21/2018 - 00:38:26: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "awp"
+L 10/21/2018 - 00:38:27: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(91) helmet ]
+L 10/21/2018 - 00:38:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" say "admin said they cant fix and and you have to play like that"
+L 10/21/2018 - 00:38:34: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "deagle"
+L 10/21/2018 - 00:38:34: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:38:35: "Peanut Butter<6><STEAM_1:0:40867433><CT>" purchased "mag7"
+L 10/21/2018 - 00:38:35: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle kevlar(100) helmet ]
+L 10/21/2018 - 00:38:39: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" say "huehue"
+L 10/21/2018 - 00:38:48: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_cz75a weapon_mag7 kevlar(100) helmet ]
+L 10/21/2018 - 00:38:50: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:38:51: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(91) helmet ]
+L 10/21/2018 - 00:38:54: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_cz75a weapon_mag7 kevlar(100) helmet ]
+L 10/21/2018 - 00:38:55: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" say "nice skins"
+L 10/21/2018 - 00:38:57: "Peanut Butter<6><STEAM_1:0:40867433><CT>" left buyzone with [ weapon_knife_karambit weapon_cz75a weapon_mag7 kevlar(100) helmet ]
+L 10/21/2018 - 00:38:57: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:39:05: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "awp"
+L 10/21/2018 - 00:39:05: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle weapon_awp kevlar(100) helmet ]
+L 10/21/2018 - 00:39:15: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:39:15: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:39:19: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2410 804 472] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2480 896 472] with "m4a1" (damage "24") (damage_armor "0") (health "59") (armor "91") (hitgroup "right leg")
+L 10/21/2018 - 00:39:20: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2410 804 472] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-2480 896 472] with "m4a1" (damage "24") (damage_armor "0") (health "35") (armor "91") (hitgroup "left leg")
+L 10/21/2018 - 00:39:46: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:39:51: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:39:53: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "m4a1"
+L 10/21/2018 - 00:39:54: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "smokegrenade"
+L 10/21/2018 - 00:39:54: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "incgrenade"
+L 10/21/2018 - 00:39:54: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "hegrenade"
+L 10/21/2018 - 00:39:54: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" purchased "flashbang"
+L 10/21/2018 - 00:40:01: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_deagle weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:40:03: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2552 467 480] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2599 -159 432] with "deagle" (damage "73") (damage_armor "2") (health "27") (armor "97") (hitgroup "head")
+L 10/21/2018 - 00:40:04: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2552 467 480] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2599 -159 432] with "deagle" (damage "73") (damage_armor "2") (health "0") (armor "94") (hitgroup "head")
+L 10/21/2018 - 00:40:04: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-2552 467 480] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-2599 -159 496] with "deagle" (headshot penetrated)
+L 10/21/2018 - 00:40:05: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer weapon_m4a1 weapon_smokegrenade weapon_incgrenade weapon_hegrenade weapon_flashbang kevlar(100) helmet ]
+L 10/21/2018 - 00:40:05: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" say "you REALLY gotta win those"
+L 10/21/2018 - 00:40:06: "blinK @ Lan<3><STEAM_1:1:33626697><CT>" say "you REALLY gotta win those"
+L 10/21/2018 - 00:40:08: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:40:28: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "cz75a"
+L 10/21/2018 - 00:40:28: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_cz75a kevlar(91) helmet ]
+L 10/21/2018 - 00:40:36: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_cz75a kevlar(91) helmet ]
+L 10/21/2018 - 00:40:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-754 -2289 215] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1391 -3262 292] with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:40:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-754 -2289 215] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1391 -3262 292] with "m4a1" (damage "123") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-754 -2289 215] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1391 -3262 356] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:47: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-754 -2289 215] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1453 -3335 296] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-754 -2289 215] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1453 -3335 360] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:48: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-759 -2286 217] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1327 -3262 289] with "m4a1" (damage "123") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-759 -2286 217] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1327 -3262 353] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:49: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:51: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1531 -3252 297] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:51: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1531 -3252 361] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:51: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:52: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1331 -3190 285] with "m4a1" (damage "123") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:52: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1331 -3190 349] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:52: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:52: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1459 -3262 295] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:52: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1459 -3262 359] with "m4a1" (headshot)
+L 10/21/2018 - 00:40:52: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:55: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-732 -2144 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1425 -3126 286] with "hkp2000" (damage "111") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:55: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-732 -2144 240] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1425 -3126 350] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:40:55: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:57: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-763 -2256 238] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1463 -3066 284] with "hkp2000" (damage "114") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:57: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-763 -2256 238] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1463 -3066 348] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:40:57: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:57: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-458 -1960 145] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-629 -2436 146] with "p250" (damage "81") (damage_armor "11") (health "19") (armor "88") (hitgroup "head")
+L 10/21/2018 - 00:40:58: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-730 -2301 207] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1539 -3066 290] with "hkp2000" (damage "113") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:58: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-730 -2301 207] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1539 -3066 354] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:40:58: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:40:59: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-793 -2259 235] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1395 -3190 289] with "hkp2000" (damage "113") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:40:59: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-793 -2259 235] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1395 -3190 353] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:40:59: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:01: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-805 -2252 240] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1363 -3122 282] with "hkp2000" (damage "115") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:01: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-805 -2252 240] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1363 -3122 346] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:41:01: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:02: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-638 -2424 146] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1271 -3262 288] with "deagle" (damage "162") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:02: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-638 -2424 146] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1271 -3262 352] with "deagle" (headshot)
+L 10/21/2018 - 00:41:02: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:03: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-783 -2263 233] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1387 -3342 295] with "hkp2000" (damage "111") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:03: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-783 -2263 233] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1387 -3342 359] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:41:03: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:06: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-599 -2453 146] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1533 -3183 294] with "deagle" (damage "38") (damage_armor "0") (health "62") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:07: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-578 -2414 147] attacked "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-602 -2450 146] with "knife" (damage "76") (damage_armor "6") (health "0") (armor "81") (hitgroup "generic")
+L 10/21/2018 - 00:41:07: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-578 -2414 147] killed "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-602 -2450 210] with "knife_t"
+L 10/21/2018 - 00:41:08: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "m4a1"
+L 10/21/2018 - 00:41:08: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:41:08: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:41:09: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" left buyzone with [ weapon_knife_karambit weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:41:12: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-1276 -2921 253] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1533 -3183 294] with "hkp2000" (damage "130") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:12: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" [-1276 -2921 253] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1533 -3183 358] with "usp_silencer_off" (headshot)
+L 10/21/2018 - 00:41:12: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:26: rcon from "172.30.40.7:64698": command "score"
+L 10/21/2018 - 00:41:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-794 -2157 240] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1327 -3262 289] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-794 -2157 240] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1327 -3262 353] with "m4a1" (headshot)
+L 10/21/2018 - 00:41:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-794 -2157 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1385 -3401 299] with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:33: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-794 -2157 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1385 -3401 299] with "m4a1" (damage "121") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:33: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-794 -2157 240] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1385 -3401 363] with "m4a1" (headshot)
+L 10/21/2018 - 00:41:33: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:35: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-792 -2159 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1468 -3386 298] with "m4a1" (damage "12") (damage_armor "2") (health "23") (armor "88") (hitgroup "chest")
+L 10/21/2018 - 00:41:35: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-791 -2159 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1470 -3398 300] with "m4a1" (damage "12") (damage_armor "2") (health "11") (armor "85") (hitgroup "chest")
+L 10/21/2018 - 00:41:36: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-792 -2159 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1456 -3424 304] with "m4a1" (damage "21") (damage_armor "4") (health "0") (armor "80") (hitgroup "chest")
+L 10/21/2018 - 00:41:36: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-792 -2159 240] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1456 -3424 351] with "m4a1"
+L 10/21/2018 - 00:41:36: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:38: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-740 -2233 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1423 -3219 292] with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:38: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-740 -2233 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1423 -3219 292] with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0") (hitgroup "right arm")
+L 10/21/2018 - 00:41:38: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:41:39: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-781 -2208 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1311 -3334 295] with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:39: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-780 -2209 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1311 -3334 295] with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:39: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-756 -2223 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1423 -3219 292] with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:39: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:41:40: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-792 -2201 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1311 -3334 295] with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-788 -2194 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1311 -3334 295] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-788 -2194 240] killed "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1311 -3334 359] with "m4a1" (headshot)
+L 10/21/2018 - 00:41:47: "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-787 -2194 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1415 -3237 293] with "m4a1" (damage "21") (damage_armor "4") (health "0") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:41:47: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-787 -2194 240] killed "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1415 -3237 357] with "m4a1"
+L 10/21/2018 - 00:41:47: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-740 -2233 240] attacked "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1571 -3127 294] with "m4a1" (damage "122") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:41:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-740 -2233 240] killed "Khaos<8><STEAM_1:0:207914052><TERRORIST>" [-1571 -3127 358] with "m4a1" (headshot)
+L 10/21/2018 - 00:41:48: "Khaos<8><STEAM_1:0:207914052><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:48: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 297] with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:41:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 297] with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:41:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 297] with "m4a1" (damage "22") (damage_armor "0") (health "26") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:41:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 297] with "m4a1" (damage "22") (damage_armor "0") (health "4") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:41:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 297] with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:41:49: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-741 -2232 240] killed "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1605 -3182 361] with "m4a1"
+L 10/21/2018 - 00:41:49: "Psycho<10><STEAM_1:1:168418375><TERRORIST>" left buyzone with [ ]
+L 10/21/2018 - 00:41:49: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:41:50: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" purchased "deagle"
+L 10/21/2018 - 00:41:52: "Drizzle@LAN<4><STEAM_1:1:52074304><CT>" disconnected (reason "Disconnect")
+L 10/21/2018 - 00:41:52: "Drizzle@LAN<4><STEAM_1:1:52074304>" switched from team <CT> to <Unassigned>
+L 10/21/2018 - 00:41:52: "Drizzle@LAN<4><STEAM_1:1:52074304><Unassigned>" left buyzone with [ ]
+L 10/21/2018 - 00:41:53: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-780 -2142 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1302 -3298 292] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "stomach")
+L 10/21/2018 - 00:41:53: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-796 -2135 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1299 -3299 292] with "m4a1" (damage "22") (damage_armor "0") (health "52") (armor "94") (hitgroup "right leg")
+L 10/21/2018 - 00:41:53: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-799 -2134 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1304 -3297 292] with "m4a1" (damage "22") (damage_armor "0") (health "30") (armor "94") (hitgroup "right leg")
+L 10/21/2018 - 00:41:53: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-801 -2133 240] attacked "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" [-1305 -3296 292] with "m4a1" (damage "11") (damage_armor "2") (health "19") (armor "91") (hitgroup "stomach")
+L 10/21/2018 - 00:42:01: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(91) helmet ]
+L 10/21/2018 - 00:42:10: "JJTHEGREAT123<9><STEAM_1:0:188697657><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle kevlar(91) helmet ]
+L 10/21/2018 - 00:42:12: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-762 -2204 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1499 -3126 291] with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:42:12: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-762 -2204 240] attacked "ZaGen<16><STEAM_1:0:224444651><TERRORIST>" [-1499 -3126 291] with "m4a1" (damage "38") (damage_armor "0") (health "24") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:42:13: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-762 -2204 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1531 -3252 297] with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0") (hitgroup "right leg")
+L 10/21/2018 - 00:42:13: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [-762 -2204 240] attacked "Psycho<10><STEAM_1:1:168418375><TERRORIST>" [-1531 -3252 297] with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0") (hitgroup "right leg")
+L 10/21/2018 - 00:42:13: "Jelly @ LAN<14><STEAM_1:0:215487283><CT>" [

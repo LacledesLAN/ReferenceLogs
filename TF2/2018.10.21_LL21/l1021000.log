@@ -1,0 +1,321 @@
+L 10/21/2018 - 14:08:02: Log file started (file "logs/L1021000.log") (game "/app/tf") (version "4767377")
+L 10/21/2018 - 14:08:02: server_cvar: "sv_alltalk" "1"
+L 10/21/2018 - 14:08:02: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers"
+L 10/21/2018 - 14:08:02: server_cvar: "mp_timelimit" "15"
+L 10/21/2018 - 14:08:02: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/21/2018 - 14:08:02: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/21/2018 - 14:08:02: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/21/2018 - 14:08:03: Connection to Steam servers successful.
+L 10/21/2018 - 14:08:03:    Public IP is 165.134.31.36.
+L 10/21/2018 - 14:08:03: Assigned anonymous gameserver Steam ID [A:1:2271993858:11261].
+L 10/21/2018 - 14:08:03: VAC secure mode is activated.
+L 10/21/2018 - 14:08:11: rcon from "172.30.40.7:53493": command "echo HLSW: Test"
+L 10/21/2018 - 14:09:54: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/21/2018 - 14:09:54: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" STEAM USERID validated
+L 10/21/2018 - 14:10:45: "BEan | LacledesLAN.com<2><[U:1:7609438]><>" entered the game
+L 10/21/2018 - 14:11:09: "BEan | LacledesLAN.com<2><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/21/2018 - 14:11:10: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/21/2018 - 14:11:40: World triggered "Round_Start"
+L 10/21/2018 - 14:14:08: server_cvar: "mp_timelimit" "45"
+L 10/21/2018 - 14:14:20: "[LL] allhawkeye85<3><[U:1:28500804]><>" connected, address "172.30.40.5:27005"
+L 10/21/2018 - 14:14:21: "[LL] allhawkeye85<3><[U:1:28500804]><>" STEAM USERID validated
+L 10/21/2018 - 14:14:24: "Snek<4><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/21/2018 - 14:14:25: "Snek<4><[U:1:122465451]><>" STEAM USERID validated
+L 10/21/2018 - 14:15:06: "[LL] allhawkeye85<3><[U:1:28500804]><>" entered the game
+L 10/21/2018 - 14:15:19: "Snek<4><[U:1:122465451]><>" entered the game
+L 10/21/2018 - 14:15:27: "Snek<4><[U:1:122465451]><Unassigned>" joined team "Blue"
+L 10/21/2018 - 14:15:27: "[LL] allhawkeye85<3><[U:1:28500804]><Unassigned>" joined team "Blue"
+L 10/21/2018 - 14:15:28: "Snek<4><[U:1:122465451]><Blue>" changed role to "sniper"
+L 10/21/2018 - 14:15:30: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "heavyweapons"
+L 10/21/2018 - 14:15:51: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "848 1241 -148")
+L 10/21/2018 - 14:15:51: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "848 1241 -148") (victim_position "660 120 -165")
+L 10/21/2018 - 14:16:09: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "585 108 -165") 
+L 10/21/2018 - 14:16:37: "[LL]arcticfox012<5><[U:1:5015550]><>" connected, address "172.30.40.222:27005"
+L 10/21/2018 - 14:16:37: "[LL]arcticfox012<5><[U:1:5015550]><>" STEAM USERID validated
+L 10/21/2018 - 14:17:07: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "spellbook_fireball" (attacker_position "1049 -835 -148") (victim_position "1547 -1026 -148")
+L 10/21/2018 - 14:17:24: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "440 319 -172") 
+L 10/21/2018 - 14:17:49: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "spellbook_meteor" (attacker_position "62 1055 -148") (victim_position "69 1107 -113")
+L 10/21/2018 - 14:18:01: "[LL]arcticfox012<5><[U:1:5015550]><>" entered the game
+L 10/21/2018 - 14:18:10: "[LL]arcticfox012<5><[U:1:5015550]><Unassigned>" joined team "Red"
+L 10/21/2018 - 14:18:11: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "[LL] allhawkeye85<3><[U:1:28500804]><Blue>") (position1 "679 29 -172") (player2 "Snek<4><[U:1:122465451]><Blue>") (position2 "528 112 -165") 
+L 10/21/2018 - 14:18:29: "[LL]arcticfox012<5><[U:1:5015550]><Red>" changed role to "soldier"
+L 10/21/2018 - 14:18:35: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "axtinguisher" (attacker_position "682 25 -172") (victim_position "617 -27 -172")
+L 10/21/2018 - 14:18:43: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "33 1096 -148")
+L 10/21/2018 - 14:18:43: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (attacker_position "33 1096 -148") (victim_position "703 178 -168")
+L 10/21/2018 - 14:18:53: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "awper_hand" (attacker_position "546 257 -169") (victim_position "-51 -105 -279")
+L 10/21/2018 - 14:19:08: "[LL]arcticfox012<5><[U:1:5015550]><Red>" changed role to "sniper"
+L 10/21/2018 - 14:19:13: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "world" (attacker_position "1445 -654 -149") (victim_position "527 488 -182")
+L 10/21/2018 - 14:19:36: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "sniperrifle" (attacker_position "796 -1299 63") (victim_position "263 1100 -148")
+L 10/21/2018 - 14:19:36: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (assister_position "759 324 -172") (attacker_position "796 -1299 63") (victim_position "263 1100 -148")
+L 10/21/2018 - 14:19:42: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "748 288 -172") 
+L 10/21/2018 - 14:19:42: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (attacker_position "-60 1276 -148") (victim_position "748 289 -172")
+L 10/21/2018 - 14:19:46: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "37 1113 -148") (victim_position "808 -1297 63")
+L 10/21/2018 - 14:20:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "525 51 -165") 
+L 10/21/2018 - 14:20:03: "[LL]arcticfox012<5><[U:1:5015550]><Red>" changed role to "heavyweapons"
+L 10/21/2018 - 14:20:33: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "549 -12 -172") (victim_position "928 220 153")
+L 10/21/2018 - 14:20:44: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "spellbook_meteor" (attacker_position "231 788 -316") (victim_position "-239 970 -148")
+L 10/21/2018 - 14:21:04: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "561 244 -165") 
+L 10/21/2018 - 14:21:24: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1438 910 -151") (victim_position "372 1373 -148")
+L 10/21/2018 - 14:21:30: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "demoman"
+L 10/21/2018 - 14:21:31: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1052 236 -172") (victim_position "877 209 -172")
+L 10/21/2018 - 14:21:45: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "600 80 -165") 
+L 10/21/2018 - 14:22:12: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "593 345 -166") 
+L 10/21/2018 - 14:22:33: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "1330 2568 -11098") (victim_position "1133 3214 -10699")
+L 10/21/2018 - 14:22:43: "[LL]rnjmur<6><[U:1:13251124]><>" connected, address "172.30.41.76:27005"
+L 10/21/2018 - 14:22:43: "[LL]rnjmur<6><[U:1:13251124]><>" STEAM USERID validated
+L 10/21/2018 - 14:23:01: "[LL]rnjmur<6><[U:1:13251124]><>" entered the game
+L 10/21/2018 - 14:23:14: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "spellbook_meteor" (attacker_position "2 267 -271") (victim_position "-384 864 -227")
+L 10/21/2018 - 14:23:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "Snek<4><[U:1:122465451]><Blue>" (assister_position "-447 1002 -146") (attacker_position "2 267 -271") (victim_position "-384 864 -227")
+L 10/21/2018 - 14:23:15: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "spellbook_meteor" (attacker_position "-22 258 -269") (victim_position "-296 811 -211")
+L 10/21/2018 - 14:23:20: "[LL]rnjmur<6><[U:1:13251124]><Unassigned>" joined team "Blue"
+L 10/21/2018 - 14:23:29: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "scout"
+L 10/21/2018 - 14:23:45: "Brak | LacledesLAN<7><[U:1:75056154]><>" connected, address "172.30.40.8:27005"
+L 10/21/2018 - 14:23:46: "Brak | LacledesLAN<7><[U:1:75056154]><>" STEAM USERID validated
+L 10/21/2018 - 14:23:50: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "shortstop" (attacker_position "1467 926 -150") (victim_position "1323 412 -172")
+L 10/21/2018 - 14:24:05: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "401 1606 63") (victim_position "708 158 -170")
+L 10/21/2018 - 14:24:23: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "465 182 -172") (victim_position "-285 -774 -148")
+L 10/21/2018 - 14:24:23: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "kill assist" against "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" (assister_position "441 195 -172") (attacker_position "465 182 -172") (victim_position "-285 -774 -148")
+L 10/21/2018 - 14:24:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "[LL] allhawkeye85<3><[U:1:28500804]><Blue>") (position1 "635 8 -172") (player2 "Snek<4><[U:1:122465451]><Blue>") (position2 "520 169 -165") (player3 "[LL]rnjmur<6><[U:1:13251124]><Blue>") (position3 "503 111 -165") 
+L 10/21/2018 - 14:24:30: "Brak | LacledesLAN<7><[U:1:75056154]><>" entered the game
+L 10/21/2018 - 14:24:39: "Brak | LacledesLAN<7><[U:1:75056154]><Unassigned>" joined team "Red"
+L 10/21/2018 - 14:24:41: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" changed role to "soldier"
+L 10/21/2018 - 14:24:54: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "1401 52 -172") (victim_position "1291 64 -172")
+L 10/21/2018 - 14:24:56: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-406 798 -272") (victim_position "1099 -163 -326")
+L 10/21/2018 - 14:24:58: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "1104 9 -172") (victim_position "1068 253 -172")
+L 10/21/2018 - 14:24:58: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "1134 -158 -324") (attacker_position "1104 9 -172") (victim_position "1068 253 -172")
+L 10/21/2018 - 14:25:03: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "tf_projectile_rocket" (attacker_position "3 -278 -308") (victim_position "42 22 -272")
+L 10/21/2018 - 14:25:09: World triggered "Round_Overtime"
+L 10/21/2018 - 14:25:10: World triggered "Round_Win" (winner "Blue")
+L 10/21/2018 - 14:25:10: World triggered "Round_Length" (seconds "809.94")
+L 10/21/2018 - 14:25:10: Team "Red" current score "0" with "3" players
+L 10/21/2018 - 14:25:10: Team "Blue" current score "1" with "3" players
+L 10/21/2018 - 14:25:25: World triggered "Round_Start"
+L 10/21/2018 - 14:25:32: "Snek<4><[U:1:122465451]><Blue>" changed role to "spy"
+L 10/21/2018 - 14:26:12: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "417 1704 -174") (victim_position "53 1702 -181")
+L 10/21/2018 - 14:26:14: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "572 348 -166")
+L 10/21/2018 - 14:26:22: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "687 -211 -164") (victim_position "699 -568 -267")
+L 10/21/2018 - 14:26:35: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Brak | LacledesLAN<7><[U:1:75056154]><Red>") (position1 "606 306 -172") 
+L 10/21/2018 - 14:26:45: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "shortstop" (attacker_position "1429 1032 -149") (victim_position "1401 770 -158")
+L 10/21/2018 - 14:26:47: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "tf_projectile_rocket" (attacker_position "649 298 -168") (victim_position "627 1613 63")
+L 10/21/2018 - 14:26:48: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "tf_projectile_pipe" (attacker_position "627 1613 77") (victim_position "627 200 -116")
+L 10/21/2018 - 14:26:49: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "shortstop" (attacker_position "748 143 -172") (victim_position "280 113 -176")
+L 10/21/2018 - 14:27:00: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL]rnjmur<6><[U:1:13251124]><Blue>") (position1 "573 120 -165") 
+L 10/21/2018 - 14:27:26: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "601 -1195 -187") (victim_position "410 -1336 -175")
+L 10/21/2018 - 14:27:29: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "degreaser" (attacker_position "1238 1257 -148") (victim_position "1180 1251 -98")
+L 10/21/2018 - 14:27:34: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "world" (attacker_position "264 1385 -148") (victim_position "609 1336 -209")
+L 10/21/2018 - 14:27:58: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "shortstop" (attacker_position "619 891 -265") (victim_position "594 719 -243")
+L 10/21/2018 - 14:28:19: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "shortstop" (attacker_position "1421 847 -154") (victim_position "1363 996 -149")
+L 10/21/2018 - 14:28:31: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "1165 -677 -319") (victim_position "1124 -744 -302")
+L 10/21/2018 - 14:28:38: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "608 -871 -234") (victim_position "596 -532 -261")
+L 10/21/2018 - 14:28:38: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "648 -956 -213") (victim_position "587 -674 -256")
+L 10/21/2018 - 14:28:38: "[LL]arcticfox012<5><[U:1:5015550]><Red>" triggered "domination" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>"
+L 10/21/2018 - 14:28:51: "Snek<4><[U:1:122465451]><Blue>" changed role to "scout"
+L 10/21/2018 - 14:28:54: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "sniper"
+L 10/21/2018 - 14:28:54: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "661 3 -172") (player2 "[LL]arcticfox012<5><[U:1:5015550]><Red>") (position2 "670 92 -165") 
+L 10/21/2018 - 14:29:13: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "968 195 -435")
+L 10/21/2018 - 14:29:14: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "505 -1122 -184") (victim_position "564 -622 -143")
+L 10/21/2018 - 14:29:15: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "659 -1335 -180") (victim_position "459 -675 -278")
+L 10/21/2018 - 14:29:42: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "spellbook_mirv" (attacker_position "1228 34 -172") (victim_position "771 191 -172")
+L 10/21/2018 - 14:29:45: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "485 1613 63") (victim_position "586 -383 -229")
+L 10/21/2018 - 14:30:02: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "sniperrifle" (attacker_position "602 1610 63") (victim_position "660 69 -165")
+L 10/21/2018 - 14:30:02: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "revenge" against "[LL]arcticfox012<5><[U:1:5015550]><Red>"
+L 10/21/2018 - 14:30:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "718 81 -172") (player2 "[LL]rnjmur<6><[U:1:13251124]><Blue>") (position2 "634 153 -165") 
+L 10/21/2018 - 14:30:17: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "1050 77 -172") (victim_position "801 206 -172")
+L 10/21/2018 - 14:30:44: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "degreaser" (attacker_position "-18 991 -148") (victim_position "-239 904 -166")
+L 10/21/2018 - 14:30:52: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "shortstop" (attacker_position "787 134 -172") (victim_position "942 66 -172")
+L 10/21/2018 - 14:30:52: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "976 1516 63") (victim_position "632 1613 63")
+L 10/21/2018 - 14:31:02: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "medic"
+L 10/21/2018 - 14:31:08: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "613 -59 -166")
+L 10/21/2018 - 14:31:13: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "635 347 -166")
+L 10/21/2018 - 14:31:14: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "628 177 -165")
+L 10/21/2018 - 14:31:14: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "pep_pistol" (attacker_position "628 177 -165") (victim_position "700 147 -167")
+L 10/21/2018 - 14:31:30: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "661 137 -165") (victim_position "787 55 -172")
+L 10/21/2018 - 14:31:45: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "soldier"
+L 10/21/2018 - 14:31:57: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "59") (ubercharge "0")
+L 10/21/2018 - 14:31:57: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "axtinguisher" (attacker_position "-485 1243 -148") (victim_position "-559 1221 -148")
+L 10/21/2018 - 14:31:57: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "force_a_nature" (attacker_position "-268 1298 -148") (victim_position "-436 1248 -148")
+L 10/21/2018 - 14:31:57: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "kill assist" against "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" (assister_position "-559 1221 -134") (attacker_position "-268 1298 -148") (victim_position "-436 1248 -148")
+L 10/21/2018 - 14:31:57: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL]arcticfox012<5><[U:1:5015550]><Red>") (position1 "625 87 -165") 
+L 10/21/2018 - 14:32:25: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "314 721 -325") (victim_position "315 514 -328")
+L 10/21/2018 - 14:32:25: "[LL]arcticfox012<5><[U:1:5015550]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "511 260 -129") (attacker_position "314 721 -325") (victim_position "315 514 -328")
+L 10/21/2018 - 14:32:25: "[LL]arcticfox012<5><[U:1:5015550]><Red>" triggered "domination" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assist "1")
+L 10/21/2018 - 14:32:31: "[LL]arcticfox012<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "686 67 -168") (victim_position "1001 288 -172")
+L 10/21/2018 - 14:32:42: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "0") (ubercharge "0")
+L 10/21/2018 - 14:32:42: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "tf_projectile_rocket" (attacker_position "978 1097 -148") (victim_position "953 742 -328")
+L 10/21/2018 - 14:32:46: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "194 2630 -173") (victim_position "55 2779 -162")
+L 10/21/2018 - 14:32:46: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "55 2779 -148") (victim_position "177 2603 -168")
+L 10/21/2018 - 14:33:08: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "tf_projectile_rocket" (attacker_position "1229 1233 -148") (victim_position "1457 815 -114")
+L 10/21/2018 - 14:33:08: "[LL]arcticfox012<5><[U:1:5015550]><Red>" triggered "kill assist" against "Snek<4><[U:1:122465451]><Blue>" (assister_position "535 148 -165") (attacker_position "1229 1233 -148") (victim_position "1457 815 -114")
+L 10/21/2018 - 14:33:20: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "tf_projectile_rocket" (attacker_position "1327 421 -172") (victim_position "1222 279 -172")
+L 10/21/2018 - 14:33:20: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "kill assist" against "[LL]arcticfox012<5><[U:1:5015550]><Red>" (assister_position "1470 437 -172") (attacker_position "1327 421 -172") (victim_position "1222 279 -172")
+L 10/21/2018 - 14:33:20: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "revenge" against "[LL]arcticfox012<5><[U:1:5015550]><Red>"
+L 10/21/2018 - 14:33:21: "Snek<4><[U:1:122465451]><Blue>" changed role to "spy"
+L 10/21/2018 - 14:33:28: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "857 173 -157") (victim_position "1259 248 -172")
+L 10/21/2018 - 14:33:28: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "684 168 -165") (attacker_position "857 173 -157") (victim_position "1259 248 -172")
+L 10/21/2018 - 14:33:28: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "282") (ubercharge "0")
+L 10/21/2018 - 14:33:28: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "tf_projectile_rocket" (attacker_position "857 173 -157") (victim_position "1344 323 -172")
+L 10/21/2018 - 14:33:28: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (assister_position "684 168 -165") (attacker_position "857 173 -157") (victim_position "1344 323 -172")
+L 10/21/2018 - 14:33:52: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "116") (ubercharge "0")
+L 10/21/2018 - 14:33:52: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "degreaser" (attacker_position "-224 1850 -148") (victim_position "-240 1591 -108")
+L 10/21/2018 - 14:33:54: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "-417 1352 -148") (victim_position "-353 1424 -148")
+L 10/21/2018 - 14:33:56: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "-353 1424 -134") (victim_position "-352 1379 -148")
+L 10/21/2018 - 14:34:14: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "big_earner" (customkill "backstab") (attacker_position "1419 -577 -152") (victim_position "1411 -640 -150")
+L 10/21/2018 - 14:34:36: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "881 70 -172") (victim_position "1102 200 -172")
+L 10/21/2018 - 14:34:36: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "546 119 -165") (attacker_position "881 70 -172") (victim_position "1102 200 -172")
+L 10/21/2018 - 14:34:50: "Snek<4><[U:1:122465451]><Blue>" killed "[LL]arcticfox012<5><[U:1:5015550]><Red>" with "big_earner" (customkill "backstab") (attacker_position "631 -442 -243") (victim_position "636 -371 -228")
+L 10/21/2018 - 14:34:58: "[LL] allhawkeye85<0><[U:1:28500804]><Blue>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "129") (ubercharge "0")
+L 10/21/2018 - 14:34:58: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "world" (attacker_position "650 -608 -257") (victim_position "968 245 -434")
+L 10/21/2018 - 14:34:58: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "domination" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>"
+L 10/21/2018 - 14:34:59: "Snek<4><[U:1:122465451]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "big_earner" (customkill "backstab") (attacker_position "577 -298 -210") (victim_position "542 -226 -195")
+L 10/21/2018 - 14:35:06: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "degreaser" (attacker_position "1022 159 -172") (victim_position "1237 308 -172")
+L 10/21/2018 - 14:35:07: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" say "ow!"
+L 10/21/2018 - 14:35:11: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "sniper"
+L 10/21/2018 - 14:35:13: World triggered "Round_Overtime"
+L 10/21/2018 - 14:35:13: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "656 109 -165")
+L 10/21/2018 - 14:35:13: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "deflect_rocket" (attacker_position "656 109 -165") (victim_position "566 338 -166")
+L 10/21/2018 - 14:35:17: World triggered "Round_Win" (winner "Red")
+L 10/21/2018 - 14:35:17: World triggered "Round_Length" (seconds "592.12")
+L 10/21/2018 - 14:35:17: Team "Red" current score "1" with "3" players
+L 10/21/2018 - 14:35:17: Team "Blue" current score "1" with "3" players
+L 10/21/2018 - 14:35:24: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "scout"
+L 10/21/2018 - 14:35:32: World triggered "Round_Start"
+L 10/21/2018 - 14:35:42: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "medic"
+L 10/21/2018 - 14:35:48: server_cvar: "mp_timelimit" "30"
+L 10/21/2018 - 14:35:49: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "demoman"
+L 10/21/2018 - 14:36:07: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "521 -60 -42")
+L 10/21/2018 - 14:36:08: "[LL]arcticfox012<5><[U:1:5015550]><Red>" changed name to "arcticfox012 | LacledesLAN"
+L 10/21/2018 - 14:36:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "world" (attacker_position "1409 756 -159") (victim_position "1022 249 -437")
+L 10/21/2018 - 14:36:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "domination" against "[LL]rnjmur<6><[U:1:13251124]><Blue>"
+L 10/21/2018 - 14:36:25: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "world" (attacker_position "994 1225 -148") (victim_position "1027 178 -429")
+L 10/21/2018 - 14:36:26: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "457 148 -172")
+L 10/21/2018 - 14:36:26: "Snek<4><[U:1:122465451]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "big_earner" (customkill "backstab") (attacker_position "457 148 -172") (victim_position "502 194 -165")
+L 10/21/2018 - 14:36:39: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "ambassador" (attacker_position "630 699 -239") (victim_position "661 -362 -153")
+L 10/21/2018 - 14:36:41: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "medic"
+L 10/21/2018 - 14:36:51: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "633 -60 -166")
+L 10/21/2018 - 14:36:54: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "759 311 -172")
+L 10/21/2018 - 14:36:54: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "shortstop" (attacker_position "759 311 -172") (victim_position "675 60 -166")
+L 10/21/2018 - 14:37:01: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "597 72 -165") (victim_position "833 225 -172")
+L 10/21/2018 - 14:37:01: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "domination" against "[LL]rnjmur<6><[U:1:13251124]><Blue>"
+L 10/21/2018 - 14:37:16: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "engineer"
+L 10/21/2018 - 14:37:28: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>") (position1 "604 90 -165") 
+L 10/21/2018 - 14:37:33: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "770 122 -172") (victim_position "939 67 -172")
+L 10/21/2018 - 14:37:33: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "1306 54 -172") (attacker_position "770 122 -172") (victim_position "939 67 -172")
+L 10/21/2018 - 14:38:05: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1136 269 -172")
+L 10/21/2018 - 14:38:05: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "582 -346 -221")
+L 10/21/2018 - 14:38:05: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "tf_projectile_rocket" (attacker_position "582 -346 -221") (victim_position "720 174 -172")
+L 10/21/2018 - 14:38:06: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "637 -58 -166")
+L 10/21/2018 - 14:38:07: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "shortstop" (attacker_position "806 152 -172") (victim_position "664 -45 -168")
+L 10/21/2018 - 14:38:07: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "revenge" against "Brak | LacledesLAN<7><[U:1:75056154]><Red>"
+L 10/21/2018 - 14:38:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL]rnjmur<6><[U:1:13251124]><Blue>") (position1 "557 114 -165") 
+L 10/21/2018 - 14:38:12: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "607 481 -191") (victim_position "808 81 -172")
+L 10/21/2018 - 14:38:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "world" (attacker_position "1178 240 -172") (victim_position "1128 250 -172")
+L 10/21/2018 - 14:38:14: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "domination" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>"
+L 10/21/2018 - 14:38:15: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "[LL] allhawkeye85<3><[U:1:28500804]><Blue>") (attacker_position "1299 256 -172")
+L 10/21/2018 - 14:38:23: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "heavyweapons"
+L 10/21/2018 - 14:38:25: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>") (position1 "624 72 -165") 
+L 10/21/2018 - 14:38:43: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "637 267 -172") (victim_position "522 1163 -252")
+L 10/21/2018 - 14:38:43: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "kill assist" against "Snek<4><[U:1:122465451]><Blue>" (assister_position "194 758 126") (attacker_position "637 267 -172") (victim_position "522 1163 -252")
+L 10/21/2018 - 14:38:50: "Snek<4><[U:1:122465451]><Blue>" changed role to "sniper"
+L 10/21/2018 - 14:38:50: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "572 227 -165") (victim_position "583 286 -172")
+L 10/21/2018 - 14:38:52: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "682 619 -223") (victim_position "-191 709 -149")
+L 10/21/2018 - 14:38:55: "[LL] Dudsmack<8><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/21/2018 - 14:38:55: "[LL] Dudsmack<8><[U:1:7297941]><>" STEAM USERID validated
+L 10/21/2018 - 14:39:13: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "611 1229 -228") (victim_position "573 679 -228")
+L 10/21/2018 - 14:39:36: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "spellbook_lightning" (attacker_position "1144 220 -172") (victim_position "565 285 -147")
+L 10/21/2018 - 14:39:37: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "1044 172 -172") (victim_position "656 260 -172")
+L 10/21/2018 - 14:39:40: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "shortstop" (attacker_position "623 -272 -320") (victim_position "-13 -366 -317")
+L 10/21/2018 - 14:39:41: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "minigun" (attacker_position "589 7 -172") (victim_position "451 -582 -287")
+L 10/21/2018 - 14:39:49: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "soldier"
+L 10/21/2018 - 14:39:56: Vote succeeded "NextLevel pl_millstone_event"
+L 10/21/2018 - 14:39:57: "[LL] Dudsmack<8><[U:1:7297941]><>" entered the game
+L 10/21/2018 - 14:39:58: server_cvar: "nextlevel" "pl_millstone_event"
+L 10/21/2018 - 14:40:05: "[LL] Dudsmack<8><[U:1:7297941]><Unassigned>" joined team "Blue"
+L 10/21/2018 - 14:40:09: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" changed role to "soldier"
+L 10/21/2018 - 14:40:13: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "axtinguisher" (attacker_position "-504 1275 -148") (victim_position "-559 1281 -148")
+L 10/21/2018 - 14:40:20: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "degreaser" (attacker_position "-585 311 -173") (victim_position "-607 74 -173")
+L 10/21/2018 - 14:40:20: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "kill assist" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (assister_position "-278 -124 -269") (attacker_position "-585 311 -173") (victim_position "-607 74 -173")
+L 10/21/2018 - 14:40:24: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "medic"
+L 10/21/2018 - 14:40:32: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "demoman"
+L 10/21/2018 - 14:40:44: "Snek<4><[U:1:122465451]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "625 1397 -198") (victim_position "676 211 -165")
+L 10/21/2018 - 14:40:44: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" triggered "kill assist" against "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" (assister_position "802 983 -273") (attacker_position "625 1397 -198") (victim_position "676 211 -165")
+L 10/21/2018 - 14:40:51: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "quake_rl" (attacker_position "1308 -131 -401") (victim_position "1272 -179 -392")
+L 10/21/2018 - 14:40:51: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" committed suicide with "quake_rl" (attacker_position "1308 -131 -401")
+L 10/21/2018 - 14:40:57: "Snek<4><[U:1:122465451]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "pro_smg" (attacker_position "1339 92 -172") (victim_position "1387 8 -172")
+L 10/21/2018 - 14:40:57: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "kill assist" against "Brak | LacledesLAN<7><[U:1:75056154]><Red>" (assister_position "966 72 -172") (attacker_position "1339 92 -172") (victim_position "1387 8 -172")
+L 10/21/2018 - 14:41:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "527 187 -165") (player2 "[LL]rnjmur<6><[U:1:13251124]><Blue>") (position2 "732 231 -172") 
+L 10/21/2018 - 14:41:18: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "minigun" (attacker_position "1499 -939 -148") (victim_position "1438 -104 -172")
+L 10/21/2018 - 14:41:29: "[LL]rnjmur<6><[U:1:13251124]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "563 1350 -217") (victim_position "634 1267 -177")
+L 10/21/2018 - 14:41:29: "[LL]rnjmur<6><[U:1:13251124]><Blue>" triggered "revenge" against "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>"
+L 10/21/2018 - 14:41:29: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "degreaser" (attacker_position "634 1267 -163") (victim_position "490 1424 -199")
+L 10/21/2018 - 14:41:34: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "world" (attacker_position "4 -1128 23") (victim_position "-104 -1752 -148")
+L 10/21/2018 - 14:41:54: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "pyro"
+L 10/21/2018 - 14:41:57: "Snek<4><[U:1:122465451]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "356 1375 -148") (victim_position "727 259 -172")
+L 10/21/2018 - 14:42:05: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "326 1079 -148")
+L 10/21/2018 - 14:42:05: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "326 1079 -148") (victim_position "669 -9 -172")
+L 10/21/2018 - 14:42:18: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] Dudsmack<8><[U:1:7297941]><Blue>" with "tf_projectile_rocket" (attacker_position "752 231 -172") (victim_position "575 145 -165")
+L 10/21/2018 - 14:42:22: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" changed role to "heavyweapons"
+L 10/21/2018 - 14:42:23: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "689 -47 -171")
+L 10/21/2018 - 14:42:24: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "565 213 -165")
+L 10/21/2018 - 14:42:24: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "flamethrower" (attacker_position "565 213 -165") (victim_position "759 331 -172")
+L 10/21/2018 - 14:42:24: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "revenge" against "Brak | LacledesLAN<7><[U:1:75056154]><Red>"
+L 10/21/2018 - 14:42:33: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "degreaser" (attacker_position "958 143 -172") (victim_position "816 239 -172")
+L 10/21/2018 - 14:42:47: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>") (position1 "508 228 -166") 
+L 10/21/2018 - 14:42:58: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "tf_pumpkin_bomb" (attacker_position "633 1607 63") (victim_position "819 1592 63")
+L 10/21/2018 - 14:42:58: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "spellbook_fireball" (attacker_position "637 -240 -200") (victim_position "600 690 -236")
+L 10/21/2018 - 14:42:58: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" triggered "kill assist" against "[LL]rnjmur<6><[U:1:13251124]><Blue>" (assister_position "685 103 -165") (attacker_position "637 -240 -200") (victim_position "600 690 -236")
+L 10/21/2018 - 14:43:07: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "minigun" (attacker_position "1069 50 -172") (victim_position "1064 211 -172")
+L 10/21/2018 - 14:43:07: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" triggered "domination" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>"
+L 10/21/2018 - 14:43:09: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "flamethrower" (attacker_position "1090 257 -158") (victim_position "1122 219 -172")
+L 10/21/2018 - 14:43:09: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "revenge" against "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>"
+L 10/21/2018 - 14:43:10: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "player_extinguished" against "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "tf_weapon_flamethrower" (attacker_position "1118 17 -172") (victim_position "980 173 -172")
+L 10/21/2018 - 14:43:18: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "natascha" (attacker_position "581 542 -203") (victim_position "558 -191 -187")
+L 10/21/2018 - 14:43:19: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "natascha" (attacker_position "572 402 -172") (victim_position "624 175 -165")
+L 10/21/2018 - 14:43:24: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" changed role to "spy"
+L 10/21/2018 - 14:43:32: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Snek<4><[U:1:122465451]><Blue>") (position1 "609 281 -172") (player2 "[LL] Dudsmack<8><[U:1:7297941]><Blue>") (position2 "568 172 -165") 
+L 10/21/2018 - 14:43:52: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] Dudsmack<8><[U:1:7297941]><Blue>" with "spellbook_fireball" (attacker_position "626 -827 -236") (victim_position "635 -1091 -201")
+L 10/21/2018 - 14:43:56: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-200 1082 -148") (victim_position "632 -194 -190")
+L 10/21/2018 - 14:44:07: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "tf_projectile_rocket" (attacker_position "718 -800 -210") (victim_position "831 -982 -148")
+L 10/21/2018 - 14:44:12: "Snek<4><[U:1:122465451]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-39 1105 -148") (victim_position "334 -1143 -148")
+L 10/21/2018 - 14:44:12: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "kill assist" against "Brak | LacledesLAN<7><[U:1:75056154]><Red>" (assister_position "831 -982 -134") (attacker_position "-39 1105 -148") (victim_position "334 -1143 -148")
+L 10/21/2018 - 14:44:13: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "revolver" (attacker_position "608 1611 63") (victim_position "937 1598 63")
+L 10/21/2018 - 14:44:13: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" triggered "domination" against "[LL]rnjmur<6><[U:1:13251124]><Blue>"
+L 10/21/2018 - 14:44:19: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "scout"
+L 10/21/2018 - 14:44:26: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" changed role to "medic"
+L 10/21/2018 - 14:44:27: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-229 1077 -148") (victim_position "604 -1007 -219")
+L 10/21/2018 - 14:44:52: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "-376 485 -309") (victim_position "-481 680 -306")
+L 10/21/2018 - 14:44:56: "Snek<4><[U:1:122465451]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "club" (attacker_position "221 1750 -170") (victim_position "255 1689 -175")
+L 10/21/2018 - 14:45:00: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" killed "Brak | LacledesLAN<7><[U:1:75056154]><Red>" with "natascha" (attacker_position "737 -1010 -184") (victim_position "-490 655 -310")
+L 10/21/2018 - 14:45:02: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "877 1247 -148") (victim_position "157 347 -295")
+L 10/21/2018 - 14:45:04: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" triggered "player_extinguished" against "[LL] Dudsmack<8><[U:1:7297941]><Blue>" with "tf_weapon_medigun" (attacker_position "836 -978 -148") (victim_position "663 -656 -257")
+L 10/21/2018 - 14:45:07: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" changed role to "pyro"
+L 10/21/2018 - 14:45:30: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "397") (ubercharge "0")
+L 10/21/2018 - 14:45:30: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "flamethrower" (attacker_position "511 2 -172") (victim_position "460 331 -172")
+L 10/21/2018 - 14:45:36: "Snek<4><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "699 1551 -177")
+L 10/21/2018 - 14:45:36: "Snek<4><[U:1:122465451]><Blue>" killed "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" with "awper_hand" (attacker_position "699 1551 -177") (victim_position "735 241 78")
+L 10/21/2018 - 14:45:36: "[LL] Dudsmack<8><[U:1:7297941]><Blue>" triggered "kill assist" against "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" (assister_position "-179 85 -280") (attacker_position "699 1551 -177") (victim_position "735 241 78")
+L 10/21/2018 - 14:45:41: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL] Dudsmack<8><[U:1:7297941]><Blue>" with "flaregun" (attacker_position "1023 248 -172") (victim_position "-150 191 -275")
+L 10/21/2018 - 14:45:42: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "tf_projectile_rocket" (attacker_position "1004 -892 -148") (victim_position "1293 -970 -148")
+L 10/21/2018 - 14:45:50: "[LL]rnjmur<6><[U:1:13251124]><Blue>" changed role to "soldier"
+L 10/21/2018 - 14:45:52: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>") (position1 "439 331 -172") 
+L 10/21/2018 - 14:45:54: "Snek<4><[U:1:122465451]><Blue>" killed "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1137 1218 -148") (victim_position "473 287 -172")
+L 10/21/2018 - 14:45:54: "Snek<4><[U:1:122465451]><Blue>" triggered "domination" against "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>"
+L 10/21/2018 - 14:46:12: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "flamethrower" (attacker_position "841 863 -11327") (victim_position "858 790 -11327")
+L 10/21/2018 - 14:46:13: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] Dudsmack<8><[U:1:7297941]><Blue>" with "flamethrower" (attacker_position "821 707 -11327") (victim_position "980 587 -11330")
+L 10/21/2018 - 14:46:15: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" killed "Snek<4><[U:1:122465451]><Blue>" with "unique_pickaxe" (attacker_position "1654 322 -11342") (victim_position "1710 355 -11278")
+L 10/21/2018 - 14:46:15: "[LL] allhawkeye85<0><[U:1:28500804]><Blue>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "154") (ubercharge "0")
+L 10/21/2018 - 14:46:15: "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" committed suicide with "world" (attacker_position "1054 -143 -11672")
+L 10/21/2018 - 14:46:30: "Brak | LacledesLAN<7><[U:1:75056154]><Red>" committed suicide with "world" (attacker_position "1275 2758 -10967")
+L 10/21/2018 - 14:46:48: World triggered "Round_Overtime"
+L 10/21/2018 - 14:46:48: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "530 139 -165")
+L 10/21/2018 - 14:46:48: "BEan | LacledesLAN.com<2><[U:1:7609438]><Red>" killed "[LL]rnjmur<6><[U:1:13251124]><Blue>" with "spellbook_meteor" (attacker_position "530 139 -165") (victim_position "417 255 -79")
+L 10/21/2018 - 14:46:48: World triggered "Round_Win" (winner "Red")
+L 10/21/2018 - 14:46:48: World triggered "Round_Length" (seconds "675.97")
+L 10/21/2018 - 14:46:48: Team "Red" current score "2" with "3" players
+L 10/21/2018 - 14:46:48: Team "Blue" current score "1" with "4" players
+L 10/21/2018 - 14:46:56: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" triggered "medic_death" against "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" (healing "132") (ubercharge "0")
+L 10/21/2018 - 14:46:56: "arcticfox012 | LacledesLAN<5><[U:1:5015550]><Red>" killed "[LL] allhawkeye85<3><[U:1:28500804]><Blue>" with "spellbook_athletic" (attacker_position "589 381 -171") (victim_position "533 216 -165")
+L 10/21/2018 - 14:47:03: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/21/2018 - 14:47:03: Team "Red" final score "2" with "3" players
+L 10/21/2018 - 14:47:03: Team "Blue" final score "1" with "4" players
+L 10/21/2018 - 14:47:14: [META] Loaded 0 plugins (1 already loaded)
+L 10/21/2018 - 14:47:14: Log file closed.

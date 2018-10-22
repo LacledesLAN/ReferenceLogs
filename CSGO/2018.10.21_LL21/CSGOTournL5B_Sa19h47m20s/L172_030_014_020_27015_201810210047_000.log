@@ -1,0 +1,307 @@
+L 10/21/2018 - 00:47:28: Log file started (file "logs/L172_030_014_020_27015_201810210047_000.log") (game "/app/csgo") (version "7268")
+L 10/21/2018 - 00:47:28: Loading map "de_mirage"
+L 10/21/2018 - 00:47:28: server cvars start
+L 10/21/2018 - 00:47:28: "cash_player_killed_teammate" = "-300"
+L 10/21/2018 - 00:47:28: "cash_player_respawn_amount" = "0"
+L 10/21/2018 - 00:47:28: "sv_maxspeed" = "320"
+L 10/21/2018 - 00:47:28: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/21/2018 - 00:47:28: "cash_team_rescued_hostage" = "0"
+L 10/21/2018 - 00:47:28: "cash_team_win_by_defusing_bomb" = "3250"
+L 10/21/2018 - 00:47:28: "sv_rollangle" = "0"
+L 10/21/2018 - 00:47:28: "r_AirboatViewZHeight" = "0.0"
+L 10/21/2018 - 00:47:28: "sv_cheats" = "0"
+L 10/21/2018 - 00:47:28: "r_VehicleViewDampen" = "1"
+L 10/21/2018 - 00:47:28: "metamod_version" = "1.11.0-dev+1097V"
+L 10/21/2018 - 00:47:28: "mp_allowNPCs" = "1"
+L 10/21/2018 - 00:47:28: "mp_tournament" = "0"
+L 10/21/2018 - 00:47:28: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/21/2018 - 00:47:28: "sv_spec_hear" = "1"
+L 10/21/2018 - 00:47:28: "cash_player_interact_with_hostage" = "150"
+L 10/21/2018 - 00:47:28: "mp_maxrounds" = "0"
+L 10/21/2018 - 00:47:28: "mp_flashlight" = "0"
+L 10/21/2018 - 00:47:28: "sv_tags" = ""
+L 10/21/2018 - 00:47:28: "sv_stepsize" = "18"
+L 10/21/2018 - 00:47:28: "sv_alltalk" = "0"
+L 10/21/2018 - 00:47:28: "mp_teamlist" = "hgrunt;scientist"
+L 10/21/2018 - 00:47:28: "mp_footsteps" = "1"
+L 10/21/2018 - 00:47:28: "sv_noclipaccelerate" = "5"
+L 10/21/2018 - 00:47:28: "sv_accelerate_debug_speed" = "0"
+L 10/21/2018 - 00:47:28: "sv_wateraccelerate" = "10"
+L 10/21/2018 - 00:47:28: "mp_stalemate_enable" = "0"
+L 10/21/2018 - 00:47:28: "mp_autocrosshair" = "1"
+L 10/21/2018 - 00:47:28: "sourcemod_version" = "1.9.0.6148"
+L 10/21/2018 - 00:47:28: "cash_team_elimination_bomb_map" = "3250"
+L 10/21/2018 - 00:47:28: "cash_player_get_killed" = "0"
+L 10/21/2018 - 00:47:28: "mp_roundtime_defuse" = "0"
+L 10/21/2018 - 00:47:28: "sv_autobuyammo" = "0"
+L 10/21/2018 - 00:47:28: "sv_rollspeed" = "200"
+L 10/21/2018 - 00:47:28: "sv_airaccelerate" = "12"
+L 10/21/2018 - 00:47:28: "sv_show_team_equipment_prohibit" = "0"
+L 10/21/2018 - 00:47:28: "mp_teams_unbalance_limit" = "1"
+L 10/21/2018 - 00:47:28: "mp_timelimit" = "5"
+L 10/21/2018 - 00:47:28: "cash_team_loser_bonus" = "1400"
+L 10/21/2018 - 00:47:28: "sv_deadtalk" = "0"
+L 10/21/2018 - 00:47:28: "cash_player_rescued_hostage" = "1000"
+L 10/21/2018 - 00:47:28: "sv_waterfriction" = "1"
+L 10/21/2018 - 00:47:28: "sv_competitive_official_5v5" = "0"
+L 10/21/2018 - 00:47:28: "sv_steamgroup" = ""
+L 10/21/2018 - 00:47:28: "cash_player_killed_enemy_default" = "300"
+L 10/21/2018 - 00:47:28: "coop" = "0"
+L 10/21/2018 - 00:47:28: "mp_respawnwavetime" = "10.0"
+L 10/21/2018 - 00:47:28: "sv_teamid_overhead" = "1"
+L 10/21/2018 - 00:47:28: "tv_enable1" = "0"
+L 10/21/2018 - 00:47:28: "nextlevel" = ""
+L 10/21/2018 - 00:47:28: "sv_stopspeed" = "80"
+L 10/21/2018 - 00:47:28: "sv_specaccelerate" = "5"
+L 10/21/2018 - 00:47:28: "deathmatch" = "1"
+L 10/21/2018 - 00:47:28: "tv_enable" = "0"
+L 10/21/2018 - 00:47:28: "mp_roundtime_hostage" = "0"
+L 10/21/2018 - 00:47:28: "mp_freezetime" = "6"
+L 10/21/2018 - 00:47:28: "mp_teammates_are_enemies" = "0"
+L 10/21/2018 - 00:47:28: "mp_falldamage" = "0"
+L 10/21/2018 - 00:47:28: "sv_accelerate_use_weapon_speed" = "1"
+L 10/21/2018 - 00:47:28: "sv_voiceenable" = "1"
+L 10/21/2018 - 00:47:28: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/21/2018 - 00:47:28: "sv_bounce" = "0"
+L 10/21/2018 - 00:47:28: "mp_disable_respawn_times" = "0"
+L 10/21/2018 - 00:47:28: "r_AirboatViewDampenFreq" = "7.0"
+L 10/21/2018 - 00:47:28: "mp_weaponstay" = "0"
+L 10/21/2018 - 00:47:28: "mp_hostagepenalty" = "10"
+L 10/21/2018 - 00:47:28: "tv_advertise_watchable" = "0"
+L 10/21/2018 - 00:47:28: "mp_friendlyfire" = "0"
+L 10/21/2018 - 00:47:28: "cash_team_hostage_interaction" = "500"
+L 10/21/2018 - 00:47:28: "sv_noclipspeed" = "5"
+L 10/21/2018 - 00:47:28: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/21/2018 - 00:47:28: "sv_allchat" = "1"
+L 10/21/2018 - 00:47:28: "mp_buy_during_immunity" = "0"
+L 10/21/2018 - 00:47:28: "cash_player_killed_enemy_factor" = "1"
+L 10/21/2018 - 00:47:28: "mp_c4timer" = "40"
+L 10/21/2018 - 00:47:28: "r_JeepViewDampenDamp" = "1.0"
+L 10/21/2018 - 00:47:28: "sv_competitive_minspec" = "1"
+L 10/21/2018 - 00:47:28: "r_AirboatViewDampenDamp" = "1.0"
+L 10/21/2018 - 00:47:28: "sm_nextmap" = ""
+L 10/21/2018 - 00:47:28: "sv_max_allowed_net_graph" = "1"
+L 10/21/2018 - 00:47:28: "mp_stalemate_at_timelimit" = "0"
+L 10/21/2018 - 00:47:28: "mp_limitteams" = "2"
+L 10/21/2018 - 00:47:28: "sv_footsteps" = "1"
+L 10/21/2018 - 00:47:28: "sv_vote_issue_kick_allowed" = "1"
+L 10/21/2018 - 00:47:28: "cash_team_survive_guardian_wave" = "1000"
+L 10/21/2018 - 00:47:28: "tv_relaypassword" = "CoyotesLoveAdventure"
+L 10/21/2018 - 00:47:28: "mp_teamplay" = "0"
+L 10/21/2018 - 00:47:28: "cash_team_terrorist_win_bomb" = "3500"
+L 10/21/2018 - 00:47:28: "cash_team_elimination_hostage_map_t" = "1000"
+L 10/21/2018 - 00:47:28: "r_JeepViewDampenFreq" = "7.0"
+L 10/21/2018 - 00:47:28: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/21/2018 - 00:47:28: "sv_specnoclip" = "1"
+L 10/21/2018 - 00:47:28: "sv_friction" = "5.2"
+L 10/21/2018 - 00:47:28: "cash_player_bomb_planted" = "300"
+L 10/21/2018 - 00:47:28: "mp_autoteambalance" = "1"
+L 10/21/2018 - 00:47:28: "sv_contact" = ""
+L 10/21/2018 - 00:47:28: "sv_vote_kick_ban_duration" = "15"
+L 10/21/2018 - 00:47:28: "cash_player_bomb_defused" = "300"
+L 10/21/2018 - 00:47:28: "mp_roundtime" = "5"
+L 10/21/2018 - 00:47:28: "sv_kick_ban_duration" = "15"
+L 10/21/2018 - 00:47:28: "cash_team_planted_bomb_but_defused" = "800"
+L 10/21/2018 - 00:47:28: "cash_player_killed_hostage" = "-1000"
+L 10/21/2018 - 00:47:28: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/21/2018 - 00:47:28: "nextmode" = ""
+L 10/21/2018 - 00:47:28: "mp_fraglimit" = "0"
+L 10/21/2018 - 00:47:28: "mp_forcerespawn" = "1"
+L 10/21/2018 - 00:47:28: "mp_winlimit" = "0"
+L 10/21/2018 - 00:47:28: "sv_accelerate" = "5.5"
+L 10/21/2018 - 00:47:28: "mp_buy_anywhere" = "0"
+L 10/21/2018 - 00:47:28: "sv_gravity" = "800"
+L 10/21/2018 - 00:47:28: "sv_password" = "7firewalls"
+L 10/21/2018 - 00:47:28: "cash_team_elimination_hostage_map_ct" = "2000"
+L 10/21/2018 - 00:47:28: "cash_team_win_by_hostage_rescue" = "3500"
+L 10/21/2018 - 00:47:28: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/21/2018 - 00:47:28: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/21/2018 - 00:47:28: "cash_player_damage_hostage" = "-30"
+L 10/21/2018 - 00:47:28: "r_JeepViewZHeight" = "10.0"
+L 10/21/2018 - 00:47:28: "cash_team_hostage_alive" = "0"
+L 10/21/2018 - 00:47:28: "tv_password" = "CoyotesLoveAdventure"
+L 10/21/2018 - 00:47:28: "sv_specspeed" = "3"
+L 10/21/2018 - 00:47:28: server cvars end
+L 10/21/2018 - 00:47:28: Started map "de_mirage" (CRC "553181964")
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running server.cfg""
+L 10/21/2018 - 00:47:29: server_cvar: "sv_teamid_overhead_always_prohibit" "1"
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:47:29: server_cvar: "wm_autodemoupload_completed" "0"
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:47:29: server_cvar: "tv_enable" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "wm_auto_knife" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "wm_pause_confirm" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "wm_pause_limit" "5"
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:47:29: server_cvar: "sv_contact" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_rescued_hostage" "750"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_alive" "150"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_interaction" "150"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_limitteams" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_timelimit" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "sv_competitive_official_5v5" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_maxrounds" "30"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime" "1.75"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime_defuse" "1.75"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_autoteambalance" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "sv_deadtalk" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "sv_kick_ban_duration" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "wm_warmup_respawn" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "wm_block_warm_up_grenades" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_alive" "0"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_interaction" "600"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_rescued_hostage" "600"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime" "1.92"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime_hostage" "1.92"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime_defuse" "1.92"
+L 10/21/2018 - 00:47:29: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_rescued_hostage" "750"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_alive" "150"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_team_hostage_interaction" "150"
+L 10/21/2018 - 00:47:29: server_cvar: "cash_player_interact_with_hostage" "150"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime" "1.75"
+L 10/21/2018 - 00:47:29: server_cvar: "mp_roundtime_defuse" "1.75"
+L 10/21/2018 - 00:47:32: "GOTV<2><BOT><>" connected, address ""
+L 10/21/2018 - 00:47:32: "GOTV<2><BOT><>" entered the game
+L 10/21/2018 - 00:47:32: "GOTV<2><BOT><Unassigned>" changed name to "zLLTV_CSGO_BRACKET_L5"
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:47:32: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:47:32: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running /sourcemod.plugin.warmod.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running warmod/on_map_load.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running /warmod/ruleset_warmup.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running warmod/ruleset_global.cfg""
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say ""running gamemode_competitive_server.cfg""
+L 10/21/2018 - 00:47:32: server_cvar: "mp_friendlyfire" "1"
+L 10/21/2018 - 00:47:32: server_cvar: "mp_freezetime" "15"
+L 10/21/2018 - 00:47:32: server_cvar: "mp_freezetime" "0"
+L 10/21/2018 - 00:47:32: server_cvar: "mp_friendlyfire" "0"
+L 10/21/2018 - 00:47:32: "Console<0><Console><Console>" say "WarMod [BFG] WarmUp Config Loaded"
+L 10/21/2018 - 00:47:32: World triggered "Round_Start"
+L 10/21/2018 - 00:49:53: rcon from "172.30.40.7:64739": command "echo HLSW: Test"
+L 10/21/2018 - 00:49:54: rcon from "172.30.40.7:64739": command "log"
+L 10/21/2018 - 00:49:54: rcon from "172.30.40.7:64739": command "logaddress_add "172.30.40.7:7130""
+L 10/21/2018 - 00:49:54: rcon from "172.30.40.7:64739": command "logaddress_del "172.30.40.7:7130""
+L 10/21/2018 - 00:49:54: rcon from "172.30.40.7:64739": command "logaddress_add "172.30.40.7:7130""
+L 10/21/2018 - 00:49:58: server_cvar: "mp_maxrounds" "7"
+L 10/21/2018 - 00:49:58: rcon from "172.30.40.7:64739": command "mp_maxrounds 7"
+L 10/21/2018 - 00:50:06: rcon from "172.30.40.7:64739": command "mp_startmoney 10000"
+L 10/21/2018 - 00:50:44: "Wheezy<3><STEAM_1:0:78251735><>" connected, address ""
+L 10/21/2018 - 00:50:44: "Wheezy<3><STEAM_1:0:78251735><>" STEAM USERID validated
+L 10/21/2018 - 00:50:53: "Wheezy<3><STEAM_1:0:78251735><>" entered the game
+L 10/21/2018 - 00:50:54: "Kal<4><STEAM_1:1:64264577><>" connected, address ""
+L 10/21/2018 - 00:50:55: "Kal<4><STEAM_1:1:64264577><>" STEAM USERID validated
+L 10/21/2018 - 00:51:00: "cowboy cam<5><STEAM_1:0:59359416><>" connected, address ""
+L 10/21/2018 - 00:51:01: "Kal<4><STEAM_1:1:64264577><>" entered the game
+L 10/21/2018 - 00:51:01: "cowboy cam<5><STEAM_1:0:59359416><>" STEAM USERID validated
+L 10/21/2018 - 00:51:03: "Wheezy<3><STEAM_1:0:78251735><Unassigned>" disconnected (reason "Disconnect")
+L 10/21/2018 - 00:51:05: "Trash<6><STEAM_1:1:115481489><>" connected, address ""
+L 10/21/2018 - 00:51:05: "Trash<6><STEAM_1:1:115481489><>" STEAM USERID validated
+L 10/21/2018 - 00:51:09: "cowboy cam<5><STEAM_1:0:59359416><>" entered the game
+L 10/21/2018 - 00:51:12: "Kal<4><STEAM_1:1:64264577>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:51:12: World triggered "Game_Commencing"
+L 10/21/2018 - 00:51:12: Starting Freeze period
+L 10/21/2018 - 00:51:12: World triggered "Match_Start" on "de_mirage"
+L 10/21/2018 - 00:51:12: Team playing "CT": Castaway
+L 10/21/2018 - 00:51:12: Team playing "TERRORIST": Iz_me
+L 10/21/2018 - 00:51:14: "Kal<4><STEAM_1:1:64264577><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:51:14: "Kal<4><STEAM_1:1:64264577><CT>" purchased "m4a1"
+L 10/21/2018 - 00:51:14: World triggered "Round_Start"
+L 10/21/2018 - 00:51:17: "cowboy cam<5><STEAM_1:0:59359416>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:51:17: "Kal<4><STEAM_1:1:64264577><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:51:17: "Trash<6><STEAM_1:1:115481489><>" entered the game
+L 10/21/2018 - 00:51:17: "cowboy cam<5><STEAM_1:0:59359416><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:51:24: "Nick<7><STEAM_1:0:66487725><>" connected, address ""
+L 10/21/2018 - 00:51:24: "Nick<7><STEAM_1:0:66487725><>" STEAM USERID validated
+L 10/21/2018 - 00:51:31: "Nick<7><STEAM_1:0:66487725><>" entered the game
+L 10/21/2018 - 00:51:31: "cowboy cam<5><STEAM_1:0:59359416><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:51:36: "Trash<6><STEAM_1:1:115481489>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:51:40: "Nick<7><STEAM_1:0:66487725>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:51:43: "cowboy cam<5><STEAM_1:0:59359416><CT>" disconnected (reason "Disconnect")
+L 10/21/2018 - 00:51:43: "cowboy cam<5><STEAM_1:0:59359416>" switched from team <CT> to <Unassigned>
+L 10/21/2018 - 00:51:43: "cowboy cam<5><STEAM_1:0:59359416><Unassigned>" left buyzone with [ ]
+L 10/21/2018 - 00:51:43: "Trash<6><STEAM_1:1:115481489><CT>" purchased "m4a1"
+L 10/21/2018 - 00:51:47: rcon from "172.30.40.7:64739": command "mp_startmoney 10000"
+L 10/21/2018 - 00:51:56: "Nick<7><STEAM_1:0:66487725><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:51:59: "Trash<6><STEAM_1:1:115481489><CT>" purchased "ump45"
+L 10/21/2018 - 00:52:00: "Trash<6><STEAM_1:1:115481489><CT>" purchased "mp5sd"
+L 10/21/2018 - 00:52:01: "Trash<6><STEAM_1:1:115481489><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mp5sd ]
+L 10/21/2018 - 00:52:14: "Trash<6><STEAM_1:1:115481489>" switched from team <CT> to <TERRORIST>
+L 10/21/2018 - 00:52:14: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-1226 -2372 -124] committed suicide with "world"
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><>" connected, address ""
+L 10/21/2018 - 00:52:14: "Ted<8><BOT>" switched from team <Unassigned> to <CT>
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><>" entered the game
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><CT>" purchased "aug"
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><CT>" purchased "p250"
+L 10/21/2018 - 00:52:14: "Ted<8><BOT><CT>" purchased "smokegrenade"
+L 10/21/2018 - 00:52:15: "Nick<7><STEAM_1:0:66487725><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:52:15: "Trash<6><STEAM_1:1:115481489><TERRORIST>" purchased "mp5sd"
+L 10/21/2018 - 00:52:17: "Trash<6><STEAM_1:1:115481489><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_mp5sd ]
+L 10/21/2018 - 00:52:18: "Ted<8><BOT><CT>" left buyzone with [ weapon_knife weapon_p250 weapon_aug weapon_smokegrenade kevlar(100) helmet ]
+L 10/21/2018 - 00:52:26: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [82 -1607 -170] attacked "Kal<4><STEAM_1:1:64264577><CT>" [182 -1634 -168] with "mp7" (damage "65") (damage_armor "19") (health "35") (armor "80") (hitgroup "head")
+L 10/21/2018 - 00:52:26: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [82 -1607 -170] attacked "Kal<4><STEAM_1:1:64264577><CT>" [182 -1634 -168] with "mp7" (damage "65") (damage_armor "19") (health "0") (armor "60") (hitgroup "head")
+L 10/21/2018 - 00:52:26: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [82 -1607 -170] killed "Kal<4><STEAM_1:1:64264577><CT>" [182 -1634 -104] with "mp5sd" (headshot)
+L 10/21/2018 - 00:52:26: "Nick<7><STEAM_1:0:66487725><CT>" [-487 -1621 -40] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [82 -1607 -170] with "hkp2000" (damage "31") (damage_armor "0") (health "69") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:52:28: "Kal<4><STEAM_1:1:64264577><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:52:28: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [69 -1648 -168] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-486 -1631 -40] with "mp7" (damage "16") (damage_armor "0") (health "84") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:52:28: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [70 -1650 -168] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-486 -1629 -40] with "mp7" (damage "28") (damage_armor "0") (health "56") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:52:28: "Kal<4><STEAM_1:1:64264577><CT>" purchased "m4a1"
+L 10/21/2018 - 00:52:28: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [70 -1650 -168] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-486 -1623 -40] with "mp7" (damage "16") (damage_armor "0") (health "40") (armor "0") (hitgroup "left leg")
+L 10/21/2018 - 00:52:28: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [70 -1649 -168] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-486 -1619 -40] with "mp7" (damage "28") (damage_armor "0") (health "12") (armor "0") (hitgroup "stomach")
+L 10/21/2018 - 00:52:29: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [70 -1648 -168] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-485 -1607 -40] with "mp7" (damage "22") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:52:29: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [70 -1648 -168] killed "Nick<7><STEAM_1:0:66487725><CT>" [-485 -1607 24] with "mp5sd"
+L 10/21/2018 - 00:52:29: "Wheezy<9><STEAM_1:0:78251735><>" connected, address ""
+L 10/21/2018 - 00:52:30: "Wheezy<9><STEAM_1:0:78251735><>" STEAM USERID validated
+L 10/21/2018 - 00:52:30: "Nick<7><STEAM_1:0:66487725><CT>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:52:30: "Nick<7><STEAM_1:0:66487725><CT>" purchased "m4a1"
+L 10/21/2018 - 00:52:30: "Nick<7><STEAM_1:0:66487725><CT>" purchased "item_defuser"
+L 10/21/2018 - 00:52:30: "Kal<4><STEAM_1:1:64264577><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 kevlar(100) helmet ]
+L 10/21/2018 - 00:52:33: "Nick<7><STEAM_1:0:66487725><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1 defuser kevlar(100) helmet ]
+L 10/21/2018 - 00:52:35: "Ted<8><BOT><CT>" [-322 -1947 -171] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-97 -1765 -168] with "aug" (damage "27") (damage_armor "0") (health "42") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:52:35: "Ted<8><BOT><CT>" [-322 -1949 -171] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-97 -1765 -168] with "aug" (damage "27") (damage_armor "0") (health "15") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:52:35: "Ted<8><BOT><CT>" [-322 -1949 -171] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-97 -1765 -168] with "aug" (damage "27") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:52:35: "Ted<8><BOT><CT>" [-322 -1949 -171] killed "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-97 -1765 -122] with "aug"
+L 10/21/2018 - 00:52:35: "Ted<8><BOT><CT>" threw smokegrenade [109 -1733 -166]
+L 10/21/2018 - 00:52:37: "Wheezy<9><STEAM_1:0:78251735><>" entered the game
+L 10/21/2018 - 00:52:37: "Trash<6><STEAM_1:1:115481489><TERRORIST>" purchased "mp5sd"
+L 10/21/2018 - 00:52:38: "Trash<6><STEAM_1:1:115481489><TERRORIST>" purchased "item_assaultsuit"
+L 10/21/2018 - 00:52:41: "Trash<6><STEAM_1:1:115481489><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_mp5sd kevlar(100) helmet ]
+L 10/21/2018 - 00:52:44: "Nick<7><STEAM_1:0:66487725><CT>" say "(: i like this, this is very fun"
+L 10/21/2018 - 00:52:50: "Kal<4><STEAM_1:1:64264577><CT>" [-477 -1628 -40] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-37 -1666 -168] with "m4a1" (damage "89") (damage_armor "19") (health "11") (armor "80") (hitgroup "head")
+L 10/21/2018 - 00:52:50: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-48 -1672 -168] attacked "Ted<8><BOT><CT>" [-40 -2056 -168] with "mp7" (damage "14") (damage_armor "4") (health "86") (armor "95") (hitgroup "chest")
+L 10/21/2018 - 00:52:50: "Kal<4><STEAM_1:1:64264577><CT>" [-477 -1627 -40] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-47 -1672 -168] with "m4a1" (damage "89") (damage_armor "19") (health "0") (armor "60") (hitgroup "head")
+L 10/21/2018 - 00:52:50: "Kal<4><STEAM_1:1:64264577><CT>" [-477 -1627 -40] killed "Trash<6><STEAM_1:1:115481489><TERRORIST>" [-47 -1672 -109] with "m4a1" (headshot)
+L 10/21/2018 - 00:52:53: "Trash<6><STEAM_1:1:115481489><TERRORIST>" purchased "awp"
+L 10/21/2018 - 00:52:54: "Trash<6><STEAM_1:1:115481489><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_awp ]
+L 10/21/2018 - 00:53:00: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [755 -1069 -257] attacked "Nick<7><STEAM_1:0:66487725><CT>" [737 -1558 -233] with "awp" (damage "138") (damage_armor "1") (health "0") (armor "98") (hitgroup "stomach")
+L 10/21/2018 - 00:53:00: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [755 -1069 -257] killed "Nick<7><STEAM_1:0:66487725><CT>" [737 -1558 -169] with "awp"
+L 10/21/2018 - 00:53:06: "Nick<7><STEAM_1:0:66487725><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/21/2018 - 00:53:14: rcon from "172.30.40.7:64739": command "maps *"
+L 10/21/2018 - 00:53:17: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [308 -1486 -176] attacked "Nick<7><STEAM_1:0:66487725><CT>" [-752 -1984 -180] with "awp" (damage "112") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/21/2018 - 00:53:17: "Trash<6><STEAM_1:1:115481489><TERRORIST>" [308 -1486 -176] killed "Nick<7><STEAM_1:0:66487725><CT>" [-752 -1984 -116] with "awp"
+L 10/21/2018 - 00:53:18: "Kal<4><STEAM_1:1:64264577><CT>" [-492 -1581 -40] attacked "Trash<6><STEAM_1:1:115481489><TERRORIST>" [308 -1486 -176] with "m4a1" (damage "125") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/21/2018 - 00:53:18: "Kal<4><STEAM_1:1:64264577><CT>" [-492 -1581 -40] killed "Trash<6><STEAM_1:1:115481489><TERRORIST>" [308 -1486 -112] with "m4a1" (headshot)
+L 10/21/2018 - 00:53:19: rcon from "172.30.40.7:64739": command "changelevel de_mirage"
+L 10/21/2018 - 00:53:19: [META] Loaded 0 plugins (1 already loaded)
+L 10/21/2018 - 00:53:19: [META] Loaded 0 plugins (1 already loaded)
+L 10/21/2018 - 00:53:19: Log file closed

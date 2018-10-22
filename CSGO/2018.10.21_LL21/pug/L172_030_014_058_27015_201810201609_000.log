@@ -1,0 +1,639 @@
+L 10/20/2018 - 16:09:26: Log file started (file "logs/L172_030_014_058_27015_201810201609_000.log") (game "/app/csgo") (version "7268")
+L 10/20/2018 - 16:09:26: Loading map "de_nuke"
+L 10/20/2018 - 16:09:26: server cvars start
+L 10/20/2018 - 16:09:26: "cash_player_killed_teammate" = "-300"
+L 10/20/2018 - 16:09:26: "cash_player_respawn_amount" = "0"
+L 10/20/2018 - 16:09:26: "sv_maxspeed" = "320"
+L 10/20/2018 - 16:09:26: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/20/2018 - 16:09:26: "cash_team_rescued_hostage" = "0"
+L 10/20/2018 - 16:09:26: "cash_team_win_by_defusing_bomb" = "2700"
+L 10/20/2018 - 16:09:26: "sv_rollangle" = "0"
+L 10/20/2018 - 16:09:26: "r_AirboatViewZHeight" = "0.0"
+L 10/20/2018 - 16:09:26: "sv_cheats" = "0"
+L 10/20/2018 - 16:09:26: "r_VehicleViewDampen" = "1"
+L 10/20/2018 - 16:09:26: "metamod_version" = "1.10.7-devV"
+L 10/20/2018 - 16:09:26: "mp_allowNPCs" = "1"
+L 10/20/2018 - 16:09:26: "mp_tournament" = "0"
+L 10/20/2018 - 16:09:26: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/20/2018 - 16:09:26: "sv_spec_hear" = "1"
+L 10/20/2018 - 16:09:26: "cash_player_interact_with_hostage" = "300"
+L 10/20/2018 - 16:09:26: "mp_maxrounds" = "15"
+L 10/20/2018 - 16:09:26: "mp_flashlight" = "0"
+L 10/20/2018 - 16:09:26: "sv_tags" = ""
+L 10/20/2018 - 16:09:26: "sv_stepsize" = "18"
+L 10/20/2018 - 16:09:26: "sv_alltalk" = "0"
+L 10/20/2018 - 16:09:26: "mp_teamlist" = "hgrunt;scientist"
+L 10/20/2018 - 16:09:26: "mp_footsteps" = "1"
+L 10/20/2018 - 16:09:26: "sv_noclipaccelerate" = "5"
+L 10/20/2018 - 16:09:26: "sv_accelerate_debug_speed" = "0"
+L 10/20/2018 - 16:09:26: "sv_wateraccelerate" = "10"
+L 10/20/2018 - 16:09:26: "mp_stalemate_enable" = "0"
+L 10/20/2018 - 16:09:26: "mp_autocrosshair" = "1"
+L 10/20/2018 - 16:09:26: "sourcemod_version" = "1.9.0.6252"
+L 10/20/2018 - 16:09:26: "cash_team_elimination_bomb_map" = "2700"
+L 10/20/2018 - 16:09:26: "cash_player_get_killed" = "0"
+L 10/20/2018 - 16:09:26: "mp_roundtime_defuse" = "2.25"
+L 10/20/2018 - 16:09:26: "sv_autobuyammo" = "0"
+L 10/20/2018 - 16:09:26: "sv_rollspeed" = "200"
+L 10/20/2018 - 16:09:26: "sv_airaccelerate" = "12"
+L 10/20/2018 - 16:09:26: "sv_show_team_equipment_prohibit" = "0"
+L 10/20/2018 - 16:09:26: "mp_teams_unbalance_limit" = "1"
+L 10/20/2018 - 16:09:26: "mp_timelimit" = "0"
+L 10/20/2018 - 16:09:26: "cash_team_loser_bonus" = "2400"
+L 10/20/2018 - 16:09:26: "sv_deadtalk" = "0"
+L 10/20/2018 - 16:09:26: "cash_player_rescued_hostage" = "1000"
+L 10/20/2018 - 16:09:26: "sv_waterfriction" = "1"
+L 10/20/2018 - 16:09:26: "sv_competitive_official_5v5" = "0"
+L 10/20/2018 - 16:09:26: "sv_steamgroup" = ""
+L 10/20/2018 - 16:09:26: "cash_player_killed_enemy_default" = "200"
+L 10/20/2018 - 16:09:26: "coop" = "0"
+L 10/20/2018 - 16:09:26: "mp_respawnwavetime" = "10.0"
+L 10/20/2018 - 16:09:26: "sv_teamid_overhead" = "1"
+L 10/20/2018 - 16:09:26: "tv_enable1" = "0"
+L 10/20/2018 - 16:09:26: "nextlevel" = ""
+L 10/20/2018 - 16:09:26: "sv_stopspeed" = "80"
+L 10/20/2018 - 16:09:26: "sv_specaccelerate" = "5"
+L 10/20/2018 - 16:09:26: "deathmatch" = "1"
+L 10/20/2018 - 16:09:26: "tv_enable" = "0"
+L 10/20/2018 - 16:09:26: "mp_roundtime_hostage" = "2"
+L 10/20/2018 - 16:09:26: "mp_freezetime" = "5"
+L 10/20/2018 - 16:09:26: "mp_teammates_are_enemies" = "0"
+L 10/20/2018 - 16:09:26: "mp_falldamage" = "0"
+L 10/20/2018 - 16:09:26: "sv_accelerate_use_weapon_speed" = "1"
+L 10/20/2018 - 16:09:26: "sv_voiceenable" = "1"
+L 10/20/2018 - 16:09:26: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/20/2018 - 16:09:26: "sv_bounce" = "0"
+L 10/20/2018 - 16:09:26: "mp_disable_respawn_times" = "0"
+L 10/20/2018 - 16:09:26: "r_AirboatViewDampenFreq" = "7.0"
+L 10/20/2018 - 16:09:26: "mp_weaponstay" = "0"
+L 10/20/2018 - 16:09:26: "mp_hostagepenalty" = "10"
+L 10/20/2018 - 16:09:26: "tv_advertise_watchable" = "0"
+L 10/20/2018 - 16:09:26: "mp_friendlyfire" = "1"
+L 10/20/2018 - 16:09:26: "cash_team_hostage_interaction" = "500"
+L 10/20/2018 - 16:09:26: "sv_noclipspeed" = "5"
+L 10/20/2018 - 16:09:26: "cash_team_win_by_time_running_out_bomb" = "2700"
+L 10/20/2018 - 16:09:26: "sv_allchat" = "1"
+L 10/20/2018 - 16:09:26: "mp_buy_during_immunity" = "0"
+L 10/20/2018 - 16:09:26: "cash_player_killed_enemy_factor" = "0.5"
+L 10/20/2018 - 16:09:26: "mp_c4timer" = "40"
+L 10/20/2018 - 16:09:26: "r_JeepViewDampenDamp" = "1.0"
+L 10/20/2018 - 16:09:26: "sv_competitive_minspec" = "1"
+L 10/20/2018 - 16:09:26: "r_AirboatViewDampenDamp" = "1.0"
+L 10/20/2018 - 16:09:26: "sm_nextmap" = ""
+L 10/20/2018 - 16:09:26: "sv_max_allowed_net_graph" = "1"
+L 10/20/2018 - 16:09:26: "mp_stalemate_at_timelimit" = "0"
+L 10/20/2018 - 16:09:26: "mp_limitteams" = "2"
+L 10/20/2018 - 16:09:26: "sv_footsteps" = "1"
+L 10/20/2018 - 16:09:26: "sv_vote_issue_kick_allowed" = "1"
+L 10/20/2018 - 16:09:26: "sm_log_connections_version" = "1.11"
+L 10/20/2018 - 16:09:26: "cash_team_survive_guardian_wave" = "1000"
+L 10/20/2018 - 16:09:26: "tv_relaypassword" = ""
+L 10/20/2018 - 16:09:26: "mp_teamplay" = "0"
+L 10/20/2018 - 16:09:26: "cash_team_terrorist_win_bomb" = "2700"
+L 10/20/2018 - 16:09:26: "cash_team_elimination_hostage_map_t" = "2000"
+L 10/20/2018 - 16:09:26: "r_JeepViewDampenFreq" = "7.0"
+L 10/20/2018 - 16:09:26: "cash_team_win_by_time_running_out_hostage" = "2000"
+L 10/20/2018 - 16:09:26: "sv_specnoclip" = "1"
+L 10/20/2018 - 16:09:26: "sv_friction" = "5.2"
+L 10/20/2018 - 16:09:26: "cash_player_bomb_planted" = "200"
+L 10/20/2018 - 16:09:26: "mp_autoteambalance" = "1"
+L 10/20/2018 - 16:09:26: "sv_contact" = ""
+L 10/20/2018 - 16:09:26: "sv_vote_kick_ban_duration" = "30"
+L 10/20/2018 - 16:09:26: "cash_player_bomb_defused" = "200"
+L 10/20/2018 - 16:09:26: "mp_roundtime" = "3"
+L 10/20/2018 - 16:09:26: "sv_kick_ban_duration" = "15"
+L 10/20/2018 - 16:09:26: "cash_team_planted_bomb_but_defused" = "200"
+L 10/20/2018 - 16:09:26: "cash_player_killed_hostage" = "-1000"
+L 10/20/2018 - 16:09:26: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/20/2018 - 16:09:26: "nextmode" = ""
+L 10/20/2018 - 16:09:26: "mp_fraglimit" = "0"
+L 10/20/2018 - 16:09:26: "mp_forcerespawn" = "1"
+L 10/20/2018 - 16:09:26: "mp_winlimit" = "0"
+L 10/20/2018 - 16:09:26: "sv_accelerate" = "5.5"
+L 10/20/2018 - 16:09:26: "mp_buy_anywhere" = "0"
+L 10/20/2018 - 16:09:26: "sv_gravity" = "800"
+L 10/20/2018 - 16:09:26: "sv_password" = ""
+L 10/20/2018 - 16:09:26: "cash_team_elimination_hostage_map_ct" = "2300"
+L 10/20/2018 - 16:09:26: "cash_team_win_by_hostage_rescue" = "3000"
+L 10/20/2018 - 16:09:26: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/20/2018 - 16:09:26: "cash_team_loser_bonus_consecutive_rounds" = "0"
+L 10/20/2018 - 16:09:26: "cash_player_damage_hostage" = "-30"
+L 10/20/2018 - 16:09:26: "r_JeepViewZHeight" = "10.0"
+L 10/20/2018 - 16:09:26: "cash_team_hostage_alive" = "0"
+L 10/20/2018 - 16:09:26: "tv_password" = ""
+L 10/20/2018 - 16:09:26: "sv_specspeed" = "3"
+L 10/20/2018 - 16:09:26: server cvars end
+L 10/20/2018 - 16:09:28: Started map "de_nuke" (CRC "-2095642366")
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_bomb_defused" "300"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_bomb_planted" "300"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_interact_with_hostage" "150"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_killed_enemy_default" "300"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_killed_enemy_factor" "1"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_bomb_map" "3250"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_loser_bonus" "1400"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "500"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_planted_bomb_but_defused" "800"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_terrorist_win_bomb" "3500"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_time_running_out_bomb" "3250"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_time_running_out_hostage" "3250"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_freezetime" "6"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_friendlyfire" "0"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_maxrounds" "0"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime" "5"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime_defuse" "0"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime_hostage" "0"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_timelimit" "5"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_bomb_defused" "200"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_bomb_planted" "200"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_killed_enemy_default" "200"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_player_killed_enemy_factor" "0.5"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_bomb_map" "2700"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_hostage_map_t" "2000"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_elimination_hostage_map_ct" "2300"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_loser_bonus" "2400"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "0"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_planted_bomb_but_defused" "200"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_terrorist_win_bomb" "2700"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_defusing_bomb" "2700"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_hostage_rescue" "3000"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_time_running_out_hostage" "2000"
+L 10/20/2018 - 16:09:28: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_freezetime" "5"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_friendlyfire" "1"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_maxrounds" "15"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime" "3"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime_hostage" "2"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_roundtime_defuse" "2.25"
+L 10/20/2018 - 16:09:28: server_cvar: "mp_timelimit" "0"
+L 10/20/2018 - 16:09:31: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/20/2018 - 16:09:31: World triggered "Round_Start"
+L 10/20/2018 - 16:09:31: rcon from "172.30.40.7:59788": command "logaddress_add "172.30.40.7:7130""
+L 10/20/2018 - 16:09:44: "Drizzle<58><STEAM_1:1:52074304><>" entered the game
+L 10/20/2018 - 16:10:00: "Drizzle<58><STEAM_1:1:52074304>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:10:00: World triggered "Game_Commencing"
+L 10/20/2018 - 16:10:00: "Keith<78><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:00: "Keith<78><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Nate<79><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Nate<79><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:10:01: "Nate<79><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Scott<80><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Ian<81><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Jerry<82><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Jerry<82><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:10:01: "Jerry<82><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Dean<83><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Dean<83><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:10:01: "Dean<83><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Josh<84><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Josh<84><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:10:01: "Josh<84><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Harold<85><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Harold<85><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:10:01: "Harold<85><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><>" connected, address "none"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><>" entered the game
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:10:01: "Nate<79><BOT><CT>" purchased "mp7"
+L 10/20/2018 - 16:10:01: "Nate<79><BOT><CT>" purchased "hegrenade"
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><TERRORIST>" purchased "mac10"
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><TERRORIST>" purchased "awp"
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><TERRORIST>" purchased "p250"
+L 10/20/2018 - 16:10:01: "Jerry<82><BOT><CT>" purchased "xm1014"
+L 10/20/2018 - 16:10:01: "Dean<83><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:10:01: "Dean<83><BOT><CT>" purchased "p250"
+L 10/20/2018 - 16:10:01: "Josh<84><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "p90"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "deagle"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "decoy"
+L 10/20/2018 - 16:10:01: "Harold<85><BOT><TERRORIST>" purchased "p90"
+L 10/20/2018 - 16:10:01: Starting Freeze period
+L 10/20/2018 - 16:10:01: World triggered "Match_Start" on "de_nuke"
+L 10/20/2018 - 16:10:01: Team playing "CT": Space Monkey Mob
+L 10/20/2018 - 16:10:01: "Nate<79><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><TERRORIST>" purchased "awp"
+L 10/20/2018 - 16:10:01: "Ian<81><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:10:01: "Dean<83><BOT><CT>" purchased "bizon"
+L 10/20/2018 - 16:10:01: "Harold<85><BOT><TERRORIST>" purchased "negev"
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:10:01: "Keith<78><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><TERRORIST>" purchased "p90"
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:10:01: "Scott<80><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:10:01: "Jerry<82><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:10:01: "Josh<84><BOT><TERRORIST>" purchased "mac10"
+L 10/20/2018 - 16:10:01: "Josh<84><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "p250"
+L 10/20/2018 - 16:10:01: "Norm<86><BOT><CT>" purchased "incgrenade"
+L 10/20/2018 - 16:10:03: World triggered "Round_Start"
+L 10/20/2018 - 16:10:16: Molotov projectile spawned at 525.846191 -1922.364990 -351.083160, velocity -597.024719 -312.715057 37.360306
+L 10/20/2018 - 16:10:17: "Norm<86><BOT><CT>" threw molotov [343 -2135 -414]
+L 10/20/2018 - 16:10:17: "Scott<80><BOT><TERRORIST>" threw hegrenade [862 -1918 -414]
+L 10/20/2018 - 16:10:17: "Keith<78><BOT><TERRORIST>" threw hegrenade [-36 -1887 -414]
+L 10/20/2018 - 16:10:18: "Jerry<82><BOT><CT>" [816 -1846 -408] killed "Josh<84><BOT><TERRORIST>" [89 -2121 -353] with "famas"
+L 10/20/2018 - 16:10:18: "Dean<83><BOT><CT>" assisted killing "Josh<84><BOT><TERRORIST>"
+L 10/20/2018 - 16:10:21: "Jerry<82><BOT><CT>" [816 -1846 -408] killed "Keith<78><BOT><TERRORIST>" [131 -1947 -352] with "famas"
+L 10/20/2018 - 16:10:21: "Norm<86><BOT><CT>" assisted killing "Keith<78><BOT><TERRORIST>"
+L 10/20/2018 - 16:10:22: "Josh<84><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:10:26: "Keith<78><BOT><TERRORIST>" purchased "ump45"
+L 10/20/2018 - 16:10:26: "Keith<78><BOT><TERRORIST>" purchased "smokegrenade"
+L 10/20/2018 - 16:10:27: "Dean<83><BOT><CT>" [659 -1936 -416] killed "Scott<80><BOT><TERRORIST>" [67 -1942 -352] with "bizon"
+L 10/20/2018 - 16:10:27: "Norm<86><BOT><CT>" assisted killing "Scott<80><BOT><TERRORIST>"
+L 10/20/2018 - 16:10:31: "Scott<80><BOT><TERRORIST>" purchased "xm1014"
+L 10/20/2018 - 16:10:31: "Scott<80><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:10:31: "Scott<80><BOT><TERRORIST>" purchased "flashbang"
+L 10/20/2018 - 16:10:36: "Josh<84><BOT><TERRORIST>" [-547 -1490 -416] killed "Nate<79><BOT><CT>" [84 -2182 -352] with "sg556" (headshot)
+L 10/20/2018 - 16:10:36: "Ian<81><BOT><TERRORIST>" [-333 -972 -416] killed "Jerry<82><BOT><CT>" [157 -948 -352] with "awp"
+L 10/20/2018 - 16:10:38: "Josh<84><BOT><TERRORIST>" [-547 -1490 -416] killed "Dean<83><BOT><CT>" [44 -2127 -352] with "sg556"
+L 10/20/2018 - 16:10:41: "Nate<79><BOT><CT>" purchased "mp9"
+L 10/20/2018 - 16:10:41: "Jerry<82><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:10:42: "Dean<83><BOT><CT>" purchased "negev"
+L 10/20/2018 - 16:10:44: "Norm<86><BOT><CT>" [-81 -2069 -416] killed "Josh<84><BOT><TERRORIST>" [-544 -1421 -352] with "famas"
+L 10/20/2018 - 16:10:45: "Norm<86><BOT><CT>" [-81 -2069 -416] killed "Keith<78><BOT><TERRORIST>" [-614 -1282 -352] with "famas"
+L 10/20/2018 - 16:10:46: "Scott<80><BOT><TERRORIST>" [-570 -1426 -416] killed "Norm<86><BOT><CT>" [-81 -2069 -352] with "deagle"
+L 10/20/2018 - 16:10:48: "Josh<84><BOT><TERRORIST>" purchased "nova"
+L 10/20/2018 - 16:10:48: "Josh<84><BOT><TERRORIST>" purchased "p250"
+L 10/20/2018 - 16:10:49: "Keith<78><BOT><TERRORIST>" purchased "nova"
+L 10/20/2018 - 16:10:51: "Norm<86><BOT><CT>" purchased "m249"
+L 10/20/2018 - 16:11:02: "Drizzle<58><STEAM_1:1:52074304><CT>" disconnected (reason "Disconnect")
+L 10/20/2018 - 16:11:02: "Drizzle<58><STEAM_1:1:52074304>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Keith<78><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Keith<78><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Nate<79><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Nate<79><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Scott<80><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Scott<80><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Jerry<82><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Jerry<82><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Ian<81><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Ian<81><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Dean<83><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Dean<83><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Josh<84><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Josh<84><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Harold<85><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Harold<85><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:11:02: "Norm<86><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:11:02: "Norm<86><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:11:05: Starting Freeze period
+L 10/20/2018 - 16:11:05: World triggered "Match_Start" on "de_nuke"
+L 10/20/2018 - 16:11:07: World triggered "Round_Start"
+L 10/20/2018 - 16:24:21: "Robeast<87><STEAM_1:0:80780068><>" connected, address "172.30.41.70:27005"
+L 10/20/2018 - 16:24:38: "Robeast<87><STEAM_1:0:80780068><>" entered the game
+L 10/20/2018 - 16:24:45: "Robeast<87><STEAM_1:0:80780068>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:24:45: World triggered "Game_Commencing"
+L 10/20/2018 - 16:24:45: "Ron<88><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Ron<88><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:24:45: "Ron<88><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Orin<89><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Orin<89><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:24:45: "Orin<89><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Pat<90><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Pat<90><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:24:45: "Pat<90><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Brandon<91><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Brandon<91><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:24:45: "Brandon<91><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Scott<92><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Scott<92><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:24:45: "Scott<92><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Bill<93><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Bill<93><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:24:45: "Bill<93><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Paul<94><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Paul<94><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:24:45: "Paul<94><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Grant<95><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Grant<95><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 16:24:45: "Grant<95><BOT><>" entered the game
+L 10/20/2018 - 16:24:45: "Martin<96><BOT><>" connected, address "none"
+L 10/20/2018 - 16:24:45: "Martin<96><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 16:24:45: "Martin<96><BOT><>" entered the game
+L 10/20/2018 - 16:24:46: Starting Freeze period
+L 10/20/2018 - 16:24:46: World triggered "Match_Start" on "de_nuke"
+L 10/20/2018 - 16:24:46: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:24:50: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" purchased "elite"
+L 10/20/2018 - 16:24:51: World triggered "Round_Start"
+L 10/20/2018 - 16:25:13: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/20/2018 - 16:25:17: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [410 -1052 -392] killed "Scott<92><BOT><CT>" [169 -1132 -352] with "elite"
+L 10/20/2018 - 16:25:21: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [280 -1092 -392] killed "Martin<96><BOT><CT>" [127 -942 -352] with "elite" (headshot)
+L 10/20/2018 - 16:25:22: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [260 -1073 -403] killed "Pat<90><BOT><CT>" [137 -947 -352] with "elite" (headshot)
+L 10/20/2018 - 16:25:27: "Orin<89><BOT><TERRORIST>" [435 -1159 -392] killed "Bill<93><BOT><CT>" [233 -1075 -352] with "glock"
+L 10/20/2018 - 16:25:27: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" assisted killing "Bill<93><BOT><CT>"
+L 10/20/2018 - 16:25:28: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [351 -1063 -392] killed "Ron<88><BOT><CT>" [240 -1040 -352] with "elite" (headshot)
+L 10/20/2018 - 16:25:28: "Grant<95><BOT><TERRORIST>" assisted killing "Ron<88><BOT><CT>"
+L 10/20/2018 - 16:25:28: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "1")
+L 10/20/2018 - 16:25:28: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:25:28: Team "TERRORIST" scored "1" with "5" players
+L 10/20/2018 - 16:25:28: World triggered "Round_End"
+L 10/20/2018 - 16:25:38: Starting Freeze period
+L 10/20/2018 - 16:25:38: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:25:38: "Ron<88><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:25:38: "Ron<88><BOT><CT>" purchased "p250"
+L 10/20/2018 - 16:25:38: "Scott<92><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:25:38: "Paul<94><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:25:38: "Martin<96><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:25:38: "Martin<96><BOT><CT>" purchased "hegrenade"
+L 10/20/2018 - 16:25:38: "Orin<89><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:25:38: "Brandon<91><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:25:38: "Brandon<91><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:25:38: "Bill<93><BOT><CT>" purchased "aug"
+L 10/20/2018 - 16:25:38: "Grant<95><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:25:38: "Pat<90><BOT><CT>" purchased "ssg08"
+L 10/20/2018 - 16:25:40: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:25:43: World triggered "Round_Start"
+L 10/20/2018 - 16:25:44: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:25:45: "Paul<94><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:25:56: "Martin<96><BOT><CT>" threw hegrenade [-12 -2207 -382]
+L 10/20/2018 - 16:25:56: "Brandon<91><BOT><TERRORIST>" threw hegrenade [355 -2294 -385]
+L 10/20/2018 - 16:25:58: "Orin<89><BOT><TERRORIST>" [-226 -2037 -416] killed "Scott<92><BOT><CT>" [358 -2187 -352] with "ak47"
+L 10/20/2018 - 16:25:58: "Brandon<91><BOT><TERRORIST>" assisted killing "Scott<92><BOT><CT>"
+L 10/20/2018 - 16:26:04: "Martin<96><BOT><CT>" [759 -1982 -416] killed "Brandon<91><BOT><TERRORIST>" [311 -2234 -352] with "m4a1"
+L 10/20/2018 - 16:26:09: "Paul<94><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/20/2018 - 16:26:12: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1253 -1615 -416] killed "Martin<96><BOT><CT>" [843 -1860 -344] with "ak47" (headshot)
+L 10/20/2018 - 16:26:13: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1253 -1614 -416] killed "Ron<88><BOT><CT>" [740 -1907 -344] with "ak47"
+L 10/20/2018 - 16:26:14: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1264 -1646 -416] killed "Bill<93><BOT><CT>" [872 -1824 -344] with "ak47"
+L 10/20/2018 - 16:26:18: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [858 -1644 -416] killed "Pat<90><BOT><CT>" [578 -1455 -352] with "ak47" (headshot)
+L 10/20/2018 - 16:26:18: "Paul<94><BOT><TERRORIST>" assisted killing "Pat<90><BOT><CT>"
+L 10/20/2018 - 16:26:18: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "2")
+L 10/20/2018 - 16:26:18: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:26:18: Team "TERRORIST" scored "2" with "5" players
+L 10/20/2018 - 16:26:18: World triggered "Round_End"
+L 10/20/2018 - 16:26:28: Starting Freeze period
+L 10/20/2018 - 16:26:28: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:26:28: "Ron<88><BOT><CT>" purchased "p90"
+L 10/20/2018 - 16:26:28: "Paul<94><BOT><TERRORIST>" purchased "p90"
+L 10/20/2018 - 16:26:28: "Orin<89><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:26:28: "Orin<89><BOT><TERRORIST>" purchased "flashbang"
+L 10/20/2018 - 16:26:28: "Brandon<91><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:26:28: "Brandon<91><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:26:28: "Bill<93><BOT><CT>" purchased "xm1014"
+L 10/20/2018 - 16:26:28: "Grant<95><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:26:28: "Pat<90><BOT><CT>" purchased "xm1014"
+L 10/20/2018 - 16:26:28: "Pat<90><BOT><CT>" purchased "deagle"
+L 10/20/2018 - 16:26:28: "Scott<92><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:26:28: "Martin<96><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:26:33: World triggered "Round_Start"
+L 10/20/2018 - 16:26:35: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:26:35: "Grant<95><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:26:46: "Orin<89><BOT><TERRORIST>" threw flashbang [179 -1293 -404] flashbang entindex 411)
+L 10/20/2018 - 16:26:46: "Orin<89><BOT><TERRORIST>" blinded for 4.83 by "Orin<89><BOT><TERRORIST>" from flashbang entindex 411 
+L 10/20/2018 - 16:26:46: "Paul<94><BOT><TERRORIST>" blinded for 2.10 by "Orin<89><BOT><TERRORIST>" from flashbang entindex 411 
+L 10/20/2018 - 16:26:47: "Scott<92><BOT><CT>" [122 -56 -416] killed "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [200 -386 -352] with "famas"
+L 10/20/2018 - 16:26:47: "Ron<88><BOT><CT>" assisted killing "Robeast<87><STEAM_1:0:80780068><TERRORIST>"
+L 10/20/2018 - 16:26:49: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:26:51: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:26:51: "Scott<92><BOT><CT>" [-64 -497 -416] killed "Paul<94><BOT><TERRORIST>" [-125 -903 -352] with "famas"
+L 10/20/2018 - 16:26:53: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [311 -1106 -392] killed "Martin<96><BOT><CT>" [-143 -751 -352] with "sg556" (headshot)
+L 10/20/2018 - 16:26:54: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [316 -1099 -392] killed "Bill<93><BOT><CT>" [-95 -784 -352] with "sg556" (headshot)
+L 10/20/2018 - 16:26:54: "Pat<90><BOT><CT>" [-135 -746 -416] killed "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [317 -1098 -328] with "xm1014"
+L 10/20/2018 - 16:26:54: "Ron<88><BOT><CT>" assisted killing "Robeast<87><STEAM_1:0:80780068><TERRORIST>"
+L 10/20/2018 - 16:26:57: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [-223 -1318 -416] killed "Ron<88><BOT><CT>" [217 -854 -333] with "sg556"
+L 10/20/2018 - 16:26:57: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [-217 -1323 -416] killed "Pat<90><BOT><CT>" [60 -923 -352] with "sg556" (headshot)
+L 10/20/2018 - 16:26:58: "Scott<92><BOT><CT>" [-475 -1040 -416] killed "Brandon<91><BOT><TERRORIST>" [-449 -729 -352] with "famas"
+L 10/20/2018 - 16:27:00: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [-88 -1300 -416] killed "Scott<92><BOT><CT>" [-52 -1040 -352] with "sg556"
+L 10/20/2018 - 16:27:00: "Brandon<91><BOT><TERRORIST>" assisted killing "Scott<92><BOT><CT>"
+L 10/20/2018 - 16:27:00: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "3")
+L 10/20/2018 - 16:27:00: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:27:00: Team "TERRORIST" scored "3" with "5" players
+L 10/20/2018 - 16:27:00: World triggered "Round_End"
+L 10/20/2018 - 16:27:10: Starting Freeze period
+L 10/20/2018 - 16:27:11: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:27:11: "Pat<90><BOT><CT>" purchased "aug"
+L 10/20/2018 - 16:27:11: "Pat<90><BOT><CT>" purchased "deagle"
+L 10/20/2018 - 16:27:11: "Scott<92><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:27:11: "Orin<89><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:27:11: "Brandon<91><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:27:11: "Grant<95><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:27:11: "Bill<93><BOT><CT>" purchased "negev"
+L 10/20/2018 - 16:27:11: "Ron<88><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:27:11: "Martin<96><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:27:11: "Martin<96><BOT><CT>" purchased "smokegrenade"
+L 10/20/2018 - 16:27:11: "Paul<94><BOT><TERRORIST>" purchased "ssg08"
+L 10/20/2018 - 16:27:14: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:27:15: World triggered "Round_Start"
+L 10/20/2018 - 16:27:16: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:27:18: "Brandon<91><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:27:31: STEAMAUTH: Client Robeast received failure code 1
+L 10/20/2018 - 16:27:32: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [105 112 -416] killed "Ron<88><BOT><CT>" [865 39 -352] with "ak47" (headshot)
+L 10/20/2018 - 16:27:32: "Pat<90><BOT><CT>" [946 -2027 -416] killed "Grant<95><BOT><TERRORIST>" [55 -2141 -352] with "aug"
+L 10/20/2018 - 16:27:37: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [129 3 -416] killed "Bill<93><BOT><CT>" [717 239 -351] with "ak47"
+L 10/20/2018 - 16:27:38: "Martin<96><BOT><CT>" threw smokegrenade [725 -2062 -414]
+L 10/20/2018 - 16:27:40: "Scott<92><BOT><CT>" [790 116 -415] killed "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [198 58 -352] with "m4a1"
+L 10/20/2018 - 16:27:43: "Orin<89><BOT><TERRORIST>" [935 -1979 -416] killed "Martin<96><BOT><CT>" [1090 -1913 -352] with "ak47"
+L 10/20/2018 - 16:27:43: "Brandon<91><BOT><TERRORIST>" assisted killing "Martin<96><BOT><CT>"
+L 10/20/2018 - 16:27:46: "Pat<90><BOT><CT>" [512 -1623 -416] killed "Orin<89><BOT><TERRORIST>" [1212 -1765 -351] with "aug"
+L 10/20/2018 - 16:27:52: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1019 -1715 -416] killed "Pat<90><BOT><CT>" [517 -1623 -352] with "ssg08"
+L 10/20/2018 - 16:27:54: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1073 -1728 -416] killed "Scott<92><BOT><CT>" [1447 -842 -352] with "ssg08"
+L 10/20/2018 - 16:27:54: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "4")
+L 10/20/2018 - 16:27:54: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:27:54: Team "TERRORIST" scored "4" with "5" players
+L 10/20/2018 - 16:27:54: World triggered "Round_End"
+L 10/20/2018 - 16:28:04: Starting Freeze period
+L 10/20/2018 - 16:28:04: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:28:04: "Orin<89><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:28:04: "Orin<89><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:28:04: "Brandon<91><BOT><TERRORIST>" purchased "xm1014"
+L 10/20/2018 - 16:28:04: "Brandon<91><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:28:04: "Bill<93><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:28:04: "Pat<90><BOT><CT>" purchased "p90"
+L 10/20/2018 - 16:28:04: "Pat<90><BOT><CT>" purchased "hegrenade"
+L 10/20/2018 - 16:28:04: "Paul<94><BOT><TERRORIST>" purchased "awp"
+L 10/20/2018 - 16:28:04: "Grant<95><BOT><TERRORIST>" purchased "xm1014"
+L 10/20/2018 - 16:28:04: "Grant<95><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:28:04: "Ron<88><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:28:04: "Ron<88><BOT><CT>" purchased "decoy"
+L 10/20/2018 - 16:28:04: "Martin<96><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:28:04: "Martin<96><BOT><CT>" purchased "p250"
+L 10/20/2018 - 16:28:04: "Scott<92><BOT><CT>" purchased "ssg08"
+L 10/20/2018 - 16:28:07: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:28:09: World triggered "Round_Start"
+L 10/20/2018 - 16:28:11: "Brandon<91><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:28:22: "Pat<90><BOT><CT>" threw hegrenade [728 -1553 -407]
+L 10/20/2018 - 16:28:32: "Brandon<91><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/20/2018 - 16:28:33: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1156 -779 -382] killed "Bill<93><BOT><CT>" [1257 -1929 -352] with "m4a1" (headshot)
+L 10/20/2018 - 16:28:34: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1156 -779 -382] killed "Ron<88><BOT><CT>" [1238 -1911 -352] with "m4a1"
+L 10/20/2018 - 16:28:36: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1153 -759 -416] killed "Scott<92><BOT><CT>" [1267 -1850 -352] with "glock" (headshot)
+L 10/20/2018 - 16:28:38: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1152 -760 -416] killed "Martin<96><BOT><CT>" [1189 -1877 -352] with "glock" (headshot)
+L 10/20/2018 - 16:28:38: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1137 -761 -416] killed "Pat<90><BOT><CT>" [1340 -2052 -352] with "glock"
+L 10/20/2018 - 16:28:38: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "5")
+L 10/20/2018 - 16:28:38: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:28:38: Team "TERRORIST" scored "5" with "5" players
+L 10/20/2018 - 16:28:38: World triggered "Round_End"
+L 10/20/2018 - 16:28:38: "Ron<88><BOT><CT>" threw decoy [715 -2082 -414]
+L 10/20/2018 - 16:28:48: Starting Freeze period
+L 10/20/2018 - 16:28:48: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:28:49: "Scott<92><BOT><CT>" purchased "m4a1"
+L 10/20/2018 - 16:28:49: "Paul<94><BOT><TERRORIST>" purchased "sg556"
+L 10/20/2018 - 16:28:49: "Paul<94><BOT><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 16:28:49: "Orin<89><BOT><TERRORIST>" purchased "hegrenade"
+L 10/20/2018 - 16:28:49: "Brandon<91><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:28:49: "Bill<93><BOT><CT>" purchased "xm1014"
+L 10/20/2018 - 16:28:49: "Grant<95><BOT><TERRORIST>" purchased "ak47"
+L 10/20/2018 - 16:28:49: "Ron<88><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:28:49: "Pat<90><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:28:49: "Pat<90><BOT><CT>" purchased "flashbang"
+L 10/20/2018 - 16:28:49: "Martin<96><BOT><CT>" purchased "famas"
+L 10/20/2018 - 16:28:53: World triggered "Round_Start"
+L 10/20/2018 - 16:28:55: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 16:28:55: "Paul<94><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 16:29:14: "Paul<94><BOT><TERRORIST>" [1001 -1737 -416] killed "Bill<93><BOT><CT>" [1545 -2010 -352] with "sg556"
+L 10/20/2018 - 16:29:17: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [196 -184 -416] killed "Martin<96><BOT><CT>" [384 339 -353] with "awp"
+L 10/20/2018 - 16:29:20: "Orin<89><BOT><TERRORIST>" [1037 -2003 -416] killed "Ron<88><BOT><CT>" [1100 -914 -344] with "ak47"
+L 10/20/2018 - 16:29:24: "Pat<90><BOT><CT>" threw flashbang [721 46 -414] flashbang entindex 409)
+L 10/20/2018 - 16:29:24: "Pat<90><BOT><CT>" blinded for 4.47 by "Pat<90><BOT><CT>" from flashbang entindex 409 
+L 10/20/2018 - 16:29:24: "Martin<96><BOT><CT>" blinded for 2.72 by "Pat<90><BOT><CT>" from flashbang entindex 409 
+L 10/20/2018 - 16:29:25: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" [1113 -211 -416] killed "Scott<92><BOT><CT>" [1155 -295 -352] with "awp"
+L 10/20/2018 - 16:29:27: "Paul<94><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 10/20/2018 - 16:29:43: "Pat<90><BOT><CT>" [-78 -535 -416] killed "Grant<95><BOT><TERRORIST>" [-104 -828 -352] with "famas"
+L 10/20/2018 - 16:29:49: "Orin<89><BOT><TERRORIST>" [70 -972 -416] killed "Pat<90><BOT><CT>" [-137 -976 -352] with "ak47"
+L 10/20/2018 - 16:29:49: "Grant<95><BOT><TERRORIST>" assisted killing "Pat<90><BOT><CT>"
+L 10/20/2018 - 16:29:49: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "6")
+L 10/20/2018 - 16:29:49: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 16:29:49: Team "TERRORIST" scored "6" with "5" players
+L 10/20/2018 - 16:29:49: World triggered "Round_End"
+L 10/20/2018 - 16:29:56: "Robeast<87><STEAM_1:0:80780068><TERRORIST>" disconnected (reason "Disconnect")
+L 10/20/2018 - 16:29:56: "Robeast<87><STEAM_1:0:80780068>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Ron<88><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Ron<88><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Grant<95><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Grant<95><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Pat<90><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Pat<90><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Orin<89><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Orin<89><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Scott<92><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Scott<92><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Brandon<91><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Brandon<91><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Bill<93><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Bill<93><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Paul<94><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Paul<94><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 16:29:56: "Martin<96><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 16:29:56: "Martin<96><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 16:29:59: Starting Freeze period
+L 10/20/2018 - 16:30:04: World triggered "Round_Start"
+L 10/20/2018 - 19:13:39: "SonOfBULITS<97><STEAM_1:1:124138375><>" connected, address "172.30.40.241:27005"
+L 10/20/2018 - 19:13:40: "SonOfBULITS<97><STEAM_1:1:124138375><>" STEAM USERID validated
+L 10/20/2018 - 19:14:01: "SonOfBULITS<97><STEAM_1:1:124138375><>" entered the game
+L 10/20/2018 - 19:14:12: "SonOfBULITS<97><STEAM_1:1:124138375>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 19:14:12: World triggered "Game_Commencing"
+L 10/20/2018 - 19:14:12: "Dean<98><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Dean<98><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 19:14:12: "Dean<98><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Jerry<99><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Jerry<99><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 19:14:12: "Jerry<99><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Chris<100><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Chris<100><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 19:14:12: "Chris<100><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Martin<101><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Martin<101><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 19:14:12: "Martin<101><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Mark<102><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Mark<102><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 19:14:12: "Mark<102><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Nate<103><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Nate<103><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 19:14:12: "Nate<103><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Tom<104><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Tom<104><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 19:14:12: "Tom<104><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Nick<105><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Nick<105><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 19:14:12: "Nick<105><BOT><>" entered the game
+L 10/20/2018 - 19:14:12: "Grant<106><BOT><>" connected, address "none"
+L 10/20/2018 - 19:14:12: "Grant<106><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 19:14:12: "Grant<106><BOT><>" entered the game
+L 10/20/2018 - 19:14:13: Starting Freeze period
+L 10/20/2018 - 19:14:13: World triggered "Match_Start" on "de_nuke"
+L 10/20/2018 - 19:14:13: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 19:14:18: World triggered "Round_Start"
+L 10/20/2018 - 19:14:33: "Grant<106><BOT><TERRORIST>" [318 -1982 -416] killed "Nate<103><BOT><CT>" [865 -1863 -344] with "glock"
+L 10/20/2018 - 19:14:36: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" [869 -1894 -408] killed "Martin<101><BOT><CT>" [874 -1843 -344] with "knife_gut"
+L 10/20/2018 - 19:14:39: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" [938 -1732 -416] killed "Nick<105><BOT><CT>" [922 -1767 -352] with "knife_gut"
+L 10/20/2018 - 19:14:45: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" [924 -1075 -415] killed "Jerry<99><BOT><CT>" [960 -1105 -351] with "knife_gut"
+L 10/20/2018 - 19:14:45: "Tom<104><BOT><TERRORIST>" assisted killing "Jerry<99><BOT><CT>"
+L 10/20/2018 - 19:14:54: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" [1469 -701 -384] killed "Dean<98><BOT><CT>" [1451 -669 -352] with "knife_gut"
+L 10/20/2018 - 19:14:54: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "1")
+L 10/20/2018 - 19:14:54: Team "CT" scored "0" with "5" players
+L 10/20/2018 - 19:14:54: Team "TERRORIST" scored "1" with "5" players
+L 10/20/2018 - 19:14:54: World triggered "Round_End"
+L 10/20/2018 - 19:14:58: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" disconnected (reason "Disconnect")
+L 10/20/2018 - 19:14:58: "SonOfBULITS<97><STEAM_1:1:124138375><TERRORIST>" triggered "Dropped_The_Bomb"
+L 10/20/2018 - 19:14:58: "SonOfBULITS<97><STEAM_1:1:124138375>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Dean<98><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Dean<98><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Chris<100><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Chris<100><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Jerry<99><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Jerry<99><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Mark<102><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Mark<102><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Martin<101><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Martin<101><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Tom<104><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Tom<104><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Nate<103><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Nate<103><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Grant<106><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Grant<106><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 10/20/2018 - 19:14:58: "Nick<105><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/20/2018 - 19:14:58: "Nick<105><BOT>" switched from team <CT> to <Unassigned>
+L 10/20/2018 - 19:15:04: Starting Freeze period
+L 10/20/2018 - 19:15:09: World triggered "Round_Start"
+L 10/20/2018 - 20:27:03: "ZaGen<107><STEAM_1:0:224444651><>" connected, address "172.30.41.77:27005"
+L 10/20/2018 - 20:27:04: "ZaGen<107><STEAM_1:0:224444651><>" STEAM USERID validated
+L 10/20/2018 - 20:27:27: "ZaGen<107><STEAM_1:0:224444651><>" entered the game
+L 10/20/2018 - 20:27:34: "ZaGen<107><STEAM_1:0:224444651>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 20:27:34: World triggered "Game_Commencing"
+L 10/20/2018 - 20:27:34: "Alfred<108><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Alfred<108><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 20:27:34: "Alfred<108><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Matt<109><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Matt<109><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 20:27:34: "Matt<109><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Mark<110><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Mark<110><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 20:27:34: "Mark<110><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Jenssen<111><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Jenssen<111><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 20:27:34: "Jenssen<111><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Ron<112><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Ron<112><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 20:27:34: "Ron<112><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Jason<113><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Jason<113><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 20:27:34: "Jason<113><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Jon<114><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Jon<114><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 20:27:34: "Jon<114><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Wyatt<115><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Wyatt<115><BOT>" switched from team <Unassigned> to <CT>
+L 10/20/2018 - 20:27:34: "Wyatt<115><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: "Jerry<116><BOT><>" connected, address "none"
+L 10/20/2018 - 20:27:34: "Jerry<116><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 10/20/2018 - 20:27:34: "Jerry<116><BOT><>" entered the game
+L 10/20/2018 - 20:27:34: Starting Freeze period
+L 10/20/2018 - 20:27:34: World triggered "Match_Start" on "de_nuke"
+L 10/20/2018 - 20:27:34: "ZaGen<107><STEAM_1:0:224444651><TERRORIST>" triggered "Got_The_Bomb"
+L 10/20/2018 - 20:27:39: "ZaGen<107><STEAM_1:0:224444651><TERRORIST>" purchased "deagle"
+L 10/20/2018 - 20:27:39: World triggered "Round_Start"
+L 10/20/2018 - 20:27:46: "ZaGen<107><STEAM_1:0:224444651><TERRORIST>" purchased "flashbang"
+L 10/20/2018 - 20:27:52: "ZaGen<107><STEAM_1:0:224444651><TERRORIST>" threw flashbang [550 -1867 147] flashbang entindex 413)
+L 10/20/2018 - 20:27:52: "Mark<110><BOT><TERRORIST>" blinded for 2.95 by "ZaGen<107><STEAM_1:0:22444465
