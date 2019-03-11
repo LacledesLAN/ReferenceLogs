@@ -1,0 +1,5 @@
+L 03/09/2019 - 19:50:19: SourceMod log file session started (file "/app/csgo/addons/sourcemod/logs/L20190309.log") (Version "1.10.0.6363")
+L 03/09/2019 - 19:50:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/09/2019 - 19:50:24: [warmod.smx] Current Map: de_train, Warmod Version: 17.08.12.1053
+L 03/09/2019 - 19:50:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 03/09/2019 - 20:05:41: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")

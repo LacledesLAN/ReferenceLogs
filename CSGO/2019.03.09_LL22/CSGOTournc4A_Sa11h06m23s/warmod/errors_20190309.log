@@ -1,0 +1,5 @@
+L 03/09/2019 - 17:06:41: SourceMod error session started
+L 03/09/2019 - 17:06:41: Info (map "de_cache") (file "/app/csgo/addons/sourcemod/logs/errors_20190309.log")
+L 03/09/2019 - 17:06:41: [CRASH] WARNING: Sigscan for GetSpew failed, console output will not be included in crash reports.
+L 03/09/2019 - 17:06:46: [warmod.smx] [SM] Unable to read directory: 'resource/flash/econ/tournaments/teams'
+L 03/09/2019 - 17:51:28: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos

@@ -1,0 +1,17 @@
+
+16:56:35 - ===== Map change to de_mirage =====
+
+17:03:56 - <WillSixtySix @ Lan> <STEAM_1:1:54855314> <172.30.40.238> CONNECTED from <Unknown>
+17:04:06 - <jordi> <STEAM_1:0:50992280> <172.30.41.48> CONNECTED from <Unknown>
+17:04:11 - <AdyTheGREATEr#ez4ence> <STEAM_1:1:86108244> <172.30.42.114> CONNECTED from <Unknown>
+17:04:21 - <-niSa> <STEAM_1:1:103237604> <172.30.42.129> CONNECTED from <Unknown>
+17:05:05 - <blinK @ LAN> <STEAM_1:1:33626697> <172.30.41.29> CONNECTED from <Unknown>
+17:05:09 - <Jelly> <STEAM_1:0:215487283> <172.30.41.92> CONNECTED from <Unknown>
+17:05:16 - <sunnyBiceps> <STEAM_1:1:52074304> <172.30.41.85> CONNECTED from <Unknown>
+17:06:04 - <sunnyBiceps> <STEAM_1:1:52074304> <172.30.41.85> DISCONNECTED after 1 minutes. <Disconnect>
+17:06:45 - <Honor> <STEAM_1:0:40867433> <172.30.41.78> CONNECTED from <Unknown>
+17:06:49 - <sunnyBiceps> <STEAM_1:1:52074304> <172.30.41.85> CONNECTED from <Unknown>
+17:09:33 - <Ady> <STEAM_1:1:15473605> <172.30.41.124> CONNECTED from <Unknown>
+17:09:53 - <hyert @lanfest> <STEAM_1:1:66707873> <172.30.41.54> CONNECTED from <Unknown>
+17:15:58 - <Jelly @ LAN> <STEAM_1:0:215487283> <172.30.41.92> DISCONNECTED after 11 minutes. <Disconnect>
+17:16:03 - <Jelly @ LAN> <STEAM_1:0:215487283> <172.30.41.92> CONNECTED from <Unknown>

@@ -178,16 +178,16 @@ L 01/27/2019 - 01:09:44: Team playing "TERRORIST": T-LODDY-2
 L 01/27/2019 - 01:09:46: World triggered "Round_Start"
 L 01/27/2019 - 01:10:14: "[LL] Loddy<3><STEAM_1:0:4665189><>" connected, address ""
 L 01/27/2019 - 01:10:15: "[LL] Loddy<3><STEAM_1:0:4665189><>" STEAM USERID validated
-L 01/27/2019 - 01:10:18: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "FUCK YOU ALL"
+L 01/27/2019 - 01:10:18: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "SCREW YOU GUYS IM GOING HOME"
 L 01/27/2019 - 01:10:28: "[LL] Loddy<3><STEAM_1:0:4665189><>" entered the game
 L 01/27/2019 - 01:10:28: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
-L 01/27/2019 - 01:10:28: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say_team "fuck you all"
+L 01/27/2019 - 01:10:28: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say_team "screw you all i'm going home"
 L 01/27/2019 - 01:10:31: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
 L 01/27/2019 - 01:10:37: "[LL] Loddy<3><STEAM_1:0:4665189>" switched from team <Unassigned> to <TERRORIST>
 L 01/27/2019 - 01:10:37: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" picked up "knife"
 L 01/27/2019 - 01:10:37: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" picked up "glock"
 L 01/27/2019 - 01:10:49: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
-L 01/27/2019 - 01:10:52: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES A NUT IN HIS BOOTIE BUTT"
+L 01/27/2019 - 01:10:52: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES TURTLE SHELLS"
 L 01/27/2019 - 01:10:53: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
 L 01/27/2019 - 01:12:34: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1155 -341 -128] attacked "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" [1146 -449 -167] with "glock" (damage "21") (damage_armor "0") (health "79") (armor "0") (hitgroup "right leg")
 L 01/27/2019 - 01:12:34: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [1155 -341 -128] attacked "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" [1146 -448 -136] with "glock" (damage "21") (damage_armor "0") (health "58") (armor "0") (hitgroup "right leg")
@@ -225,7 +225,7 @@ L 01/27/2019 - 01:13:59: Team playing "TERRORIST": T-LODDY-2
 L 01/27/2019 - 01:13:59: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" picked up "c4"
 L 01/27/2019 - 01:13:59: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Got_The_Bomb"
 L 01/27/2019 - 01:13:59: rcon from "172.30.1.65:58729": command "mp_warmup_end"
-L 01/27/2019 - 01:14:08: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES A MOLLY IN HIS PENAL COLONY"
+L 01/27/2019 - 01:14:08: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES MIRRORS MORE THAN TELEVISION"
 L 01/27/2019 - 01:14:14: World triggered "Round_Start"
 L 01/27/2019 - 01:14:15: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_c4 C4 ]
 L 01/27/2019 - 01:14:17: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
@@ -248,7 +248,7 @@ L 01/27/2019 - 01:15:05: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" pick
 L 01/27/2019 - 01:15:05: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" picked up "hkp2000"
 L 01/27/2019 - 01:15:05: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" picked up "c4"
 L 01/27/2019 - 01:15:05: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" triggered "Got_The_Bomb"
-L 01/27/2019 - 01:15:11: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "TONY FUCKED IT UP"
+L 01/27/2019 - 01:15:11: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "TONY SCREWED IT UP"
 L 01/27/2019 - 01:15:20: World triggered "Round_Start"
 L 01/27/2019 - 01:15:23: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_c4 C4 ]
 L 01/27/2019 - 01:15:26: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "ct elims t withut bomb"
@@ -356,7 +356,7 @@ L 01/27/2019 - 01:18:05: World triggered "Round_Start"
 L 01/27/2019 - 01:18:10: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say "CT WIN BY TIME OUT"
 L 01/27/2019 - 01:18:15: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_xm1014 defuser ]
 L 01/27/2019 - 01:18:27: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_c4 C4 ]
-L 01/27/2019 - 01:18:58: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN'S MOUTH IS A CREAMSPOUT"
+L 01/27/2019 - 01:18:58: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN'S MOUTH OPENS TOO FAR"
 L 01/27/2019 - 01:19:09: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" [1057 -493 -598] killed other "func_breakable<188>" [1040 -464 -560] with "xm1014"
 L 01/27/2019 - 01:19:44: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" [977 -558 -640] killed other "func_breakable<187>" [1040 -560 -560] with "xm1014"
 L 01/27/2019 - 01:19:47: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_c4 C4 ]
@@ -372,7 +372,7 @@ L 01/27/2019 - 01:20:10: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" say 
 L 01/27/2019 - 01:20:10: World triggered "Round_Start"
 L 01/27/2019 - 01:20:11: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_c4 C4 ]
 L 01/27/2019 - 01:20:15: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" left buyzone with [ weapon_knife weapon_hkp2000 weapon_xm1014 defuser ]
-L 01/27/2019 - 01:20:32: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES DRINKING PEE PEE"
+L 01/27/2019 - 01:20:32: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" say "BEAN LIKES DRINKING CHEAP SODA"
 L 01/27/2019 - 01:20:36: "[LL] Loddy<3><STEAM_1:0:4665189><TERRORIST>" [679 -1056 -416] attacked "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" [679 -1101 -416] with "knife" (damage "180") (damage_armor "0") (health "0") (armor "0") (hitgroup "generic")
 L 01/27/2019 - 01:20:36: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" dropped "defuser"
 L 01/27/2019 - 01:20:36: "BEan | Lacledeslan.com<2><STEAM_1:0:3804719><CT>" dropped "xm1014"
