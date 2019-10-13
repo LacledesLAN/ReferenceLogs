@@ -1,0 +1,495 @@
+L 10/13/2019 - 15:04:43: Log file started (file "logs/L1013004.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 15:04:43: server_cvar: "mp_timelimit" "15"
+L 10/13/2019 - 15:04:50: "CrazyEnzo03<30><[U:1:59983226]><>" entered the game
+L 10/13/2019 - 15:04:52: "Makers<28><[U:1:22699679]><>" entered the game
+L 10/13/2019 - 15:04:55: "CE | LV40RAICHU<27><[U:1:19841996]><>" entered the game
+L 10/13/2019 - 15:04:56: "Darth Meerkat<23><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 15:04:57: "Lomax<25><[U:1:1831779]><>" entered the game
+L 10/13/2019 - 15:04:57: "BEan | Lacledeslan.com<29><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 15:04:58: "Snek<17><[U:1:122465451]><>" entered the game
+L 10/13/2019 - 15:04:58: "Sarc<26><[U:1:8355163]><>" entered the game
+L 10/13/2019 - 15:04:58: "[LL] allhawkeye85<13><[U:1:28500804]><>" entered the game
+L 10/13/2019 - 15:04:59: "Sonic_Soldier420<15><[U:1:24174610]><>" entered the game
+L 10/13/2019 - 15:04:59: "FRAG DRAKE<24><[U:1:240994645]><>" entered the game
+L 10/13/2019 - 15:04:59: "WARBIRD199<22><[U:1:63881333]><>" entered the game
+L 10/13/2019 - 15:05:01: "bearbear<31><[U:1:95728106]><>" connected, address "172.30.43.128:27005"
+L 10/13/2019 - 15:05:01: "bearbear<31><[U:1:95728106]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:05:01: "bearbear<32><[U:1:95728106]><>" connected, address "172.30.43.128:27005"
+L 10/13/2019 - 15:05:01: "bearbear<32><[U:1:95728106]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:05:01: "bearbear<33><[U:1:95728106]><>" connected, address "172.30.43.128:27005"
+L 10/13/2019 - 15:05:01: "bearbear<33><[U:1:95728106]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:05:01: "bearbear<34><[U:1:95728106]><>" connected, address "172.30.43.128:27005"
+L 10/13/2019 - 15:05:01: "bearbear<34><[U:1:95728106]><>" STEAM USERID validated
+L 10/13/2019 - 15:05:04: "Panda<35><[U:1:112376827]><>" connected, address "172.30.42.225:27005"
+L 10/13/2019 - 15:05:04: "Panda<35><[U:1:112376827]><>" STEAM USERID validated
+L 10/13/2019 - 15:05:06: "FRAG DRAKE<24><[U:1:240994645]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:05:06: "Snek<17><[U:1:122465451]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:07: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "spy"
+L 10/13/2019 - 15:05:07: "Makers<28><[U:1:22699679]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:05:08: "Snek<17><[U:1:122465451]><Red>" changed role to "scout"
+L 10/13/2019 - 15:05:09: "Makers<28><[U:1:22699679]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:05:10: "CrazyEnzo03<30><[U:1:59983226]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:11: "Sonic_Soldier420<15><[U:1:24174610]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:13: "Sarc<26><[U:1:8355163]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:05:13: "Sonic_Soldier420<15><[U:1:24174610]><Red>" changed role to "pyro"
+L 10/13/2019 - 15:05:13: "BEan | Lacledeslan.com<29><[U:1:7609438]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:05:14: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:05:15: "CrazyEnzo03<30><[U:1:59983226]><Red>" changed role to "scout"
+L 10/13/2019 - 15:05:17: "Sarc<26><[U:1:8355163]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:05:18: "bearbear<34><[U:1:95728106]><>" entered the game
+L 10/13/2019 - 15:05:18: "Lomax<25><[U:1:1831779]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:22: "Darth Meerkat<23><[U:1:121426737]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:24: "Lomax<25><[U:1:1831779]><Red>" changed role to "engineer"
+L 10/13/2019 - 15:05:25: "bearbear<34><[U:1:95728106]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:05:28: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "scout"
+L 10/13/2019 - 15:05:29: "bearbear<34><[U:1:95728106]><Blue>" changed role to "soldier"
+L 10/13/2019 - 15:05:37: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "force_a_nature" (attacker_position "800 916 0") (victim_position "-25 527 199")
+L 10/13/2019 - 15:05:37: World triggered "Round_Start"
+L 10/13/2019 - 15:05:46: "CE | LV40RAICHU<27><[U:1:19841996]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 15:05:46: "WARBIRD199<22><[U:1:63881333]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:05:48: "Panda<35><[U:1:112376827]><>" entered the game
+L 10/13/2019 - 15:05:49: "WARBIRD199<22><[U:1:63881333]><Red>" changed role to "pyro"
+L 10/13/2019 - 15:05:50: "CE | LV40RAICHU<36><[U:1:19841996]><>" connected, address "172.30.43.162:27005"
+L 10/13/2019 - 15:05:50: "CE | LV40RAICHU<36><[U:1:19841996]><>" STEAM USERID validated
+L 10/13/2019 - 15:05:55: "CE | LV40RAICHU<36><[U:1:19841996]><>" entered the game
+L 10/13/2019 - 15:06:01: "CE | LV40RAICHU<36><[U:1:19841996]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:06:01: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" changed role to "demoman"
+L 10/13/2019 - 15:06:04: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" changed role to "medic"
+L 10/13/2019 - 15:06:04: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "flamethrower" (attacker_position "-490 418 -57") (victim_position "-761 574 -24")
+L 10/13/2019 - 15:06:04: "Snek<17><[U:1:122465451]><Red>" triggered "kill assist" against "Makers<28><[U:1:22699679]><Blue>" (assister_position "-984 -1145 -255") (attacker_position "-490 418 -57") (victim_position "-761 574 -24")
+L 10/13/2019 - 15:06:08: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "knife" (customkill "backstab") (attacker_position "-503 464 -45") (victim_position "-488 551 -24")
+L 10/13/2019 - 15:06:08: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-527 164 -142") (attacker_position "-503 464 -45") (victim_position "-488 551 -24")
+L 10/13/2019 - 15:06:10: "[LL] allhawkeye85<13><[U:1:28500804]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:06:11: "Sarc<26><[U:1:8355163]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "flamethrower" (attacker_position "-266 926 32") (victim_position "-131 763 75")
+L 10/13/2019 - 15:06:11: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "kill assist" against "CrazyEnzo03<30><[U:1:59983226]><Red>" (assister_position "-286 767 30") (attacker_position "-266 926 32") (victim_position "-131 763 75")
+L 10/13/2019 - 15:06:11: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "player_extinguished" against "Sarc<26><[U:1:8355163]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-317 867 22") (victim_position "-306 1017 26")
+L 10/13/2019 - 15:06:12: "WARBIRD199<22><[U:1:63881333]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "backburner" (attacker_position "-294 882 28") (victim_position "-326 930 20")
+L 10/13/2019 - 15:06:12: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "-369 882 9") (attacker_position "-294 882 28") (victim_position "-326 930 20")
+L 10/13/2019 - 15:06:13: "Sarc<26><[U:1:8355163]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "flamethrower" (attacker_position "-352 1008 24") (victim_position "-343 910 16")
+L 10/13/2019 - 15:06:13: "WARBIRD199<22><[U:1:63881333]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "backburner" (attacker_position "-247 973 29") (victim_position "-353 1009 24")
+L 10/13/2019 - 15:06:14: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "knife" (attacker_position "-164 880 32") (victim_position "-189 940 32")
+L 10/13/2019 - 15:06:14: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-353 1009 38") (attacker_position "-164 880 32") (victim_position "-189 940 32")
+L 10/13/2019 - 15:06:15: "Lomax<25><[U:1:1831779]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-864 -640 32")
+L 10/13/2019 - 15:06:18: "Snek<17><[U:1:122465451]><Red>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "-177 465 192")
+L 10/13/2019 - 15:06:18: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "pep_pistol" (attacker_position "-177 465 192") (victim_position "41 415 199")
+L 10/13/2019 - 15:06:18: "WARBIRD199<22><[U:1:63881333]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "-195 928 46") (attacker_position "-177 465 192") (victim_position "41 415 199")
+L 10/13/2019 - 15:06:18: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "syringegun_medic") (objectowner "Lomax<25><[U:1:1831779]><Red>") (attacker_position "-1308 -774 32")
+L 10/13/2019 - 15:06:21: "bearbear<34><[U:1:95728106]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "tf_projectile_rocket" (attacker_position "-1387 -987 32") (victim_position "-1036 -670 32")
+L 10/13/2019 - 15:06:21: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "-1174 -623 32") (attacker_position "-1387 -987 32") (victim_position "-1036 -670 32")
+L 10/13/2019 - 15:06:21: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:06:26: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "demoman"
+L 10/13/2019 - 15:06:34: "bearbear<34><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "-294 303 292")
+L 10/13/2019 - 15:06:35: "bearbear<34><[U:1:95728106]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "tf_projectile_rocket" (attacker_position "-51 487 199") (victim_position "18 534 199")
+L 10/13/2019 - 15:06:37: "Panda<35><[U:1:112376827]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:06:39: "Panda<35><[U:1:112376827]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:06:42: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "-167 492 192")
+L 10/13/2019 - 15:06:45: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "world" (attacker_position "-664 577 -27") (victim_position "-157 1396 -373")
+L 10/13/2019 - 15:06:47: "Sarc<26><[U:1:8355163]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "flamethrower" (attacker_position "-43 518 199") (victim_position "-64 803 172")
+L 10/13/2019 - 15:06:47: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "-416 740 6") (attacker_position "-43 518 199") (victim_position "-64 803 172")
+L 10/13/2019 - 15:06:47: "Makers<28><[U:1:22699679]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:06:50: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "flamethrower" (attacker_position "-506 659 -7") (victim_position "-419 687 2")
+L 10/13/2019 - 15:06:50: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "-949 796 0") (attacker_position "-506 659 -7") (victim_position "-419 687 2")
+L 10/13/2019 - 15:06:52: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "knife" (attacker_position "-293 946 28") (victim_position "-325 938 20")
+L 10/13/2019 - 15:06:53: "bearbear<34><[U:1:95728106]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "shotgun_soldier" (attacker_position "-219 522 155") (victim_position "-174 749 32")
+L 10/13/2019 - 15:06:53: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-213 336 192") (attacker_position "-219 522 155") (victim_position "-174 749 32")
+L 10/13/2019 - 15:06:54: "Lomax<25><[U:1:1831779]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "66 -159 96")
+L 10/13/2019 - 15:06:58: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "Lomax<25><[U:1:1831779]><Red>") (attacker_position "72 63 217")
+L 10/13/2019 - 15:06:59: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "knife" (customkill "backstab") (attacker_position "300 384 191") (victim_position "275 316 227")
+L 10/13/2019 - 15:07:03: "bearbear<34><[U:1:95728106]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "tf_projectile_rocket" (attacker_position "179 -260 96") (victim_position "-88 -466 96")
+L 10/13/2019 - 15:07:04: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "force_a_nature" (attacker_position "485 462 -45") (victim_position "347 291 -95")
+L 10/13/2019 - 15:07:11: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "ambassador" (attacker_position "44 635 -126") (victim_position "-18 869 -121")
+L 10/13/2019 - 15:07:11: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "-525 835 1") (attacker_position "44 635 -126") (victim_position "-18 869 -121")
+L 10/13/2019 - 15:07:13: "Lomax<25><[U:1:1831779]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:07:14: "Makers<28><[U:1:22699679]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "minigun" (attacker_position "-327 807 20") (victim_position "122 838 32")
+L 10/13/2019 - 15:07:14: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-499 633 -9") (attacker_position "-327 807 20") (victim_position "122 838 32")
+L 10/13/2019 - 15:07:16: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Makers<28><[U:1:22699679]><Blue>" with "tf_weapon_medigun" (attacker_position "-569 744 -2") (victim_position "-225 754 32")
+L 10/13/2019 - 15:07:18: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (customkill "backstab") (attacker_position "129 871 32") (victim_position "105 826 32")
+L 10/13/2019 - 15:07:25: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "flamethrower" (customkill "feign_death") (attacker_position "444 206 -125") (victim_position "569 418 -61")
+L 10/13/2019 - 15:07:25: "bearbear<34><[U:1:95728106]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "269 297 192") (victim_position "477 268 -109")
+L 10/13/2019 - 15:07:25: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "11 543 199") (attacker_position "269 297 192") (victim_position "477 268 -109")
+L 10/13/2019 - 15:07:26: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "4") (player1 "CE | LV40RAICHU<36><[U:1:19841996]><Blue>") (position1 "-38 373 199") (player2 "Makers<28><[U:1:22699679]><Blue>") (position2 "242 297 192") (player3 "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>") (position3 "123 390 192") (player4 "bearbear<34><[U:1:95728106]><Blue>") (position4 "166 367 192") 
+L 10/13/2019 - 15:07:28: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 15:07:31: "Makers<28><[U:1:22699679]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "minigun" (attacker_position "105 325 192") (victim_position "856 701 65")
+L 10/13/2019 - 15:07:31: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Panda<35><[U:1:112376827]><Red>" (assister_position "-146 416 192") (attacker_position "105 325 192") (victim_position "856 701 65")
+L 10/13/2019 - 15:07:46: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "degreaser" (attacker_position "570 401 16") (victim_position "616 505 -29")
+L 10/13/2019 - 15:07:46: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "254 441 192") (attacker_position "570 401 16") (victim_position "616 505 -29")
+L 10/13/2019 - 15:07:51: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "knife" (customkill "backstab") (attacker_position "1103 787 1") (victim_position "1057 849 0")
+L 10/13/2019 - 15:07:51: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "129 419 192") (attacker_position "1103 787 1") (victim_position "1057 849 0")
+L 10/13/2019 - 15:07:58: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "flamethrower" (attacker_position "337 -1250 -255") (victim_position "207 -1278 -255")
+L 10/13/2019 - 15:08:02: "bearbear<34><[U:1:95728106]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "tf_projectile_rocket" (attacker_position "-210 412 192") (victim_position "-356 751 13")
+L 10/13/2019 - 15:08:04: "Snek<17><[U:1:122465451]><Red>" changed role to "spy"
+L 10/13/2019 - 15:08:06: "Snek<17><[U:1:122465451]><Red>" changed role to "sniper"
+L 10/13/2019 - 15:08:07: "bearbear<34><[U:1:95728106]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "tf_projectile_rocket" (attacker_position "203 423 192") (victim_position "806 91 -63")
+L 10/13/2019 - 15:08:21: "Makers<28><[U:1:22699679]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "minigun" (attacker_position "-50 541 199") (victim_position "-565 818 0")
+L 10/13/2019 - 15:08:21: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-661 867 -4") (attacker_position "-50 541 199") (victim_position "-565 818 0")
+L 10/13/2019 - 15:08:26: "Lomax<25><[U:1:1831779]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "tf_projectile_rocket" (attacker_position "930 -663 32") (victim_position "-138 439 192")
+L 10/13/2019 - 15:08:27: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "minigun" (attacker_position "101 -368 96") (victim_position "122 614 192")
+L 10/13/2019 - 15:08:27: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "Makers<28><[U:1:22699679]><Blue>" (assister_position "201 435 192") (attacker_position "101 -368 96") (victim_position "122 614 192")
+L 10/13/2019 - 15:08:30: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "minigun" (attacker_position "101 -219 96") (victim_position "-141 195 222")
+L 10/13/2019 - 15:08:30: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "chargedeployed"
+L 10/13/2019 - 15:08:33: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "awper_hand" (attacker_position "1343 408 0") (victim_position "307 963 25")
+L 10/13/2019 - 15:08:33: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "66 850 32") (attacker_position "1343 408 0") (victim_position "307 963 25")
+L 10/13/2019 - 15:08:34: "CrazyEnzo03<30><[U:1:59983226]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "scattergun" (attacker_position "728 864 -2") (victim_position "516 819 1")
+L 10/13/2019 - 15:08:34: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "195 878 32") (attacker_position "728 864 -2") (victim_position "516 819 1")
+L 10/13/2019 - 15:08:38: "Panda<35><[U:1:112376827]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "2530") (ubercharge "0")
+L 10/13/2019 - 15:08:38: "Panda<35><[U:1:112376827]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "tf_projectile_rocket" (attacker_position "676 804 20") (victim_position "246 696 32")
+L 10/13/2019 - 15:08:38: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (assister_position "124 -80 96") (attacker_position "676 804 20") (victim_position "246 696 32")
+L 10/13/2019 - 15:08:42: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "minigun" (attacker_position "53 372 -119") (victim_position "-52 89 -127")
+L 10/13/2019 - 15:08:50: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "4") (player1 "Snek<17><[U:1:122465451]><Red>") (position1 "34 507 199") (player2 "WARBIRD199<22><[U:1:63881333]><Red>") (position2 "9 478 199") (player3 "CrazyEnzo03<30><[U:1:59983226]><Red>") (position3 "-96 324 192") (player4 "Panda<35><[U:1:112376827]><Red>") (position4 "-43 403 199") 
+L 10/13/2019 - 15:09:04: "Snek<17><[U:1:122465451]><Red>" committed suicide with "world" (attacker_position "-523 1201 -373")
+L 10/13/2019 - 15:09:06: "[LL] Loddy<37><[U:1:9330378]><>" connected, address "172.30.43.23:27005"
+L 10/13/2019 - 15:09:06: "[LL] Loddy<37><[U:1:9330378]><>" STEAM USERID validated
+L 10/13/2019 - 15:09:10: "Makers<28><[U:1:22699679]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "-238 -450 95") (victim_position "126 336 192")
+L 10/13/2019 - 15:09:10: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "-458 -514 32") (attacker_position "-238 -450 95") (victim_position "126 336 192")
+L 10/13/2019 - 15:09:14: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "flaregun" (attacker_position "782 -534 32") (victim_position "1374 -794 32")
+L 10/13/2019 - 15:09:14: "bearbear<34><[U:1:95728106]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "tf_projectile_rocket" (attacker_position "-255 -271 96") (victim_position "62 -134 96")
+L 10/13/2019 - 15:09:14: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "CrazyEnzo03<30><[U:1:59983226]><Red>" (assister_position "-119 -381 96") (attacker_position "-255 -271 96") (victim_position "62 -134 96")
+L 10/13/2019 - 15:09:20: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Makers<28><[U:1:22699679]><Blue>" with "tf_weapon_medigun" (attacker_position "-97 -207 96") (victim_position "65 -105 96")
+L 10/13/2019 - 15:09:25: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "292 234 -109") (victim_position "308 110 -128")
+L 10/13/2019 - 15:09:25: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-392 16 -141") (attacker_position "292 234 -109") (victim_position "308 110 -128")
+L 10/13/2019 - 15:09:25: "bearbear<34><[U:1:95728106]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "world" (attacker_position "-79 873 32") (victim_position "-298 1479 -379")
+L 10/13/2019 - 15:09:29: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Makers<28><[U:1:22699679]><Blue>" with "tf_weapon_medigun" (attacker_position "520 687 -6") (victim_position "298 607 7")
+L 10/13/2019 - 15:09:31: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "minigun" (attacker_position "206 74 -127") (victim_position "340 340 -81")
+L 10/13/2019 - 15:09:31: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "16 471 199") (attacker_position "206 74 -127") (victim_position "340 340 -81")
+L 10/13/2019 - 15:09:40: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "5") (player1 "[LL] allhawkeye85<13><[U:1:28500804]><Blue>") (position1 "93 549 192") (player2 "CE | LV40RAICHU<36><[U:1:19841996]><Blue>") (position2 "-86 636 192") (player3 "Makers<28><[U:1:22699679]><Blue>") (position3 "130 374 192") (player4 "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>") (position4 "-89 489 199") (player5 "bearbear<34><[U:1:95728106]><Blue>") (position5 "24 426 199") 
+L 10/13/2019 - 15:09:41: "Snek<17><[U:1:122465451]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1327 518 0") (victim_position "66 545 198")
+L 10/13/2019 - 15:09:46: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "ambassador" (attacker_position "1338 486 0") (victim_position "1324 598 0")
+L 10/13/2019 - 15:09:46: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "186 428 192") (attacker_position "1338 486 0") (victim_position "1324 598 0")
+L 10/13/2019 - 15:09:47: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (customkill "backstab") (attacker_position "1175 580 0") (victim_position "1099 610 0")
+L 10/13/2019 - 15:09:47: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "64 377 199") (attacker_position "1175 580 0") (victim_position "1099 610 0")
+L 10/13/2019 - 15:09:47: "Panda<35><[U:1:112376827]><Red>" changed role to "scout"
+L 10/13/2019 - 15:09:48: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "degreaser" (attacker_position "26 -304 214") (victim_position "201 -399 111")
+L 10/13/2019 - 15:09:51: "[LL] Loddy<37><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 15:10:00: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "knife" (customkill "backstab") (attacker_position "937 710 0") (victim_position "1003 757 2")
+L 10/13/2019 - 15:10:00: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "1098 716 0") (attacker_position "937 710 0") (victim_position "1003 757 2")
+L 10/13/2019 - 15:10:02: "Sarc<26><[U:1:8355163]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "flamethrower" (attacker_position "1111 716 0") (victim_position "1411 -819 -172")
+L 10/13/2019 - 15:10:03: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "tf_weapon_medigun" (attacker_position "495 572 -20") (victim_position "706 379 0")
+L 10/13/2019 - 15:10:08: "[LL] Loddy<37><[U:1:9330378]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:10:09: "Snek<17><[U:1:122465451]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1465 -526 -191") (victim_position "-1 303 192")
+L 10/13/2019 - 15:10:12: "Panda<35><[U:1:112376827]><Red>" changed role to "demoman"
+L 10/13/2019 - 15:10:15: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "chargedeployed"
+L 10/13/2019 - 15:10:18: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "flamethrower" (attacker_position "-292 36 -132") (victim_position "-244 57 -81")
+L 10/13/2019 - 15:10:20: "[LL] Loddy<37><[U:1:9330378]><Blue>" changed role to "demoman"
+L 10/13/2019 - 15:10:23: "[LL] Loddy<37><[U:1:9330378]><Blue>" joined team "Red"
+L 10/13/2019 - 15:10:23: "[LL] Loddy<37><[U:1:9330378]><Red>" committed suicide with "world" (attacker_position "-2944 -1792 -127")
+L 10/13/2019 - 15:10:25: "[LL] Loddy<37><[U:1:9330378]><Red>" changed role to "engineer"
+L 10/13/2019 - 15:10:27: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Sarc<26><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "1720 -2174 -51") (victim_position "1988 -2307 -96")
+L 10/13/2019 - 15:10:27: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Sarc<26><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "1700 -2153 -30") (victim_position "2024 -2288 -96")
+L 10/13/2019 - 15:10:28: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "2607 -2210 -95") (victim_position "2076 -2275 -97")
+L 10/13/2019 - 15:10:28: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "2391 -1719 -137") (attacker_position "2607 -2210 -95") (victim_position "2076 -2275 -97")
+L 10/13/2019 - 15:10:29: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "knife" (customkill "backstab") (attacker_position "644 692 -11") (victim_position "616 746 -3")
+L 10/13/2019 - 15:10:29: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "-12 712 32") (attacker_position "644 692 -11") (victim_position "616 746 -3")
+L 10/13/2019 - 15:10:33: "Panda<35><[U:1:112376827]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "2105") (ubercharge "0")
+L 10/13/2019 - 15:10:33: "Panda<35><[U:1:112376827]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1556 -1910 0") (victim_position "1166 -1743 0")
+L 10/13/2019 - 15:10:33: "WARBIRD199<22><[U:1:63881333]><Red>" triggered "kill assist" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (assister_position "1435 -1819 0") (attacker_position "1556 -1910 0") (victim_position "1166 -1743 0")
+L 10/13/2019 - 15:10:34: "Sarc<26><[U:1:8355163]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "flaregun" (attacker_position "-3072 -1784 -127") (victim_position "1725 -2163 -48")
+L 10/13/2019 - 15:10:34: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "1166 -1743 75") (attacker_position "-3072 -1784 -127") (victim_position "1725 -2163 -48")
+L 10/13/2019 - 15:10:44: "Snek<17><[U:1:122465451]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "awper_hand" (attacker_position "1419 -515 -191") (victim_position "172 587 222")
+L 10/13/2019 - 15:10:44: "Panda<35><[U:1:112376827]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "650 439 -5") (attacker_position "1419 -515 -191") (victim_position "172 587 222")
+L 10/13/2019 - 15:10:45: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Panda<35><[U:1:112376827]><Red>" with "knife" (customkill "backstab") (attacker_position "631 432 -60") (victim_position "604 419 -12")
+L 10/13/2019 - 15:10:45: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "Panda<35><[U:1:112376827]><Red>" (assister_position "172 583 200") (attacker_position "631 432 -60") (victim_position "604 419 -12")
+L 10/13/2019 - 15:10:48: "Makers<28><[U:1:22699679]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "minigun" (attacker_position "-180 651 63") (victim_position "469 372 -72")
+L 10/13/2019 - 15:10:58: "Panda<35><[U:1:112376827]><Red>" joined team "Blue"
+L 10/13/2019 - 15:10:58: "Panda<35><[U:1:112376827]><Blue>" committed suicide with "world" (attacker_position "2880 -2176 -95")
+L 10/13/2019 - 15:10:58: "Lomax<25><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "1068 -677 78") (victim_position "442 -733 51")
+L 10/13/2019 - 15:10:59: "Snek<17><[U:1:122465451]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1370 520 0") (victim_position "-48 641 192")
+L 10/13/2019 - 15:10:59: "Panda<35><[U:1:112376827]><Blue>" changed role to "scout"
+L 10/13/2019 - 15:11:00: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "846 -500 -195")
+L 10/13/2019 - 15:11:01: "Panda<35><[U:1:112376827]><Blue>" changed role to "sniper"
+L 10/13/2019 - 15:11:02: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "minigun" (customkill "feign_death") (attacker_position "1140 362 0") (victim_position "1203 829 0")
+L 10/13/2019 - 15:11:05: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "flamethrower" (attacker_position "914 682 -3") (victim_position "816 673 -6")
+L 10/13/2019 - 15:11:05: "Snek<17><[U:1:122465451]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "1157 801 0") (attacker_position "914 682 -3") (victim_position "816 673 -6")
+L 10/13/2019 - 15:11:07: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 15:11:07: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "obj_sentrygun" (attacker_position "835 -512 -196") (victim_position "320 364 -72")
+L 10/13/2019 - 15:11:08: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "knife" (attacker_position "839 383 -4") (victim_position "853 416 -1")
+L 10/13/2019 - 15:11:08: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "816 673 61") (attacker_position "839 383 -4") (victim_position "853 416 -1")
+L 10/13/2019 - 15:11:10: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "minigun" (attacker_position "686 721 -8") (victim_position "868 682 -5")
+L 10/13/2019 - 15:11:12: "bearbear<34><[U:1:95728106]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_projectile_rocket" (attacker_position "-1299 -355 -191") (victim_position "-1008 -342 -191")
+L 10/13/2019 - 15:11:16: World triggered "Round_Overtime"
+L 10/13/2019 - 15:11:16: "bearbear<34><[U:1:95728106]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "shotgun_soldier" (attacker_position "-1046 -174 -185") (victim_position "-758 -140 -191")
+L 10/13/2019 - 15:11:19: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "world" (attacker_position "-83 478 199") (victim_position "-658 193 11")
+L 10/13/2019 - 15:11:19: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "-788 -147 -177") (attacker_position "-83 478 199") (victim_position "-658 193 11")
+L 10/13/2019 - 15:11:25: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "4") (player1 "Lomax<25><[U:1:1831779]><Red>") (position1 "0 437 199") (player2 "Darth Meerkat<23><[U:1:121426737]><Red>") (position2 "-85 482 199") (player3 "CrazyEnzo03<30><[U:1:59983226]><Red>") (position3 "0 498 199") (player4 "[LL] Loddy<37><[U:1:9330378]><Red>") (position4 "27 325 193") 
+L 10/13/2019 - 15:11:37: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "minigun" (attacker_position "-186 487 181") (victim_position "-667 363 0")
+L 10/13/2019 - 15:11:37: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "170 310 192") (attacker_position "-186 487 181") (victim_position "-667 363 0")
+L 10/13/2019 - 15:11:39: "Panda<35><[U:1:112376827]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-1293 -406 -191") (victim_position "-104 460 199")
+L 10/13/2019 - 15:11:39: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "-1359 -335 -191") (attacker_position "-1293 -406 -191") (victim_position "-104 460 199")
+L 10/13/2019 - 15:11:41: "Snek<17><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1453 -504 -191") (victim_position "-1117 709 37")
+L 10/13/2019 - 15:11:41: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "-79 462 213") (attacker_position "1453 -504 -191") (victim_position "-1117 709 37")
+L 10/13/2019 - 15:11:46: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "372 449 -46")
+L 10/13/2019 - 15:11:50: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "knife" (customkill "backstab") (attacker_position "392 539 -21") (victim_position "339 496 -31")
+L 10/13/2019 - 15:11:53: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1267 473 0") (victim_position "282 683 31")
+L 10/13/2019 - 15:11:56: "WARBIRD199<22><[U:1:63881333]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "backburner" (attacker_position "-903 767 0") (victim_position "-949 663 -1")
+L 10/13/2019 - 15:11:56: "bearbear<34><[U:1:95728106]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "tf_projectile_rocket" (attacker_position "-384 743 8") (victim_position "208 782 32")
+L 10/13/2019 - 15:11:58: "Lomax<25><[U:1:1831779]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "tf_projectile_rocket" (attacker_position "428 810 5") (victim_position "-300 803 26")
+L 10/13/2019 - 15:11:58: "WARBIRD199<22><[U:1:63881333]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "-578 684 -11") (attacker_position "428 810 5") (victim_position "-300 803 26")
+L 10/13/2019 - 15:11:58: "Makers<28><[U:1:22699679]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "minigun" (attacker_position "-68 446 199") (victim_position "-491 739 -1")
+L 10/13/2019 - 15:11:58: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-9 558 197") (attacker_position "-68 446 199") (victim_position "-491 739 -1")
+L 10/13/2019 - 15:12:02: "Snek<17><[U:1:122465451]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "405") (ubercharge "0")
+L 10/13/2019 - 15:12:02: "Snek<17><[U:1:122465451]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "awper_hand" (attacker_position "1269 569 0") (victim_position "-10 500 199")
+L 10/13/2019 - 15:12:03: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-89 489 199") (victim_position "-193 659 58")
+L 10/13/2019 - 15:12:09: "Sarc<26><[U:1:8355163]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "flamethrower" (attacker_position "744 786 -2") (victim_position "886 672 -6")
+L 10/13/2019 - 15:12:09: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "196 369 192") (attacker_position "744 786 -2") (victim_position "886 672 -6")
+L 10/13/2019 - 15:12:11: "Lomax<25><[U:1:1831779]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "tf_projectile_rocket" (attacker_position "529 796 1") (victim_position "763 785 -1")
+L 10/13/2019 - 15:12:12: "Makers<28><[U:1:22699679]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "minigun" (attacker_position "185 358 192") (victim_position "396 782 22")
+L 10/13/2019 - 15:12:12: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "763 785 12") (attacker_position "185 358 192") (victim_position "396 782 22")
+L 10/13/2019 - 15:12:13: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "obj_sentrygun2" (attacker_position "910 -1243 -8") (victim_position "786 -1164 -204")
+L 10/13/2019 - 15:12:14: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "1") (player1 "Makers<28><[U:1:22699679]><Blue>") (position1 "174 304 192") 
+L 10/13/2019 - 15:12:14: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 15:12:14: World triggered "Round_Length" (seconds "397.39")
+L 10/13/2019 - 15:12:14: Team "Red" current score "0" with "7" players
+L 10/13/2019 - 15:12:14: Team "Blue" current score "1" with "8" players
+L 10/13/2019 - 15:12:15: "Makers<28><[U:1:22699679]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "178 376 192") (victim_position "908 -85 -153")
+L 10/13/2019 - 15:12:18: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "world" (attacker_position "914 -89 -81") (victim_position "363 169 -115")
+L 10/13/2019 - 15:12:19: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "ambassador") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "585 -217 -189")
+L 10/13/2019 - 15:12:22: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "ambassador" (attacker_position "585 170 -2") (victim_position "461 160 -10")
+L 10/13/2019 - 15:12:25: "Panda<35><[U:1:112376827]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "sniperrifle" (attacker_position "376 313 -89") (victim_position "910 -601 32")
+L 10/13/2019 - 15:12:29: World triggered "Round_Start"
+L 10/13/2019 - 15:12:54: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "world" (attacker_position "-516 864 1") (victim_position "-780 1753 -388")
+L 10/13/2019 - 15:12:56: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "minigun" (attacker_position "477 853 1") (victim_position "-325 812 20")
+L 10/13/2019 - 15:12:56: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "-254 1058 40") (attacker_position "477 853 1") (victim_position "-325 812 20")
+L 10/13/2019 - 15:12:56: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "domination" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>"
+L 10/13/2019 - 15:12:57: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "player_extinguished" against "Sarc<26><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "-664 442 0") (victim_position "-423 720 4")
+L 10/13/2019 - 15:12:57: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-1242 636 0") (victim_position "-341 826 16")
+L 10/13/2019 - 15:12:57: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-420 746 6") (attacker_position "-1242 636 0") (victim_position "-341 826 16")
+L 10/13/2019 - 15:12:58: "CrazyEnzo03<30><[U:1:59983226]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "scattergun" (attacker_position "-425 593 -10") (victim_position "-544 700 -7")
+L 10/13/2019 - 15:12:58: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "263 851 32") (attacker_position "-425 593 -10") (victim_position "-544 700 -7")
+L 10/13/2019 - 15:12:59: "Panda<35><[U:1:112376827]><Blue>" triggered "jarate_attack" against "CrazyEnzo03<30><[U:1:59983226]><Red>" with "tf_weapon_jar" (attacker_position "-776 663 -11") (victim_position "-368 431 -52")
+L 10/13/2019 - 15:13:01: "HARRYZ<38><[U:1:32399126]><>" connected, address "172.30.43.124:27005"
+L 10/13/2019 - 15:13:01: "HARRYZ<38><[U:1:32399126]><>" STEAM USERID validated
+L 10/13/2019 - 15:13:04: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "club" (attacker_position "1131 619 0") (victim_position "1188 675 0")
+L 10/13/2019 - 15:13:04: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "433 -156 -160")
+L 10/13/2019 - 15:13:05: "CrazyEnzo03<30><[U:1:59983226]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "scattergun" (attacker_position "-1095 -211 -187") (victim_position "-785 48 -71")
+L 10/13/2019 - 15:13:06: "Makers<28><[U:1:22699679]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "-1237 599 0") (victim_position "-186 601 99")
+L 10/13/2019 - 15:13:06: "Snek<17><[U:1:122465451]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1236 547 0") (victim_position "-1112 842 0")
+L 10/13/2019 - 15:13:06: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "Panda<35><[U:1:112376827]><Blue>" (assister_position "-192 578 129") (attacker_position "1236 547 0") (victim_position "-1112 842 0")
+L 10/13/2019 - 15:13:09: "Makers<28><[U:1:22699679]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "minigun" (attacker_position "-1124 778 0") (victim_position "-1051 564 0")
+L 10/13/2019 - 15:13:09: "Panda<35><[U:1:112376827]><Blue>" triggered "kill assist" against "CrazyEnzo03<30><[U:1:59983226]><Red>" (assister_position "-1142 808 14") (attacker_position "-1124 778 0") (victim_position "-1051 564 0")
+L 10/13/2019 - 15:13:09: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "frontier_justice" (attacker_position "105 876 32") (victim_position "-1115 761 0")
+L 10/13/2019 - 15:13:09: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "Makers<28><[U:1:22699679]><Blue>" (assister_position "-1099 568 0") (attacker_position "105 876 32") (victim_position "-1115 761 0")
+L 10/13/2019 - 15:13:13: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "448 -95 -156")
+L 10/13/2019 - 15:13:18: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-12 -32 -130")
+L 10/13/2019 - 15:13:18: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-12 -32 -130")
+L 10/13/2019 - 15:13:19: "HARRYZ<38><[U:1:32399126]><>" entered the game
+L 10/13/2019 - 15:13:28: "HARRYZ<38><[U:1:32399126]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:13:31: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "flamethrower" (attacker_position "-391 663 4") (victim_position "-703 776 -4")
+L 10/13/2019 - 15:13:31: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "140 421 192") (attacker_position "-391 663 4") (victim_position "-703 776 -4")
+L 10/13/2019 - 15:13:33: "HARRYZ<38><[U:1:32399126]><Red>" changed role to "medic"
+L 10/13/2019 - 15:13:37: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-1114 -215 -188") (victim_position "-1037 -157 -182")
+L 10/13/2019 - 15:13:37: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-1192 -293 -191") (attacker_position "-1114 -215 -188") (victim_position "-1037 -157 -182")
+L 10/13/2019 - 15:13:37: "Makers<28><[U:1:22699679]><Blue>" triggered "domination" against "Sonic_Soldier420<15><[U:1:24174610]><Red>"
+L 10/13/2019 - 15:13:37: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "player_extinguished" against "Makers<28><[U:1:22699679]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1171 -270 -190") (victim_position "-1118 -219 -188")
+L 10/13/2019 - 15:13:38: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "2") (player1 "Lomax<25><[U:1:1831779]><Red>") (position1 "-55 588 192") (player2 "WARBIRD199<22><[U:1:63881333]><Red>") (position2 "-38 469 199") 
+L 10/13/2019 - 15:13:39: "Sarc<26><[U:1:8355163]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:13:42: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (customkill "backstab") (attacker_position "655 734 -6") (victim_position "592 693 -10")
+L 10/13/2019 - 15:13:43: "Snek<17><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "awper_hand" (attacker_position "1186 -447 -191") (victim_position "-933 477 28")
+L 10/13/2019 - 15:13:43: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "688 859 -4") (attacker_position "1186 -447 -191") (victim_position "-933 477 28")
+L 10/13/2019 - 15:13:44: "CrazyEnzo03<30><[U:1:59983226]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "scattergun" (attacker_position "-880 -925 -46") (victim_position "-1057 -1170 -255")
+L 10/13/2019 - 15:13:45: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "obj_minisentry" (customkill "feign_death") (attacker_position "107 757 32") (victim_position "-93 761 32")
+L 10/13/2019 - 15:13:49: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "-189 -23 -128")
+L 10/13/2019 - 15:13:49: "bearbear<34><[U:1:95728106]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_projectile_rocket" (attacker_position "-785 889 0") (victim_position "-828 725 -1")
+L 10/13/2019 - 15:13:49: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-1023 875 0") (attacker_position "-785 889 0") (victim_position "-828 725 -1")
+L 10/13/2019 - 15:13:56: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "killedobject" (object "OBJ_ATTACHMENT_SAPPER") (weapon "robot_arm_kill") (objectowner "FRAG DRAKE<24><[U:1:240994645]><Blue>") (attacker_position "-52 -99 -134")
+L 10/13/2019 - 15:13:59: "Sarc<26><[U:1:8355163]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "minigun" (attacker_position "-1147 -327 -191") (victim_position "-1088 -120 -147")
+L 10/13/2019 - 15:14:00: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" say_team "somebody fuck up that engie"
+L 10/13/2019 - 15:14:01: "Makers<28><[U:1:22699679]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "-727 300 0")
+L 10/13/2019 - 15:14:02: "Makers<28><[U:1:22699679]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "minigun" (attacker_position "-677 333 0") (victim_position "-315 364 -72")
+L 10/13/2019 - 15:14:02: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "[LL] Loddy<37><[U:1:9330378]><Red>" (assister_position "-949 -253 -191") (attacker_position "-677 333 0") (victim_position "-315 364 -72")
+L 10/13/2019 - 15:14:03: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "720 222 -8") (victim_position "-793 -201 -191")
+L 10/13/2019 - 15:14:08: "bearbear<34><[U:1:95728106]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "shotgun_soldier" (attacker_position "64 499 199") (victim_position "912 614 45")
+L 10/13/2019 - 15:14:14: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "knife" (customkill "backstab") (attacker_position "706 319 0") (victim_position "625 332 1")
+L 10/13/2019 - 15:14:15: "CrazyEnzo03<30><[U:1:59983226]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:14:20: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "3") (player1 "CE | LV40RAICHU<36><[U:1:19841996]><Blue>") (position1 "25 518 199") (player2 "Makers<28><[U:1:22699679]><Blue>") (position2 "207 395 192") (player3 "bearbear<34><[U:1:95728106]><Blue>") (position3 "18 411 199") 
+L 10/13/2019 - 15:14:20: "Panda<35><[U:1:112376827]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-795 36 -77") (victim_position "952 -146 -181")
+L 10/13/2019 - 15:14:20: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "-81 410 199") (attacker_position "-795 36 -77") (victim_position "952 -146 -181")
+L 10/13/2019 - 15:14:22: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "knife" (customkill "backstab") (attacker_position "780 324 -3") (victim_position "721 272 -2")
+L 10/13/2019 - 15:14:37: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "flamethrower" (attacker_position "1601 -562 -191") (victim_position "1517 -463 -191")
+L 10/13/2019 - 15:14:37: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "1450 -396 -191") (attacker_position "1601 -562 -191") (victim_position "1517 -463 -191")
+L 10/13/2019 - 15:14:42: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1327 -721 -191")
+L 10/13/2019 - 15:14:42: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "flamethrower" (attacker_position "1073 605 0") (victim_position "1022 554 0")
+L 10/13/2019 - 15:14:45: "Panda<35><[U:1:112376827]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "sniperrifle" (attacker_position "-55 371 199") (victim_position "1579 -596 -191")
+L 10/13/2019 - 15:14:47: "Sarc<26><[U:1:8355163]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-214 803 32") (victim_position "444 647 48")
+L 10/13/2019 - 15:14:47: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-393 934 11") (attacker_position "-214 803 32") (victim_position "444 647 48")
+L 10/13/2019 - 15:14:53: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "602 -418 -192")
+L 10/13/2019 - 15:14:54: "Panda<35><[U:1:112376827]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-111 319 192") (victim_position "602 -418 -192")
+L 10/13/2019 - 15:14:54: "bearbear<34><[U:1:95728106]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_projectile_rocket" (attacker_position "209 569 130") (victim_position "195 1021 27")
+L 10/13/2019 - 15:14:54: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-61 811 32") (attacker_position "209 569 130") (victim_position "195 1021 27")
+L 10/13/2019 - 15:14:54: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "chargedeployed"
+L 10/13/2019 - 15:14:55: "Makers<28><[U:1:22699679]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "-74 289 192")
+L 10/13/2019 - 15:14:56: "Sarc<26><[U:1:8355163]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "minigun" (attacker_position "-176 780 32") (victim_position "769 631 32")
+L 10/13/2019 - 15:14:56: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "-386 825 7") (attacker_position "-176 780 32") (victim_position "769 631 32")
+L 10/13/2019 - 15:15:15: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "1433 -758 -191")
+L 10/13/2019 - 15:15:15: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "degreaser" (attacker_position "1283 -762 -191") (victim_position "1331 -695 -191")
+L 10/13/2019 - 15:15:17: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "frontier_justice" (attacker_position "1550 -972 -191") (victim_position "1375 -669 -191")
+L 10/13/2019 - 15:15:17: "WARBIRD199<22><[U:1:63881333]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "1253 -871 -191") (attacker_position "1550 -972 -191") (victim_position "1375 -669 -191")
+L 10/13/2019 - 15:15:21: "Snek<17><[U:1:122465451]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1161 -1219 -255") (victim_position "-66 527 199")
+L 10/13/2019 - 15:15:23: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1343 -115 -95")
+L 10/13/2019 - 15:15:24: "WARBIRD199<22><[U:1:63881333]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "backburner" (attacker_position "1266 600 0") (victim_position "1034 849 1")
+L 10/13/2019 - 15:15:24: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "1021 310 0") (attacker_position "1266 600 0") (victim_position "1034 849 1")
+L 10/13/2019 - 15:15:27: "WARBIRD199<22><[U:1:63881333]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "2713") (ubercharge "0")
+L 10/13/2019 - 15:15:27: "WARBIRD199<22><[U:1:63881333]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "backburner" (attacker_position "657 799 -3") (victim_position "641 700 -10")
+L 10/13/2019 - 15:15:27: "Lomax<25><[U:1:1831779]><Red>" triggered "kill assist" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (assister_position "712 574 -29") (attacker_position "657 799 -3") (victim_position "641 700 -10")
+L 10/13/2019 - 15:15:27: "bearbear<34><[U:1:95728106]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_projectile_rocket" (attacker_position "246 883 32") (victim_position "656 790 -3")
+L 10/13/2019 - 15:15:27: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "641 700 3") (attacker_position "246 883 32") (victim_position "656 790 -3")
+L 10/13/2019 - 15:15:28: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1016 306 0")
+L 10/13/2019 - 15:15:28: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "1016 306 0")
+L 10/13/2019 - 15:15:29: "CrazyEnzo03<30><[U:1:59983226]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "tf_projectile_rocket" (attacker_position "1056 928 1") (victim_position "1141 690 0")
+L 10/13/2019 - 15:15:29: "Lomax<25><[U:1:1831779]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "1132 978 47") (attacker_position "1056 928 1") (victim_position "1141 690 0")
+L 10/13/2019 - 15:15:34: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "364 463 -42")
+L 10/13/2019 - 15:15:37: "bearbear<34><[U:1:95728106]><Blue>" triggered "medic_death" against "HARRYZ<38><[U:1:32399126]><Red>" (healing "1117") (ubercharge "1")
+L 10/13/2019 - 15:15:37: "bearbear<34><[U:1:95728106]><Blue>" killed "HARRYZ<38><[U:1:32399126]><Red>" with "shotgun_soldier" (attacker_position "940 661 -3") (victim_position "952 788 8")
+L 10/13/2019 - 15:15:40: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "obj_minisentry" (attacker_position "793 420 -1") (victim_position "1298 663 0")
+L 10/13/2019 - 15:15:42: "Makers<28><[U:1:22699679]><Blue>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "-1289 591 0")
+L 10/13/2019 - 15:15:42: "Makers<28><[U:1:22699679]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "minigun" (attacker_position "-1289 591 0") (victim_position "19 326 193")
+L 10/13/2019 - 15:15:48: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-1153 735 0") (victim_position "-737 776 -2")
+L 10/13/2019 - 15:15:49: "CrazyEnzo03<30><[U:1:59983226]><Red>" changed role to "sniper"
+L 10/13/2019 - 15:15:56: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "420 -121 -156")
+L 10/13/2019 - 15:16:01: "{CC} Gert<39><[U:1:13211210]><>" connected, address "172.30.42.8:27005"
+L 10/13/2019 - 15:16:01: "{CC} Gert<39><[U:1:13211210]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:16:01: "{CC} Gert<40><[U:1:13211210]><>" connected, address "172.30.42.8:27005"
+L 10/13/2019 - 15:16:01: "{CC} Gert<40><[U:1:13211210]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:16:01: "{CC} Gert<41><[U:1:13211210]><>" connected, address "172.30.42.8:27005"
+L 10/13/2019 - 15:16:01: "{CC} Gert<41><[U:1:13211210]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 15:16:01: "{CC} Gert<42><[U:1:13211210]><>" connected, address "172.30.42.8:27005"
+L 10/13/2019 - 15:16:01: "{CC} Gert<42><[U:1:13211210]><>" STEAM USERID validated
+L 10/13/2019 - 15:16:06: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1007 -436 -191") (victim_position "-26 274 -125")
+L 10/13/2019 - 15:16:06: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "62 574 192") (attacker_position "1007 -436 -191") (victim_position "-26 274 -125")
+L 10/13/2019 - 15:16:08: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "ambassador" (attacker_position "-95 -234 96") (victim_position "-5 465 199")
+L 10/13/2019 - 15:16:08: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-200 529 150") (attacker_position "-95 -234 96") (victim_position "-5 465 199")
+L 10/13/2019 - 15:16:08: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "domination" against "WARBIRD199<22><[U:1:63881333]><Red>"
+L 10/13/2019 - 15:16:08: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "-167 501 192")
+L 10/13/2019 - 15:16:15: "Panda<35><[U:1:112376827]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-842 0 -105") (victim_position "796 57 -71")
+L 10/13/2019 - 15:16:15: "bearbear<34><[U:1:95728106]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "-495 519 -31") (victim_position "-255 272 -98")
+L 10/13/2019 - 15:16:15: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-655 446 -57") (attacker_position "-495 519 -31") (victim_position "-255 272 -98")
+L 10/13/2019 - 15:16:19: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "316 386 -65")
+L 10/13/2019 - 15:16:20: "Panda<35><[U:1:112376827]><Blue>" triggered "jarate_attack" against "Lomax<25><[U:1:1831779]><Red>" with "tf_weapon_jar" (attacker_position "-312 240 -108") (victim_position "280 207 -93")
+L 10/13/2019 - 15:16:23: "bearbear<34><[U:1:95728106]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "tf_projectile_rocket" (attacker_position "147 319 192") (victim_position "419 -60 -150")
+L 10/13/2019 - 15:16:23: "Panda<35><[U:1:112376827]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "-633 496 -43") (attacker_position "147 319 192") (victim_position "419 -60 -150")
+L 10/13/2019 - 15:16:23: "bearbear<34><[U:1:95728106]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "tf_projectile_rocket" (attacker_position "147 319 192") (victim_position "605 -99 -174")
+L 10/13/2019 - 15:16:23: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "kill assist" against "CrazyEnzo03<30><[U:1:59983226]><Red>" (assister_position "344 723 16") (attacker_position "147 319 192") (victim_position "605 -99 -174")
+L 10/13/2019 - 15:16:27: "Makers<28><[U:1:22699679]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "-658 464 -52") (victim_position "329 -89 -143")
+L 10/13/2019 - 15:16:27: "Makers<28><[U:1:22699679]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "-658 464 -52")
+L 10/13/2019 - 15:16:28: "{CC} Gert<42><[U:1:13211210]><>" entered the game
+L 10/13/2019 - 15:16:29: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "recorder") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "805 72 -69")
+L 10/13/2019 - 15:16:29: "HARRYZ<38><[U:1:32399126]><Red>" triggered "player_extinguished" against "[LL] Loddy<37><[U:1:9330378]><Red>" with "tf_weapon_medigun" (attacker_position "748 -635 -210") (victim_position "682 -551 -198")
+L 10/13/2019 - 15:16:32: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "knife" (customkill "backstab") (attacker_position "792 -507 -196") (victim_position "734 -483 -194")
+L 10/13/2019 - 15:16:32: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" triggered "kill assist" against "[LL] Loddy<37><[U:1:9330378]><Red>" (assister_position "185 175 -117") (attacker_position "792 -507 -196") (victim_position "734 -483 -194")
+L 10/13/2019 - 15:16:35: "Panda<35><[U:1:112376827]><Blue>" triggered "medic_death" against "HARRYZ<38><[U:1:32399126]><Red>" (healing "620") (ubercharge "0")
+L 10/13/2019 - 15:16:35: "Panda<35><[U:1:112376827]><Blue>" killed "HARRYZ<38><[U:1:32399126]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-41 430 -122") (victim_position "565 -124 -171")
+L 10/13/2019 - 15:16:35: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "knife" (customkill "backstab") (attacker_position "491 242 -123") (victim_position "517 295 -28")
+L 10/13/2019 - 15:16:35: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "-9 -58 -134") (attacker_position "491 242 -123") (victim_position "517 295 -28")
+L 10/13/2019 - 15:16:35: "Makers<28><[U:1:22699679]><Blue>" triggered "domination" against "WARBIRD199<22><[U:1:63881333]><Red>" (assist "1")
+L 10/13/2019 - 15:16:37: "Panda<35><[U:1:112376827]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-190 195 -114") (victim_position "1428 -481 -191")
+L 10/13/2019 - 15:16:48: "{CC} Gert<42><[U:1:13211210]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:16:51: "{CC} Gert<42><[U:1:13211210]><Red>" changed role to "demoman"
+L 10/13/2019 - 15:16:54: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1398 -961 -191")
+L 10/13/2019 - 15:16:54: "HARRYZ<38><[U:1:32399126]><Red>" triggered "player_extinguished" against "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_weapon_medigun" (attacker_position "1506 -1137 -191") (victim_position "1235 -1180 -255")
+L 10/13/2019 - 15:16:55: "HARRYZ<38><[U:1:32399126]><Red>" triggered "player_extinguished" against "WARBIRD199<22><[U:1:63881333]><Red>" with "tf_weapon_medigun" (attacker_position "1338 -1229 -206") (victim_position "1064 -999 -251")
+L 10/13/2019 - 15:16:57: "Panda<35><[U:1:112376827]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-2 404 199") (victim_position "1395 -483 -191")
+L 10/13/2019 - 15:17:00: "WARBIRD199<22><[U:1:63881333]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "backburner" (attacker_position "589 -51 -164") (victim_position "292 -112 -103")
+L 10/13/2019 - 15:17:00: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "952 -441 -192") (attacker_position "589 -51 -164") (victim_position "292 -112 -103")
+L 10/13/2019 - 15:17:00: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "-242 736 32") (victim_position "-398 345 -80")
+L 10/13/2019 - 15:17:00: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-481 877 1") (attacker_position "-242 736 32") (victim_position "-398 345 -80")
+L 10/13/2019 - 15:17:04: "Makers<28><[U:1:22699679]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "minigun" (attacker_position "-22 789 32") (victim_position "350 767 14")
+L 10/13/2019 - 15:17:04: "bearbear<34><[U:1:95728106]><Blue>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Red>" (assister_position "77 811 32") (attacker_position "-22 789 32") (victim_position "350 767 14")
+L 10/13/2019 - 15:17:04: "bearbear<34><[U:1:95728106]><Blue>" triggered "domination" against "WARBIRD199<22><[U:1:63881333]><Red>" (assist "1")
+L 10/13/2019 - 15:17:04: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "awper_hand" (attacker_position "1102 -1222 -255") (victim_position "206 247 192")
+L 10/13/2019 - 15:17:05: "[LL] Loddy<37><[U:1:9330378]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "frontier_justice" (attacker_position "257 710 32") (victim_position "213 799 32")
+L 10/13/2019 - 15:17:05: "Lomax<25><[U:1:1831779]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "525 -1033 -255") (attacker_position "257 710 32") (victim_position "213 799 32")
+L 10/13/2019 - 15:17:07: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "chargedeployed"
+L 10/13/2019 - 15:17:07: "Makers<28><[U:1:22699679]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "minigun" (attacker_position "130 883 32") (victim_position "378 453 -45")
+L 10/13/2019 - 15:17:07: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" triggered "kill assist" against "[LL] Loddy<37><[U:1:9330378]><Red>" (assister_position "-190 753 32") (attacker_position "130 883 32") (victim_position "378 453 -45")
+L 10/13/2019 - 15:17:15: "Snek<17><[U:1:122465451]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1144 -1332 -255") (victim_position "396 166 -128")
+L 10/13/2019 - 15:17:18: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "{CC} Gert<42><[U:1:13211210]><Red>" with "knife" (customkill "backstab") (attacker_position "1032 -386 -191") (victim_position "989 -326 -191")
+L 10/13/2019 - 15:17:20: "Snek<17><[U:1:122465451]><Red>" triggered "medic_death" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (healing "1460") (ubercharge "0")
+L 10/13/2019 - 15:17:20: "Snek<17><[U:1:122465451]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1107 -1289 -255") (victim_position "257 748 32")
+L 10/13/2019 - 15:17:20: "{CC} Gert<42><[U:1:13211210]><Red>" triggered "kill assist" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (assister_position "998 -268 -177") (attacker_position "1107 -1289 -255") (victim_position "257 748 32")
+L 10/13/2019 - 15:17:20: World triggered "Round_Overtime"
+L 10/13/2019 - 15:17:24: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "ambassador" (attacker_position "493 645 -7") (victim_position "557 884 38")
+L 10/13/2019 - 15:17:24: "Panda<35><[U:1:112376827]><Blue>" triggered "jarate_attack" against "HARRYZ<38><[U:1:32399126]><Red>" with "tf_weapon_jar" (attacker_position "-650 689 32") (victim_position "-277 690 32")
+L 10/13/2019 - 15:17:24: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" changed role to "sniper"
+L 10/13/2019 - 15:17:24: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "minigun" (attacker_position "-68 470 199") (victim_position "-684 661 -15")
+L 10/13/2019 - 15:17:25: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "2421 -2310 -95")
+L 10/13/2019 - 15:17:29: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "minigun" (attacker_position "-6 437 199") (victim_position "-52 579 192")
+L 10/13/2019 - 15:17:29: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "-24 748 173") (attacker_position "-6 437 199") (victim_position "-52 579 192")
+L 10/13/2019 - 15:17:35: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "minigun" (attacker_position "-99 541 192") (victim_position "-318 898 22")
+L 10/13/2019 - 15:17:35: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "36 431 199") (attacker_position "-99 541 192") (victim_position "-318 898 22")
+L 10/13/2019 - 15:17:40: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "4") (player1 "WARBIRD199<22><[U:1:63881333]><Red>") (position1 "-23 470 199") (player2 "Darth Meerkat<23><[U:1:121426737]><Red>") (position2 "-89 467 199") (player3 "CrazyEnzo03<30><[U:1:59983226]><Red>") (position3 "56 288 192") (player4 "HARRYZ<38><[U:1:32399126]><Red>") (position4 "134 443 192") 
+L 10/13/2019 - 15:17:41: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "953 308 0")
+L 10/13/2019 - 15:17:42: "bearbear<34><[U:1:95728106]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "-1149 482 0") (victim_position "-686 668 -14")
+L 10/13/2019 - 15:17:42: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-910 723 0") (attacker_position "-1149 482 0") (victim_position "-686 668 -14")
+L 10/13/2019 - 15:17:42: "Snek<17><[U:1:122465451]><Red>" killed "Sarc<26><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "840 704 -3") (victim_position "-914 725 0")
+L 10/13/2019 - 15:17:42: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Blue>" (assister_position "-41 540 199") (attacker_position "840 704 -3") (victim_position "-914 725 0")
+L 10/13/2019 - 15:17:42: "Snek<17><[U:1:122465451]><Red>" triggered "domination" against "Sarc<26><[U:1:8355163]><Blue>"
+L 10/13/2019 - 15:17:42: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "domination" against "Sarc<26><[U:1:8355163]><Blue>" (assist "1")
+L 10/13/2019 - 15:17:44: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1109 582 0")
+L 10/13/2019 - 15:17:44: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "1109 582 0")
+L 10/13/2019 - 15:17:50: "Snek<17><[U:1:122465451]><Red>" killed "Panda<35><[U:1:112376827]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "902 560 0") (victim_position "-1393 -420 -191")
+L 10/13/2019 - 15:17:52: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-475 383 -68")
+L 10/13/2019 - 15:18:00: "Makers<28><[U:1:22699679]><Blue>" killed "{CC} Gert<42><[U:1:13211210]><Red>" with "world" (attacker_position "-1210 428 0") (victim_position "-501 1235 -429")
+L 10/13/2019 - 15:18:00: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "ambassador" (customkill "headshot") (attacker_position "631 1033 -9") (victim_position "847 877 0")
+L 10/13/2019 - 15:18:01: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "minigun" (customkill "feign_death") (attacker_position "107 599 192") (victim_position "749 970 0")
+L 10/13/2019 - 15:18:01: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "51 471 199") (attacker_position "107 599 192") (victim_position "749 970 0")
+L 10/13/2019 - 15:18:03: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "372 443 -48")
+L 10/13/2019 - 15:18:03: "Panda<35><[U:1:112376827]><Blue>" changed role to "engineer"
+L 10/13/2019 - 15:18:05: "Panda<35><[U:1:112376827]><Blue>" changed role to "scout"
+L 10/13/2019 - 15:18:09: "bearbear<34><[U:1:95728106]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "-551 665 -11")
+L 10/13/2019 - 15:18:09: "Lomax<25><[U:1:1831779]><Red>" killed "bearbear<34><[U:1:95728106]><Blue>" with "tf_projectile_rocket" (attacker_position "-278 536 0") (victim_position "-604 674 -12")
+L 10/13/2019 - 15:18:09: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "kill assist" against "bearbear<34><[U:1:95728106]><Blue>" (assister_position "606 558 -30") (attacker_position "-278 536 0") (victim_position "-604 674 -12")
+L 10/13/2019 - 15:18:10: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "904 208 0")
+L 10/13/2019 - 15:18:10: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "904 208 0")
+L 10/13/2019 - 15:18:12: "Makers<28><[U:1:22699679]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "minigun" (attacker_position "-1247 617 0") (victim_position "58 872 32")
+L 10/13/2019 - 15:18:12: "WARBIRD199<22><[U:1:63881333]><Red>" killed "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" with "backburner" (attacker_position "-131 -164 96") (victim_position "-179 -199 96")
+L 10/13/2019 - 15:18:12: "CrazyEnzo03<30><[U:1:59983226]><Red>" triggered "kill assist" against "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" (assister_position "141 -355 96") (attacker_position "-131 -164 96") (victim_position "-179 -199 96")
+L 10/13/2019 - 15:18:13: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-407 342 -81")
+L 10/13/2019 - 15:18:13: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "knife") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "904 208 0")
+L 10/13/2019 - 15:18:16: "Sarc<26><[U:1:8355163]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "-586 -82 -168")
+L 10/13/2019 - 15:18:16: "Makers<28><[U:1:22699679]><Blue>" killed "[LL] Loddy<37><[U:1:9330378]><Red>" with "minigun" (attacker_position "-1065 754 0") (victim_position "-314 436 -32")
+L 10/13/2019 - 15:18:16: "Panda<35><[U:1:112376827]><Blue>" triggered "kill assist" against "[LL] Loddy<37><[U:1:9330378]><Red>" (assister_position "-505 572 -21") (attacker_position "-1065 754 0") (victim_position "-314 436 -32")
+L 10/13/2019 - 15:18:20: "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "degreaser" (attacker_position "96 567 192") (victim_position "312 785 48")
+L 10/13/2019 - 15:18:20: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "CrazyEnzo03<30><[U:1:59983226]><Red>" (assister_position "-651 606 -22") (attacker_position "96 567 192") (victim_position "312 785 48")
+L 10/13/2019 - 15:18:20: "HARRYZ<38><[U:1:32399126]><Red>" triggered "player_extinguished" against "Darth Meerkat<23><[U:1:121426737]><Red>" with "tf_weapon_medigun" (attacker_position "447 692 0") (victim_position "196 554 133")
+L 10/13/2019 - 15:18:21: "Panda<35><[U:1:112376827]><Blue>" killed "WARBIRD199<22><[U:1:63881333]><Red>" with "scattergun" (attacker_position "-205 510 170") (victim_position "-103 483 199")
+L 10/13/2019 - 15:18:21: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "captureblocked" (cp "0") (cpname "Pillar") (position "18 499 204")
+L 10/13/2019 - 15:18:21: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "eviction_notice" (attacker_position "18 499 204") (victim_position "-55 472 221")
+L 10/13/2019 - 15:18:21: "HARRYZ<38><[U:1:32399126]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assister_position "200 573 119") (attacker_position "18 499 204") (victim_position "-55 472 221")
+L 10/13/2019 - 15:18:21: "HARRYZ<38><[U:1:32399126]><Red>" triggered "domination" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" (assist "1")
+L 10/13/2019 - 15:18:22: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "knife" (customkill "backstab") (attacker_position "340 913 16") (victim_position "254 900 32")
+L 10/13/2019 - 15:18:22: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "-381 629 2") (attacker_position "340 913 16") (victim_position "254 900 32")
+L 10/13/2019 - 15:18:23: "HARRYZ<38><[U:1:32399126]><Red>" triggered "player_extinguished" against "Darth Meerkat<23><[U:1:121426737]><Red>" with "tf_weapon_medigun" (attacker_position "152 493 192") (victim_position "-12 549 199")
+L 10/13/2019 - 15:18:24: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "medic_death" against "HARRYZ<38><[U:1:32399126]><Red>" (healing "1431") (ubercharge "1")
+L 10/13/2019 - 15:18:24: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "HARRYZ<38><[U:1:32399126]><Red>" with "knife" (customkill "backstab") (attacker_position "234 590 107") (victim_position "201 549 159")
+L 10/13/2019 - 15:18:27: "CrazyEnzo03<30><[U:1:59983226]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 15:18:29: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (customkill "backstab") (attacker_position "43 575 192") (victim_position "-1 542 199")
+L 10/13/2019 - 15:18:29: "Sarc<26><[U:1:8355163]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "-25 469 199") (attacker_position "43 575 192") (victim_position "-1 542 199")
+L 10/13/2019 - 15:18:29: "Sarc<26><[U:1:8355163]><Blue>" triggered "revenge" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assist "1")
+L 10/13/2019 - 15:18:31: "CrazyEnzo03<30><[U:1:59983226]><Red>" changed role to "scout"
+L 10/13/2019 - 15:18:32: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "recorder") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "582 624 -19")
+L 10/13/2019 - 15:18:35: "[LL] Loddy<37><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "2350 -1384 -182")
+L 10/13/2019 - 15:18:38: "Sarc<26><[U:1:8355163]><Blue>" killed "{CC} Gert<42><[U:1:13211210]><Red>" with "minigun" (attacker_position "-92 361 195") (victim_position "-97 -269 96")
+L 10/13/2019 - 15:18:38: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "{CC} Gert<42><[U:1:13211210]><Red>" (assister_position "10 377 199") (attacker_position "-92 361 195") (victim_position "-97 -269 96")
+L 10/13/2019 - 15:18:38: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "club" (attacker_position "392 407 -59") (victim_position "344 419 -56")
+L 10/13/2019 - 15:18:42: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "scout"
+L 10/13/2019 - 15:18:44: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Pillar") (numcappers "2") (player1 "Sarc<26><[U:1:8355163]><Blue>") (position1 "-122 348 192") (player2 "Makers<28><[U:1:22699679]><Blue>") (position2 "102 471 199") 
+L 10/13/2019 - 15:18:44: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 15:18:44: World triggered "Round_Length" (seconds "374.44")
+L 10/13/2019 - 15:18:44: Team "Red" current score "0" with "9" players
+L 10/13/2019 - 15:18:44: Team "Blue" current score "2" with "8" players
+L 10/13/2019 - 15:18:48: "CE | LV40RAICHU<36><[U:1:19841996]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "smg" (attacker_position "17 417 -125") (victim_position "11 707 -124")
+L 10/13/2019 - 15:18:48: "Panda<35><[U:1:112376827]><Blue>" triggered "medic_death" against "HARRYZ<38><[U:1:32399126]><Red>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 15:18:48: "Panda<35><[U:1:112376827]><Blue>" killed "HARRYZ<38><[U:1:32399126]><Red>" with "scattergun" (attacker_position "841 -727 -228") (victim_position "958 -1187 -234")
+L 10/13/2019 - 15:18:48: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "HARRYZ<38><[U:1:32399126]><Red>" (assister_position "338 127 -85") (attacker_position "841 -727 -228") (victim_position "958 -1187 -234")
+L 10/13/2019 - 15:18:48: "Makers<28><[U:1:22699679]><Blue>" killed "Lomax<25><[U:1:1831779]><Red>" with "minigun" (attacker_position "344 118 -130") (victim_position "1034 -1083 -255")
+L 10/13/2019 - 15:18:48: "Panda<35><[U:1:112376827]><Blue>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Red>" (assister_position "825 -764 -232") (attacker_position "344 118 -130") (victim_position "1034 -1083 -255")
+L 10/13/2019 - 15:18:48: "Makers<28><[U:1:22699679]><Blue>" triggered "domination" against "Lomax<25><[U:1:1831779]><Red>"
+L 10/13/2019 - 15:18:51: "bearbear<34><[U:1:95728106]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "[LL] Loddy<37><[U:1:9330378]><Red>") (attacker_position "435 280 -101")
+L 10/13/2019 - 15:18:51: Vote succeeded "NextLevel koth_2fort_b2"
+L 10/13/2019 - 15:18:54: server_cvar: "nextlevel" "koth_2fort_b2"
+L 10/13/2019 - 15:18:54: "Panda<35><[U:1:112376827]><Blue>" killed "CrazyEnzo03<30><[U:1:59983226]><Red>" with "scattergun" (attacker_position "1502 -1540 -255") (victim_position "1549 -1431 -255")
+L 10/13/2019 - 15:18:54: "Makers<28><[U:1:22699679]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "822 -745 -230") (victim_position "1003 -964 -249")
+L 10/13/2019 - 15:18:59: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/13/2019 - 15:18:59: Team "Red" final score "0" with "9" players
+L 10/13/2019 - 15:18:59: Team "Blue" final score "2" with "8" players
+L 10/13/2019 - 15:19:09: server_cvar: "nextlevel" ""
+L 10/13/2019 - 15:19:09: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 15:19:09: Log file closed.

@@ -1,0 +1,637 @@
+L 10/13/2019 - 16:29:03: Log file started (file "logs/L1013016.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<89><[U:1:79056807]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "Lomax<79><[U:1:1831779]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<90><[U:1:7297941]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<56><[U:1:59983226]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<84><[U:1:16522063]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "Snek<61><[U:1:122465451]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "Darth Meerkat<57><[U:1:121426737]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "[LL] Loddy<68><[U:1:9330378]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "BEan | Lacledeslan.com<83><[U:1:7609438]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<91><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<91><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<92><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<92><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<93><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<93><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<94><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<94><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<95><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<95><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<96><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<96><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<97><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<97><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<98><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<99><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<99><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<100><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<100><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<101><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<101><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<102><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<102><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<103><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<103><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<104><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<105><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<104><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<106><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<105><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<107><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<106><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<108><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<107><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<109><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<109><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<110><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<110><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<111><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<111><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<112><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<112><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<113><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<113><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<114><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<115><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<115><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<116><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<116><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<117><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<117><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<118><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<118><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<119><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<119><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<120><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<120><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<121><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<121><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<122><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:03: "Snek<123><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/13/2019 - 16:29:03: "Snek<123><[U:1:122465451]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Snek<124><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/13/2019 - 16:29:03: "BEan | Lacledeslan.com<125><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/13/2019 - 16:29:03: "BEan | Lacledeslan.com<125><[U:1:7609438]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "BEan | Lacledeslan.com<126><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/13/2019 - 16:29:03: "Darth Meerkat<127><[U:1:121426737]><>" connected, address "172.30.41.82:27005"
+L 10/13/2019 - 16:29:03: "Darth Meerkat<127><[U:1:121426737]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Darth Meerkat<128><[U:1:121426737]><>" connected, address "172.30.41.82:27005"
+L 10/13/2019 - 16:29:03: "Lomax<129><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<129><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<130><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<130><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<131><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<131><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<132><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<132><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<133><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<133><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<134><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<134><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<135><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "Lomax<135><[U:1:1831779]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "Lomax<136><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 16:29:03: "[LL] Loddy<137><[U:1:9330378]><>" connected, address "172.30.43.23:27005"
+L 10/13/2019 - 16:29:03: "[LL] Loddy<137><[U:1:9330378]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:03: "[LL] Loddy<138><[U:1:9330378]><>" connected, address "172.30.43.23:27005"
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client Lomax received failure code 6
+L 10/13/2019 - 16:29:03: "Lomax<136><[U:1:1831779]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client CE_Poonslayer received failure code 6
+L 10/13/2019 - 16:29:03: "CE_Poonslayer<122><[U:1:79056807]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client [LL] Dudsmack received failure code 6
+L 10/13/2019 - 16:29:03: "[LL] Dudsmack<98><[U:1:7297941]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client CrazyEnzo03 received failure code 6
+L 10/13/2019 - 16:29:03: "CrazyEnzo03<114><[U:1:59983226]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client Snek received failure code 6
+L 10/13/2019 - 16:29:03: "Snek<124><[U:1:122465451]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client Darth Meerkat received failure code 6
+L 10/13/2019 - 16:29:03: "Darth Meerkat<128><[U:1:121426737]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client [LL] Loddy received failure code 6
+L 10/13/2019 - 16:29:03: "[LL] Loddy<138><[U:1:9330378]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client {CC}Maj_Flee received failure code 6
+L 10/13/2019 - 16:29:03: "{CC}Maj_Flee<108><[U:1:16522063]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:03: STEAMAUTH: Client BEan | Lacledeslan.com received failure code 6
+L 10/13/2019 - 16:29:03: "BEan | Lacledeslan.com<126><[U:1:7609438]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<139><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<139><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<140><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<140><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<141><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<141><[U:1:7297941]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:09: "[LL] Dudsmack<142><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:29:10: "[LL] Dudsmack<142><[U:1:7297941]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:13: "BEan | Lacledeslan.com<143><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/13/2019 - 16:29:13: "BEan | Lacledeslan.com<143><[U:1:7609438]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:23: "[LL] Dudsmack<142><[U:1:7297941]><>" entered the game
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<144><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<144><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<145><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<145><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<146><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<146><[U:1:59983226]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<147><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 16:29:24: "BEan | Lacledeslan.com<143><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 16:29:24: "CrazyEnzo03<147><[U:1:59983226]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<148><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<148><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<149><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<149><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<150><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<150><[U:1:16522063]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:26: "{CC}Maj_Flee<151><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:29:27: "{CC}Maj_Flee<151><[U:1:16522063]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:29: "[LL] Dudsmack<142><[U:1:7297941]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:29:29: "[LL] Loddy<152><[U:1:9330378]><>" connected, address "172.30.43.23:27005"
+L 10/13/2019 - 16:29:30: "[LL] Loddy<152><[U:1:9330378]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:30: "CrazyEnzo03<147><[U:1:59983226]><>" entered the game
+L 10/13/2019 - 16:29:31: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:29:32: "BEan | Lacledeslan.com<143><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:29:33: "Darth Meerkat<153><[U:1:121426737]><>" connected, address "172.30.41.82:27005"
+L 10/13/2019 - 16:29:33: "Darth Meerkat<153><[U:1:121426737]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:34: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/13/2019 - 16:29:36: "{CC}Maj_Flee<151><[U:1:16522063]><>" entered the game
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<154><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<154><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<155><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<155><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<156><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<156><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<157><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:29:36: "CE_Poonslayer<157><[U:1:79056807]><>" STEAM USERID validated
+L 10/13/2019 - 16:29:41: "[LL] Loddy<152><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 16:29:42: "CrazyEnzo03<147><[U:1:59983226]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:29:43: "Darth Meerkat<153><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 16:29:45: "CE_Poonslayer<157><[U:1:79056807]><>" entered the game
+L 10/13/2019 - 16:29:46: "CrazyEnzo03<147><[U:1:59983226]><Blue>" changed role to "spy"
+L 10/13/2019 - 16:29:48: "[LL] Loddy<152><[U:1:9330378]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:29:50: "{CC}Maj_Flee<151><[U:1:16522063]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:29:52: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:29:56: "[LL] Loddy<152><[U:1:9330378]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:30:00: "CE_Poonslayer<157><[U:1:79056807]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:30:01: World triggered "Round_Start"
+L 10/13/2019 - 16:30:01: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:30:01: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:30:01: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:30:08: "CE_Poonslayer<157><[U:1:79056807]><Red>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:30:42: "CrazyEnzo03<147><[U:1:59983226]><Blue>" changed role to "sniper"
+L 10/13/2019 - 16:31:16: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:31:22: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" killed "[LL] Loddy<152><[U:1:9330378]><Red>" with "minigun" (attacker_position "-641 -5678 -530") (victim_position "-122 -5486 -527")
+L 10/13/2019 - 16:31:22: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" triggered "kill assist" against "[LL] Loddy<152><[U:1:9330378]><Red>" (assister_position "207 -5287 -510") (attacker_position "-641 -5678 -530") (victim_position "-122 -5486 -527")
+L 10/13/2019 - 16:31:23: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" killed "[LL] Dudsmack<142><[U:1:7297941]><Blue>" with "degreaser" (attacker_position "-107 -5351 -406") (victim_position "151 -5298 -504")
+L 10/13/2019 - 16:31:25: "CrazyEnzo03<147><[U:1:59983226]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-767 -6116 -543") (victim_position "24 -5468 -519")
+L 10/13/2019 - 16:31:29: "[LL] Loddy<152><[U:1:9330378]><Red>" changed role to "soldier"
+L 10/13/2019 - 16:32:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Borneo Capture Point 1") (numcappers "1") (player1 "{CC}Maj_Flee<151><[U:1:16522063]><Blue>") (position1 "479 -3663 -245") 
+L 10/13/2019 - 16:32:16: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" killed "[LL] Dudsmack<142><[U:1:7297941]><Blue>" with "degreaser" (attacker_position "1261 -4288 -119") (victim_position "1181 -4124 -137")
+L 10/13/2019 - 16:32:18: "CrazyEnzo03<147><[U:1:59983226]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "sniperrifle" (attacker_position "405 -4360 -191") (victim_position "924 -4315 -159")
+L 10/13/2019 - 16:32:18: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" (assister_position "1181 -4124 -123") (attacker_position "405 -4360 -191") (victim_position "924 -4315 -159")
+L 10/13/2019 - 16:32:50: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" triggered "captureblocked" (cp "1") (cpname "Borneo Capture Point 2") (position "1557 -2681 -136")
+L 10/13/2019 - 16:32:57: "[LL] Loddy<152><[U:1:9330378]><Red>" killed "CrazyEnzo03<147><[U:1:59983226]><Blue>" with "blackbox" (attacker_position "1781 -2922 -148") (victim_position "1546 -3156 -251")
+L 10/13/2019 - 16:32:57: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" triggered "kill assist" against "CrazyEnzo03<147><[U:1:59983226]><Blue>" (assister_position "1465 -3091 -162") (attacker_position "1781 -2922 -148") (victim_position "1546 -3156 -251")
+L 10/13/2019 - 16:32:58: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" killed "[LL] Loddy<152><[U:1:9330378]><Red>" with "world" (attacker_position "1427 -3497 -255") (victim_position "1983 -2984 -409")
+L 10/13/2019 - 16:33:00: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "quake_rl" (attacker_position "1309 -3518 -255") (victim_position "1238 -3550 -194")
+L 10/13/2019 - 16:33:00: "CrazyEnzo03<147><[U:1:59983226]><Blue>" changed role to "scout"
+L 10/13/2019 - 16:33:04: "CrazyEnzo03<147><[U:1:59983226]><Blue>" changed role to "sniper"
+L 10/13/2019 - 16:33:12: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Borneo Capture Point 2") (numcappers "2") (player1 "[LL] Dudsmack<142><[U:1:7297941]><Blue>") (position1 "1573 -2186 -117") (player2 "{CC}Maj_Flee<151><[U:1:16522063]><Blue>") (position2 "1642 -2243 -117") 
+L 10/13/2019 - 16:33:41: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" triggered "captureblocked" (cp "2") (cpname "Borneo Capture Point 3") (position "702 -653 -10")
+L 10/13/2019 - 16:33:44: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "quake_rl" (attacker_position "559 -788 -127") (victim_position "763 -938 -89")
+L 10/13/2019 - 16:33:44: "CrazyEnzo03<147><[U:1:59983226]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" (assister_position "1092 -737 -104") (attacker_position "559 -788 -127") (victim_position "763 -938 -89")
+L 10/13/2019 - 16:34:02: "[LL] Loddy<152><[U:1:9330378]><Red>" killed "[LL] Dudsmack<142><[U:1:7297941]><Blue>" with "blackbox" (attacker_position "-359 -472 64") (victim_position "-751 -680 -127")
+L 10/13/2019 - 16:34:12: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "minigun" (attacker_position "-713 -347 -127") (victim_position "-970 75 -89")
+L 10/13/2019 - 16:34:13: "[LL] Loddy<152><[U:1:9330378]><Red>" triggered "captureblocked" (cp "2") (cpname "Borneo Capture Point 3") (position "-648 -541 -127")
+L 10/13/2019 - 16:34:13: "[LL] Loddy<152><[U:1:9330378]><Red>" killed "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" with "blackbox" (attacker_position "-648 -541 -127") (victim_position "-713 -279 -127")
+L 10/13/2019 - 16:34:13: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" triggered "kill assist" against "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" (assister_position "-1008 143 -62") (attacker_position "-648 -541 -127") (victim_position "-713 -279 -127")
+L 10/13/2019 - 16:34:15: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:34:25: "[LL] Loddy<152><[U:1:9330378]><Red>" killed "CrazyEnzo03<147><[U:1:59983226]><Blue>" with "blackbox" (attacker_position "-651 -575 -127") (victim_position "-775 -648 -127")
+L 10/13/2019 - 16:34:34: "CrazyEnzo03<147><[U:1:59983226]><Blue>" changed role to "scout"
+L 10/13/2019 - 16:35:21: "Darth Meerkat<153><[U:1:121426737]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:35:26: "CrazyEnzo03<147><[U:1:59983226]><Blue>" killed "[LL] Loddy<152><[U:1:9330378]><Red>" with "scattergun" (attacker_position "-551 -180 64") (victim_position "-556 -671 -127")
+L 10/13/2019 - 16:35:39: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" triggered "captureblocked" (cp "2") (cpname "Borneo Capture Point 3") (position "-799 -530 -127")
+L 10/13/2019 - 16:35:42: "CrazyEnzo03<147><[U:1:59983226]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "scattergun" (attacker_position "-583 -143 -127") (victim_position "-638 -68 -127")
+L 10/13/2019 - 16:35:50: "[LL] Loddy<152><[U:1:9330378]><Red>" changed role to "sniper"
+L 10/13/2019 - 16:35:55: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Borneo Capture Point 3") (numcappers "2") (player1 "[LL] Dudsmack<142><[U:1:7297941]><Blue>") (position1 "-1042 25 -127") (player2 "{CC}Maj_Flee<151><[U:1:16522063]><Blue>") (position2 "-1177 35 -117") 
+L 10/13/2019 - 16:36:04: "CrazyEnzo03<147><[U:1:59983226]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:36:19: "[LL] Loddy<152><[U:1:9330378]><Red>" killed "[LL] Dudsmack<142><[U:1:7297941]><Blue>" with "machina" (customkill "headshot") (attacker_position "-1244 2558 -127") (victim_position "-1098 1483 -76")
+L 10/13/2019 - 16:36:25: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" killed "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" with "minigun" (attacker_position "-1071 1890 -127") (victim_position "-1106 1672 -108")
+L 10/13/2019 - 16:36:30: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" killed "[LL] Loddy<152><[U:1:9330378]><Red>" with "minigun" (attacker_position "-1082 2088 -127") (victim_position "-1338 2034 -127")
+L 10/13/2019 - 16:36:31: "[LL] Loddy<152><[U:1:9330378]><Red>" triggered "jarate_attack" against "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" with "tf_weapon_jar" (attacker_position "-1309 1973 -52") (victim_position "-1093 2107 -127")
+L 10/13/2019 - 16:36:37: World triggered "Mini_Round_Win" (winner "Blue") (round "Round_A")
+L 10/13/2019 - 16:36:37: World triggered "Mini_Round_Length" (seconds "395.76")
+L 10/13/2019 - 16:36:37: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 16:36:37: Team "Red" current score "0" with "2" players
+L 10/13/2019 - 16:36:37: Team "Blue" current score "4" with "2" players
+L 10/13/2019 - 16:36:46: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" say "wanna do arena?"
+L 10/13/2019 - 16:36:51: "[LL] Dudsmack<142><[U:1:7297941]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:36:52: World triggered "Round_Start"
+L 10/13/2019 - 16:36:52: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:36:52: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:36:52: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:36:52: "BEan | Lacledeslan.com<143><[U:1:7609438]><Red>" joined team "Blue"
+L 10/13/2019 - 16:36:52: "{CC}Maj_Flee<151><[U:1:16522063]><Blue>" joined team "Red"
+L 10/13/2019 - 16:36:52: "[LL] Loddy<152><[U:1:9330378]><Red>" joined team "Blue"
+L 10/13/2019 - 16:37:17: "BEan | Lacledeslan.com<143><[U:1:7609438]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:37:50: "{CC}Maj_Flee<151><[U:1:16522063]><Red>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:38:07: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:38:15: "[LL] Loddy<152><[U:1:9330378]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:39:30: rcon from "172.30.43.15:61239": command "echo HLSW: Test"
+L 10/13/2019 - 16:39:37: "Numnutz<158><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<158><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "Numnutz<158><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:37: "Numnutz<158><BOT><Blue>" changed role to "medic"
+L 10/13/2019 - 16:39:37: "H@XX0RZ<159><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<159><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "H@XX0RZ<159><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:37: "H@XX0RZ<159><BOT><Red>" changed role to "medic"
+L 10/13/2019 - 16:39:37: "The G-Man<160><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<160><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "The G-Man<160><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:37: "The G-Man<160><BOT><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:39:37: "Chell<161><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<161><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "Chell<161><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:37: "Chell<161><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:39:37: "The Combine<162><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<162><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "The Combine<162><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:37: "The Combine<162><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:39:37: "Totally Not A Bot<163><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<163><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "Totally Not A Bot<163><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:37: "Totally Not A Bot<163><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:39:37: "Pow!<164><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<164><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "Pow!<164><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:37: "Pow!<164><BOT><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:39:37: "Zepheniah Mann<165><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<165><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "Zepheniah Mann<165><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:37: "Zepheniah Mann<165><BOT><Red>" changed role to "demoman"
+L 10/13/2019 - 16:39:37: "THEM<166><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<166><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "THEM<166><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:37: "THEM<166><BOT><Blue>" changed role to "demoman"
+L 10/13/2019 - 16:39:37: "LOS LOS LOS<167><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:37: "<167><BOT><>" entered the game
+L 10/13/2019 - 16:39:37: "LOS LOS LOS<167><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:37: "LOS LOS LOS<167><BOT><Red>" changed role to "scout"
+L 10/13/2019 - 16:39:37: rcon from "172.30.43.15:61239": command "tf_bot_add 10"
+L 10/13/2019 - 16:39:38: "H@XX0RZ<159><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:38: "Numnutz<158><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:39: "Chell<161><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:39: "The G-Man<160><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:39: "Totally Not A Bot<163><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:39: server_cvar: "tf_bot_count" "5"
+L 10/13/2019 - 16:39:39: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:39:39: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:39:39: "The Combine<162><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:40: "Zepheniah Mann<165><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:40: "Pow!<164><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:40: "LOS LOS LOS<167><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:40: "THEM<166><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:44: server_cvar: "tf_bot_count" "0"
+L 10/13/2019 - 16:39:44: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:39:44: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:39:56: "10001011101<168><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<168><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "10001011101<168><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:56: "10001011101<168><BOT><Blue>" changed role to "medic"
+L 10/13/2019 - 16:39:56: "DeadHead<169><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<169><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "DeadHead<169><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:56: "DeadHead<169><BOT><Red>" changed role to "medic"
+L 10/13/2019 - 16:39:56: "ZAWMBEEZ<170><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<170><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "ZAWMBEEZ<170><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:56: "ZAWMBEEZ<170><BOT><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:39:56: "MindlessElectrons<171><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<171><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "MindlessElectrons<171><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:56: "MindlessElectrons<171><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:39:56: "TAAAAANK!<172><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<172><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "TAAAAANK!<172><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:56: "TAAAAANK!<172><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:39:56: "The Freeman<173><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<173><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "The Freeman<173><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:56: "The Freeman<173><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:39:56: "Black Mesa<174><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<174><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "Black Mesa<174><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:39:56: "Black Mesa<174><BOT><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:39:56: "Soulless<175><BOT><>" connected, address "none"
+L 10/13/2019 - 16:39:56: "<175><BOT><>" entered the game
+L 10/13/2019 - 16:39:56: "Soulless<175><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:39:56: "Soulless<175><BOT><Red>" changed role to "demoman"
+L 10/13/2019 - 16:39:56: rcon from "172.30.43.15:61239": command "tf_bot_add 8"
+L 10/13/2019 - 16:39:57: "DeadHead<169><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:58: "10001011101<168><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:58: "MindlessElectrons<171><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:58: "ZAWMBEEZ<170><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:58: "The Freeman<173><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:59: "TAAAAANK!<172><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:59: "Soulless<175><BOT><Red>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:39:59: "Black Mesa<174><BOT><Blue>" disconnected (reason "Kicked from server")
+L 10/13/2019 - 16:40:28: "[LL] Loddy<176><[U:1:9330378]><>" connected, address "172.30.43.23:27005"
+L 10/13/2019 - 16:40:28: "[LL] Loddy<176><[U:1:9330378]><>" STEAM USERID validated
+L 10/13/2019 - 16:40:50: "[LL] Loddy<176><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 16:41:03: "[LL] Loddy<176><[U:1:9330378]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:03: "CEDA<177><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:03: "<177><BOT><>" entered the game
+L 10/13/2019 - 16:41:03: "CEDA<177><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:03: "CEDA<177><BOT><Red>" changed role to "medic"
+L 10/13/2019 - 16:41:03: "CEDA<177><BOT><Red>" changed name to "BeepBeepBoop"
+L 10/13/2019 - 16:41:03: "NotMe<178><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:03: "<178><BOT><>" entered the game
+L 10/13/2019 - 16:41:03: "NotMe<178><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:03: "NotMe<178><BOT><Blue>" changed role to "medic"
+L 10/13/2019 - 16:41:03: "NotMe<178><BOT><Blue>" changed name to "CreditToTeam"
+L 10/13/2019 - 16:41:03: "BoomerBile<179><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:03: "<179><BOT><>" entered the game
+L 10/13/2019 - 16:41:03: "BoomerBile<179><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:03: "BoomerBile<179><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:41:03: "BoomerBile<179><BOT><Red>" changed name to "Someone Else"
+L 10/13/2019 - 16:41:04: "Mann Co.<180><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:04: "<180><BOT><>" entered the game
+L 10/13/2019 - 16:41:04: "Mann Co.<180><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:04: "Mann Co.<180><BOT><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:41:04: "Mann Co.<180><BOT><Blue>" changed name to "Dog"
+L 10/13/2019 - 16:41:04: "Kaboom!<181><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:04: "<181><BOT><>" entered the game
+L 10/13/2019 - 16:41:04: "Kaboom!<181><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:04: "Kaboom!<181><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:41:04: "Kaboom!<181><BOT><Red>" changed name to "AmNot"
+L 10/13/2019 - 16:41:04: "0xDEADBEEF<182><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:04: "<182><BOT><>" entered the game
+L 10/13/2019 - 16:41:04: "0xDEADBEEF<182><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:04: "0xDEADBEEF<182><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:41:04: "0xDEADBEEF<182><BOT><Blue>" changed name to "HI THERE"
+L 10/13/2019 - 16:41:04: server_cvar: "tf_bot_count" "6"
+L 10/13/2019 - 16:41:04: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:41:04: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:41:04: "SomeDude<183><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:04: "<183><BOT><>" entered the game
+L 10/13/2019 - 16:41:04: "SomeDude<183><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:04: "SomeDude<183><BOT><Red>" changed role to "demoman"
+L 10/13/2019 - 16:41:05: "SomeDude<183><BOT><Red>" changed name to "GLaDOS"
+L 10/13/2019 - 16:41:05: "Hostage<184><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:05: "<184><BOT><>" entered the game
+L 10/13/2019 - 16:41:05: "Hostage<184><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:05: "Hostage<184><BOT><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:41:05: "Hostage<184><BOT><Blue>" changed name to "Headful of Eyeballs"
+L 10/13/2019 - 16:41:05: "CrySomeMore<185><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:05: "<185><BOT><>" entered the game
+L 10/13/2019 - 16:41:05: "CrySomeMore<185><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:05: "CrySomeMore<185><BOT><Red>" changed role to "scout"
+L 10/13/2019 - 16:41:05: "CrySomeMore<185><BOT><Red>" changed name to "Aperture Science Prototype XR7"
+L 10/13/2019 - 16:41:05: "Humans Are Weak<186><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:05: "<186><BOT><>" entered the game
+L 10/13/2019 - 16:41:05: "Humans Are Weak<186><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:05: "Humans Are Weak<186><BOT><Blue>" changed role to "demoman"
+L 10/13/2019 - 16:41:05: "Humans Are Weak<186><BOT><Blue>" changed name to "AimBot"
+L 10/13/2019 - 16:41:06: "C++<187><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:06: "<187><BOT><>" entered the game
+L 10/13/2019 - 16:41:06: "C++<187><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:06: "C++<187><BOT><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:41:06: "C++<187><BOT><Red>" changed name to "GutsAndGlory!"
+L 10/13/2019 - 16:41:06: "Nobody<188><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:06: "<188><BOT><>" entered the game
+L 10/13/2019 - 16:41:06: "Nobody<188><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:06: "Nobody<188><BOT><Blue>" changed role to "scout"
+L 10/13/2019 - 16:41:06: "Nobody<188><BOT><Blue>" changed name to "Saxton Hale"
+L 10/13/2019 - 16:41:06: "RageQuit<189><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:06: "<189><BOT><>" entered the game
+L 10/13/2019 - 16:41:06: "RageQuit<189><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:06: "RageQuit<189><BOT><Red>" changed role to "sniper"
+L 10/13/2019 - 16:41:06: "RageQuit<189><BOT><Red>" changed name to "Screamin' Eagles"
+L 10/13/2019 - 16:41:06: "Ze Ubermensch<190><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:06: "<190><BOT><>" entered the game
+L 10/13/2019 - 16:41:06: "Ze Ubermensch<190><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:06: "Ze Ubermensch<190><BOT><Blue>" changed role to "pyro"
+L 10/13/2019 - 16:41:06: "Ze Ubermensch<190><BOT><Blue>" changed name to "Maggot"
+L 10/13/2019 - 16:41:07: "CRITRAWKETS<191><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:07: "<191><BOT><>" entered the game
+L 10/13/2019 - 16:41:07: "CRITRAWKETS<191><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:07: "CRITRAWKETS<191><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:41:07: "CRITRAWKETS<191><BOT><Red>" changed name to "Herr Doktor"
+L 10/13/2019 - 16:41:07: "Gentlemanne of Leisure<192><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:07: "<192><BOT><>" entered the game
+L 10/13/2019 - 16:41:07: "Gentlemanne of Leisure<192><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:07: "Gentlemanne of Leisure<192><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:41:07: "Gentlemanne of Leisure<192><BOT><Blue>" changed name to "Companion Cube"
+L 10/13/2019 - 16:41:07: "Target Practice<193><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:07: "<193><BOT><>" entered the game
+L 10/13/2019 - 16:41:07: "Target Practice<193><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:41:07: "Target Practice<193><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:41:07: "Target Practice<193><BOT><Red>" changed name to "One-Man Cheeseburger Apocalypse"
+L 10/13/2019 - 16:41:07: "Crowbar<194><BOT><>" connected, address "none"
+L 10/13/2019 - 16:41:07: "<194><BOT><>" entered the game
+L 10/13/2019 - 16:41:07: "Crowbar<194><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:41:07: "Crowbar<194><BOT><Blue>" changed role to "demoman"
+L 10/13/2019 - 16:41:07: "Crowbar<194><BOT><Blue>" changed name to "Delicious Cake"
+L 10/13/2019 - 16:41:08: World triggered "Round_Start"
+L 10/13/2019 - 16:41:08: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:41:08: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:41:08: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:41:09: "[LL] Loddy<176><[U:1:9330378]><Blue>" changed role to "sniper"
+L 10/13/2019 - 16:41:09: server_cvar: "tf_bot_count" "18"
+L 10/13/2019 - 16:42:23: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:43:39: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Borneo Capture Point 1") (numcappers "1") (player1 "[LL] Loddy<176><[U:1:9330378]><Blue>") (position1 "481 -3663 -245") 
+L 10/13/2019 - 16:45:26: rcon from "172.30.43.15:61239": command "score"
+L 10/13/2019 - 16:46:18: S3: Duplicate client connection: UserID: c3 SteamID 8e5eca
+L 10/13/2019 - 16:46:18: S3: Duplicate client connection: UserID: c3 SteamID 8e5eca
+L 10/13/2019 - 16:46:18: S3: Duplicate client connection: UserID: c3 SteamID 8e5eca
+L 10/13/2019 - 16:46:18: S3: Duplicate client connection: UserID: c3 SteamID 8e5eca
+L 10/13/2019 - 16:46:19: "[LL] Loddy<176><[U:1:9330378]><Blue>" disconnected (reason "[LL] Loddy timed out")
+L 10/13/2019 - 16:46:19: "BeepBeepBoop<177><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "CreditToTeam<178><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Someone Else<179><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Dog<180><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "AmNot<181><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "HI THERE<182><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "GLaDOS<183><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Headful of Eyeballs<184><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Aperture Science Prototype XR7<185><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "AimBot<186><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "GutsAndGlory!<187><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Saxton Hale<188><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Screamin' Eagles<189><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Maggot<190><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Herr Doktor<191><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Companion Cube<192><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "One-Man Cheeseburger Apocalypse<193><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:19: "Delicious Cake<194><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:46:20: server_cvar: "tf_bot_count" "0"
+L 10/13/2019 - 16:46:20: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:46:20: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:46:26: "[LL] Loddy<195><[U:1:9330378]><>" connected, address "172.30.40.19:27005"
+L 10/13/2019 - 16:46:26: "[LL] Loddy<195><[U:1:9330378]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:46:26: "[LL] Loddy<196><[U:1:9330378]><>" connected, address "172.30.40.19:27005"
+L 10/13/2019 - 16:46:26: "[LL] Loddy<196><[U:1:9330378]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:46:26: "[LL] Loddy<197><[U:1:9330378]><>" connected, address "172.30.40.19:27005"
+L 10/13/2019 - 16:46:26: "[LL] Loddy<197><[U:1:9330378]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:46:26: "[LL] Loddy<198><[U:1:9330378]><>" connected, address "172.30.40.19:27005"
+L 10/13/2019 - 16:46:27: "[LL] Loddy<198><[U:1:9330378]><>" STEAM USERID validated
+L 10/13/2019 - 16:46:34: "[LL] Loddy<198><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 16:46:41: "[LL] Loddy<198><[U:1:9330378]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:41: "IvanTheSpaceBiker<199><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:41: "<199><BOT><>" entered the game
+L 10/13/2019 - 16:46:41: "IvanTheSpaceBiker<199><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:41: "IvanTheSpaceBiker<199><BOT><Red>" changed role to "medic"
+L 10/13/2019 - 16:46:41: "IvanTheSpaceBiker<199><BOT><Red>" changed name to "I LIVE!"
+L 10/13/2019 - 16:46:41: "Cannon Fodder<200><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:41: "<200><BOT><>" entered the game
+L 10/13/2019 - 16:46:41: "Cannon Fodder<200><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:41: "Cannon Fodder<200><BOT><Blue>" changed role to "medic"
+L 10/13/2019 - 16:46:41: "Cannon Fodder<200><BOT><Blue>" changed name to "trigger_hurt"
+L 10/13/2019 - 16:46:41: "Nom Nom Nom<201><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:41: "<201><BOT><>" entered the game
+L 10/13/2019 - 16:46:41: "Nom Nom Nom<201><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:41: "Nom Nom Nom<201><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:46:41: "Nom Nom Nom<201><BOT><Red>" changed name to "Divide by Zero"
+L 10/13/2019 - 16:46:42: "GENTLE MANNE of LEISURE<202><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:42: "<202><BOT><>" entered the game
+L 10/13/2019 - 16:46:42: "GENTLE MANNE of LEISURE<202><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:42: "GENTLE MANNE of LEISURE<202><BOT><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:46:42: "GENTLE MANNE of LEISURE<202><BOT><Blue>" changed name to "MoreGun"
+L 10/13/2019 - 16:46:42: "Tiny Baby Man<203><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:42: "<203><BOT><>" entered the game
+L 10/13/2019 - 16:46:42: "Tiny Baby Man<203><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:42: "Tiny Baby Man<203><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:46:42: "Tiny Baby Man<203><BOT><Red>" changed name to "Big Mean Muther Hubbard"
+L 10/13/2019 - 16:46:42: "Force of Nature<204><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:42: "<204><BOT><>" entered the game
+L 10/13/2019 - 16:46:42: "Force of Nature<204><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:42: "Force of Nature<204><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:46:42: "Force of Nature<204><BOT><Blue>" changed name to "Crazed Gunman"
+L 10/13/2019 - 16:46:42: "Grim Bloody Fable<205><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:42: "<205><BOT><>" entered the game
+L 10/13/2019 - 16:46:42: "Grim Bloody Fable<205><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:42: "Grim Bloody Fable<205><BOT><Red>" changed role to "demoman"
+L 10/13/2019 - 16:46:42: "Grim Bloody Fable<205><BOT><Red>" changed name to "Poopy Joe"
+L 10/13/2019 - 16:46:43: "A Professional With Standards<206><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:43: "<206><BOT><>" entered the game
+L 10/13/2019 - 16:46:43: "A Professional With Standards<206><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:43: "A Professional With Standards<206><BOT><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:46:43: "A Professional With Standards<206><BOT><Blue>" changed name to "Freakin' Unbelievable"
+L 10/13/2019 - 16:46:43: "SMELLY UNFORTUNATE<207><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:43: "<207><BOT><>" entered the game
+L 10/13/2019 - 16:46:43: "SMELLY UNFORTUNATE<207><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:43: "SMELLY UNFORTUNATE<207><BOT><Red>" changed role to "scout"
+L 10/13/2019 - 16:46:43: "SMELLY UNFORTUNATE<207><BOT><Red>" changed name to "The Administrator"
+L 10/13/2019 - 16:46:43: "Mentlegen<208><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:43: "<208><BOT><>" entered the game
+L 10/13/2019 - 16:46:43: "Mentlegen<208><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:43: "Mentlegen<208><BOT><Blue>" changed role to "demoman"
+L 10/13/2019 - 16:46:43: "Mentlegen<208><BOT><Blue>" changed name to "Archimedes!"
+L 10/13/2019 - 16:46:43: "Ribs Grow Back<209><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:43: "<209><BOT><>" entered the game
+L 10/13/2019 - 16:46:43: "Ribs Grow Back<209><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:43: "Ribs Grow Back<209><BOT><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:46:43: "Ribs Grow Back<209><BOT><Red>" changed name to "It's Filthy in There!"
+L 10/13/2019 - 16:46:44: "Mega Baboon<210><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:44: "<210><BOT><>" entered the game
+L 10/13/2019 - 16:46:44: "Mega Baboon<210><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:44: "Mega Baboon<210><BOT><Blue>" changed role to "scout"
+L 10/13/2019 - 16:46:44: "Mega Baboon<210><BOT><Blue>" changed name to "Kill Me"
+L 10/13/2019 - 16:46:44: "Glorified Toaster with Legs<211><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:44: "<211><BOT><>" entered the game
+L 10/13/2019 - 16:46:44: "Glorified Toaster with Legs<211><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:44: "Glorified Toaster with Legs<211><BOT><Red>" changed role to "sniper"
+L 10/13/2019 - 16:46:44: "Glorified Toaster with Legs<211><BOT><Red>" changed name to "Chucklenuts"
+L 10/13/2019 - 16:46:44: "CryBaby<212><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:44: "<212><BOT><>" entered the game
+L 10/13/2019 - 16:46:44: "CryBaby<212><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:44: "CryBaby<212><BOT><Blue>" changed role to "pyro"
+L 10/13/2019 - 16:46:44: "CryBaby<212><BOT><Blue>" changed name to "WITCH"
+L 10/13/2019 - 16:46:44: "ThatGuy<213><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:44: "<213><BOT><>" entered the game
+L 10/13/2019 - 16:46:44: "ThatGuy<213><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:44: "ThatGuy<213><BOT><Red>" changed role to "engineer"
+L 10/13/2019 - 16:46:44: "ThatGuy<213><BOT><Red>" changed name to "Still Alive"
+L 10/13/2019 - 16:46:45: "Hat-Wearing MAN<214><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:45: "<214><BOT><>" entered the game
+L 10/13/2019 - 16:46:45: "Hat-Wearing MAN<214><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:45: "Hat-Wearing MAN<214><BOT><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:46:45: "Hat-Wearing MAN<214><BOT><Blue>" changed name to "Me"
+L 10/13/2019 - 16:46:45: "Numnutz<215><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:45: "<215><BOT><>" entered the game
+L 10/13/2019 - 16:46:45: "Numnutz<215><BOT><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:46:45: "Numnutz<215><BOT><Red>" changed role to "soldier"
+L 10/13/2019 - 16:46:45: "Numnutz<215><BOT><Red>" changed name to "H@XX0RZ"
+L 10/13/2019 - 16:46:45: server_cvar: "tf_bot_count" "17"
+L 10/13/2019 - 16:46:45: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:46:45: server_cvar: "sv_tags" "alltalk,bots,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:46:45: "The G-Man<216><BOT><>" connected, address "none"
+L 10/13/2019 - 16:46:45: "<216><BOT><>" entered the game
+L 10/13/2019 - 16:46:45: "The G-Man<216><BOT><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:46:45: "The G-Man<216><BOT><Blue>" changed role to "demoman"
+L 10/13/2019 - 16:46:45: "The G-Man<216><BOT><Blue>" changed name to "Chell"
+L 10/13/2019 - 16:46:46: "[LL] Loddy<198><[U:1:9330378]><Blue>" changed role to "sniper"
+L 10/13/2019 - 16:46:50: server_cvar: "tf_bot_count" "18"
+L 10/13/2019 - 16:47:11: World triggered "Round_Start"
+L 10/13/2019 - 16:47:11: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:47:11: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:47:11: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:48:26: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:49:42: "{CC}Maj_Flee<217><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 16:49:43: "{CC}Maj_Flee<217><[U:1:16522063]><>" STEAM USERID validated
+L 10/13/2019 - 16:50:10: "{CC}Maj_Flee<217><[U:1:16522063]><>" entered the game
+L 10/13/2019 - 16:50:32: "{CC}Maj_Flee<217><[U:1:16522063]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:50:36: "{CC}Maj_Flee<217><[U:1:16522063]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:52:00: "{CC}Maj_Flee<217><[U:1:16522063]><Red>" triggered "captureblocked" (cp "0") (cpname "Borneo Capture Point 1") (position "-527 -5936 -543")
+L 10/13/2019 - 16:52:07: "[LL] Loddy<198><[U:1:9330378]><Blue>" triggered "jarate_attack" against "{CC}Maj_Flee<217><[U:1:16522063]><Red>" with "tf_weapon_jar" (attacker_position "-606 -5944 -543") (victim_position "-527 -5936 -543")
+L 10/13/2019 - 16:52:56: World triggered "Round_Overtime"
+L 10/13/2019 - 16:53:12: "[LL] Loddy<198><[U:1:9330378]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:53:15: "{CC}Maj_Flee<217><[U:1:16522063]><Red>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:53:15: "I LIVE!<199><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "trigger_hurt<200><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Divide by Zero<201><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "MoreGun<202><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Big Mean Muther Hubbard<203><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Crazed Gunman<204><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Poopy Joe<205><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Freakin' Unbelievable<206><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "The Administrator<207><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Archimedes!<208><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "It's Filthy in There!<209><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Kill Me<210><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Chucklenuts<211><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "WITCH<212><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Still Alive<213><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Me<214><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "H@XX0RZ<215><BOT><Red>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:15: "Chell<216><BOT><Blue>" disconnected (reason "Punting bot, server is hibernating")
+L 10/13/2019 - 16:53:16: server_cvar: "tf_bot_count" "0"
+L 10/13/2019 - 16:53:16: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:53:16: server_cvar: "sv_tags" "alltalk,increased_maxplayers,noquickplay,payload"
+L 10/13/2019 - 16:53:17: World triggered "Mini_Round_Win" (winner "Red") (round "Round_A")
+L 10/13/2019 - 16:53:17: World triggered "Mini_Round_Length" (seconds "365.62")
+L 10/13/2019 - 16:53:17: World triggered "Round_Win" (winner "Red")
+L 10/13/2019 - 16:53:17: Team "Red" current score "0" with "0" players
+L 10/13/2019 - 16:53:17: Team "Blue" current score "0" with "0" players
+L 10/13/2019 - 16:53:17: World triggered "ScrambleTeams_Auto"
+L 10/13/2019 - 16:53:32: World triggered "Round_Start"
+L 10/13/2019 - 16:53:32: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:53:32: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:53:32: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:54:47: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:59:17: World triggered "Mini_Round_Win" (winner "Red") (round "Round_A")
+L 10/13/2019 - 16:59:17: World triggered "Mini_Round_Length" (seconds "345.02")
+L 10/13/2019 - 16:59:17: World triggered "Round_Win" (winner "Red")
+L 10/13/2019 - 16:59:17: Team "Red" current score "0" with "0" players
+L 10/13/2019 - 16:59:17: Team "Blue" current score "0" with "0" players
+L 10/13/2019 - 16:59:32: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/13/2019 - 16:59:32: Team "Red" final score "0" with "0" players
+L 10/13/2019 - 16:59:32: Team "Blue" final score "0" with "0" players
+L 10/13/2019 - 16:59:42: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 16:59:42: Log file closed.

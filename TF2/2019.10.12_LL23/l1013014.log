@@ -1,0 +1,366 @@
+L 10/13/2019 - 16:12:28: Log file started (file "logs/L1013014.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 16:12:28: "bearbear<70><[U:1:95728106]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 16:12:34: "CrazyEnzo03<56><[U:1:59983226]><>" entered the game
+L 10/13/2019 - 16:12:37: "Lomax<79><[U:1:1831779]><>" entered the game
+L 10/13/2019 - 16:12:37: "{CC}Maj_Flee<84><[U:1:16522063]><>" entered the game
+L 10/13/2019 - 16:12:39: "Darth Meerkat<57><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 16:12:39: "Snek<61><[U:1:122465451]><>" entered the game
+L 10/13/2019 - 16:12:40: "[LL] Loddy<68><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 16:12:40: "BEan | Lacledeslan.com<83><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 16:12:44: "CrazyEnzo03<56><[U:1:59983226]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:12:46: "{CC}Maj_Flee<84><[U:1:16522063]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:12:47: "[LL] Loddy<68><[U:1:9330378]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:12:47: "Lomax<79><[U:1:1831779]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:12:48: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:12:51: "Lomax<79><[U:1:1831779]><Red>" changed role to "soldier"
+L 10/13/2019 - 16:12:51: "CrazyEnzo03<56><[U:1:59983226]><Blue>" changed role to "scout"
+L 10/13/2019 - 16:12:52: "[LL] Loddy<68><[U:1:9330378]><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:12:57: "BEan | Lacledeslan.com<83><[U:1:7609438]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:12:59: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<86><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<86><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<87><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<87><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<88><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<88><[U:1:79056807]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<89><[U:1:79056807]><>" connected, address "172.30.42.135:27005"
+L 10/13/2019 - 16:13:06: "CE_Poonslayer<89><[U:1:79056807]><>" STEAM USERID validated
+L 10/13/2019 - 16:13:07: "Snek<61><[U:1:122465451]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:13:10: "Darth Meerkat<57><[U:1:121426737]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:13:19: World triggered "Round_Start"
+L 10/13/2019 - 16:13:19: World triggered "Round_Setup_Begin"
+L 10/13/2019 - 16:13:19: World triggered "Mini_Round_Selected" (round "Round_A")
+L 10/13/2019 - 16:13:19: World triggered "Mini_Round_Start"
+L 10/13/2019 - 16:13:25: "CE_Poonslayer<89><[U:1:79056807]><>" entered the game
+L 10/13/2019 - 16:13:29: "Snek<61><[U:1:122465451]><Red>" changed role to "demoman"
+L 10/13/2019 - 16:13:45: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "sniper"
+L 10/13/2019 - 16:13:49: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" joined team "Blue"
+L 10/13/2019 - 16:13:49: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" committed suicide with "world" (attacker_position "3844 -1605 -39")
+L 10/13/2019 - 16:14:14: "CE_Poonslayer<89><[U:1:79056807]><Unassigned>" joined team "Red"
+L 10/13/2019 - 16:14:17: "CE_Poonslayer<89><[U:1:79056807]><Red>" changed role to "demoman"
+L 10/13/2019 - 16:14:44: World triggered "Round_Setup_End"
+L 10/13/2019 - 16:14:48: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "5119 -1807 -287") (victim_position "5582 -2180 -318")
+L 10/13/2019 - 16:14:49: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "minigun" (attacker_position "5173 -1509 -281") (victim_position "5283 -1728 -294")
+L 10/13/2019 - 16:14:55: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "4497 -2126 -221")
+L 10/13/2019 - 16:14:58: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "captureblocked" (cp "0") (cpname "#Badwater_cap_1") (position "4116 -2218 -39")
+L 10/13/2019 - 16:14:58: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "machina" (customkill "headshot") (attacker_position "4116 -2218 -39") (victim_position "5380 -2220 -316")
+L 10/13/2019 - 16:14:58: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "3998 -1544 -52") (attacker_position "4116 -2218 -39") (victim_position "5380 -2220 -316")
+L 10/13/2019 - 16:15:03: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "robot_arm" (attacker_position "4098 -2269 -39") (victim_position "4116 -2218 -39")
+L 10/13/2019 - 16:15:05: "Snek<61><[U:1:122465451]><Red>" changed role to "scout"
+L 10/13/2019 - 16:15:09: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "fryingpan" (attacker_position "3753 -1772 -43") (victim_position "3697 -1767 -41")
+L 10/13/2019 - 16:15:14: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_pipe" (attacker_position "4078 -2157 -39") (victim_position "4030 -2032 -39")
+L 10/13/2019 - 16:15:21: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_pipe" (attacker_position "3732 -1551 -26") (victim_position "4142 -1602 -96")
+L 10/13/2019 - 16:15:21: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "3785 -1642 -41") (attacker_position "3732 -1551 -26") (victim_position "4142 -1602 -96")
+L 10/13/2019 - 16:15:21: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "4252 -1019 -250")
+L 10/13/2019 - 16:15:30: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "medic"
+L 10/13/2019 - 16:15:33: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_pipe" (attacker_position "3843 -1691 -38") (victim_position "4033 -1651 -47")
+L 10/13/2019 - 16:15:34: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "pep_pistol" (attacker_position "4209 -1298 -208") (victim_position "4288 -975 -264")
+L 10/13/2019 - 16:15:37: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "sandman") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "4232 -1045 -242")
+L 10/13/2019 - 16:15:53: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Lomax<79><[U:1:1831779]><Red>" with "tf_weapon_medigun" (attacker_position "4255 -1016 -251") (victim_position "4484 -1218 -174")
+L 10/13/2019 - 16:16:08: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "fryingpan" (attacker_position "3568 -852 -151") (victim_position "3627 -802 -123")
+L 10/13/2019 - 16:16:09: "Lomax<79><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "4288 -860 -271") (victim_position "4319 -929 -271")
+L 10/13/2019 - 16:16:09: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "world" (attacker_position "4319 -929 -271") (victim_position "4288 -860 -271")
+L 10/13/2019 - 16:16:09: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "496") (ubercharge "0")
+L 10/13/2019 - 16:16:09: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "fryingpan" (attacker_position "3424 -797 -151") (victim_position "3453 -817 -151")
+L 10/13/2019 - 16:16:11: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "4450 -2099 -220")
+L 10/13/2019 - 16:16:12: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "0") (cpname "#Badwater_cap_1") (position "4376 -1498 -207")
+L 10/13/2019 - 16:16:13: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "frontier_justice" (attacker_position "4591 -1826 -228") (victim_position "4396 -1490 -212")
+L 10/13/2019 - 16:16:17: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "4563 -1113 -216")
+L 10/13/2019 - 16:16:20: "CE_Poonslayer<89><[U:1:79056807]><Red>" changed role to "scout"
+L 10/13/2019 - 16:16:26: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Badwater_cap_1") (numcappers "1") (player1 "{CC}Maj_Flee<84><[U:1:16522063]><Blue>") (position1 "3655 -1334 -141") 
+L 10/13/2019 - 16:16:48: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "2227 -2448 -215") (victim_position "2163 -1882 -204")
+L 10/13/2019 - 16:16:48: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "2401 -1859 -212") (attacker_position "2227 -2448 -215") (victim_position "2163 -1882 -204")
+L 10/13/2019 - 16:16:51: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "captureblocked" (cp "1") (cpname "#Badwater_cap_2") (position "2469 -1489 -215")
+L 10/13/2019 - 16:16:51: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "captureblocked" (cp "1") (cpname "#Badwater_cap_2") (position "2247 -1490 -216")
+L 10/13/2019 - 16:16:51: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "force_a_nature" (attacker_position "2247 -1490 -216") (victim_position "2231 -1549 -193")
+L 10/13/2019 - 16:16:51: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "2329 -2435 -215") (attacker_position "2247 -1490 -216") (victim_position "2231 -1549 -193")
+L 10/13/2019 - 16:17:04: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "3624 -1978 -50")
+L 10/13/2019 - 16:17:04: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "3624 -1978 -50")
+L 10/13/2019 - 16:17:05: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "degreaser" (attacker_position "3488 -843 -151") (victim_position "3584 -886 -151")
+L 10/13/2019 - 16:17:08: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3185 -2111 -20")
+L 10/13/2019 - 16:17:10: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "force_a_nature" (attacker_position "2984 -1913 -35") (victim_position "3703 -1909 -22")
+L 10/13/2019 - 16:17:10: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] Loddy<68><[U:1:9330378]><Blue>" (assister_position "3024 -1879 -207") (attacker_position "2984 -1913 -35") (victim_position "3703 -1909 -22")
+L 10/13/2019 - 16:17:17: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "2711 -1945 -212") (victim_position "3187 -1596 -207")
+L 10/13/2019 - 16:17:24: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "minigun" (attacker_position "3115 -1919 -174") (victim_position "2754 -2169 -208")
+L 10/13/2019 - 16:17:24: "Lomax<79><[U:1:1831779]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "tf_projectile_rocket" (attacker_position "2768 -2202 -194") (victim_position "3103 -1915 -180")
+L 10/13/2019 - 16:17:26: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "5572 -2057 -324")
+L 10/13/2019 - 16:17:29: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "693") (ubercharge "0")
+L 10/13/2019 - 16:17:29: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "axtinguisher" (attacker_position "2773 -2305 -215") (victim_position "2787 -2225 -191")
+L 10/13/2019 - 16:17:47: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "obj_minisentry" (attacker_position "5971 -1791 -255") (victim_position "2530 -2295 -187")
+L 10/13/2019 - 16:17:55: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "580 -2524 -290") (victim_position "2140 -2482 -215")
+L 10/13/2019 - 16:18:07: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "111") (ubercharge "0")
+L 10/13/2019 - 16:18:07: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "minigun" (attacker_position "2394 -2251 -215") (victim_position "2375 -2628 -209")
+L 10/13/2019 - 16:18:07: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "1774 -2197 -215") (attacker_position "2394 -2251 -215") (victim_position "2375 -2628 -209")
+L 10/13/2019 - 16:18:07: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "3901 -2119 -39")
+L 10/13/2019 - 16:18:08: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "world" (attacker_position "1712 -2207 -215") (victim_position "1719 -2032 -255")
+L 10/13/2019 - 16:18:12: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "3190 -2100 -21")
+L 10/13/2019 - 16:18:14: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "3145 -2097 -13")
+L 10/13/2019 - 16:18:14: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3145 -2097 -13")
+L 10/13/2019 - 16:18:16: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "fryingpan" (attacker_position "3248 -1909 -97") (victim_position "3273 -1872 -77")
+L 10/13/2019 - 16:18:16: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "2074 -2497 -215") (attacker_position "3248 -1909 -97") (victim_position "3273 -1872 -77")
+L 10/13/2019 - 16:18:21: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "captureblocked" (cp "1") (cpname "#Badwater_cap_2") (position "1704 -2552 -215")
+L 10/13/2019 - 16:18:24: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "minigun" (attacker_position "1827 -2403 -215") (victim_position "1785 -2282 -215")
+L 10/13/2019 - 16:18:28: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "#Badwater_cap_2") (numcappers "2") (player1 "{CC}Maj_Flee<84><[U:1:16522063]><Blue>") (position1 "1595 -2538 -206") (player2 "CrazyEnzo03<56><[U:1:59983226]><Blue>") (position2 "1445 -2395 -215") 
+L 10/13/2019 - 16:18:41: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "896 -2363 -294")
+L 10/13/2019 - 16:18:43: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "1278 -2549 40")
+L 10/13/2019 - 16:18:43: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1278 -2549 40")
+L 10/13/2019 - 16:18:44: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "minigun" (attacker_position "648 -2457 -300") (victim_position "795 -1979 -298")
+L 10/13/2019 - 16:18:44: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "617 -2589 -284") (attacker_position "648 -2457 -300") (victim_position "795 -1979 -298")
+L 10/13/2019 - 16:18:44: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "524 -2308 -295")
+L 10/13/2019 - 16:18:45: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "739 -2688 -94")
+L 10/13/2019 - 16:18:45: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "syringegun_medic" (attacker_position "739 -2688 -94") (victim_position "631 -2456 -299")
+L 10/13/2019 - 16:18:45: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "589 -2249 -300") (attacker_position "739 -2688 -94") (victim_position "631 -2456 -299")
+L 10/13/2019 - 16:18:45: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "698 -399 144") (victim_position "628 -495 144")
+L 10/13/2019 - 16:18:45: "Lomax<79><[U:1:1831779]><Red>" triggered "domination" against "CrazyEnzo03<56><[U:1:59983226]><Blue>"
+L 10/13/2019 - 16:18:46: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "1176 -2626 40")
+L 10/13/2019 - 16:18:46: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1176 -2626 40")
+L 10/13/2019 - 16:18:47: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "force_a_nature" (attacker_position "298 -2243 -255") (victim_position "358 -2562 -245")
+L 10/13/2019 - 16:18:51: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "CE_Poonslayer<89><[U:1:79056807]><Red>" with "tf_weapon_medigun" (attacker_position "894 -2172 -297") (victim_position "1098 -2189 -250")
+L 10/13/2019 - 16:18:54: "Snek<61><[U:1:122465451]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 16:19:01: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1425 -2153 20")
+L 10/13/2019 - 16:19:14: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "force_a_nature" (attacker_position "1396 -2279 20") (victim_position "1382 -2036 20")
+L 10/13/2019 - 16:19:18: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "boston_basher") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1407 -2222 32")
+L 10/13/2019 - 16:19:28: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "574 -2218 -299") (victim_position "1118 -2635 -250")
+L 10/13/2019 - 16:19:28: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "407 -2051 -288") (attacker_position "574 -2218 -299") (victim_position "1118 -2635 -250")
+L 10/13/2019 - 16:19:29: "Lomax<79><[U:1:1831779]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "650 -2358 -302")
+L 10/13/2019 - 16:19:30: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "force_a_nature" (attacker_position "1128 -2413 -233") (victim_position "947 -2431 -289")
+L 10/13/2019 - 16:19:30: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "552 -2278 -297") (attacker_position "1128 -2413 -233") (victim_position "947 -2431 -289")
+L 10/13/2019 - 16:19:30: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "2557 -1109 -15")
+L 10/13/2019 - 16:19:31: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Snek<61><[U:1:122465451]><Red>" with "tf_weapon_medigun" (attacker_position "440 -2117 -287") (victim_position "444 -2203 -283")
+L 10/13/2019 - 16:19:34: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "588 -2248 -300") (victim_position "515 -2258 -295")
+L 10/13/2019 - 16:19:34: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "519 -2014 -300") (attacker_position "588 -2248 -300") (victim_position "515 -2258 -295")
+L 10/13/2019 - 16:19:56: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "1273 -2340 -215") (victim_position "1620 -2753 -215")
+L 10/13/2019 - 16:19:56: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "1415 -2162 -227") (attacker_position "1273 -2340 -215") (victim_position "1620 -2753 -215")
+L 10/13/2019 - 16:20:01: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "1093 -2003 -190") (victim_position "892 -2430 -242")
+L 10/13/2019 - 16:20:01: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "1107 -1978 -190") (attacker_position "1093 -2003 -190") (victim_position "892 -2430 -242")
+L 10/13/2019 - 16:20:03: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "1136 -2014 -190") (victim_position "1369 -2124 -227")
+L 10/13/2019 - 16:20:03: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "832 -2034 -301") (attacker_position "1136 -2014 -190") (victim_position "1369 -2124 -227")
+L 10/13/2019 - 16:20:03: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "force_a_nature" (attacker_position "1467 -2797 40") (victim_position "1445 -2948 40")
+L 10/13/2019 - 16:20:04: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Snek<61><[U:1:122465451]><Red>" with "tf_weapon_medigun" (attacker_position "929 -2109 -298") (victim_position "1136 -2035 -191")
+L 10/13/2019 - 16:20:27: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Snek<61><[U:1:122465451]><Red>" with "tf_weapon_medigun" (attacker_position "1289 -1936 -227") (victim_position "1326 -2328 -215")
+L 10/13/2019 - 16:20:27: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "fryingpan" (attacker_position "1656 -2637 40") (victim_position "1699 -2638 40")
+L 10/13/2019 - 16:20:27: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "CE_Poonslayer<89><[U:1:79056807]><Red>" (assister_position "1593 -2734 40") (attacker_position "1656 -2637 40") (victim_position "1699 -2638 40")
+L 10/13/2019 - 16:20:30: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1993 -2212 40")
+L 10/13/2019 - 16:20:30: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1993 -2212 40")
+L 10/13/2019 - 16:20:33: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1869 -2212 40")
+L 10/13/2019 - 16:20:35: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "1213") (ubercharge "1")
+L 10/13/2019 - 16:20:35: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "fryingpan" (attacker_position "1130 -2416 -233") (victim_position "1056 -2443 -216")
+L 10/13/2019 - 16:20:36: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "726 -2284 -301") (victim_position "839 -2576 -287")
+L 10/13/2019 - 16:20:36: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "822 -2185 -299") (attacker_position "726 -2284 -301") (victim_position "839 -2576 -287")
+L 10/13/2019 - 16:20:42: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "615 -2210 -301") (victim_position "1152 -2104 -192")
+L 10/13/2019 - 16:20:45: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "673 -2142 -300") (victim_position "913 -1978 -170")
+L 10/13/2019 - 16:20:45: "Lomax<79><[U:1:1831779]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "611 -2396 -300") (attacker_position "673 -2142 -300") (victim_position "913 -1978 -170")
+L 10/13/2019 - 16:20:47: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1423 -2192 20")
+L 10/13/2019 - 16:20:56: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" changed role to "pyro"
+L 10/13/2019 - 16:21:06: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "bleed_kill" (attacker_position "724 -2629 -284") (victim_position "857 -2089 -301")
+L 10/13/2019 - 16:21:06: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "546 -2280 -297") (attacker_position "724 -2629 -284") (victim_position "857 -2089 -301")
+L 10/13/2019 - 16:21:06: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assist "1")
+L 10/13/2019 - 16:21:07: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "564 -2139 -300") (victim_position "977 -2459 -284")
+L 10/13/2019 - 16:21:07: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "356 -2000 -281") (attacker_position "564 -2139 -300") (victim_position "977 -2459 -284")
+L 10/13/2019 - 16:21:07: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>"
+L 10/13/2019 - 16:21:07: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "domination" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assist "1")
+L 10/13/2019 - 16:21:11: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Lomax<79><[U:1:1831779]><Red>" with "tf_weapon_medigun" (attacker_position "483 -2164 -293") (victim_position "633 -2524 -294")
+L 10/13/2019 - 16:21:23: "Lomax<79><[U:1:1831779]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "943 -2627 -268")
+L 10/13/2019 - 16:21:24: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1631 -2786 -207")
+L 10/13/2019 - 16:21:25: "Lomax<79><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "1122 -2348 -246") (victim_position "1181 -2468 -221")
+L 10/13/2019 - 16:21:25: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "world" (attacker_position "1181 -2468 -221") (victim_position "1122 -2348 -246")
+L 10/13/2019 - 16:21:26: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1483 -2430 40")
+L 10/13/2019 - 16:21:31: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "phlogistinator" (attacker_position "795 -2257 -299") (victim_position "793 -2371 -298")
+L 10/13/2019 - 16:21:31: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "revenge" against "Snek<61><[U:1:122465451]><Red>"
+L 10/13/2019 - 16:21:32: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "boston_basher") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1432 -2244 32")
+L 10/13/2019 - 16:21:34: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "396") (ubercharge "0")
+L 10/13/2019 - 16:21:34: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "fryingpan" (attacker_position "342 -2426 -263") (victim_position "337 -2350 -270")
+L 10/13/2019 - 16:21:34: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "802 -2577 -290") (attacker_position "342 -2426 -263") (victim_position "337 -2350 -270")
+L 10/13/2019 - 16:21:34: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "revenge" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assist "1")
+L 10/13/2019 - 16:21:42: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "force_a_nature" (attacker_position "1349 -2487 40") (victim_position "1845 -2217 40")
+L 10/13/2019 - 16:21:47: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "force_a_nature") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1349 -2490 40")
+L 10/13/2019 - 16:22:05: "Lomax<79><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "141 -968 -85") (victim_position "499 -1487 -205")
+L 10/13/2019 - 16:22:05: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "799 -834 -127")
+L 10/13/2019 - 16:22:05: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "799 -834 -127") (victim_position "540 -1140 -207")
+L 10/13/2019 - 16:22:05: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "576 -714 -127") (attacker_position "799 -834 -127") (victim_position "540 -1140 -207")
+L 10/13/2019 - 16:22:11: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "406 -266 163") (victim_position "472 -416 144")
+L 10/13/2019 - 16:22:19: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1447 -1942 -227")
+L 10/13/2019 - 16:22:23: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "minigun" (attacker_position "914 -2199 -295") (victim_position "983 -1896 -189")
+L 10/13/2019 - 16:22:23: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] Loddy<68><[U:1:9330378]><Blue>" (assister_position "695 -2271 -300") (attacker_position "914 -2199 -295") (victim_position "983 -1896 -189")
+L 10/13/2019 - 16:22:24: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1042 -2221 -285")
+L 10/13/2019 - 16:22:24: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (assist "1") (assister_position "722 -1978 -298") (attacker_position "1042 -2221 -285")
+L 10/13/2019 - 16:22:33: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "pep_pistol" (attacker_position "2235 -1917 -212") (victim_position "2270 -1784 -212")
+L 10/13/2019 - 16:22:37: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "504 -1529 -212") (victim_position "570 -1818 -270")
+L 10/13/2019 - 16:22:37: "Lomax<79><[U:1:1831779]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "664 -1391 -216") (attacker_position "504 -1529 -212") (victim_position "570 -1818 -270")
+L 10/13/2019 - 16:22:41: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Snek<61><[U:1:122465451]><Red>" with "tf_weapon_medigun" (attacker_position "637 -1406 -216") (victim_position "424 -1683 -242")
+L 10/13/2019 - 16:22:48: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1864 -2403 -215")
+L 10/13/2019 - 16:22:55: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "756 -2196 -301") (victim_position "1244 -2048 -176")
+L 10/13/2019 - 16:22:55: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "624 -2267 -301") (attacker_position "756 -2196 -301") (victim_position "1244 -2048 -176")
+L 10/13/2019 - 16:22:55: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>"
+L 10/13/2019 - 16:22:55: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "domination" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assist "1")
+L 10/13/2019 - 16:22:56: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "CE_Poonslayer<89><[U:1:79056807]><Red>" with "tf_weapon_medigun" (attacker_position "355 -2419 -268") (victim_position "365 -2161 -277")
+L 10/13/2019 - 16:22:59: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pep_pistol") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1075 -2338 -260")
+L 10/13/2019 - 16:22:59: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (assist "1") (assister_position "854 -2131 -300") (attacker_position "1075 -2338 -260")
+L 10/13/2019 - 16:23:03: "Lomax<79><[U:1:1831779]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "tf_projectile_rocket" (attacker_position "371 -2270 -274") (victim_position "978 -2286 -287")
+L 10/13/2019 - 16:23:03: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "649 -2031 -300") (attacker_position "371 -2270 -274") (victim_position "978 -2286 -287")
+L 10/13/2019 - 16:23:03: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "phlogistinator" (attacker_position "978 -2286 -287") (victim_position "1057 -2320 -267")
+L 10/13/2019 - 16:23:03: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "999 -2400 -273") (attacker_position "978 -2286 -287") (victim_position "1057 -2320 -267")
+L 10/13/2019 - 16:23:03: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "revenge" against "Snek<61><[U:1:122465451]><Red>" (assist "1")
+L 10/13/2019 - 16:23:04: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "CE_Poonslayer<89><[U:1:79056807]><Red>" with "tf_weapon_medigun" (attacker_position "696 -1876 -279") (victim_position "568 -1946 -291")
+L 10/13/2019 - 16:23:05: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1741 -2332 -215")
+L 10/13/2019 - 16:23:06: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "chargedeployed"
+L 10/13/2019 - 16:23:08: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "force_a_nature" (attacker_position "802 -2205 -300") (victim_position "955 -2313 -206")
+L 10/13/2019 - 16:23:08: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "529 -1885 -281") (attacker_position "802 -2205 -300") (victim_position "955 -2313 -206")
+L 10/13/2019 - 16:23:11: "[LL] Dudsmack<90><[U:1:7297941]><>" connected, address "172.30.40.6:27005"
+L 10/13/2019 - 16:23:11: "[LL] Dudsmack<90><[U:1:7297941]><>" STEAM USERID validated
+L 10/13/2019 - 16:23:19: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pep_pistol") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "1574 -2671 -215")
+L 10/13/2019 - 16:23:22: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1576 -2469 40")
+L 10/13/2019 - 16:23:27: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "1187") (ubercharge "0")
+L 10/13/2019 - 16:23:27: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "phlogistinator" (attacker_position "1714 -2137 -223") (victim_position "1708 -2089 -255")
+L 10/13/2019 - 16:23:27: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "degreaser" (attacker_position "1871 -1860 -255") (victim_position "1718 -1930 -255")
+L 10/13/2019 - 16:23:27: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "CE_Poonslayer<89><[U:1:79056807]><Red>" (assister_position "1725 -2183 -215") (attacker_position "1871 -1860 -255") (victim_position "1718 -1930 -255")
+L 10/13/2019 - 16:23:27: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "revenge" against "CE_Poonslayer<89><[U:1:79056807]><Red>"
+L 10/13/2019 - 16:23:32: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "817 -2622 -234") (victim_position "992 -2590 -258")
+L 10/13/2019 - 16:23:33: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "flaregun" (attacker_position "1242 -2013 -219") (victim_position "615 -2560 -288")
+L 10/13/2019 - 16:23:33: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "kill assist" against "Lomax<79><[U:1:1831779]><Red>" (assister_position "992 -2590 -244") (attacker_position "1242 -2013 -219") (victim_position "615 -2560 -288")
+L 10/13/2019 - 16:23:33: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "revenge" against "Lomax<79><[U:1:1831779]><Red>" (assist "1")
+L 10/13/2019 - 16:23:37: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "799 -1238 -214") (victim_position "785 -1946 -46")
+L 10/13/2019 - 16:23:44: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "630 -1358 -215") (victim_position "632 -1639 -226")
+L 10/13/2019 - 16:23:46: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-401 -1426 416")
+L 10/13/2019 - 16:23:52: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-470 -1797 416")
+L 10/13/2019 - 16:23:52: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "-470 -1797 416")
+L 10/13/2019 - 16:23:55: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-524 -1972 416")
+L 10/13/2019 - 16:24:02: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "468 -2064 -295")
+L 10/13/2019 - 16:24:03: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "627 -1116 -208") (victim_position "694 -2077 -301")
+L 10/13/2019 - 16:24:03: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "392 -1732 -251") (attacker_position "627 -1116 -208") (victim_position "694 -2077 -301")
+L 10/13/2019 - 16:24:03: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "domination" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assist "1")
+L 10/13/2019 - 16:24:05: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "-390 -2266 256")
+L 10/13/2019 - 16:24:06: "[LL] Dudsmack<90><[U:1:7297941]><>" entered the game
+L 10/13/2019 - 16:24:08: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "minigun" (attacker_position "-509 -2002 416") (victim_position "-226 -1650 420")
+L 10/13/2019 - 16:24:10: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "-419 -1821 416")
+L 10/13/2019 - 16:24:14: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "force_a_nature" (attacker_position "523 -2188 -296") (victim_position "606 -2184 -301")
+L 10/13/2019 - 16:24:14: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "490 -2525 -281") (attacker_position "523 -2188 -296") (victim_position "606 -2184 -301")
+L 10/13/2019 - 16:24:17: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "degreaser" (attacker_position "493 -2506 -283") (victim_position "279 -2412 -238")
+L 10/13/2019 - 16:24:17: "Lomax<79><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "239 -2152 -255") (victim_position "471 -2453 -283")
+L 10/13/2019 - 16:24:29: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "738 -2246 -301") (victim_position "929 -2118 -64")
+L 10/13/2019 - 16:24:29: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "689 -2105 -300") (attacker_position "738 -2246 -301") (victim_position "929 -2118 -64")
+L 10/13/2019 - 16:24:38: "[LL] Dudsmack<90><[U:1:7297941]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 16:24:39: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:24:41: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "649") (ubercharge "0")
+L 10/13/2019 - 16:24:41: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "phlogistinator" (attacker_position "720 -2040 -301") (victim_position "511 -1782 -261")
+L 10/13/2019 - 16:24:42: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "467 -1899 -284") (victim_position "724 -2047 -301")
+L 10/13/2019 - 16:24:46: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "392 -1792 -263") (victim_position "964 -2267 -288")
+L 10/13/2019 - 16:24:48: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "864 -2774 -102")
+L 10/13/2019 - 16:24:53: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "933 -2486 -272") (victim_position "974 -2421 -281")
+L 10/13/2019 - 16:25:01: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "minigun" (attacker_position "376 -2000 -285") (victim_position "799 -1533 -95")
+L 10/13/2019 - 16:25:04: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "minigun" (attacker_position "372 -2200 -276") (victim_position "923 -2167 -296")
+L 10/13/2019 - 16:25:07: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" changed role to "sniper"
+L 10/13/2019 - 16:25:10: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "424 -2225 -280") (victim_position "878 -1913 -140")
+L 10/13/2019 - 16:25:16: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "player_extinguished" against "Snek<61><[U:1:122465451]><Red>" with "tf_weapon_medigun" (attacker_position "320 -2153 -255") (victim_position "433 -2225 -281")
+L 10/13/2019 - 16:25:16: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "404 -2266 -277") (victim_position "945 -2265 -102")
+L 10/13/2019 - 16:25:16: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "409 -2038 -289") (attacker_position "404 -2266 -277") (victim_position "945 -2265 -102")
+L 10/13/2019 - 16:25:18: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "pep_pistol" (attacker_position "1678 -2445 40") (victim_position "2062 -2485 -215")
+L 10/13/2019 - 16:25:32: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" changed role to "medic"
+L 10/13/2019 - 16:25:32: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "force_a_nature" (attacker_position "2061 -2834 -102") (victim_position "1819 -2900 40")
+L 10/13/2019 - 16:25:35: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "508 -2808 -87")
+L 10/13/2019 - 16:25:38: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" changed role to "soldier"
+L 10/13/2019 - 16:25:44: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1006 -2952 -119")
+L 10/13/2019 - 16:25:48: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "medic_death" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 16:25:48: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "pep_pistol" (attacker_position "1775 -2554 -215") (victim_position "1529 -2835 -215")
+L 10/13/2019 - 16:25:49: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 16:25:50: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "975 -2935 -116")
+L 10/13/2019 - 16:25:50: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "905 -2939 -105")
+L 10/13/2019 - 16:25:50: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "905 -2939 -105")
+L 10/13/2019 - 16:25:52: "Lomax<79><[U:1:1831779]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "tf_projectile_rocket" (attacker_position "136 -2565 -120") (victim_position "222 -2709 -87")
+L 10/13/2019 - 16:25:57: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "obj_minisentry" (attacker_position "302 -2867 -87") (victim_position "-106 -2711 -39")
+L 10/13/2019 - 16:25:57: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "kill assist" against "Lomax<79><[U:1:1831779]><Red>" (assister_position "643 -2026 -300") (attacker_position "302 -2867 -87") (victim_position "-106 -2711 -39")
+L 10/13/2019 - 16:25:57: "CrazyEnzo03<56><[U:1:59983226]><Blue>" triggered "medic_death" against "Darth Meerkat<57><[U:1:121426737]><Red>" (healing "679") (ubercharge "0")
+L 10/13/2019 - 16:25:57: "CrazyEnzo03<56><[U:1:59983226]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "fryingpan" (attacker_position "638 -2009 -299") (victim_position "648 -1959 -245")
+L 10/13/2019 - 16:25:57: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "643 -2026 -300") (attacker_position "638 -2009 -299") (victim_position "648 -1959 -245")
+L 10/13/2019 - 16:25:59: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "490 -2184 -293") (victim_position "711 -1949 -294")
+L 10/13/2019 - 16:26:10: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "spy"
+L 10/13/2019 - 16:26:15: "Snek<61><[U:1:122465451]><Red>" triggered "medic_death" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (healing "222") (ubercharge "0")
+L 10/13/2019 - 16:26:15: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "215 -2198 -255") (victim_position "761 -2497 -301")
+L 10/13/2019 - 16:26:15: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>"
+L 10/13/2019 - 16:26:17: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "natascha" (attacker_position "600 -2394 -300") (victim_position "168 -2184 -255")
+L 10/13/2019 - 16:26:17: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "172 -2634 -88") (attacker_position "600 -2394 -300") (victim_position "168 -2184 -255")
+L 10/13/2019 - 16:26:17: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "revenge" against "Snek<61><[U:1:122465451]><Red>" (assist "1")
+L 10/13/2019 - 16:26:19: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "834 -2227 -298")
+L 10/13/2019 - 16:26:19: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "force_a_nature" (attacker_position "834 -2227 -298") (victim_position "636 -2225 -300")
+L 10/13/2019 - 16:26:19: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "[LL] Dudsmack<90><[U:1:7297941]><Blue>" (assister_position "173 -2168 -241") (attacker_position "834 -2227 -298") (victim_position "636 -2225 -300")
+L 10/13/2019 - 16:26:32: Vote succeeded "NextLevel pl_beerbowl_b5a"
+L 10/13/2019 - 16:26:32: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "pep_pistol" (attacker_position "420 -1462 -205") (victim_position "392 -1989 -290")
+L 10/13/2019 - 16:26:34: server_cvar: "nextlevel" "pl_beerbowl_b5a"
+L 10/13/2019 - 16:26:43: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "518 -2791 -87")
+L 10/13/2019 - 16:26:46: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "natascha" (attacker_position "822 -2218 -278") (victim_position "146 -2167 -255")
+L 10/13/2019 - 16:26:46: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "CE_Poonslayer<89><[U:1:79056807]><Red>" (assister_position "688 -2345 -302") (attacker_position "822 -2218 -278") (victim_position "146 -2167 -255")
+L 10/13/2019 - 16:26:47: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "947 -1997 -296")
+L 10/13/2019 - 16:26:47: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "947 -1997 -296")
+L 10/13/2019 - 16:26:52: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "medic_death" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (healing "298") (ubercharge "0")
+L 10/13/2019 - 16:26:52: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "908 -1970 -295") (victim_position "865 -1914 -286")
+L 10/13/2019 - 16:26:52: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "811 -2182 -300")
+L 10/13/2019 - 16:26:52: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "811 -2182 -300")
+L 10/13/2019 - 16:26:54: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "945 -2263 -291")
+L 10/13/2019 - 16:26:54: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "549 -1894 -283")
+L 10/13/2019 - 16:26:54: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "549 -1894 -283") (victim_position "576 -1836 -273")
+L 10/13/2019 - 16:26:54: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "[LL] Dudsmack<90><[U:1:7297941]><Blue>" (assister_position "1101 -1137 -131") (attacker_position "549 -1894 -283") (victim_position "576 -1836 -273")
+L 10/13/2019 - 16:26:57: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "954 -1409 -105") (victim_position "780 -1379 -214")
+L 10/13/2019 - 16:26:57: "Lomax<79><[U:1:1831779]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "440 -759 -127") (attacker_position "954 -1409 -105") (victim_position "780 -1379 -214")
+L 10/13/2019 - 16:26:58: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "frontier_justice" (attacker_position "658 -1540 -224") (victim_position "868 -1245 -186")
+L 10/13/2019 - 16:26:59: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "minigun" (attacker_position "793 -1327 -214") (victim_position "654 -1833 -276")
+L 10/13/2019 - 16:26:59: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "[LL] Loddy<68><[U:1:9330378]><Blue>"
+L 10/13/2019 - 16:27:01: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "medic"
+L 10/13/2019 - 16:27:02: "Lomax<79><[U:1:1831779]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "tf_projectile_rocket" (attacker_position "991 -928 -140") (victim_position "548 -1482 -205")
+L 10/13/2019 - 16:27:10: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "421 -1395 -205")
+L 10/13/2019 - 16:27:21: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" changed role to "engineer"
+L 10/13/2019 - 16:27:25: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "194 -2743 -87")
+L 10/13/2019 - 16:27:30: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "pep_pistol" (attacker_position "114 -2850 -87") (victim_position "458 -2893 -87")
+L 10/13/2019 - 16:27:31: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "2511 -1124 -15")
+L 10/13/2019 - 16:27:32: "CE_Poonslayer<89><[U:1:79056807]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "boston_basher" (attacker_position "612 -2866 -95") (victim_position "639 -2911 -96")
+L 10/13/2019 - 16:27:32: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "domination" against "[LL] Loddy<68><[U:1:9330378]><Blue>"
+L 10/13/2019 - 16:27:32: "[LL] Loddy<68><[U:1:9330378]><Blue>" killed "CE_Poonslayer<89><[U:1:79056807]><Red>" with "obj_minisentry" (attacker_position "660 -2841 -31") (victim_position "643 -2916 -96")
+L 10/13/2019 - 16:27:32: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "revenge" against "CE_Poonslayer<89><[U:1:79056807]><Red>"
+L 10/13/2019 - 16:27:39: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "898 -2872 -112")
+L 10/13/2019 - 16:27:41: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" killed "Lomax<79><[U:1:1831779]><Red>" with "natascha" (attacker_position "547 -1620 -230") (victim_position "910 -1382 -214")
+L 10/13/2019 - 16:27:41: "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" triggered "kill assist" against "Lomax<79><[U:1:1831779]><Red>" (assister_position "452 -1782 -216") (attacker_position "547 -1620 -230") (victim_position "910 -1382 -214")
+L 10/13/2019 - 16:27:43: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "1008 -1156 -145")
+L 10/13/2019 - 16:27:43: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "minigun" (attacker_position "1008 -1156 -145") (victim_position "543 -1580 -222")
+L 10/13/2019 - 16:27:43: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] Dudsmack<90><[U:1:7297941]><Blue>" (assister_position "1204 -1069 -207") (attacker_position "1008 -1156 -145") (victim_position "543 -1580 -222")
+L 10/13/2019 - 16:27:45: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "441 -2891 -87")
+L 10/13/2019 - 16:27:47: "Snek<61><[U:1:122465451]><Red>" triggered "medic_death" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (healing "3") (ubercharge "0")
+L 10/13/2019 - 16:27:47: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "782 -1438 -214")
+L 10/13/2019 - 16:27:47: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "782 -1438 -214") (victim_position "431 -1490 -205")
+L 10/13/2019 - 16:27:47: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "913 -1312 -73") (attacker_position "782 -1438 -214") (victim_position "431 -1490 -205")
+L 10/13/2019 - 16:27:54: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "403 -1682 -242")
+L 10/13/2019 - 16:27:54: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "2") (cpname "#Badwater_cap_3") (position "392 -1712 -247")
+L 10/13/2019 - 16:27:54: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "392 -1712 -247") (victim_position "500 -1921 -288")
+L 10/13/2019 - 16:27:54: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "362 -1456 -201") (attacker_position "392 -1712 -247") (victim_position "500 -1921 -288")
+L 10/13/2019 - 16:27:56: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "392 -1834 -271") (victim_position "406 -1884 -281")
+L 10/13/2019 - 16:27:56: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "402 -1635 -233") (attacker_position "392 -1834 -271") (victim_position "406 -1884 -281")
+L 10/13/2019 - 16:27:56: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "CrazyEnzo03<56><[U:1:59983226]><Blue>"
+L 10/13/2019 - 16:27:59: "[LL] Dudsmack<90><[U:1:7297941]><Blue>" say_team "bean go pyro"
+L 10/13/2019 - 16:28:01: "Snek<61><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "527 -1921 -288")
+L 10/13/2019 - 16:28:01: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (assist "1") (assister_position "600 -1749 -259") (attacker_position "527 -1921 -288")
+L 10/13/2019 - 16:28:04: "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/13/2019 - 16:28:05: "[LL] Loddy<68><[U:1:9330378]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "802 -2933 -98")
+L 10/13/2019 - 16:28:10: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Loddy<68><[U:1:9330378]><Blue>" with "minigun" (attacker_position "683 -1744 -254") (victim_position "296 -2275 -255")
+L 10/13/2019 - 16:28:10: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] Loddy<68><[U:1:9330378]><Blue>" (assister_position "590 -1354 -215") (attacker_position "683 -1744 -254") (victim_position "296 -2275 -255")
+L 10/13/2019 - 16:28:10: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "chargedeployed"
+L 10/13/2019 - 16:28:13: "Snek<61><[U:1:122465451]><Red>" killed "[LL] Dudsmack<90><[U:1:7297941]><Blue>" with "minigun" (attacker_position "545 -1840 -272") (victim_position "742 -2450 -301")
+L 10/13/2019 - 16:28:13: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] Dudsmack<90><[U:1:7297941]><Blue>" (assister_position "475 -1604 -227") (attacker_position "545 -1840 -272") (victim_position "742 -2450 -301")
+L 10/13/2019 - 16:28:13: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "[LL] Dudsmack<90><[U:1:7297941]><Blue>"
+L 10/13/2019 - 16:28:14: "Snek<61><[U:1:122465451]><Red>" triggered "medic_death" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (healing "197") (ubercharge "0")
+L 10/13/2019 - 16:28:14: "Snek<61><[U:1:122465451]><Red>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" with "minigun" (attacker_position "571 -1890 -283") (victim_position "938 -2169 -295")
+L 10/13/2019 - 16:28:14: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Blue>" (assister_position "558 -1678 -244") (attacker_position "571 -1890 -283") (victim_position "938 -2169 -295")
+L 10/13/2019 - 16:28:16: "Snek<61><[U:1:122465451]><Red>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" with "minigun" (attacker_position "641 -1922 -291") (victim_position "363 -2542 -50")
+L 10/13/2019 - 16:28:16: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Blue>" (assister_position "536 -1608 -227") (attacker_position "641 -1922 -291") (victim_position "363 -2542 -50")
+L 10/13/2019 - 16:28:21: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pep_pistol") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "-26 -2296 144")
+L 10/13/2019 - 16:28:25: "Snek<61><[U:1:122465451]><Red>" killed "CrazyEnzo03<56><[U:1:59983226]><Blue>" with "minigun" (attacker_position "649 -2063 -301") (victim_position "145 -2447 -73")
+L 10/13/2019 - 16:28:25: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Blue>" (assister_position "716 -1793 -256") (attacker_position "649 -2063 -301") (victim_position "145 -2447 -73")
+L 10/13/2019 - 16:28:28: World triggered "Mini_Round_Win" (winner "Red") (round "Round_A")
+L 10/13/2019 - 16:28:28: World triggered "Mini_Round_Length" (seconds "909.04")
+L 10/13/2019 - 16:28:28: World triggered "Round_Win" (winner "Red")
+L 10/13/2019 - 16:28:28: Team "Red" current score "0" with "4" players
+L 10/13/2019 - 16:28:28: Team "Blue" current score "2" with "5" players
+L 10/13/2019 - 16:28:37: "CE_Poonslayer<89><[U:1:79056807]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "force_a_nature") (objectowner "[LL] Loddy<68><[U:1:9330378]><Blue>") (attacker_position "823 -2766 -101")
+L 10/13/2019 - 16:28:43: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/13/2019 - 16:28:43: Team "Red" final score "0" with "4" players
+L 10/13/2019 - 16:28:43: Team "Blue" final score "2" with "5" players
+L 10/13/2019 - 16:28:53: server_cvar: "nextlevel" ""
+L 10/13/2019 - 16:28:53: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 16:28:53: Log file closed.

@@ -1,0 +1,358 @@
+L 10/13/2019 - 14:50:13: Log file started (file "logs/L1013002.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 14:50:13: server_cvar: "mp_timelimit" "15"
+L 10/13/2019 - 14:50:13: "FRAG DRAKE<8><[U:1:240994645]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "WARBIRD199<4><[U:1:63881333]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "Snek<7><[U:1:122465451]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "Sonic_Soldier420<9><[U:1:24174610]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "BEan | Lacledeslan.com<5><[U:1:7609438]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "[LL] allhawkeye85<6><[U:1:28500804]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "Darth Meerkat<10><[U:1:121426737]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:50:13: "FRAG DRAKE<11><[U:1:240994645]><>" connected, address "172.30.43.129:27006"
+L 10/13/2019 - 14:50:13: STEAMAUTH: Client FRAG DRAKE received failure code 6
+L 10/13/2019 - 14:50:13: "FRAG DRAKE<11><[U:1:240994645]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 14:50:13: "[LL] allhawkeye85<12><[U:1:28500804]><>" connected, address "172.30.40.5:27005"
+L 10/13/2019 - 14:50:13: "[LL] allhawkeye85<12><[U:1:28500804]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 14:50:13: "[LL] allhawkeye85<13><[U:1:28500804]><>" connected, address "172.30.40.5:27005"
+L 10/13/2019 - 14:50:13: "Sonic_Soldier420<14><[U:1:24174610]><>" connected, address "172.30.43.84:27005"
+L 10/13/2019 - 14:50:13: "Sonic_Soldier420<14><[U:1:24174610]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 14:50:13: "Sonic_Soldier420<15><[U:1:24174610]><>" connected, address "172.30.43.84:27005"
+L 10/13/2019 - 14:50:13: "Snek<16><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/13/2019 - 14:50:13: "Snek<16><[U:1:122465451]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 14:50:13: "Snek<17><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/13/2019 - 14:50:13: "BEan | Lacledeslan.com<18><[U:1:7609438]><>" connected, address "172.30.43.15:27005"
+L 10/13/2019 - 14:50:13: "BEan | Lacledeslan.com<18><[U:1:7609438]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 14:50:13: "BEan | Lacledeslan.com<19><[U:1:7609438]><>" connected, address "172.30.43.15:27005"
+L 10/13/2019 - 14:50:13: "FRAG DRAKE<20><[U:1:240994645]><>" connected, address "172.30.43.129:27006"
+L 10/13/2019 - 14:50:13: "FRAG DRAKE<20><[U:1:240994645]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 10/13/2019 - 14:50:13: "WARBIRD199<21><[U:1:63881333]><>" connected, address "172.30.43.37:27005"
+L 10/13/2019 - 14:50:13: "WARBIRD199<21><[U:1:63881333]><>" disconnected (reason "Connection closing")
+L 10/13/2019 - 14:50:13: "WARBIRD199<22><[U:1:63881333]><>" connected, address "172.30.43.37:27005"
+L 10/13/2019 - 14:50:13: "[LL] allhawkeye85<13><[U:1:28500804]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:13: "Sonic_Soldier420<15><[U:1:24174610]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:13: "Snek<17><[U:1:122465451]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:13: "BEan | Lacledeslan.com<19><[U:1:7609438]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:13: "WARBIRD199<22><[U:1:63881333]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:23: "WARBIRD199<22><[U:1:63881333]><>" entered the game
+L 10/13/2019 - 14:50:24: "BEan | Lacledeslan.com<19><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 14:50:24: "Snek<17><[U:1:122465451]><>" entered the game
+L 10/13/2019 - 14:50:25: "Darth Meerkat<23><[U:1:121426737]><>" connected, address "172.30.41.82:27005"
+L 10/13/2019 - 14:50:25: "Darth Meerkat<23><[U:1:121426737]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:26: "[LL] allhawkeye85<13><[U:1:28500804]><>" entered the game
+L 10/13/2019 - 14:50:27: "FRAG DRAKE<24><[U:1:240994645]><>" connected, address "172.30.43.129:27006"
+L 10/13/2019 - 14:50:28: "FRAG DRAKE<24><[U:1:240994645]><>" STEAM USERID validated
+L 10/13/2019 - 14:50:29: "Snek<17><[U:1:122465451]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:50:31: "Snek<17><[U:1:122465451]><Red>" changed role to "scout"
+L 10/13/2019 - 14:50:31: "BEan | Lacledeslan.com<19><[U:1:7609438]><Unassigned>" joined team "Spectator"
+L 10/13/2019 - 14:50:33: "Sonic_Soldier420<15><[U:1:24174610]><>" entered the game
+L 10/13/2019 - 14:50:34: "Darth Meerkat<23><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 14:50:38: "FRAG DRAKE<24><[U:1:240994645]><>" entered the game
+L 10/13/2019 - 14:50:38: "WARBIRD199<22><[U:1:63881333]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:50:43: "WARBIRD199<22><[U:1:63881333]><Blue>" changed role to "spy"
+L 10/13/2019 - 14:50:44: "FRAG DRAKE<24><[U:1:240994645]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:50:45: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "sniper"
+L 10/13/2019 - 14:50:47: server_cvar: "mp_timelimit" "20"
+L 10/13/2019 - 14:50:49: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "scout"
+L 10/13/2019 - 14:50:54: "Darth Meerkat<23><[U:1:121426737]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:50:55: "Sonic_Soldier420<15><[U:1:24174610]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:50:58: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "scout"
+L 10/13/2019 - 14:50:59: "Sonic_Soldier420<15><[U:1:24174610]><Red>" changed role to "pyro"
+L 10/13/2019 - 14:51:01: World triggered "Round_Start"
+L 10/13/2019 - 14:51:02: "BEan | Lacledeslan.com<19><[U:1:7609438]><Spectator>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:51:15: "[LL] allhawkeye85<13><[U:1:28500804]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:51:19: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "scattergun" (attacker_position "2907 -2604 2048") (victim_position "3153 -2620 2048")
+L 10/13/2019 - 14:51:26: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "sandman" (attacker_position "2901 -3211 2096") (victim_position "2879 -3166 2112")
+L 10/13/2019 - 14:51:26: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "2905 -3212 2096") (attacker_position "2901 -3211 2096") (victim_position "2879 -3166 2112")
+L 10/13/2019 - 14:51:29: "Snek<17><[U:1:122465451]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "sandman" (attacker_position "2624 -3245 2116") (victim_position "2672 -3209 2119")
+L 10/13/2019 - 14:51:34: "WARBIRD199<22><[U:1:63881333]><Blue>" changed role to "scout"
+L 10/13/2019 - 14:51:40: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 14:51:44: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Snek<17><[U:1:122465451]><Red>") (position1 "2713 -3126 2119") (player2 "Darth Meerkat<23><[U:1:121426737]><Red>") (position2 "2791 -3085 2160") 
+L 10/13/2019 - 14:51:57: "Snek<17><[U:1:122465451]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "scattergun" (attacker_position "1690 -4288 1868") (victim_position "1744 -4118 1864")
+L 10/13/2019 - 14:51:59: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "scattergun" (attacker_position "1589 -4230 1866") (victim_position "1658 -4222 1869")
+L 10/13/2019 - 14:52:02: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "2515 -5004 1866") (victim_position "2563 -4778 1866")
+L 10/13/2019 - 14:52:02: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "1626 -4502 1872") (attacker_position "2515 -5004 1866") (victim_position "2563 -4778 1866")
+L 10/13/2019 - 14:52:03: "Lomax<25><[U:1:1831779]><>" connected, address "172.30.43.116:27005"
+L 10/13/2019 - 14:52:04: "Lomax<25><[U:1:1831779]><>" STEAM USERID validated
+L 10/13/2019 - 14:52:17: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "pep_brawlerblaster" (attacker_position "3311 -3910 2048") (victim_position "3516 -3898 2048")
+L 10/13/2019 - 14:52:39: "Lomax<25><[U:1:1831779]><>" entered the game
+L 10/13/2019 - 14:52:40: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "scattergun" (attacker_position "2974 -3781 2048") (victim_position "2884 -4072 2020")
+L 10/13/2019 - 14:52:51: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "scattergun" (attacker_position "4151 -4288 1877") (victim_position "4204 -4621 1872")
+L 10/13/2019 - 14:52:51: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "4130 -4629 1872") (attacker_position "4151 -4288 1877") (victim_position "4204 -4621 1872")
+L 10/13/2019 - 14:53:00: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "1906 -2920 2048") (victim_position "1970 -3060 2048")
+L 10/13/2019 - 14:53:05: "Lomax<25><[U:1:1831779]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:53:18: "FRAG DRAKE<24><[U:1:240994645]><Blue>" committed suicide with "world" (attacker_position "2273 -2669 2064")
+L 10/13/2019 - 14:53:20: "Snek<17><[U:1:122465451]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "scattergun" (attacker_position "3337 -2914 2080") (victim_position "3234 -3273 2080")
+L 10/13/2019 - 14:53:22: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "2590 -3212 2130")
+L 10/13/2019 - 14:53:25: "Snek<17><[U:1:122465451]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "2854 -3110 2122")
+L 10/13/2019 - 14:53:26: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "sandman" (attacker_position "2738 -3222 2119") (victim_position "2670 -3239 2119")
+L 10/13/2019 - 14:53:33: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "demoman"
+L 10/13/2019 - 14:53:45: "Sarc<26><[U:1:8355163]><>" connected, address "172.30.41.138:27005"
+L 10/13/2019 - 14:53:45: "Sarc<26><[U:1:8355163]><>" STEAM USERID validated
+L 10/13/2019 - 14:53:48: "Lomax<25><[U:1:1831779]><Blue>" changed role to "scout"
+L 10/13/2019 - 14:53:49: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "scattergun" (attacker_position "1948 -4210 1866") (victim_position "1802 -4408 1866")
+L 10/13/2019 - 14:53:52: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_pipe" (attacker_position "1720 -3258 2056") (victim_position "2125 -3125 2080")
+L 10/13/2019 - 14:53:52: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "flamethrower" (attacker_position "2125 -3125 2080") (victim_position "2030 -3213 2064")
+L 10/13/2019 - 14:53:52: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "2001 -3165 2048") (attacker_position "2125 -3125 2080") (victim_position "2030 -3213 2064")
+L 10/13/2019 - 14:53:56: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "demokatana" (attacker_position "1514 -3474 2048") (victim_position "1479 -3395 2048")
+L 10/13/2019 - 14:54:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "Lomax<25><[U:1:1831779]><Blue>") (position1 "2746 -3183 2119") (player2 "WARBIRD199<22><[U:1:63881333]><Blue>") (position2 "2763 -3244 2119") (player3 "FRAG DRAKE<24><[U:1:240994645]><Blue>") (position3 "2655 -3218 2119") 
+L 10/13/2019 - 14:54:30: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "scattergun" (attacker_position "3088 -3117 2128") (victim_position "2557 -3215 2112")
+L 10/13/2019 - 14:54:30: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "1923 -3292 2048") (attacker_position "3088 -3117 2128") (victim_position "2557 -3215 2112")
+L 10/13/2019 - 14:54:35: "Snek<17><[U:1:122465451]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "scattergun" (attacker_position "1447 -1775 2048") (victim_position "1335 -1649 2073")
+L 10/13/2019 - 14:54:42: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "scattergun" (attacker_position "1851 -3080 2048") (victim_position "2121 -2968 2080")
+L 10/13/2019 - 14:54:45: "Sarc<26><[U:1:8355163]><>" entered the game
+L 10/13/2019 - 14:54:46: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "engineer"
+L 10/13/2019 - 14:54:50: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "scattergun" (attacker_position "2483 -3715 2048") (victim_position "2246 -3667 2064")
+L 10/13/2019 - 14:54:53: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "minigun" (attacker_position "2600 -2866 2080") (victim_position "2698 -2824 2080")
+L 10/13/2019 - 14:54:56: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "flamethrower" (attacker_position "2810 -3086 2117") (victim_position "2566 -3392 2080")
+L 10/13/2019 - 14:54:57: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "2500 -2824 2080") (victim_position "2542 -3184 2112")
+L 10/13/2019 - 14:54:57: "Sarc<26><[U:1:8355163]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:55:01: "Sarc<26><[U:1:8355163]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 14:55:16: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2389 -3511 2080")
+L 10/13/2019 - 14:55:20: "Lomax<25><[U:1:1831779]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "scattergun" (attacker_position "3197 -3761 2048") (victim_position "3390 -3522 2064")
+L 10/13/2019 - 14:55:20: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "3338 -3462 2080") (attacker_position "3197 -3761 2048") (victim_position "3390 -3522 2064")
+L 10/13/2019 - 14:55:24: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "2278 -3464 2080")
+L 10/13/2019 - 14:55:24: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "obj_sentrygun" (attacker_position "2279 -3511 2080") (victim_position "2973 -3242 2080")
+L 10/13/2019 - 14:55:24: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "3194 -3218 2080") (attacker_position "2279 -3511 2080") (victim_position "2973 -3242 2080")
+L 10/13/2019 - 14:55:24: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "flamethrower" (attacker_position "2973 -3242 2094") (victim_position "2765 -3511 2080")
+L 10/13/2019 - 14:55:24: "Sarc<26><[U:1:8355163]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "FRAG DRAKE<24><[U:1:240994645]><Blue>") (attacker_position "2028 -2929 2064")
+L 10/13/2019 - 14:55:29: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "wrench" (attacker_position "2366 -3085 2080") (victim_position "2411 -3082 2080")
+L 10/13/2019 - 14:55:29: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "2279 -2866 2080") (attacker_position "2366 -3085 2080") (victim_position "2411 -3082 2080")
+L 10/13/2019 - 14:55:35: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "2236 -3454 2080")
+L 10/13/2019 - 14:55:44: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "3156 -3635 2080") (victim_position "3225 -3634 2080")
+L 10/13/2019 - 14:55:44: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "2278 -3432 2080") (attacker_position "3156 -3635 2080") (victim_position "3225 -3634 2080")
+L 10/13/2019 - 14:55:46: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "flamethrower" (attacker_position "3356 -3189 2064") (victim_position "3249 -3245 2080")
+L 10/13/2019 - 14:55:48: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "obj_sentrygun" (attacker_position "2216 -3436 2080") (victim_position "2974 -3215 2080")
+L 10/13/2019 - 14:55:48: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "3249 -3245 2145") (attacker_position "2216 -3436 2080") (victim_position "2974 -3215 2080")
+L 10/13/2019 - 14:55:48: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "domination" against "Sonic_Soldier420<15><[U:1:24174610]><Red>"
+L 10/13/2019 - 14:56:09: "Sarc<26><[U:1:8355163]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "minigun" (attacker_position "3495 -2866 2048") (victim_position "3613 -3114 2048")
+L 10/13/2019 - 14:56:12: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "obj_sentrygun2" (attacker_position "2396 -3455 2080") (victim_position "3159 -3060 2080")
+L 10/13/2019 - 14:56:14: "Lomax<25><[U:1:1831779]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "scattergun" (attacker_position "3387 -3076 2064") (victim_position "3239 -3121 2080")
+L 10/13/2019 - 14:56:14: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "2455 -2892 2080") (attacker_position "3387 -3076 2064") (victim_position "3239 -3121 2080")
+L 10/13/2019 - 14:56:20: "Lomax<25><[U:1:1831779]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "scattergun" (attacker_position "2062 -3679 2064") (victim_position "2122 -3917 2094")
+L 10/13/2019 - 14:56:23: "Snek<17><[U:1:122465451]><Red>" changed role to "spy"
+L 10/13/2019 - 14:56:48: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "flamethrower" (attacker_position "2086 -3542 2064") (victim_position "1856 -3430 2083")
+L 10/13/2019 - 14:56:48: "Sarc<26><[U:1:8355163]><Red>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Blue>" (assister_position "2143 -2775 2080") (attacker_position "2086 -3542 2064") (victim_position "1856 -3430 2083")
+L 10/13/2019 - 14:56:51: "Snek<17><[U:1:122465451]><Red>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "2502 -3486 2080")
+L 10/13/2019 - 14:56:51: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "flamethrower" (attacker_position "2250 -2996 2080") (victim_position "2502 -2830 2080")
+L 10/13/2019 - 14:56:53: "Sarc<26><[U:1:8355163]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "FRAG DRAKE<24><[U:1:240994645]><Blue>") (attacker_position "2103 -3074 2080")
+L 10/13/2019 - 14:56:53: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "2332 -3492 2080") (victim_position "2368 -3467 2080")
+L 10/13/2019 - 14:56:53: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "2428 -3509 2080") (attacker_position "2332 -3492 2080") (victim_position "2368 -3467 2080")
+L 10/13/2019 - 14:56:55: "Sarc<26><[U:1:8355163]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "FRAG DRAKE<24><[U:1:240994645]><Blue>") (attacker_position "2174 -3237 2080")
+L 10/13/2019 - 14:56:55: "Snek<17><[U:1:122465451]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "FRAG DRAKE<24><[U:1:240994645]><Blue>") (assist "1") (assister_position "2564 -3258 2112") (attacker_position "2174 -3237 2080")
+L 10/13/2019 - 14:56:57: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "pep_brawlerblaster" (attacker_position "2856 -3369 2080") (victim_position "2606 -3138 2116")
+L 10/13/2019 - 14:56:57: "Lomax<25><[U:1:1831779]><Blue>" changed role to "soldier"
+L 10/13/2019 - 14:57:07: "FRAG DRAKE<24><[U:1:240994645]><Blue>" changed role to "spy"
+L 10/13/2019 - 14:57:10: World triggered "Round_Overtime"
+L 10/13/2019 - 14:57:14: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "4") (player1 "Sonic_Soldier420<15><[U:1:24174610]><Red>") (position1 "2695 -3167 2119") (player2 "Snek<17><[U:1:122465451]><Red>") (position2 "2654 -3212 2119") (player3 "Darth Meerkat<23><[U:1:121426737]><Red>") (position3 "2758 -3159 2119") (player4 "Sarc<26><[U:1:8355163]><Red>") (position4 "2666 -3225 2119") 
+L 10/13/2019 - 14:57:19: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "flamethrower" (attacker_position "2882 -2899 2080") (victim_position "2936 -2944 2080")
+L 10/13/2019 - 14:57:19: "Sarc<26><[U:1:8355163]><Red>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Blue>" (assister_position "2636 -3248 2119") (attacker_position "2882 -2899 2080") (victim_position "2936 -2944 2080")
+L 10/13/2019 - 14:57:19: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "domination" against "WARBIRD199<22><[U:1:63881333]><Blue>"
+L 10/13/2019 - 14:57:20: "Lomax<25><[U:1:1831779]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "3132 -3302 2080") (victim_position "2871 -3011 2112")
+L 10/13/2019 - 14:57:21: "Lomax<25><[U:1:1831779]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "tf_projectile_rocket" (attacker_position "3355 -3282 2064") (victim_position "2918 -3240 2080")
+L 10/13/2019 - 14:57:21: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "2936 -2944 2145") (attacker_position "3355 -3282 2064") (victim_position "2918 -3240 2080")
+L 10/13/2019 - 14:57:27: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "knife" (customkill "backstab") (attacker_position "2595 -3188 2112") (victim_position "2642 -3123 2119")
+L 10/13/2019 - 14:57:30: "WARBIRD199<22><[U:1:63881333]><Blue>" changed role to "pyro"
+L 10/13/2019 - 14:57:33: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "knife" (attacker_position "2696 -3279 2117") (victim_position "2729 -3321 2112")
+L 10/13/2019 - 14:57:43: "CE | LV40RAICHU<27><[U:1:19841996]><>" connected, address "172.30.43.162:27005"
+L 10/13/2019 - 14:57:44: "CE | LV40RAICHU<27><[U:1:19841996]><>" STEAM USERID validated
+L 10/13/2019 - 14:57:47: World triggered "Round_Overtime"
+L 10/13/2019 - 14:57:49: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "Lomax<25><[U:1:1831779]><Blue>") (position1 "2745 -3220 2119") (player2 "WARBIRD199<22><[U:1:63881333]><Blue>") (position2 "2812 -3152 2119") (player3 "FRAG DRAKE<24><[U:1:240994645]><Blue>") (position3 "2652 -3149 2119") 
+L 10/13/2019 - 14:57:49: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 14:57:49: World triggered "Round_Length" (seconds "407.46")
+L 10/13/2019 - 14:57:49: Team "Red" current score "0" with "4" players
+L 10/13/2019 - 14:57:49: Team "Blue" current score "1" with "4" players
+L 10/13/2019 - 14:57:50: "Lomax<25><[U:1:1831779]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "2757 -3371 2080") (victim_position "2917 -3232 2080")
+L 10/13/2019 - 14:57:50: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "2869 -3257 2112") (attacker_position "2757 -3371 2080") (victim_position "2917 -3232 2080")
+L 10/13/2019 - 14:57:50: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "backburner" (attacker_position "2758 -3208 2119") (victim_position "2843 -3319 2112")
+L 10/13/2019 - 14:57:50: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "domination" against "Darth Meerkat<23><[U:1:121426737]><Red>"
+L 10/13/2019 - 14:57:58: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "ambassador" (attacker_position "3554 -1099 1874") (victim_position "3713 -824 1904")
+L 10/13/2019 - 14:58:04: World triggered "Round_Start"
+L 10/13/2019 - 14:58:13: "CE | LV40RAICHU<27><[U:1:19841996]><>" entered the game
+L 10/13/2019 - 14:58:20: "Makers<28><[U:1:22699679]><>" connected, address "172.30.43.144:27005"
+L 10/13/2019 - 14:58:21: "Makers<28><[U:1:22699679]><>" STEAM USERID validated
+L 10/13/2019 - 14:58:21: "CE | LV40RAICHU<27><[U:1:19841996]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:58:22: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "flamethrower" (customkill "feign_death") (attacker_position "3353 -3049 2064") (victim_position "3472 -3397 2048")
+L 10/13/2019 - 14:58:23: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" changed role to "medic"
+L 10/13/2019 - 14:58:37: "Makers<28><[U:1:22699679]><>" entered the game
+L 10/13/2019 - 14:58:39: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "3063 -3187 2080") (victim_position "2580 -3048 2112")
+L 10/13/2019 - 14:58:39: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "2730 -3183 2119") (attacker_position "3063 -3187 2080") (victim_position "2580 -3048 2112")
+L 10/13/2019 - 14:58:39: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "revenge" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assist "1")
+L 10/13/2019 - 14:58:43: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "pep_brawlerblaster" (attacker_position "1792 -3160 2048") (victim_position "2290 -3229 2080")
+L 10/13/2019 - 14:58:43: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Blue>" (assister_position "2055 -3283 2064") (attacker_position "1792 -3160 2048") (victim_position "2290 -3229 2080")
+L 10/13/2019 - 14:58:43: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "revenge" against "WARBIRD199<22><[U:1:63881333]><Blue>"
+L 10/13/2019 - 14:58:44: "Makers<28><[U:1:22699679]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:58:45: "Snek<17><[U:1:122465451]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "2572 -3344 2112") (victim_position "2545 -3287 2112")
+L 10/13/2019 - 14:58:50: "Makers<28><[U:1:22699679]><Blue>" changed role to "soldier"
+L 10/13/2019 - 14:58:51: "Sarc<26><[U:1:8355163]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "minigun" (attacker_position "3968 -3089 2048") (victim_position "4002 -2808 2067")
+L 10/13/2019 - 14:58:51: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "2272 -2824 2080") (victim_position "2320 -2824 2080")
+L 10/13/2019 - 14:58:51: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "2398 -2853 2080") (attacker_position "2272 -2824 2080") (victim_position "2320 -2824 2080")
+L 10/13/2019 - 14:59:13: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "Sonic_Soldier420<15><[U:1:24174610]><Red>") (position1 "2710 -3152 2119") (player2 "Snek<17><[U:1:122465451]><Red>") (position2 "2650 -3082 2119") (player3 "Sarc<26><[U:1:8355163]><Red>") (position3 "2647 -3075 2118") 
+L 10/13/2019 - 14:59:13: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_weapon_medigun" (attacker_position "2354 -3137 2080") (victim_position "2794 -3162 2119")
+L 10/13/2019 - 14:59:13: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_weapon_medigun" (attacker_position "2401 -3148 2080") (victim_position "2798 -3162 2119")
+L 10/13/2019 - 14:59:13: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "backburner" (attacker_position "2846 -3130 2112") (victim_position "2634 -3173 2119")
+L 10/13/2019 - 14:59:13: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_weapon_medigun" (attacker_position "2454 -3179 2080") (victim_position "2798 -3162 2119")
+L 10/13/2019 - 14:59:14: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_weapon_medigun" (attacker_position "2484 -3232 2080") (victim_position "2798 -3162 2119")
+L 10/13/2019 - 14:59:14: "Sarc<26><[U:1:8355163]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "2597 -3071 2112")
+L 10/13/2019 - 14:59:14: "Sarc<26><[U:1:8355163]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "minigun" (attacker_position "2597 -3071 2112") (victim_position "2776 -3038 2112")
+L 10/13/2019 - 14:59:14: "Darth Meerkat<23><[U:1:121426737]><Red>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Blue>" (assister_position "3216 -2863 2080") (attacker_position "2597 -3071 2112") (victim_position "2776 -3038 2112")
+L 10/13/2019 - 14:59:14: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_weapon_medigun" (attacker_position "2379 -3271 2080") (victim_position "2804 -3156 2119")
+L 10/13/2019 - 14:59:17: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "378") (ubercharge "0")
+L 10/13/2019 - 14:59:17: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "knife" (customkill "backstab") (attacker_position "1977 -3128 2048") (victim_position "2053 -3104 2064")
+L 10/13/2019 - 14:59:17: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (assister_position "2772 -3035 2126") (attacker_position "1977 -3128 2048") (victim_position "2053 -3104 2064")
+L 10/13/2019 - 14:59:21: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "flamethrower" (attacker_position "3110 -3214 2080") (victim_position "3239 -3213 2080")
+L 10/13/2019 - 14:59:25: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "knife" (customkill "backstab") (attacker_position "2899 -3122 2112") (victim_position "2819 -3139 2119")
+L 10/13/2019 - 14:59:25: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "1817 -3106 2048") (attacker_position "2899 -3122 2112") (victim_position "2819 -3139 2119")
+L 10/13/2019 - 14:59:25: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "domination" against "Sarc<26><[U:1:8355163]><Red>"
+L 10/13/2019 - 14:59:28: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "ambassador" (attacker_position "3142 -2885 2080") (victim_position "3171 -3025 2080")
+L 10/13/2019 - 14:59:28: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "1950 -3033 2048") (attacker_position "3142 -2885 2080") (victim_position "3171 -3025 2080")
+L 10/13/2019 - 14:59:29: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "flamethrower" (customkill "feign_death") (attacker_position "3009 -3116 2080") (victim_position "3019 -3229 2080")
+L 10/13/2019 - 14:59:32: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "2299 -3144 2080") (victim_position "2781 -3341 2112")
+L 10/13/2019 - 14:59:32: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "domination" against "Sonic_Soldier420<15><[U:1:24174610]><Red>"
+L 10/13/2019 - 14:59:52: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "WARBIRD199<22><[U:1:63881333]><Blue>") (position1 "2715 -3105 2119") (player2 "Makers<28><[U:1:22699679]><Blue>") (position2 "2672 -3264 2119") 
+L 10/13/2019 - 14:59:53: "BEan | Lacledeslan.com<29><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/13/2019 - 14:59:54: "BEan | Lacledeslan.com<29><[U:1:7609438]><>" STEAM USERID validated
+L 10/13/2019 - 14:59:54: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "knife" (customkill "backstab") (attacker_position "3025 -3632 2080") (victim_position "3073 -3654 2064")
+L 10/13/2019 - 15:00:06: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "backburner" (attacker_position "3366 -3205 2064") (victim_position "3479 -2946 2048")
+L 10/13/2019 - 15:00:06: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "3895 -3357 2048") (attacker_position "3366 -3205 2064") (victim_position "3479 -2946 2048")
+L 10/13/2019 - 15:00:08: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "knife" (customkill "backstab") (attacker_position "2344 -3254 2080") (victim_position "2398 -3295 2080")
+L 10/13/2019 - 15:00:08: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "2774 -3424 2080") (attacker_position "2344 -3254 2080") (victim_position "2398 -3295 2080")
+L 10/13/2019 - 15:00:11: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "flamethrower" (attacker_position "2444 -3290 2094") (victim_position "2881 -2824 2080")
+L 10/13/2019 - 15:00:11: "Darth Meerkat<23><[U:1:121426737]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "sandman" (attacker_position "2219 -3448 2080") (victim_position "2247 -3454 2080")
+L 10/13/2019 - 15:00:12: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "bonesaw" (attacker_position "3069 -2109 1866") (victim_position "3100 -2151 1866")
+L 10/13/2019 - 15:00:13: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "minigun" (attacker_position "2818 -3407 2080") (victim_position "2759 -3479 2128")
+L 10/13/2019 - 15:00:28: "BEan | Lacledeslan.com<29><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 15:00:28: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "demoman"
+L 10/13/2019 - 15:00:33: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:00:33: "Lomax<25><[U:1:1831779]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "tf_projectile_rocket" (attacker_position "3497 -3179 2048") (victim_position "3422 -3034 2048")
+L 10/13/2019 - 15:00:39: "Sarc<26><[U:1:8355163]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "minigun" (attacker_position "3338 -2912 2080") (victim_position "3331 -3248 2080")
+L 10/13/2019 - 15:00:39: "Lomax<25><[U:1:1831779]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "3967 -2812 2048") (victim_position "3883 -3354 2048")
+L 10/13/2019 - 15:00:41: "BEan | Lacledeslan.com<29><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:00:43: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/13/2019 - 15:00:44: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "415") (ubercharge "0")
+L 10/13/2019 - 15:00:44: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "backburner" (attacker_position "3211 -3109 2080") (victim_position "2919 -3042 2080")
+L 10/13/2019 - 15:00:48: "Sarc<26><[U:1:8355163]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "minigun" (attacker_position "2739 -3391 2080") (victim_position "2714 -3028 2112")
+L 10/13/2019 - 15:00:56: "Makers<28><[U:1:22699679]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "tf_projectile_rocket" (attacker_position "1819 -3389 2048") (victim_position "2453 -3109 2080")
+L 10/13/2019 - 15:00:56: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "2502 -3170 2080") (attacker_position "1819 -3389 2048") (victim_position "2453 -3109 2080")
+L 10/13/2019 - 15:00:58: "Lomax<25><[U:1:1831779]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "tf_projectile_rocket" (attacker_position "2292 -3370 2080") (victim_position "2641 -2962 2096")
+L 10/13/2019 - 15:01:07: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "flamethrower" (attacker_position "2540 -3295 2123") (victim_position "2447 -3043 2080")
+L 10/13/2019 - 15:01:07: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Blue>" (assister_position "3143 -3013 2080") (attacker_position "2540 -3295 2123") (victim_position "2447 -3043 2080")
+L 10/13/2019 - 15:01:07: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "flamethrower" (attacker_position "2409 -3257 2080") (victim_position "2424 -3145 2091")
+L 10/13/2019 - 15:01:18: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "1975 -3310 2048") (victim_position "2173 -3285 2080")
+L 10/13/2019 - 15:01:18: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "2131 -3379 2080") (attacker_position "1975 -3310 2048") (victim_position "2173 -3285 2080")
+L 10/13/2019 - 15:01:20: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "2584 -3290 2112")
+L 10/13/2019 - 15:01:23: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "degreaser" (attacker_position "2071 -3226 2064") (victim_position "1903 -3067 2048")
+L 10/13/2019 - 15:01:23: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "2148 -3290 2094") (attacker_position "2071 -3226 2064") (victim_position "1903 -3067 2048")
+L 10/13/2019 - 15:01:23: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "revenge" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assist "1")
+L 10/13/2019 - 15:01:28: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "449") (ubercharge "0")
+L 10/13/2019 - 15:01:28: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "backburner" (attacker_position "3501 -2998 2048") (victim_position "3357 -2802 2064")
+L 10/13/2019 - 15:01:31: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" with "backburner" (attacker_position "3472 -2926 2048") (victim_position "3350 -3052 2080")
+L 10/13/2019 - 15:01:33: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "knife" (customkill "backstab") (attacker_position "2424 -3056 2080") (victim_position "2485 -3057 2080")
+L 10/13/2019 - 15:01:36: "Darth Meerkat<23><[U:1:121426737]><Red>" changed role to "scout"
+L 10/13/2019 - 15:01:40: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "2895 -3193 2112")
+L 10/13/2019 - 15:01:40: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "knife" (customkill "backstab") (attacker_position "2895 -3193 2112") (victim_position "2854 -3223 2112")
+L 10/13/2019 - 15:01:40: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "Snek<17><[U:1:122465451]><Red>" (assister_position "2680 -3400 2080") (attacker_position "2895 -3193 2112") (victim_position "2854 -3223 2112")
+L 10/13/2019 - 15:01:40: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "domination" against "Snek<17><[U:1:122465451]><Red>" (assist "1")
+L 10/13/2019 - 15:01:44: "CrazyEnzo03<30><[U:1:59983226]><>" connected, address "172.30.43.159:27005"
+L 10/13/2019 - 15:01:44: "CrazyEnzo03<30><[U:1:59983226]><>" STEAM USERID validated
+L 10/13/2019 - 15:01:47: "Lomax<25><[U:1:1831779]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "tf_projectile_rocket" (attacker_position "3091 -3315 2080") (victim_position "3296 -3021 2169")
+L 10/13/2019 - 15:01:47: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Sonic_Soldier420<15><[U:1:24174610]><Red>" (assister_position "2681 -3354 2096") (attacker_position "3091 -3315 2080") (victim_position "3296 -3021 2169")
+L 10/13/2019 - 15:01:50: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Darth Meerkat<23><[U:1:121426737]><Red>" with "tf_weapon_medigun" (attacker_position "2708 -2471 2014") (victim_position "2733 -2724 2118")
+L 10/13/2019 - 15:01:54: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "syringegun_medic" (attacker_position "2239 -2542 2048") (victim_position "2120 -2691 2064")
+L 10/13/2019 - 15:01:54: "Sarc<26><[U:1:8355163]><Red>" triggered "kill assist" against "WARBIRD199<22><[U:1:63881333]><Blue>" (assister_position "3208 -1806 1866") (attacker_position "2239 -2542 2048") (victim_position "2120 -2691 2064")
+L 10/13/2019 - 15:01:58: "FRAG DRAKE<24><[U:1:240994645]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "70") (ubercharge "0")
+L 10/13/2019 - 15:01:58: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "knife" (customkill "backstab") (attacker_position "2234 -2955 2080") (victim_position "2277 -3018 2080")
+L 10/13/2019 - 15:01:58: "CrazyEnzo03<30><[U:1:59983226]><>" entered the game
+L 10/13/2019 - 15:02:04: "Sarc<26><[U:1:8355163]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "minigun" (attacker_position "1900 -2858 2048") (victim_position "1847 -3465 2048")
+L 10/13/2019 - 15:02:04: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "1796 -3428 2048") (attacker_position "1900 -2858 2048") (victim_position "1847 -3465 2048")
+L 10/13/2019 - 15:02:05: "Snek<17><[U:1:122465451]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "2387 -3201 2080") (victim_position "2329 -3206 2080")
+L 10/13/2019 - 15:02:09: "Lomax<25><[U:1:1831779]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "tf_projectile_rocket" (attacker_position "2771 -2958 2080") (victim_position "2848 -2960 2080")
+L 10/13/2019 - 15:02:10: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "degreaser" (attacker_position "2729 -3206 2119") (victim_position "2760 -3126 2119")
+L 10/13/2019 - 15:02:10: "Sarc<26><[U:1:8355163]><Red>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Blue>" (assister_position "2243 -3101 2080") (attacker_position "2729 -3206 2119") (victim_position "2760 -3126 2119")
+L 10/13/2019 - 15:02:11: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "knife" (customkill "backstab") (attacker_position "2223 -3029 2080") (victim_position "2259 -3099 2080")
+L 10/13/2019 - 15:02:13: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (customkill "backstab") (attacker_position "2683 -3145 2119") (victim_position "2722 -3150 2119")
+L 10/13/2019 - 15:02:15: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "flamethrower" (attacker_position "2751 -3123 2119") (victim_position "2866 -2854 2080")
+L 10/13/2019 - 15:02:15: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" triggered "kill assist" against "FRAG DRAKE<24><[U:1:240994645]><Blue>" (assister_position "2629 -3080 2115") (attacker_position "2751 -3123 2119") (victim_position "2866 -2854 2080")
+L 10/13/2019 - 15:02:15: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "revenge" against "FRAG DRAKE<24><[U:1:240994645]><Blue>"
+L 10/13/2019 - 15:02:22: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" with "tf_weapon_medigun" (attacker_position "2618 -3377 2080") (victim_position "2914 -3452 2080")
+L 10/13/2019 - 15:02:24: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "degreaser" (attacker_position "2832 -3463 2080") (victim_position "3175 -3506 2080")
+L 10/13/2019 - 15:02:40: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Sonic_Soldier420<15><[U:1:24174610]><Red>") (position1 "2702 -3179 2119") 
+L 10/13/2019 - 15:02:44: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (attacker_position "1668 -3877 2006") (victim_position "1629 -3921 1979")
+L 10/13/2019 - 15:02:44: "Makers<28><[U:1:22699679]><Blue>" triggered "kill assist" against "Darth Meerkat<23><[U:1:121426737]><Red>" (assister_position "1942 -4046 2051") (attacker_position "1668 -3877 2006") (victim_position "1629 -3921 1979")
+L 10/13/2019 - 15:02:44: "Sarc<26><[U:1:8355163]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "eviction_notice" (attacker_position "3439 -3611 2048") (victim_position "3485 -3637 2048")
+L 10/13/2019 - 15:02:44: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" triggered "kill assist" against "Lomax<25><[U:1:1831779]><Blue>" (assister_position "3489 -3462 2048") (attacker_position "3439 -3611 2048") (victim_position "3485 -3637 2048")
+L 10/13/2019 - 15:02:45: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" with "minigun" (attacker_position "3457 -3849 2048") (victim_position "3457 -3614 2048")
+L 10/13/2019 - 15:02:45: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" (assister_position "3449 -3661 2116") (attacker_position "3457 -3849 2048") (victim_position "3457 -3614 2048")
+L 10/13/2019 - 15:02:47: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "minigun" (attacker_position "3601 -3938 2048") (victim_position "3451 -3756 2048")
+L 10/13/2019 - 15:02:47: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "3612 -3940 2048") (victim_position "3507 -3784 2048")
+L 10/13/2019 - 15:02:47: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "flamethrower" (attacker_position "3501 -3802 2062") (victim_position "3655 -3946 2048")
+L 10/13/2019 - 15:02:47: "Sarc<26><[U:1:8355163]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "3411 -3688 2139") (attacker_position "3501 -3802 2062") (victim_position "3655 -3946 2048")
+L 10/13/2019 - 15:02:49: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "bonesaw" (attacker_position "2250 -3402 2080") (victim_position "2246 -3354 2080")
+L 10/13/2019 - 15:02:53: "Makers<28><[U:1:22699679]><Blue>" killed "Snek<17><[U:1:122465451]><Red>" with "tf_projectile_rocket" (attacker_position "1644 -3435 2086") (victim_position "2076 -3280 2064")
+L 10/13/2019 - 15:02:56: "Makers<28><[U:1:22699679]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "484") (ubercharge "0")
+L 10/13/2019 - 15:02:56: "Makers<28><[U:1:22699679]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "tf_projectile_rocket" (attacker_position "1767 -3873 2008") (victim_position "1718 -3800 2048")
+L 10/13/2019 - 15:02:56: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "syringegun_medic" (attacker_position "1718 -3800 2123") (victim_position "1767 -3879 2005")
+L 10/13/2019 - 15:03:15: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "3182 -3333 2080") (victim_position "3281 -3229 2080")
+L 10/13/2019 - 15:03:16: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" with "flaregun" (attacker_position "3280 -3235 2080") (victim_position "3111 -3424 2080")
+L 10/13/2019 - 15:03:16: "Sonic_Soldier420<15><[U:1:24174610]><Red>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" (assister_position "3256 -3259 2148") (attacker_position "3280 -3235 2080") (victim_position "3111 -3424 2080")
+L 10/13/2019 - 15:03:19: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "WARBIRD199<22><[U:1:63881333]><Blue>") (position1 "2713 -3152 2119") 
+L 10/13/2019 - 15:03:22: "Makers<28><[U:1:22699679]><Blue>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "1950 -3488 2092") (victim_position "2118 -3649 2064")
+L 10/13/2019 - 15:03:25: "CrazyEnzo03<30><[U:1:59983226]><Unassigned>" joined team "Spectator"
+L 10/13/2019 - 15:03:25: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" triggered "player_extinguished" against "Sarc<26><[U:1:8355163]><Red>" with "tf_weapon_medigun" (attacker_position "3378 -2722 2064") (victim_position "3590 -2877 2048")
+L 10/13/2019 - 15:03:27: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "38") (ubercharge "0")
+L 10/13/2019 - 15:03:27: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Red>" with "backburner" (attacker_position "3455 -2724 2048") (victim_position "3621 -2701 2048")
+L 10/13/2019 - 15:03:28: "Snek<17><[U:1:122465451]><Red>" killed "Makers<28><[U:1:22699679]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "2259 -3201 2080") (victim_position "2310 -3203 2080")
+L 10/13/2019 - 15:03:28: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" triggered "kill assist" against "Makers<28><[U:1:22699679]><Blue>" (assister_position "3791 -533 1888") (attacker_position "2259 -3201 2080") (victim_position "2310 -3203 2080")
+L 10/13/2019 - 15:03:29: "Sarc<26><[U:1:8355163]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "minigun" (attacker_position "3416 -2559 2048") (victim_position "3476 -2746 2048")
+L 10/13/2019 - 15:03:29: "WARBIRD199<22><[U:1:63881333]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "backburner" (attacker_position "3483 -2766 2062") (victim_position "3404 -2538 2048")
+L 10/13/2019 - 15:03:30: World triggered "Round_Overtime"
+L 10/13/2019 - 15:03:35: "FRAG DRAKE<24><[U:1:240994645]><Blue>" killed "Darth Meerkat<23><[U:1:121426737]><Red>" with "knife" (attacker_position "2733 -3315 2112") (victim_position "2690 -3300 2112")
+L 10/13/2019 - 15:03:37: "Snek<17><[U:1:122465451]><Red>" killed "FRAG DRAKE<24><[U:1:240994645]><Blue>" with "ambassador" (attacker_position "2261 -3255 2080") (victim_position "2379 -3220 2080")
+L 10/13/2019 - 15:03:40: "Sonic_Soldier420<15><[U:1:24174610]><Red>" killed "Lomax<25><[U:1:1831779]><Blue>" with "flamethrower" (attacker_position "2581 -3223 2112") (victim_position "2602 -3390 2101")
+L 10/13/2019 - 15:03:41: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 15:03:41: World triggered "Round_Length" (seconds "337.65")
+L 10/13/2019 - 15:03:41: Team "Red" current score "0" with "6" players
+L 10/13/2019 - 15:03:41: Team "Blue" current score "2" with "5" players
+L 10/13/2019 - 15:03:41: World triggered "ScrambleTeams_Auto"
+L 10/13/2019 - 15:03:49: "CE | LV40RAICHU<0><[U:1:19841996]><Red>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Red>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 15:03:49: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" committed suicide with "world" (attacker_position "2964 -209 773")
+L 10/13/2019 - 15:03:54: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" killed "Sonic_Soldier420<15><[U:1:24174610]><Red>" with "minigun" (attacker_position "2302 -3259 2080") (victim_position "2872 -3307 2112")
+L 10/13/2019 - 15:03:56: World triggered "Round_Start"
+L 10/13/2019 - 15:03:56: "BEan | Lacledeslan.com<29><[U:1:7609438]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Makers<28><[U:1:22699679]><Blue>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "CE | LV40RAICHU<27><[U:1:19841996]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "[LL] allhawkeye85<13><[U:1:28500804]><Blue>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Lomax<25><[U:1:1831779]><Blue>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Sarc<26><[U:1:8355163]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Darth Meerkat<23><[U:1:121426737]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Snek<17><[U:1:122465451]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "Sonic_Soldier420<15><[U:1:24174610]><Red>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "WARBIRD199<22><[U:1:63881333]><Blue>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "FRAG DRAKE<24><[U:1:240994645]><Blue>" joined team "Spectator"
+L 10/13/2019 - 15:03:56: "FRAG DRAKE<24><[U:1:240994645]><Spectator>" joined team "Red"
+L 10/13/2019 - 15:03:56: "WARBIRD199<22><[U:1:63881333]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Sonic_Soldier420<15><[U:1:24174610]><Spectator>" joined team "Red"
+L 10/13/2019 - 15:03:56: "Snek<17><[U:1:122465451]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Darth Meerkat<23><[U:1:121426737]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Sarc<26><[U:1:8355163]><Spectator>" joined team "Red"
+L 10/13/2019 - 15:03:56: "Lomax<25><[U:1:1831779]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "[LL] allhawkeye85<13><[U:1:28500804]><Spectator>" joined team "Red"
+L 10/13/2019 - 15:03:56: "CE | LV40RAICHU<27><[U:1:19841996]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Makers<28><[U:1:22699679]><Spectator>" joined team "Red"
+L 10/13/2019 - 15:03:56: "BEan | Lacledeslan.com<29><[U:1:7609438]><Spectator>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Sonic_Soldier420<15><[U:1:24174610]><Red>" joined team "Blue"
+L 10/13/2019 - 15:03:56: "Darth Meerkat<23><[U:1:121426737]><Blue>" joined team "Red"
+L 10/13/2019 - 15:04:05: "Snek<17><[U:1:122465451]><Blue>" changed role to "scout"
+L 10/13/2019 - 15:04:17: "[LL] allhawkeye85<13><[U:1:28500804]><Red>" killed "WARBIRD199<22><[U:1:63881333]><Blue>" with "minigun" (attacker_position "3329 -2616 2048") (victim_position "3360 -2882 2064")
+L 10/13/2019 - 15:04:22: "CE | LV40RAICHU<27><[U:1:19841996]><Blue>" killed "[LL] allhawkeye85<13><[U:1:28500804]><Red>" with "syringegun_medic" (attacker_position "3591 -2948 2048") (victim_position "3375 -2832 2064")
+L 10/13/2019 - 15:04:22: "WARBIRD199<22><[U:1:63881333]><Blue>" triggered "kill assist" against "[LL] allhawkeye85<13><[U:1:28500804]><Red>" (assister_position "3322 -2910 2094") (attacker_position "3591 -2948 2048") (victim_position "3375 -2832 2064")
+L 10/13/2019 - 15:04:27: "Sarc<26><[U:1:8355163]><Red>" triggered "medic_death" against "CE | LV40RAICHU<27><[U:1:19841996]><Blue>" (healing "141") (ubercharge "0")
+L 10/13/2019 - 15:04:27: "Sarc<26><[U:1:8355163]><Red>" killed "CE | LV40RAICHU<27><[U:1:19841996]><Blue>" with "minigun" (attacker_position "3261 -2632 2064") (victim_position "3352 -2820 2064")
+L 10/13/2019 - 15:04:28: "FRAG DRAKE<24><[U:1:240994645]><Red>" killed "BEan | Lacledeslan.com<29><[U:1:7609438]><Blue>" with "knife" (customkill "backstab") (attacker_position "2538 -1769 1866") (victim_position "2585 -1806 1865")
+L 10/13/2019 - 15:04:30: "Snek<17><[U:1:122465451]><Blue>" killed "FRAG DRAKE<24><[U:1:240994645]><Red>" with "force_a_nature" (customkill "feign_death") (attacker_position "2538 -1775 1866") (victim_position "2591 -1463 1867")
+L 10/13/2019 - 15:04:32: Vote succeeded "ChangeLevel koth_brazil"
+L 10/13/2019 - 15:04:33: "Makers<28><[U:1:22699679]><Red>" changed role to "pyro"
+L 10/13/2019 - 15:04:34: "Snek<17><[U:1:122465451]><Blue>" killed "Sarc<26><[U:1:8355163]><Red>" with "force_a_nature" (attacker_position "3171 -2605 2048") (victim_position "3491 -2994 2048")
+L 10/13/2019 - 15:04:34: "Lomax<25><[U:1:1831779]><Blue>" triggered "kill assist" against "Sarc<26><[U:1:8355163]><Red>" (assister_position "4150 -3489 2048") (attacker_position "3171 -2605 2048") (victim_position "3491 -2994 2048")
+L 10/13/2019 - 15:04:34: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 15:04:35: Log file closed.

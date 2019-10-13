@@ -1,0 +1,353 @@
+L 10/13/2019 - 15:40:35: Log file started (file "logs/L1013010.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 15:40:41: "CrazyEnzo03<56><[U:1:59983226]><>" entered the game
+L 10/13/2019 - 15:40:42: "Gryse<80><[U:1:41968851]><>" entered the game
+L 10/13/2019 - 15:40:43: "Lomax<79><[U:1:1831779]><>" entered the game
+L 10/13/2019 - 15:40:43: "HARRYZ<59><[U:1:32399126]><>" entered the game
+L 10/13/2019 - 15:40:43: "bearbear<70><[U:1:95728106]><>" entered the game
+L 10/13/2019 - 15:40:43: "Makers<78><[U:1:22699679]><>" entered the game
+L 10/13/2019 - 15:40:43: "{CC} Gert<65><[U:1:13211210]><>" entered the game
+L 10/13/2019 - 15:40:44: "Snek<61><[U:1:122465451]><>" entered the game
+L 10/13/2019 - 15:40:44: "Sarc<53><[U:1:8355163]><>" entered the game
+L 10/13/2019 - 15:40:44: "Darth Meerkat<57><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 15:40:45: "[LL] allhawkeye85<82><[U:1:28500804]><>" entered the game
+L 10/13/2019 - 15:40:45: "{CC}Maj_Flee<81><[U:1:16522063]><>" entered the game
+L 10/13/2019 - 15:40:45: "Panda<63><[U:1:112376827]><>" entered the game
+L 10/13/2019 - 15:40:47: "HARRYZ<59><[U:1:32399126]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:40:48: "BEan | Lacledeslan.com<83><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 15:40:50: "Snek<61><[U:1:122465451]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:40:51: "[LL] Loddy<68><[U:1:9330378]><>" entered the game
+L 10/13/2019 - 15:40:52: "Snek<61><[U:1:122465451]><Red>" changed role to "sniper"
+L 10/13/2019 - 15:40:52: "bearbear<70><[U:1:95728106]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:40:53: "BEan | Lacledeslan.com<83><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:40:54: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/13/2019 - 15:40:55: "Panda<63><[U:1:112376827]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:40:55: "bearbear<70><[U:1:95728106]><Blue>" changed role to "demoman"
+L 10/13/2019 - 15:40:56: "Darth Meerkat<57><[U:1:121426737]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:40:56: "[LL] Loddy<68><[U:1:9330378]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:40:56: "Panda<63><[U:1:112376827]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:40:57: "Gryse<80><[U:1:41968851]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:40:57: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "demoman"
+L 10/13/2019 - 15:40:59: "Panda<63><[U:1:112376827]><Blue>" changed role to "soldier"
+L 10/13/2019 - 15:41:00: "[LL] Loddy<68><[U:1:9330378]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:41:00: "Gryse<80><[U:1:41968851]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:41:01: "Lomax<79><[U:1:1831779]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:41:02: "{CC} Gert<65><[U:1:13211210]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:41:05: "{CC} Gert<65><[U:1:13211210]><Red>" changed role to "medic"
+L 10/13/2019 - 15:41:08: "Sarc<53><[U:1:8355163]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:41:09: "Makers<78><[U:1:22699679]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:41:10: "Makers<78><[U:1:22699679]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 15:41:14: "Lomax<79><[U:1:1831779]><Blue>" changed role to "sniper"
+L 10/13/2019 - 15:41:16: "Sarc<53><[U:1:8355163]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:41:18: "Snek<61><[U:1:122465451]><Red>" committed suicide with "world" (attacker_position "-703 -882 -25")
+L 10/13/2019 - 15:41:22: World triggered "Round_Start"
+L 10/13/2019 - 15:41:30: "HARRYZ<59><[U:1:32399126]><Blue>" changed role to "sniper"
+L 10/13/2019 - 15:41:31: "Makers<78><[U:1:22699679]><Red>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 15:41:34: "HARRYZ<59><[U:1:32399126]><Blue>" changed role to "scout"
+L 10/13/2019 - 15:41:47: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "demokatana" (attacker_position "100 134 -88") (victim_position "96 96 -88")
+L 10/13/2019 - 15:41:50: "{CC}Maj_Flee<81><[U:1:16522063]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 15:41:53: "bearbear<70><[U:1:95728106]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "iron_bomber" (attacker_position "-643 779 -12") (victim_position "-346 359 -127")
+L 10/13/2019 - 15:41:53: "Gryse<80><[U:1:41968851]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "-604 725 -7") (attacker_position "-643 779 -12") (victim_position "-346 359 -127")
+L 10/13/2019 - 15:41:54: "Snek<61><[U:1:122465451]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "714 -1540 7") (victim_position "-582 799 -10")
+L 10/13/2019 - 15:41:58: "{CC}Maj_Flee<84><[U:1:16522063]><>" connected, address "172.30.42.182:27005"
+L 10/13/2019 - 15:41:58: "{CC}Maj_Flee<84><[U:1:16522063]><>" STEAM USERID validated
+L 10/13/2019 - 15:41:58: "bearbear<70><[U:1:95728106]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "battleaxe" (attacker_position "-598 1257 -15") (victim_position "-546 1247 -16")
+L 10/13/2019 - 15:42:04: "{CC}Maj_Flee<84><[U:1:16522063]><>" entered the game
+L 10/13/2019 - 15:42:05: "CrazyEnzo03<56><[U:1:59983226]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:42:06: "Snek<61><[U:1:122465451]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "533 -1324 4") (victim_position "66 187 -91")
+L 10/13/2019 - 15:42:06: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "kill assist" against "Sarc<53><[U:1:8355163]><Blue>" (assister_position "106 -171 -96") (attacker_position "533 -1324 4") (victim_position "66 187 -91")
+L 10/13/2019 - 15:42:07: "CrazyEnzo03<56><[U:1:59983226]><Red>" changed role to "scout"
+L 10/13/2019 - 15:42:09: "Panda<63><[U:1:112376827]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "149 179 -64")
+L 10/13/2019 - 15:42:11: "Snek<61><[U:1:122465451]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "awper_hand" (attacker_position "547 -1329 4") (victim_position "-71 203 -72")
+L 10/13/2019 - 15:42:11: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "kill assist" against "Panda<63><[U:1:112376827]><Blue>" (assister_position "-10 1 -88") (attacker_position "547 -1329 4") (victim_position "-71 203 -72")
+L 10/13/2019 - 15:42:11: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "13 176 -41")
+L 10/13/2019 - 15:42:12: "{CC}Maj_Flee<84><[U:1:16522063]><Unassigned>" joined team "Red"
+L 10/13/2019 - 15:42:12: "Lomax<79><[U:1:1831779]><Blue>" committed suicide with "world" (attacker_position "-703 1017 -13")
+L 10/13/2019 - 15:42:12: "bearbear<70><[U:1:95728106]><Blue>" committed suicide with "world" (attacker_position "96 442 -127")
+L 10/13/2019 - 15:42:12: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "280") (ubercharge "0")
+L 10/13/2019 - 15:42:12: "{CC} Gert<65><[U:1:13211210]><Red>" committed suicide with "world" (attacker_position "23 -331 -127")
+L 10/13/2019 - 15:42:13: "[LL] Loddy<68><[U:1:9330378]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "world" (attacker_position "-116 119 -11") (victim_position "0 -243 -104")
+L 10/13/2019 - 15:42:14: "HARRYZ<59><[U:1:32399126]><Blue>" killed "[LL] Loddy<68><[U:1:9330378]><Red>" with "world" (attacker_position "0 -243 -90") (victim_position "-6 306 -111")
+L 10/13/2019 - 15:42:16: "CrazyEnzo03<56><[U:1:59983226]><Red>" committed suicide with "world" (attacker_position "-264 -322 -127")
+L 10/13/2019 - 15:42:19: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 15:42:20: "Lomax<79><[U:1:1831779]><Blue>" changed role to "demoman"
+L 10/13/2019 - 15:42:22: "HARRYZ<59><[U:1:32399126]><Blue>" changed role to "medic"
+L 10/13/2019 - 15:42:27: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>") (position1 "-27 111 -89") (player2 "Darth Meerkat<57><[U:1:121426737]><Red>") (position2 "-118 42 -95") 
+L 10/13/2019 - 15:42:36: "Gryse<80><[U:1:41968851]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "minigun" (attacker_position "622 1308 18") (victim_position "535 1346 5")
+L 10/13/2019 - 15:42:36: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "421 1257 0") (attacker_position "622 1308 18") (victim_position "535 1346 5")
+L 10/13/2019 - 15:42:37: "Sarc<53><[U:1:8355163]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "phlogistinator" (attacker_position "290 -160 -125") (victim_position "-119 32 -95")
+L 10/13/2019 - 15:42:38: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Gryse<80><[U:1:41968851]><Blue>" with "tf_weapon_medigun" (attacker_position "777 1436 16") (victim_position "533 1344 5")
+L 10/13/2019 - 15:42:42: "[LL] Loddy<68><[U:1:9330378]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "tf_projectile_rocket" (attacker_position "141 -579 -37") (victim_position "289 -441 -127")
+L 10/13/2019 - 15:42:42: "Snek<61><[U:1:122465451]><Red>" triggered "kill assist" against "Sarc<53><[U:1:8355163]><Blue>" (assister_position "503 -1270 8") (attacker_position "141 -579 -37") (victim_position "289 -441 -127")
+L 10/13/2019 - 15:42:47: "CrazyEnzo03<56><[U:1:59983226]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-11 -178 18")
+L 10/13/2019 - 15:42:47: "Snek<61><[U:1:122465451]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "532 -1326 5")
+L 10/13/2019 - 15:42:47: "Snek<61><[U:1:122465451]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "532 -1326 5") (victim_position "-79 129 -93")
+L 10/13/2019 - 15:42:47: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "kill assist" against "Gryse<80><[U:1:41968851]><Blue>" (assister_position "226 -405 -127") (attacker_position "532 -1326 5") (victim_position "-79 129 -93")
+L 10/13/2019 - 15:42:51: "Lomax<79><[U:1:1831779]><Blue>" killed "[LL] Loddy<68><[U:1:9330378]><Red>" with "tf_projectile_pipe" (attacker_position "470 378 302") (victim_position "294 -707 -83")
+L 10/13/2019 - 15:42:55: "bearbear<70><[U:1:95728106]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "iron_bomber" (attacker_position "714 889 166") (victim_position "760 1156 63")
+L 10/13/2019 - 15:42:59: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "470") (ubercharge "0")
+L 10/13/2019 - 15:42:59: "Lomax<79><[U:1:1831779]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "world" (attacker_position "669 469 283") (victim_position "89 -493 -127")
+L 10/13/2019 - 15:42:59: "Lomax<79><[U:1:1831779]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "world" (attacker_position "669 469 283") (victim_position "10 -311 -127")
+L 10/13/2019 - 15:43:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Panda<63><[U:1:112376827]><Blue>") (position1 "30 143 -88") 
+L 10/13/2019 - 15:43:09: "Panda<63><[U:1:112376827]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "rocketlauncher_directhit" (attacker_position "292 -926 -31") (victim_position "610 -1299 18")
+L 10/13/2019 - 15:43:13: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Sarc<53><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "202 -304 -127") (victim_position "-5 -312 -127")
+L 10/13/2019 - 15:43:13: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Sarc<53><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "247 -427 -127") (victim_position "-20 -191 -94")
+L 10/13/2019 - 15:43:18: "Gryse<80><[U:1:41968851]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "minigun" (attacker_position "677 692 226") (victim_position "-75 416 -78")
+L 10/13/2019 - 15:43:24: "CrazyEnzo03<56><[U:1:59983226]><Red>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "1037") (ubercharge "0")
+L 10/13/2019 - 15:43:24: "CrazyEnzo03<56><[U:1:59983226]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "scattergun" (attacker_position "194 544 -127") (victim_position "249 450 -127")
+L 10/13/2019 - 15:43:25: "Panda<63><[U:1:112376827]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "righteous_bison" (attacker_position "33 339 -127") (victim_position "286 645 -113")
+L 10/13/2019 - 15:43:25: "Gryse<80><[U:1:41968851]><Blue>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Red>" (assister_position "449 409 298") (attacker_position "33 339 -127") (victim_position "286 645 -113")
+L 10/13/2019 - 15:43:25: "[LL] Loddy<68><[U:1:9330378]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "tf_projectile_rocket" (attacker_position "777 -563 266") (victim_position "771 -813 197")
+L 10/13/2019 - 15:43:33: "Panda<63><[U:1:112376827]><Blue>" committed suicide with "world" (attacker_position "401 312 -127")
+L 10/13/2019 - 15:43:33: "Panda<63><[U:1:112376827]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "world" (attacker_position "401 312 -113") (victim_position "533 -145 -127")
+L 10/13/2019 - 15:43:37: "Snek<61><[U:1:122465451]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-524 -1118 -26") (victim_position "498 365 302")
+L 10/13/2019 - 15:43:47: "Gryse<80><[U:1:41968851]><Blue>" changed role to "sniper"
+L 10/13/2019 - 15:43:52: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "{CC}Maj_Flee<84><[U:1:16522063]><Red>") (position1 "-32 -42 -88") (player2 "[LL] Loddy<68><[U:1:9330378]><Red>") (position2 "13 -147 -91") 
+L 10/13/2019 - 15:43:54: "Lomax<79><[U:1:1831779]><Blue>" committed suicide with "world" (attacker_position "1303 1245 -287")
+L 10/13/2019 - 15:43:57: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Sarc<53><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "904 1350 31") (victim_position "683 1602 0")
+L 10/13/2019 - 15:43:57: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Sarc<53><[U:1:8355163]><Blue>" with "tf_weapon_medigun" (attacker_position "887 1501 55") (victim_position "783 1468 14")
+L 10/13/2019 - 15:43:58: "Sarc<53><[U:1:8355163]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "phlogistinator" (attacker_position "799 1477 14") (victim_position "692 1575 3")
+L 10/13/2019 - 15:43:58: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "881 1529 63") (attacker_position "799 1477 14") (victim_position "692 1575 3")
+L 10/13/2019 - 15:44:04: "Sarc<53><[U:1:8355163]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "phlogistinator" (attacker_position "664 1574 0") (victim_position "386 1615 -19")
+L 10/13/2019 - 15:44:15: "CrazyEnzo03<56><[U:1:59983226]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:44:17: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "demokatana" (attacker_position "-529 382 -127") (victim_position "-552 425 -127")
+L 10/13/2019 - 15:44:22: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "640") (ubercharge "0")
+L 10/13/2019 - 15:44:22: "bearbear<70><[U:1:95728106]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "world" (attacker_position "638 1238 31") (victim_position "382 600 -127")
+L 10/13/2019 - 15:44:22: "Snek<61><[U:1:122465451]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-731 -559 -14") (victim_position "572 503 282")
+L 10/13/2019 - 15:44:22: "bearbear<70><[U:1:95728106]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "world" (attacker_position "715 1153 64") (victim_position "329 624 -123")
+L 10/13/2019 - 15:44:30: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "demokatana" (attacker_position "546 1345 4") (victim_position "456 1340 6")
+L 10/13/2019 - 15:44:31: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Panda<63><[U:1:112376827]><Blue>" with "tf_weapon_medigun" (attacker_position "-262 412 -127") (victim_position "41 98 228")
+L 10/13/2019 - 15:44:35: "Snek<61><[U:1:122465451]><Red>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "1180") (ubercharge "0")
+L 10/13/2019 - 15:44:35: "Snek<61><[U:1:122465451]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-687 -680 -11") (victim_position "121 325 -127")
+L 10/13/2019 - 15:44:35: "CrazyEnzo03<56><[U:1:59983226]><Red>" triggered "kill assist" against "HARRYZ<59><[U:1:32399126]><Blue>" (assister_position "244 -740 -61") (attacker_position "-687 -680 -11") (victim_position "121 325 -127")
+L 10/13/2019 - 15:44:35: "Gryse<80><[U:1:41968851]><Blue>" changed role to "engineer"
+L 10/13/2019 - 15:44:41: "bearbear<70><[U:1:95728106]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "iron_bomber" (attacker_position "635 1230 37") (victim_position "326 1099 -20")
+L 10/13/2019 - 15:44:45: "Sarc<53><[U:1:8355163]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "phlogistinator" (attacker_position "137 30 -88") (victim_position "33 -34 -88")
+L 10/13/2019 - 15:44:49: "Panda<63><[U:1:112376827]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "fryingpan" (attacker_position "54 1636 -26") (victim_position "-6 1620 21")
+L 10/13/2019 - 15:44:54: "Snek<61><[U:1:122465451]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "awper_hand" (attacker_position "-630 -771 -10") (victim_position "232 696 -80")
+L 10/13/2019 - 15:44:59: "Panda<63><[U:1:112376827]><Blue>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "149") (ubercharge "0")
+L 10/13/2019 - 15:44:59: "Panda<63><[U:1:112376827]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "rocketlauncher_directhit" (attacker_position "389 704 -73") (victim_position "96 -152 -95")
+L 10/13/2019 - 15:45:01: "Snek<61><[U:1:122465451]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-749 -408 7") (victim_position "644 517 276")
+L 10/13/2019 - 15:45:01: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "Gryse<80><[U:1:41968851]><Blue>"
+L 10/13/2019 - 15:45:03: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "139 -68 -91")
+L 10/13/2019 - 15:45:03: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "68 -46 -88")
+L 10/13/2019 - 15:45:03: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "minigun" (attacker_position "68 -46 -88") (victim_position "54 122 -88")
+L 10/13/2019 - 15:45:03: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "kill assist" against "Panda<63><[U:1:112376827]><Blue>" (assister_position "29 -21 -88") (attacker_position "68 -46 -88") (victim_position "54 122 -88")
+L 10/13/2019 - 15:45:06: "bearbear<70><[U:1:95728106]><Blue>" committed suicide with "world" (attacker_position "137 1056 5")
+L 10/13/2019 - 15:45:09: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" committed suicide with "world" (attacker_position "105 -463 -127")
+L 10/13/2019 - 15:45:11: "[LL] Loddy<68><[U:1:9330378]><Red>" committed suicide with "world" (attacker_position "-82 -36 -88")
+L 10/13/2019 - 15:45:14: "Gryse<80><[U:1:41968851]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:45:25: "Snek<61><[U:1:122465451]><Red>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "542") (ubercharge "0")
+L 10/13/2019 - 15:45:25: "Snek<61><[U:1:122465451]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-749 -432 7") (victim_position "716 816 194")
+L 10/13/2019 - 15:45:25: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "kill assist" against "HARRYZ<59><[U:1:32399126]><Blue>" (assister_position "765 872 176") (attacker_position "-749 -432 7") (victim_position "716 816 194")
+L 10/13/2019 - 15:45:25: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "world" (attacker_position "779 905 163") (victim_position "743 1004 119")
+L 10/13/2019 - 15:45:25: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" triggered "kill assist" against "Lomax<79><[U:1:1831779]><Blue>" (assister_position "72 125 -88") (attacker_position "779 905 163") (victim_position "743 1004 119")
+L 10/13/2019 - 15:45:27: "Panda<63><[U:1:112376827]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "rocketlauncher_directhit" (attacker_position "748 1110 79") (victim_position "726 994 141")
+L 10/13/2019 - 15:45:27: "Lomax<79><[U:1:1831779]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "743 1004 133") (attacker_position "748 1110 79") (victim_position "726 994 141")
+L 10/13/2019 - 15:45:32: "Panda<63><[U:1:112376827]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "rocketlauncher_directhit" (attacker_position "548 449 326") (victim_position "331 927 -41")
+L 10/13/2019 - 15:45:32: "Gryse<80><[U:1:41968851]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "397 1192 -8") (attacker_position "548 449 326") (victim_position "331 927 -41")
+L 10/13/2019 - 15:45:32: "Snek<61><[U:1:122465451]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-722 -636 -12") (victim_position "569 440 298")
+L 10/13/2019 - 15:45:35: "Lomax<79><[U:1:1831779]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:45:36: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Sarc<53><[U:1:8355163]><Blue>") (position1 "3 -77 -88") 
+L 10/13/2019 - 15:45:41: "[LL] Loddy<68><[U:1:9330378]><Red>" changed role to "engineer"
+L 10/13/2019 - 15:45:42: "CrazyEnzo03<56><[U:1:59983226]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "tf_projectile_rocket" (attacker_position "578 -407 297") (victim_position "77 61 -88")
+L 10/13/2019 - 15:45:49: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "57 -1986 -31")
+L 10/13/2019 - 15:45:57: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "{CC}Maj_Flee<84><[U:1:16522063]><Red>") (position1 "82 -85 -88") (player2 "Darth Meerkat<57><[U:1:121426737]><Red>") (position2 "146 -71 -91") 
+L 10/13/2019 - 15:46:04: "bearbear<70><[U:1:95728106]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "battleaxe" (attacker_position "264 1301 -2") (victim_position "312 1302 21")
+L 10/13/2019 - 15:46:04: "Lomax<79><[U:1:1831779]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "406 1339 0") (attacker_position "264 1301 -2") (victim_position "312 1302 21")
+L 10/13/2019 - 15:46:06: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "766 -517 273")
+L 10/13/2019 - 15:46:07: "Lomax<79><[U:1:1831779]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "minigun" (attacker_position "652 1366 15") (victim_position "656 1318 22")
+L 10/13/2019 - 15:46:11: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "Lomax<79><[U:1:1831779]><Blue>" with "tf_weapon_medigun" (attacker_position "761 1297 28") (victim_position "749 1063 97")
+L 10/13/2019 - 15:46:15: "Panda<63><[U:1:112376827]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "rocketlauncher_directhit" (attacker_position "-52 1132 157") (victim_position "212 1023 -16")
+L 10/13/2019 - 15:46:16: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "player_extinguished" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "tf_weapon_medigun" (attacker_position "-120 -63 -92") (victim_position "83 -29 -88")
+L 10/13/2019 - 15:46:19: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "88 43 -88")
+L 10/13/2019 - 15:46:19: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "minigun" (attacker_position "88 43 -88") (victim_position "195 156 -95")
+L 10/13/2019 - 15:46:19: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Gryse<80><[U:1:41968851]><Blue>" (assister_position "-108 1 -94") (attacker_position "88 43 -88") (victim_position "195 156 -95")
+L 10/13/2019 - 15:46:20: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "player_extinguished" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "tf_weapon_medigun" (attacker_position "-52 -144 -91") (victim_position "155 75 -86")
+L 10/13/2019 - 15:46:21: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "1030") (ubercharge "0")
+L 10/13/2019 - 15:46:21: "HARRYZ<59><[U:1:32399126]><Blue>" committed suicide with "world" (attacker_position "312 260 -127")
+L 10/13/2019 - 15:46:21: "Panda<63><[U:1:112376827]><Blue>" committed suicide with "world" (attacker_position "8 357 -127")
+L 10/13/2019 - 15:46:23: "bearbear<70><[U:1:95728106]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "world" (attacker_position "-430 888 -15") (victim_position "131 54 -87")
+L 10/13/2019 - 15:46:23: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "538") (ubercharge "0")
+L 10/13/2019 - 15:46:23: "{CC} Gert<65><[U:1:13211210]><Red>" committed suicide with "world" (attacker_position "-36 -111 -90")
+L 10/13/2019 - 15:46:31: "Snek<61><[U:1:122465451]><Red>" committed suicide with "world" (attacker_position "-685 -927 -21")
+L 10/13/2019 - 15:46:33: "[LL] allhawkeye85<82><[U:1:28500804]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 15:46:36: World triggered "Round_Overtime"
+L 10/13/2019 - 15:46:36: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "demokatana" (attacker_position "174 196 -97") (victim_position "66 184 -90")
+L 10/13/2019 - 15:46:38: "bearbear<70><[U:1:95728106]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "battleaxe" (attacker_position "4 83 -88") (victim_position "8 25 -88")
+L 10/13/2019 - 15:46:38: "Lomax<79><[U:1:1831779]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "-648 463 0") (attacker_position "4 83 -88") (victim_position "8 25 -88")
+L 10/13/2019 - 15:46:39: "bearbear<70><[U:1:95728106]><Blue>" killed "[LL] Loddy<68><[U:1:9330378]><Red>" with "battleaxe" (attacker_position "-72 96 -92") (victim_position "7 102 -88")
+L 10/13/2019 - 15:46:39: "Lomax<79><[U:1:1831779]><Blue>" triggered "kill assist" against "[LL] Loddy<68><[U:1:9330378]><Red>" (assister_position "-638 368 3") (attacker_position "-72 96 -92") (victim_position "7 102 -88")
+L 10/13/2019 - 15:46:44: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "HARRYZ<59><[U:1:32399126]><Blue>") (position1 "1 -22 -88") (player2 "bearbear<70><[U:1:95728106]><Blue>") (position2 "-64 6 -88") 
+L 10/13/2019 - 15:46:48: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "player_extinguished" against "bearbear<70><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "356 901 -41") (victim_position "202 618 -127")
+L 10/13/2019 - 15:46:52: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "305") (ubercharge "0")
+L 10/13/2019 - 15:46:52: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "world" (attacker_position "426 -914 -35") (victim_position "200 321 -127")
+L 10/13/2019 - 15:46:52: "Panda<63><[U:1:112376827]><Blue>" committed suicide with "world" (attacker_position "93 368 -127")
+L 10/13/2019 - 15:46:52: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "world" (attacker_position "399 -1051 -21") (victim_position "50 291 -124")
+L 10/13/2019 - 15:46:56: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "CrazyEnzo03<56><[U:1:59983226]><Red>") (position1 "-135 133 -94") 
+L 10/13/2019 - 15:46:56: World triggered "Round_Win" (winner "Red")
+L 10/13/2019 - 15:46:56: World triggered "Round_Length" (seconds "333.54")
+L 10/13/2019 - 15:46:56: Team "Red" current score "1" with "7" players
+L 10/13/2019 - 15:46:56: Team "Blue" current score "0" with "6" players
+L 10/13/2019 - 15:46:57: "CrazyEnzo03<56><[U:1:59983226]><Red>" committed suicide with "world" (attacker_position "37 -85 -88")
+L 10/13/2019 - 15:47:03: "CrazyEnzo03<56><[U:1:59983226]><Red>" say "gg"
+L 10/13/2019 - 15:47:03: "Darth Meerkat<57><[U:1:121426737]><Red>" committed suicide with "world" (attacker_position "142 92 -87")
+L 10/13/2019 - 15:47:11: World triggered "Round_Start"
+L 10/13/2019 - 15:47:18: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "128 -2476 -40")
+L 10/13/2019 - 15:47:36: "Snek<61><[U:1:122465451]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "190 -1266 5") (victim_position "162 364 -127")
+L 10/13/2019 - 15:47:36: "Snek<61><[U:1:122465451]><Red>" triggered "domination" against "Sarc<53><[U:1:8355163]><Blue>"
+L 10/13/2019 - 15:47:38: "Panda<63><[U:1:112376827]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "rocketlauncher_directhit" (attacker_position "72 124 -88") (victim_position "277 348 -127")
+L 10/13/2019 - 15:47:38: "bearbear<70><[U:1:95728106]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "383 843 -42") (attacker_position "72 124 -88") (victim_position "277 348 -127")
+L 10/13/2019 - 15:47:41: "Lomax<79><[U:1:1831779]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "minigun" (attacker_position "476 1239 4") (victim_position "-41 320 -127")
+L 10/13/2019 - 15:47:41: "Panda<63><[U:1:112376827]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "-8 229 -97") (attacker_position "476 1239 4") (victim_position "-41 320 -127")
+L 10/13/2019 - 15:47:41: "Lomax<79><[U:1:1831779]><Blue>" triggered "domination" against "Darth Meerkat<57><[U:1:121426737]><Red>"
+L 10/13/2019 - 15:47:41: "Panda<63><[U:1:112376827]><Blue>" triggered "domination" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assist "1")
+L 10/13/2019 - 15:47:47: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "820") (ubercharge "0")
+L 10/13/2019 - 15:47:47: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "world" (attacker_position "475 -388 302") (victim_position "58 171 -89")
+L 10/13/2019 - 15:47:47: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "HARRYZ<59><[U:1:32399126]><Blue>" (assister_position "615 -472 287") (attacker_position "475 -388 302") (victim_position "58 171 -89")
+L 10/13/2019 - 15:47:47: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "world" (attacker_position "475 -388 302") (victim_position "51 86 -88")
+L 10/13/2019 - 15:47:47: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Gryse<80><[U:1:41968851]><Blue>" (assister_position "615 -472 287") (attacker_position "475 -388 302") (victim_position "51 86 -88")
+L 10/13/2019 - 15:47:51: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "776 -531 271")
+L 10/13/2019 - 15:47:55: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" changed role to "soldier"
+L 10/13/2019 - 15:48:03: "Sarc<53><[U:1:8355163]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "118 178 -91")
+L 10/13/2019 - 15:48:03: "Sarc<53><[U:1:8355163]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "75 216 -95")
+L 10/13/2019 - 15:48:03: "Sarc<53><[U:1:8355163]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "phlogistinator" (attacker_position "75 216 -95") (victim_position "-7 -95 -38")
+L 10/13/2019 - 15:48:03: "bearbear<70><[U:1:95728106]><Blue>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" (assister_position "-539 753 -7") (attacker_position "75 216 -95") (victim_position "-7 -95 -38")
+L 10/13/2019 - 15:48:06: "Snek<61><[U:1:122465451]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-740 -291 8") (victim_position "570 384 299")
+L 10/13/2019 - 15:48:07: "Sarc<53><[U:1:8355163]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "88 85 -88")
+L 10/13/2019 - 15:48:07: "Sarc<53><[U:1:8355163]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "phlogistinator" (attacker_position "88 85 -88") (victim_position "-20 -31 -88")
+L 10/13/2019 - 15:48:07: "Panda<63><[U:1:112376827]><Blue>" triggered "kill assist" against "CrazyEnzo03<56><[U:1:59983226]><Red>" (assister_position "-731 410 7") (attacker_position "88 85 -88") (victim_position "-20 -31 -88")
+L 10/13/2019 - 15:48:09: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "-754 -1023 51")
+L 10/13/2019 - 15:48:10: "Sarc<53><[U:1:8355163]><Blue>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "419") (ubercharge "0")
+L 10/13/2019 - 15:48:10: "Sarc<53><[U:1:8355163]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "phlogistinator" (attacker_position "142 112 -87") (victim_position "941 -1525 13")
+L 10/13/2019 - 15:48:11: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "729 -503 275")
+L 10/13/2019 - 15:48:13: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "bearbear<70><[U:1:95728106]><Blue>" with "demokatana" (attacker_position "-102 36 -93") (victim_position "-150 38 -96")
+L 10/13/2019 - 15:48:14: "Sarc<53><[U:1:8355163]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "phlogistinator" (attacker_position "106 49 -87") (victim_position "-124 -3 -94")
+L 10/13/2019 - 15:48:14: "Gryse<80><[U:1:41968851]><Blue>" triggered "kill assist" against "Darth Meerkat<57><[U:1:121426737]><Red>" (assister_position "372 1035 -26") (attacker_position "106 49 -87") (victim_position "-124 -3 -94")
+L 10/13/2019 - 15:48:20: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "780 -424 293")
+L 10/13/2019 - 15:48:20: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Panda<63><[U:1:112376827]><Blue>") (position1 "58 43 -88") 
+L 10/13/2019 - 15:48:22: "CrazyEnzo03<56><[U:1:59983226]><Red>" changed role to "sniper"
+L 10/13/2019 - 15:48:23: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "770 -582 262")
+L 10/13/2019 - 15:48:23: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "770 -582 262")
+L 10/13/2019 - 15:48:26: "[LL] Loddy<68><[U:1:9330378]><Red>" committed suicide with "world" (attacker_position "879 -749 -204")
+L 10/13/2019 - 15:48:29: "Panda<63><[U:1:112376827]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "rocketlauncher_directhit" (attacker_position "-86 -174 -65") (victim_position "428 -362 293")
+L 10/13/2019 - 15:48:29: "HARRYZ<59><[U:1:32399126]><Blue>" triggered "kill assist" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" (assister_position "-83 116 -93") (attacker_position "-86 -174 -65") (victim_position "428 -362 293")
+L 10/13/2019 - 15:48:35: "Darth Meerkat<57><[U:1:121426737]><Red>" changed role to "spy"
+L 10/13/2019 - 15:48:41: "Sarc<53><[U:1:8355163]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "phlogistinator" (attacker_position "-494 -1219 -22") (victim_position "-407 -1131 -26")
+L 10/13/2019 - 15:48:41: "Sarc<53><[U:1:8355163]><Blue>" triggered "revenge" against "Snek<61><[U:1:122465451]><Red>"
+L 10/13/2019 - 15:48:47: "Panda<63><[U:1:112376827]><Blue>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 15:48:47: "Panda<63><[U:1:112376827]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "rocketlauncher_directhit" (attacker_position "102 -159 -95") (victim_position "803 -576 414")
+L 10/13/2019 - 15:48:49: "Lomax<79><[U:1:1831779]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "minigun" (attacker_position "474 -796 -34") (victim_position "-96 -1108 125")
+L 10/13/2019 - 15:48:49: "Gryse<80><[U:1:41968851]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "595 491 285") (attacker_position "474 -796 -34") (victim_position "-96 -1108 125")
+L 10/13/2019 - 15:48:49: "Sarc<53><[U:1:8355163]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "phlogistinator" (attacker_position "739 -1027 109") (victim_position "705 -855 176")
+L 10/13/2019 - 15:48:53: "Sarc<53><[U:1:8355163]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "phlogistinator" (attacker_position "529 -634 241") (victim_position "571 -444 296")
+L 10/13/2019 - 15:48:53: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "799") (ubercharge "0")
+L 10/13/2019 - 15:48:53: "HARRYZ<59><[U:1:32399126]><Blue>" committed suicide with "world" (attacker_position "354 -340 -127")
+L 10/13/2019 - 15:48:54: "Gryse<80><[U:1:41968851]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "minigun" (attacker_position "462 406 301") (victim_position "474 -372 302")
+L 10/13/2019 - 15:48:55: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "world" (attacker_position "474 -374 377") (victim_position "-27 76 -88")
+L 10/13/2019 - 15:48:56: "Sarc<53><[U:1:8355163]><Blue>" killed "[LL] Loddy<68><[U:1:9330378]><Red>" with "phlogistinator" (attacker_position "696 -635 243") (victim_position "742 -587 260")
+L 10/13/2019 - 15:48:56: "Sarc<53><[U:1:8355163]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "phlogistinator") (objectowner "[LL] Loddy<68><[U:1:9330378]><Red>") (attacker_position "665 -738 218")
+L 10/13/2019 - 15:49:09: "Lomax<79><[U:1:1831779]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "minigun" (attacker_position "486 -907 30") (victim_position "-65 -1690 19")
+L 10/13/2019 - 15:49:09: "bearbear<70><[U:1:95728106]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "345 -1195 -10") (attacker_position "486 -907 30") (victim_position "-65 -1690 19")
+L 10/13/2019 - 15:49:12: "Lomax<79><[U:1:1831779]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "world" (attacker_position "482 -906 30") (victim_position "-558 -1564 -264")
+L 10/13/2019 - 15:49:18: "Makers<85><[U:1:22699679]><>" connected, address "172.30.43.144:27005"
+L 10/13/2019 - 15:49:19: "Makers<85><[U:1:22699679]><>" STEAM USERID validated
+L 10/13/2019 - 15:49:22: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "1258 825 -254")
+L 10/13/2019 - 15:49:25: "Makers<85><[U:1:22699679]><>" entered the game
+L 10/13/2019 - 15:49:27: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "720 -870 172")
+L 10/13/2019 - 15:49:27: "{CC} Gert<65><[U:1:13211210]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "amputator" (attacker_position "-183 -1809 -31") (victim_position "-220 -1830 -30")
+L 10/13/2019 - 15:49:30: "Makers<85><[U:1:22699679]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 15:49:32: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "473 -748 -35") (victim_position "474 -796 -33")
+L 10/13/2019 - 15:49:32: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "revenge" against "Lomax<79><[U:1:1831779]><Blue>"
+L 10/13/2019 - 15:49:33: "Makers<85><[U:1:22699679]><Blue>" changed role to "soldier"
+L 10/13/2019 - 15:49:36: "[LL] Loddy<68><[U:1:9330378]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "975 -1501 13")
+L 10/13/2019 - 15:49:37: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "594") (ubercharge "0")
+L 10/13/2019 - 15:49:37: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "minigun" (attacker_position "87 -74 -88") (victim_position "140 -158 -95")
+L 10/13/2019 - 15:49:37: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "HARRYZ<59><[U:1:32399126]><Blue>" (assister_position "-97 21 -91") (attacker_position "87 -74 -88") (victim_position "140 -158 -95")
+L 10/13/2019 - 15:49:39: "Snek<61><[U:1:122465451]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-588 -1111 -31") (victim_position "409 1139 -12")
+L 10/13/2019 - 15:49:40: "Gryse<80><[U:1:41968851]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "world" (attacker_position "425 1153 64") (victim_position "147 -464 -127")
+L 10/13/2019 - 15:49:40: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "78") (ubercharge "0")
+L 10/13/2019 - 15:49:40: "Gryse<80><[U:1:41968851]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "world" (attacker_position "425 1153 64") (victim_position "267 -638 -116")
+L 10/13/2019 - 15:49:49: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>") (position1 "30 21 -88") 
+L 10/13/2019 - 15:49:52: "Panda<63><[U:1:112376827]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "world" (attacker_position "-613 896 -17") (victim_position "-559 286 8")
+L 10/13/2019 - 15:50:01: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Makers<85><[U:1:22699679]><Blue>") (position1 "149 170 -90") (player2 "bearbear<70><[U:1:95728106]><Blue>") (position2 "-12 57 -88") 
+L 10/13/2019 - 15:50:04: "[LL] Loddy<68><[U:1:9330378]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "obj_sentrygun" (attacker_position "522 -1296 7") (victim_position "49 -1294 10")
+L 10/13/2019 - 15:50:04: "CrazyEnzo03<56><[U:1:59983226]><Red>" triggered "kill assist" against "Sarc<53><[U:1:8355163]><Blue>" (assister_position "540 -1312 6") (attacker_position "522 -1296 7") (victim_position "49 -1294 10")
+L 10/13/2019 - 15:50:05: "bearbear<70><[U:1:95728106]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "iron_bomber" (attacker_position "9 435 -127") (victim_position "147 171 -90")
+L 10/13/2019 - 15:50:07: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "player_extinguished" against "[LL] Loddy<68><[U:1:9330378]><Red>" with "tf_weapon_medigun" (attacker_position "821 -1233 36") (victim_position "859 -1416 14")
+L 10/13/2019 - 15:50:09: "Sarc<53><[U:1:8355163]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "phlogistinator" (attacker_position "242 -185 -116") (victim_position "169 -2326 -39")
+L 10/13/2019 - 15:50:26: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Makers<85><[U:1:22699679]><Blue>" with "minigun" (attacker_position "521 -392 302") (victim_position "-38 -128 -90")
+L 10/13/2019 - 15:50:26: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Makers<85><[U:1:22699679]><Blue>" (assister_position "661 -530 272") (attacker_position "521 -392 302") (victim_position "-38 -128 -90")
+L 10/13/2019 - 15:50:28: "Snek<61><[U:1:122465451]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-177 -1616 -28") (victim_position "475 -890 29")
+L 10/13/2019 - 15:50:29: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "894") (ubercharge "0")
+L 10/13/2019 - 15:50:29: "HARRYZ<59><[U:1:32399126]><Blue>" committed suicide with "world" (attacker_position "-6 -16 -88")
+L 10/13/2019 - 15:50:30: "Panda<63><[U:1:112376827]><Blue>" committed suicide with "world" (attacker_position "244 123 -105")
+L 10/13/2019 - 15:50:36: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "bearbear<70><[U:1:95728106]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "-634 865 -19") (victim_position "-582 795 -9")
+L 10/13/2019 - 15:50:42: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "minigun" (attacker_position "473 -564 173") (victim_position "254 -990 -25")
+L 10/13/2019 - 15:50:42: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Sarc<53><[U:1:8355163]><Blue>" (assister_position "581 -437 296") (attacker_position "473 -564 173") (victim_position "254 -990 -25")
+L 10/13/2019 - 15:50:49: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>") (position1 "58 42 -88") 
+L 10/13/2019 - 15:50:50: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "500 1345 6") (victim_position "576 1365 5")
+L 10/13/2019 - 15:50:55: "Makers<85><[U:1:22699679]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "745 1435 16") (victim_position "612 1316 15")
+L 10/13/2019 - 15:50:58: "CrazyEnzo03<56><[U:1:59983226]><Red>" killed "Makers<85><[U:1:22699679]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-56 -1031 153") (victim_position "383 1183 -10")
+L 10/13/2019 - 15:50:58: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "kill assist" against "Makers<85><[U:1:22699679]><Blue>" (assister_position "242 715 -73") (attacker_position "-56 -1031 153") (victim_position "383 1183 -10")
+L 10/13/2019 - 15:50:59: "Makers<85><[U:1:22699679]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "tf_projectile_rocket" (attacker_position "366 1220 60") (victim_position "12 333 -127")
+L 10/13/2019 - 15:51:04: "Lomax<79><[U:1:1831779]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "minigun" (attacker_position "464 771 -35") (victim_position "251 952 -31")
+L 10/13/2019 - 15:51:05: "Snek<61><[U:1:122465451]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-217 -761 -27") (victim_position "436 821 -36")
+L 10/13/2019 - 15:51:06: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "770") (ubercharge "0")
+L 10/13/2019 - 15:51:06: "bearbear<70><[U:1:95728106]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "world" (attacker_position "315 1205 -11") (victim_position "394 403 -127")
+L 10/13/2019 - 15:51:16: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "HARRYZ<59><[U:1:32399126]><Blue>") (position1 "-72 0 -88") (player2 "Panda<63><[U:1:112376827]><Blue>") (position2 "86 -41 -88") 
+L 10/13/2019 - 15:51:23: "[LL] Loddy<68><[U:1:9330378]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "obj_sentrygun3" (attacker_position "-150 -1440 -31") (victim_position "613 -1238 22")
+L 10/13/2019 - 15:51:28: "bearbear<70><[U:1:95728106]><Blue>" committed suicide with "world" (attacker_position "142 1044 -8")
+L 10/13/2019 - 15:51:31: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "496 451 298") (victim_position "480 384 302")
+L 10/13/2019 - 15:51:31: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" triggered "kill assist" against "Gryse<80><[U:1:41968851]><Blue>" (assister_position "320 10 166") (attacker_position "496 451 298") (victim_position "480 384 302")
+L 10/13/2019 - 15:51:34: "Makers<85><[U:1:22699679]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-75 -22 -88")
+L 10/13/2019 - 15:51:34: "Makers<85><[U:1:22699679]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "-75 -22 -88") (victim_position "-28 -166 -91")
+L 10/13/2019 - 15:51:34: "Panda<63><[U:1:112376827]><Blue>" triggered "kill assist" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assister_position "45 265 -111") (attacker_position "-75 -22 -88") (victim_position "-28 -166 -91")
+L 10/13/2019 - 15:51:34: "Panda<63><[U:1:112376827]><Blue>" triggered "domination" against "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" (assist "1")
+L 10/13/2019 - 15:51:38: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "361 1014 -29") (victim_position "343 959 -37")
+L 10/13/2019 - 15:51:39: "Darth Meerkat<57><[U:1:121426737]><Red>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "751") (ubercharge "0")
+L 10/13/2019 - 15:51:39: "Darth Meerkat<57><[U:1:121426737]><Red>" killed "HARRYZ<59><[U:1:32399126]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "363 845 -46") (victim_position "311 861 -47")
+L 10/13/2019 - 15:51:40: "Darth Meerkat<57><[U:1:121426737]><Red>" committed suicide with "world" (attacker_position "250 543 -127")
+L 10/13/2019 - 15:51:42: "CrazyEnzo03<56><[U:1:59983226]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "world" (attacker_position "218 -1332 0") (victim_position "178 127 -78")
+L 10/13/2019 - 15:51:42: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Makers<85><[U:1:22699679]><Blue>" with "minigun" (attacker_position "518 -417 301") (victim_position "-90 -21 -53")
+L 10/13/2019 - 15:51:42: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Makers<85><[U:1:22699679]><Blue>" (assister_position "641 -517 275") (attacker_position "518 -417 301") (victim_position "-90 -21 -53")
+L 10/13/2019 - 15:51:47: "Lomax<79><[U:1:1831779]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:51:47: "Gryse<80><[U:1:41968851]><Blue>" changed role to "pyro"
+L 10/13/2019 - 15:51:56: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "5") (player1 "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>") (position1 "195 -86 -96") (player2 "{CC}Maj_Flee<84><[U:1:16522063]><Red>") (position2 "121 99 -87") (player3 "Snek<61><[U:1:122465451]><Red>") (position3 "-126 28 -95") (player4 "{CC} Gert<65><[U:1:13211210]><Red>") (position4 "87 -53 -88") (player5 "[LL] Loddy<68><[U:1:9330378]><Red>") (position5 "88 15 -88") 
+L 10/13/2019 - 15:51:59: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Sarc<53><[U:1:8355163]><Blue>" with "minigun" (attacker_position "89 -43 -88") (victim_position "183 434 -78")
+L 10/13/2019 - 15:51:59: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Sarc<53><[U:1:8355163]><Blue>" (assister_position "51 -144 -91") (attacker_position "89 -43 -88") (victim_position "183 434 -78")
+L 10/13/2019 - 15:52:03: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-80 -105 -90")
+L 10/13/2019 - 15:52:03: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" killed "Gryse<80><[U:1:41968851]><Blue>" with "minigun" (attacker_position "-80 -105 -90") (victim_position "97 170 -89")
+L 10/13/2019 - 15:52:03: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "kill assist" against "Gryse<80><[U:1:41968851]><Blue>" (assister_position "-159 -96 -94") (attacker_position "-80 -105 -90") (victim_position "97 170 -89")
+L 10/13/2019 - 15:52:05: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "player_extinguished" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "tf_weapon_medigun" (attacker_position "73 -236 -102") (victim_position "6 -81 -88")
+L 10/13/2019 - 15:52:05: "Makers<85><[U:1:22699679]><Blue>" changed role to "heavyweapons"
+L 10/13/2019 - 15:52:08: "Snek<61><[U:1:122465451]><Red>" killed "Lomax<79><[U:1:1831779]><Blue>" with "awper_hand" (attacker_position "414 -1142 -11") (victim_position "23 426 -127")
+L 10/13/2019 - 15:52:08: "{CC}Maj_Flee<84><[U:1:16522063]><Red>" triggered "kill assist" against "Lomax<79><[U:1:1831779]><Blue>" (assister_position "-75 156 -94") (attacker_position "414 -1142 -11") (victim_position "23 426 -127")
+L 10/13/2019 - 15:52:08: "{CC} Gert<65><[U:1:13211210]><Red>" triggered "player_extinguished" against "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "tf_weapon_medigun" (attacker_position "-165 -47 -96") (victim_position "-72 183 -95")
+L 10/13/2019 - 15:52:10: "Lomax<79><[U:1:1831779]><Blue>" killed "{CC}Maj_Flee<84><[U:1:16522063]><Red>" with "world" (attacker_position "-34 424 -59") (victim_position "111 453 -127")
+L 10/13/2019 - 15:52:11: "{CC} Gert<0><[U:1:13211210]><Red>" triggered "medic_death" against "{CC} Gert<65><[U:1:13211210]><Red>" (healing "397") (ubercharge "0")
+L 10/13/2019 - 15:52:11: "Lomax<79><[U:1:1831779]><Blue>" killed "{CC} Gert<65><[U:1:13211210]><Red>" with "world" (attacker_position "-34 424 -59") (victim_position "149 634 -112")
+L 10/13/2019 - 15:52:11: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "231") (ubercharge "0")
+L 10/13/2019 - 15:52:11: "HARRYZ<59><[U:1:32399126]><Blue>" committed suicide with "world" (attacker_position "-301 152 -127")
+L 10/13/2019 - 15:52:24: "Makers<85><[U:1:22699679]><Blue>" killed "[LL] Loddy<68><[U:1:9330378]><Red>" with "minigun" (attacker_position "-182 92 -98") (victim_position "316 -757 -66")
+L 10/13/2019 - 15:52:29: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "bearbear<70><[U:1:95728106]><Blue>") (position1 "-37 172 -90") 
+L 10/13/2019 - 15:52:29: "Snek<61><[U:1:122465451]><Red>" killed "bearbear<70><[U:1:95728106]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "349 -1319 -3") (victim_position "-45 163 -91")
+L 10/13/2019 - 15:52:33: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 15:52:33: World triggered "Round_Length" (seconds "321.66")
+L 10/13/2019 - 15:52:33: Team "Red" current score "1" with "7" players
+L 10/13/2019 - 15:52:33: Team "Blue" current score "1" with "7" players
+L 10/13/2019 - 15:52:33: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" killed "Panda<63><[U:1:112376827]><Blue>" with "rocketlauncher_directhit" (attacker_position "332 898 -42") (victim_position "-27 -68 -88")
+L 10/13/2019 - 15:52:33: "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" triggered "revenge" against "Panda<63><[U:1:112376827]><Blue>"
+L 10/13/2019 - 15:52:34: "Makers<85><[U:1:22699679]><Blue>" killed "Darth Meerkat<57><[U:1:121426737]><Red>" with "minigun" (attacker_position "89 113 -88") (victim_position "258 -934 -32")
+L 10/13/2019 - 15:52:34: "Sarc<53><[U:1:8355163]><Blue>" killed "Snek<61><[U:1:122465451]><Red>" with "phlogistinator" (attacker_position "404 -1154 -11") (victim_position "260 -1330 0")
+L 10/13/2019 - 15:52:34: "Makers<85><[U:1:22699679]><Blue>" triggered "kill assist" against "Snek<61><[U:1:122465451]><Red>" (assister_position "90 109 -88") (attacker_position "404 -1154 -11") (victim_position "260 -1330 0")
+L 10/13/2019 - 15:52:34: "Makers<85><[U:1:22699679]><Blue>" killed "CrazyEnzo03<56><[U:1:59983226]><Red>" with "minigun" (attacker_position "96 75 -88") (victim_position "279 -1092 -16")
+L 10/13/2019 - 15:52:35: "HARRYZ<59><[U:1:32399126]><Blue>" killed "BEan | Lacledeslan.com<83><[U:1:7609438]><Red>" with "ubersaw" (attacker_position "299 915 -40") (victim_position "293 844 7")
+L 10/13/2019 - 15:52:37: "Makers<85><[U:1:22699679]><Blue>" committed suicide with "world" (attacker_position "157 -297 -127")
+L 10/13/2019 - 15:52:37: "HARRYZ<0><[U:1:32399126]><Blue>" triggered "medic_death" against "HARRYZ<59><[U:1:32399126]><Blue>" (healing "0") (ubercharge "0")
+L 10/13/2019 - 15:52:37: "HARRYZ<59><[U:1:32399126]><Blue>" committed suicide with "world" (attacker_position "144 460 -127")
+L 10/13/2019 - 15:52:43: "Gryse<80><[U:1:41968851]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "flamethrower") (objectowner "[LL] Loddy<68><[U:1:9330378]><Red>") (attacker_position "971 -1675 13")
+L 10/13/2019 - 15:52:48: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/13/2019 - 15:52:48: Team "Red" final score "1" with "7" players
+L 10/13/2019 - 15:52:48: Team "Blue" final score "1" with "7" players
+L 10/13/2019 - 15:52:58: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 15:52:58: Log file closed.

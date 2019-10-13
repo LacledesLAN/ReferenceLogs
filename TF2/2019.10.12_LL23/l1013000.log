@@ -1,0 +1,146 @@
+L 10/13/2019 - 14:15:20: Log file started (file "logs/L1013000.log") (game "/app/tf") (version "5410965")
+L 10/13/2019 - 14:15:20: server_cvar: "sv_alltalk" "1"
+L 10/13/2019 - 14:15:20: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers"
+L 10/13/2019 - 14:15:20: server_cvar: "mp_timelimit" "15"
+L 10/13/2019 - 14:15:20: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/13/2019 - 14:15:20: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/13/2019 - 14:15:20: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/13/2019 - 14:15:20: Connection to Steam servers successful.
+L 10/13/2019 - 14:15:20:    Public IP is 165.134.31.36.
+L 10/13/2019 - 14:15:20: Assigned anonymous gameserver Steam ID [A:1:2507319306:13452].
+L 10/13/2019 - 14:15:20: VAC secure mode is activated.
+L 10/13/2019 - 14:19:18: "BEan | Lacledeslan.com<2><[U:1:7609438]><>" connected, address "172.30.40.210:27005"
+L 10/13/2019 - 14:19:19: "BEan | Lacledeslan.com<2><[U:1:7609438]><>" STEAM USERID validated
+L 10/13/2019 - 14:19:55: "BEan | Lacledeslan.com<2><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 14:20:01: "BEan | Lacledeslan.com<2><[U:1:7609438]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:20:02: "BEan | Lacledeslan.com<2><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/13/2019 - 14:20:33: World triggered "Round_Start"
+L 10/13/2019 - 14:20:50: server_cvar: "mp_timelimit" "30"
+L 10/13/2019 - 14:27:23: "[LL] allhawkeye85<3><[U:1:28500804]><>" connected, address "172.30.40.5:27005"
+L 10/13/2019 - 14:27:23: "[LL] allhawkeye85<3><[U:1:28500804]><>" STEAM USERID validated
+L 10/13/2019 - 14:27:34: "WARBIRD199<4><[U:1:63881333]><>" connected, address "172.30.43.37:27005"
+L 10/13/2019 - 14:27:35: "WARBIRD199<4><[U:1:63881333]><>" STEAM USERID validated
+L 10/13/2019 - 14:28:05: "[LL] allhawkeye85<3><[U:1:28500804]><>" entered the game
+L 10/13/2019 - 14:28:12: "WARBIRD199<4><[U:1:63881333]><>" entered the game
+L 10/13/2019 - 14:28:29: "WARBIRD199<4><[U:1:63881333]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:28:37: "[LL] allhawkeye85<3><[U:1:28500804]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:28:39: "[LL] allhawkeye85<3><[U:1:28500804]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 14:28:40: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "pyro"
+L 10/13/2019 - 14:28:46: "BEan | Lacledeslan.com<2><[U:1:7609438]><Blue>" say "BRB"
+L 10/13/2019 - 14:28:51: "BEan | Lacledeslan.com<2><[U:1:7609438]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2019 - 14:32:09: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "2") (player1 "[LL] allhawkeye85<3><[U:1:28500804]><Red>") (position1 "555 -28 87") (player2 "WARBIRD199<4><[U:1:63881333]><Red>") (position2 "390 58 85") 
+L 10/13/2019 - 14:34:42: "BEan | Lacledeslan.com<5><[U:1:7609438]><>" connected, address "172.30.43.15:27005"
+L 10/13/2019 - 14:34:42: "BEan | Lacledeslan.com<5><[U:1:7609438]><>" STEAM USERID validated
+L 10/13/2019 - 14:34:58: "BEan | Lacledeslan.com<5><[U:1:7609438]><>" entered the game
+L 10/13/2019 - 14:35:07: "BEan | Lacledeslan.com<5><[U:1:7609438]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:35:08: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/13/2019 - 14:35:09: World triggered "Round_Win" (winner "Red")
+L 10/13/2019 - 14:35:09: World triggered "Round_Length" (seconds "876.43")
+L 10/13/2019 - 14:35:09: Team "Red" current score "1" with "2" players
+L 10/13/2019 - 14:35:09: Team "Blue" current score "0" with "1" players
+L 10/13/2019 - 14:35:23: "WARBIRD199<4><[U:1:63881333]><Red>" committed suicide with "world" (customkill "saw") (attacker_position "170 10 81")
+L 10/13/2019 - 14:35:24: World triggered "Round_Start"
+L 10/13/2019 - 14:36:09: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "world" (attacker_position "468 -107 87") (victim_position "814 -159 81")
+L 10/13/2019 - 14:36:47: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "world" (attacker_position "572 5 87") (victim_position "209 -89 89")
+L 10/13/2019 - 14:37:07: "[LL] allhawkeye85<3><[U:1:28500804]><Red>" disconnected (reason "[LL] allhawkeye85 timed out")
+L 10/13/2019 - 14:37:42: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "1") (player1 "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>") (position1 "516 155 85") 
+L 10/13/2019 - 14:37:56: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" say "come on, lets sumo"
+L 10/13/2019 - 14:38:36: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "world" (attacker_position "484 93 87") (victim_position "209 38 81")
+L 10/13/2019 - 14:39:06: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "scout"
+L 10/13/2019 - 14:39:06: "WARBIRD199<4><[U:1:63881333]><Red>" committed suicide with "world" (attacker_position "-452 1458 -114")
+L 10/13/2019 - 14:39:55: "WARBIRD199<4><[U:1:63881333]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "scattergun" (attacker_position "349 -335 129") (victim_position "617 -39 86")
+L 10/13/2019 - 14:40:19: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "1") (player1 "WARBIRD199<4><[U:1:63881333]><Red>") (position1 "491 20 87") 
+L 10/13/2019 - 14:40:43: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "flaregun" (attacker_position "621 219 80") (victim_position "616 422 80")
+L 10/13/2019 - 14:41:08: "[LL] allhawkeye85<6><[U:1:28500804]><>" connected, address "172.30.40.5:27005"
+L 10/13/2019 - 14:41:08: "[LL] allhawkeye85<6><[U:1:28500804]><>" STEAM USERID validated
+L 10/13/2019 - 14:41:13: "WARBIRD199<4><[U:1:63881333]><Red>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "363 211 82")
+L 10/13/2019 - 14:41:17: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "degreaser" (attacker_position "328 254 80") (victim_position "119 454 80")
+L 10/13/2019 - 14:41:26: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "1") (player1 "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>") (position1 "505 -24 136") 
+L 10/13/2019 - 14:41:47: "WARBIRD199<4><[U:1:63881333]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "scattergun" (attacker_position "-354 -177 80") (victim_position "-38 -149 80")
+L 10/13/2019 - 14:41:49: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 14:41:49: World triggered "Round_Length" (seconds "384.45")
+L 10/13/2019 - 14:41:49: Team "Red" current score "1" with "1" players
+L 10/13/2019 - 14:41:49: Team "Blue" current score "1" with "1" players
+L 10/13/2019 - 14:41:50: "[LL] allhawkeye85<6><[U:1:28500804]><>" entered the game
+L 10/13/2019 - 14:42:04: World triggered "Round_Start"
+L 10/13/2019 - 14:42:04: "[LL] allhawkeye85<6><[U:1:28500804]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:42:06: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 14:42:37: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "world" (attacker_position "409 28 87") (victim_position "209 -9 89")
+L 10/13/2019 - 14:42:53: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "demoman"
+L 10/13/2019 - 14:42:57: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "minigun" (attacker_position "-102 18 80") (victim_position "156 -198 81")
+L 10/13/2019 - 14:43:26: "WARBIRD199<4><[U:1:63881333]><Red>" committed suicide with "world" (customkill "saw") (attacker_position "209 -122 90")
+L 10/13/2019 - 14:43:31: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "minigun" (attacker_position "-129 -77 80") (victim_position "416 1025 -9")
+L 10/13/2019 - 14:43:48: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "pyro"
+L 10/13/2019 - 14:44:11: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "minigun" (attacker_position "946 -276 80") (victim_position "767 -312 80")
+L 10/13/2019 - 14:44:27: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "1") (player1 "WARBIRD199<4><[U:1:63881333]><Red>") (position1 "524 -16 87") 
+L 10/13/2019 - 14:44:37: "Snek<7><[U:1:122465451]><>" connected, address "172.30.41.37:27005"
+L 10/13/2019 - 14:44:37: "Snek<7><[U:1:122465451]><>" STEAM USERID validated
+L 10/13/2019 - 14:45:09: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "minigun" (attacker_position "962 -170 80") (victim_position "1401 -190 96")
+L 10/13/2019 - 14:45:09: "WARBIRD199<4><[U:1:63881333]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" (assister_position "1344 -94 88") (attacker_position "962 -170 80") (victim_position "1401 -190 96")
+L 10/13/2019 - 14:45:09: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" triggered "domination" against "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>"
+L 10/13/2019 - 14:45:21: "Snek<7><[U:1:122465451]><>" entered the game
+L 10/13/2019 - 14:45:29: "Snek<7><[U:1:122465451]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:45:32: "Snek<7><[U:1:122465451]><Blue>" changed role to "sniper"
+L 10/13/2019 - 14:45:44: "Snek<7><[U:1:122465451]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1960 -457 -55") (victim_position "727 393 296")
+L 10/13/2019 - 14:45:50: "Snek<7><[U:1:122465451]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1640 -231 80") (victim_position "989 310 80")
+L 10/13/2019 - 14:46:17: "WARBIRD199<4><[U:1:63881333]><Red>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "396 211 82")
+L 10/13/2019 - 14:46:25: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "degreaser" (attacker_position "634 242 80") (victim_position "600 466 80")
+L 10/13/2019 - 14:46:34: "Snek<7><[U:1:122465451]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "1025 -205 80") (victim_position "165 532 80")
+L 10/13/2019 - 14:46:34: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" triggered "kill assist" against "[LL] allhawkeye85<6><[U:1:28500804]><Red>" (assister_position "585 -11 87") (attacker_position "1025 -205 80") (victim_position "165 532 80")
+L 10/13/2019 - 14:46:34: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" triggered "revenge" against "[LL] allhawkeye85<6><[U:1:28500804]><Red>" (assist "1")
+L 10/13/2019 - 14:46:40: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Arena_cap") (numcappers "1") (player1 "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>") (position1 "510 -106 87") 
+L 10/13/2019 - 14:46:54: "FRAG DRAKE<8><[U:1:240994645]><>" connected, address "172.30.43.129:27006"
+L 10/13/2019 - 14:46:55: "FRAG DRAKE<8><[U:1:240994645]><>" STEAM USERID validated
+L 10/13/2019 - 14:46:56: "Sonic_Soldier420<9><[U:1:24174610]><>" connected, address "172.30.43.84:27005"
+L 10/13/2019 - 14:46:56: "Sonic_Soldier420<9><[U:1:24174610]><>" STEAM USERID validated
+L 10/13/2019 - 14:46:57: "Snek<7><[U:1:122465451]><Blue>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "-683 -207 63")
+L 10/13/2019 - 14:46:57: "Snek<7><[U:1:122465451]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-683 -207 63") (victim_position "393 -144 85")
+L 10/13/2019 - 14:47:04: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "sniper"
+L 10/13/2019 - 14:47:07: "Snek<7><[U:1:122465451]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "673 -269 80") (victim_position "193 599 77")
+L 10/13/2019 - 14:47:12: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" changed role to "sniper"
+L 10/13/2019 - 14:47:27: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "axtinguisher" (attacker_position "-14 429 80") (victim_position "-89 485 88")
+L 10/13/2019 - 14:47:27: "Darth Meerkat<10><[U:1:121426737]><>" connected, address "172.30.41.82:27005"
+L 10/13/2019 - 14:47:27: "Darth Meerkat<10><[U:1:121426737]><>" STEAM USERID validated
+L 10/13/2019 - 14:47:41: "WARBIRD199<4><[U:1:63881333]><Red>" changed role to "pyro"
+L 10/13/2019 - 14:47:43: "FRAG DRAKE<8><[U:1:240994645]><>" entered the game
+L 10/13/2019 - 14:47:49: "FRAG DRAKE<8><[U:1:240994645]><Unassigned>" joined team "Blue"
+L 10/13/2019 - 14:47:50: "FRAG DRAKE<8><[U:1:240994645]><Blue>" changed role to "spy"
+L 10/13/2019 - 14:47:51: "Sonic_Soldier420<9><[U:1:24174610]><>" entered the game
+L 10/13/2019 - 14:47:57: "WARBIRD199<4><[U:1:63881333]><Red>" killed "Snek<7><[U:1:122465451]><Blue>" with "backburner" (attacker_position "580 132 85") (victim_position "652 94 85")
+L 10/13/2019 - 14:47:57: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" triggered "kill assist" against "Snek<7><[U:1:122465451]><Blue>" (assister_position "909 17 80") (attacker_position "580 132 85") (victim_position "652 94 85")
+L 10/13/2019 - 14:48:02: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "smg" (attacker_position "364 164 82") (victim_position "325 402 80")
+L 10/13/2019 - 14:48:02: "WARBIRD199<4><[U:1:63881333]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" (assister_position "119 418 80") (attacker_position "364 164 82") (victim_position "325 402 80")
+L 10/13/2019 - 14:48:03: "Sonic_Soldier420<9><[U:1:24174610]><Unassigned>" joined team "Red"
+L 10/13/2019 - 14:48:03: "Darth Meerkat<10><[U:1:121426737]><>" entered the game
+L 10/13/2019 - 14:48:05: "Sonic_Soldier420<9><[U:1:24174610]><Red>" changed role to "pyro"
+L 10/13/2019 - 14:48:10: "FRAG DRAKE<8><[U:1:240994645]><Blue>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "420 -80 86")
+L 10/13/2019 - 14:48:10: "FRAG DRAKE<8><[U:1:240994645]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "knife" (customkill "backstab") (attacker_position "420 -80 86") (victim_position "462 -76 87")
+L 10/13/2019 - 14:48:29: "Darth Meerkat<10><[U:1:121426737]><Unassigned>" joined team "Spectator"
+L 10/13/2019 - 14:48:37: "Darth Meerkat<10><[U:1:121426737]><Spectator>" joined team "Blue"
+L 10/13/2019 - 14:48:40: "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "degreaser" (attacker_position "-595 -382 46") (victim_position "-612 -475 35")
+L 10/13/2019 - 14:48:40: "FRAG DRAKE<8><[U:1:240994645]><Blue>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "352 161 82")
+L 10/13/2019 - 14:48:40: "FRAG DRAKE<8><[U:1:240994645]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "knife" (customkill "backstab") (attacker_position "352 161 82") (victim_position "373 142 81")
+L 10/13/2019 - 14:48:45: "Darth Meerkat<10><[U:1:121426737]><Blue>" changed role to "scout"
+L 10/13/2019 - 14:48:48: Vote succeeded "NextLevel koth_sekhmet_b2"
+L 10/13/2019 - 14:48:50: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" changed role to "heavyweapons"
+L 10/13/2019 - 14:48:50: server_cvar: "nextlevel" "koth_sekhmet_b2"
+L 10/13/2019 - 14:49:06: "[LL] allhawkeye85<6><[U:1:28500804]><Red>" killed "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" with "minigun" (attacker_position "-48 1148 -95") (victim_position "264 635 77")
+L 10/13/2019 - 14:49:06: "WARBIRD199<4><[U:1:63881333]><Red>" triggered "kill assist" against "BEan | Lacledeslan.com<5><[U:1:7609438]><Blue>" (assister_position "390 751 -30") (attacker_position "-48 1148 -95") (victim_position "264 635 77")
+L 10/13/2019 - 14:49:11: "FRAG DRAKE<8><[U:1:240994645]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "knife" (customkill "backstab") (attacker_position "465 679 -9") (victim_position "392 666 15")
+L 10/13/2019 - 14:49:14: "WARBIRD199<4><[U:1:63881333]><Red>" killed "FRAG DRAKE<8><[U:1:240994645]><Blue>" with "backburner" (customkill "feign_death") (attacker_position "630 -15 85") (victim_position "529 172 85")
+L 10/13/2019 - 14:49:16: "Darth Meerkat<10><[U:1:121426737]><Blue>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "458 -204 82")
+L 10/13/2019 - 14:49:16: "Darth Meerkat<10><[U:1:121426737]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "pep_pistol" (attacker_position "458 -204 82") (victim_position "651 -9 85")
+L 10/13/2019 - 14:49:40: World triggered "Round_Win" (winner "Blue")
+L 10/13/2019 - 14:49:40: World triggered "Round_Length" (seconds "456.41")
+L 10/13/2019 - 14:49:40: Team "Red" current score "1" with "3" players
+L 10/13/2019 - 14:49:40: Team "Blue" current score "2" with "4" players
+L 10/13/2019 - 14:49:42: "Snek<7><[U:1:122465451]><Blue>" killed "[LL] allhawkeye85<6><[U:1:28500804]><Red>" with "club" (attacker_position "498 655 -10") (victim_position "536 644 -10")
+L 10/13/2019 - 14:49:42: "Darth Meerkat<10><[U:1:121426737]><Blue>" killed "Sonic_Soldier420<9><[U:1:24174610]><Red>" with "sandman" (attacker_position "955 -224 80") (victim_position "979 -185 80")
+L 10/13/2019 - 14:49:44: "Snek<7><[U:1:122465451]><Blue>" killed "WARBIRD199<4><[U:1:63881333]><Red>" with "club" (attacker_position "524 797 -63") (victim_position "549 845 -69")
+L 10/13/2019 - 14:49:46: "Darth Meerkat<10><[U:1:121426737]><Blue>" committed suicide with "world" (customkill "saw") (attacker_position "814 69 81")
+L 10/13/2019 - 14:49:55: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/13/2019 - 14:49:55: Team "Red" final score "1" with "3" players
+L 10/13/2019 - 14:49:55: Team "Blue" final score "2" with "4" players
+L 10/13/2019 - 14:50:05: server_cvar: "nextlevel" ""
+L 10/13/2019 - 14:50:05: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2019 - 14:50:06: Log file closed.
