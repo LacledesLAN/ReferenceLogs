@@ -1,0 +1,5 @@
+L 10/22/2022 - 23:53:01: SourceMod error session started
+L 10/22/2022 - 23:53:01: Info (map "cp_manor_event") (file "/app/tf/addons/sourcemod/logs/errors_20221022.log")
+L 10/22/2022 - 23:53:01: [SM] Unable to load extension "connect-log-fix.ext": /app/tf/addons/sourcemod/extensions/connect-log-fix.ext.so: cannot open shared object file: No such file or directory
+L 10/22/2022 - 23:53:01: [SM] Unable to load extension "accelerator.ext": /app/tf/addons/sourcemod/data/dumps didn't exist and we couldn't create it :(
+L 10/23/2022 - 00:21:00: Error log file session closed.

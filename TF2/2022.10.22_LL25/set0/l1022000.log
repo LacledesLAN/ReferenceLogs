@@ -1,0 +1,28 @@
+L 10/22/2022 - 18:40:00: Log file started (file "logs/L1022000.log") (game "/app/tf") (version "7602386")
+L 10/22/2022 - 18:40:00: server_cvar: "sv_alltalk" "1"
+L 10/22/2022 - 18:40:00: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers"
+L 10/22/2022 - 18:40:00: server_cvar: "mp_timelimit" "25"
+L 10/22/2022 - 18:40:00: server_cvar: "tf_server_identity_disable_quickplay" "1"
+L 10/22/2022 - 18:40:00: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/22/2022 - 18:40:00: server_cvar: "sv_tags" "alltalk,cp,increased_maxplayers,noquickplay"
+L 10/22/2022 - 18:40:00: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/22/2022 - 18:40:00: Connection to Steam servers successful.
+L 10/22/2022 - 18:40:00:    Public IP to Steam is 165.134.31.36.
+L 10/22/2022 - 18:40:00: Assigned anonymous gameserver Steam ID [A:1:1277577222:21638].
+L 10/22/2022 - 18:40:00: VAC secure mode is activated.
+L 10/22/2022 - 18:41:30: "[LL] BEan<2><[U:1:7609438]><>" connected, address "172.30.43.205:27005"
+L 10/22/2022 - 18:41:31: "[LL] BEan<2><[U:1:7609438]><>" STEAM USERID validated
+L 10/22/2022 - 18:41:39: "[LL] BEan<2><[U:1:7609438]><>" entered the game
+L 10/22/2022 - 18:46:32: "[LL] BEan<2><[U:1:7609438]><Unassigned>" disconnected (reason "Client Disconnect")
+L 10/22/2022 - 23:47:54: "[LL] BEan<3><[U:1:7609438]><>" connected, address "172.30.43.205:27005"
+L 10/22/2022 - 23:47:55: "[LL] BEan<3><[U:1:7609438]><>" STEAM USERID validated
+L 10/22/2022 - 23:48:14: "[LL] BEan<3><[U:1:7609438]><>" entered the game
+L 10/22/2022 - 23:48:22: "[LL] BEan<3><[U:1:7609438]><Unassigned>" joined team "Blue"
+L 10/22/2022 - 23:48:23: "[LL] BEan<3><[U:1:7609438]><Blue>" changed role to "pyro"
+L 10/22/2022 - 23:48:28: "[LL] BEan<3><[U:1:7609438]><Blue>" say "!cvar mapcyclefile mapcycle_halloween.txt"
+L 10/22/2022 - 23:48:39: "[LL] BEan<3><[U:1:7609438]><Blue>" say "!nextmap"
+L 10/22/2022 - 23:48:54: World triggered "Round_Start"
+L 10/22/2022 - 23:49:42: "[LL] BEan<3><[U:1:7609438]><Blue>" say "!sv_map sd_doomsday_event"
+L 10/22/2022 - 23:49:47: "[LL] BEan<3><[U:1:7609438]><Blue>" say "!sm_admin"
+L 10/22/2022 - 23:50:04: [META] Loaded 0 plugins (1 already loaded)
+L 10/22/2022 - 23:50:04: Log file closed.

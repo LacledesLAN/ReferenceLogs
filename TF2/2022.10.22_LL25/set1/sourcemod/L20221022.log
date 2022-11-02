@@ -1,0 +1,5 @@
+L 10/22/2022 - 23:53:01: SourceMod log file session started (file "/app/tf/addons/sourcemod/logs/L20221022.log") (Version "1.12.0.6922")
+L 10/22/2022 - 23:53:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/app/tf/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/22/2022 - 23:53:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/22/2022 - 23:53:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/23/2022 - 00:21:00: Log file closed.

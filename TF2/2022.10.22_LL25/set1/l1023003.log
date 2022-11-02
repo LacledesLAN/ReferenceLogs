@@ -1,0 +1,514 @@
+L 10/23/2022 - 00:47:49: Log file started (file "logs/L1023003.log") (game "/app/tf") (version "7602386")
+L 10/23/2022 - 00:47:49: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/23/2022 - 00:47:55: "Turbo_Vince<8><[U:1:198477938]><>" entered the game
+L 10/23/2022 - 00:47:55: "[SoTu]RaZor<18><[U:1:221411261]><>" entered the game
+L 10/23/2022 - 00:47:57: "Bryfi<17><[U:1:121185120]><>" entered the game
+L 10/23/2022 - 00:47:57: "NoToR1OuS<9><[U:1:19175114]><>" entered the game
+L 10/23/2022 - 00:47:57: "[LL] Dudsmack<24><[U:1:7297941]><>" entered the game
+L 10/23/2022 - 00:47:58: "Brak | LacledesLAN<15><[U:1:75056154]><>" entered the game
+L 10/23/2022 - 00:47:58: "BraveSirRobbin<10><[U:1:3253505]><>" entered the game
+L 10/23/2022 - 00:47:58: "[LL] BEan<2><[U:1:7609438]><>" entered the game
+L 10/23/2022 - 00:47:59: "[LL] ZDubuya<23><[U:1:1831779]><>" entered the game
+L 10/23/2022 - 00:47:59: "pastel<16><[U:1:95728106]><>" entered the game
+L 10/23/2022 - 00:48:02: "[LL] Loddy<3><[U:1:9330378]><>" entered the game
+L 10/23/2022 - 00:48:02: "[LL]arcticfox012<22><[U:1:5015550]><>" entered the game
+L 10/23/2022 - 00:48:03: "[LL] BEan<2><[U:1:7609438]><Unassigned>" joined team "Red"
+L 10/23/2022 - 00:48:04: "[SoTu]RaZor<18><[U:1:221411261]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:48:04: "[LL] BEan<2><[U:1:7609438]><Red>" changed role to "pyro"
+L 10/23/2022 - 00:48:05: "[LL] Dudsmack<24><[U:1:7297941]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:48:05: "[SoTu]RaZor<18><[U:1:221411261]><Blue>" changed role to "heavyweapons"
+L 10/23/2022 - 00:48:06: "NoToR1OuS<9><[U:1:19175114]><Unassigned>" joined team "Red"
+L 10/23/2022 - 00:48:06: "[LL] ZDubuya<23><[U:1:1831779]><Unassigned>" joined team "Red"
+L 10/23/2022 - 00:48:07: "pastel<16><[U:1:95728106]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:48:07: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" changed role to "soldier"
+L 10/23/2022 - 00:48:07: "NoToR1OuS<9><[U:1:19175114]><Red>" changed role to "engineer"
+L 10/23/2022 - 00:48:08: "BraveSirRobbin<10><[U:1:3253505]><Unassigned>" joined team "Red"
+L 10/23/2022 - 00:48:08: "pastel<16><[U:1:95728106]><Blue>" changed role to "soldier"
+L 10/23/2022 - 00:48:13: "BraveSirRobbin<10><[U:1:3253505]><Red>" changed role to "heavyweapons"
+L 10/23/2022 - 00:48:13: "[SoTu]RaZor<18><[U:1:221411261]><Blue>" disconnected (reason "Client Disconnect")
+L 10/23/2022 - 00:48:15: "[LL] ZDubuya<23><[U:1:1831779]><Red>" changed role to "scout"
+L 10/23/2022 - 00:48:20: "Bryfi<17><[U:1:121185120]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:48:30: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-88 -920 47")
+L 10/23/2022 - 00:48:34: "Turbo_Vince<8><[U:1:198477938]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:48:35: World triggered "Round_Start"
+L 10/23/2022 - 00:48:35: "Turbo_Vince<8><[U:1:198477938]><Blue>" changed role to "medic"
+L 10/23/2022 - 00:48:40: "Bryfi<17><[U:1:121185120]><Blue>" changed role to "heavyweapons"
+L 10/23/2022 - 00:48:56: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "101 -920 48")
+L 10/23/2022 - 00:48:59: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "tf_weapon_medigun" (attacker_position "-783 -1568 -13") (victim_position "-656 -1509 -15")
+L 10/23/2022 - 00:49:03: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-1099 -1554 -4") (victim_position "-855 -1591 -12")
+L 10/23/2022 - 00:49:05: "Bryfi<17><[U:1:121185120]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tomislav" (attacker_position "-722 -1426 -15") (victim_position "-305 -1427 16")
+L 10/23/2022 - 00:49:05: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "BraveSirRobbin<10><[U:1:3253505]><Red>" (assister_position "-691 -1750 -11") (attacker_position "-722 -1426 -15") (victim_position "-305 -1427 16")
+L 10/23/2022 - 00:49:08: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "-439 -1407 48") (victim_position "237 -1292 38")
+L 10/23/2022 - 00:49:11: "Bryfi<17><[U:1:121185120]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "-413 -1393 43")
+L 10/23/2022 - 00:49:14: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "-280 -1294 16") (victim_position "-350 -1560 16")
+L 10/23/2022 - 00:49:14: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-171 -1249 16") (attacker_position "-280 -1294 16") (victim_position "-350 -1560 16")
+L 10/23/2022 - 00:49:16: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-93 -1031 16") (victim_position "-95 -1106 16")
+L 10/23/2022 - 00:49:26: "[LL]arcticfox012<22><[U:1:5015550]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:49:28: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "-23 -182 -8") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "54 -437 -15") (player3 "pastel<16><[U:1:95728106]><Blue>") (position3 "-121 -84 -15") 
+L 10/23/2022 - 00:49:36: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" changed role to "pyro"
+L 10/23/2022 - 00:49:40: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1120 -51 0")
+L 10/23/2022 - 00:49:46: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "chargedeployed"
+L 10/23/2022 - 00:49:47: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "1347") (ubercharge "0")
+L 10/23/2022 - 00:49:47: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "scattergun" (attacker_position "-25 -509 -15") (victim_position "26 102 -15")
+L 10/23/2022 - 00:49:48: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "-193 53 -14") (victim_position "-28 -48 -8")
+L 10/23/2022 - 00:49:48: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "37 512 -9") (attacker_position "-193 53 -14") (victim_position "-28 -48 -8")
+L 10/23/2022 - 00:49:48: "Bryfi<17><[U:1:121185120]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tomislav" (attacker_position "50 484 -15") (victim_position "137 249 -15")
+L 10/23/2022 - 00:49:48: "[LL] BEan<2><[U:1:7609438]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "degreaser" (attacker_position "-13 -55 5") (victim_position "-182 39 -15")
+L 10/23/2022 - 00:49:48: "BraveSirRobbin<10><[U:1:3253505]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "120 240 -1") (attacker_position "-13 -55 5") (victim_position "-182 39 -15")
+L 10/23/2022 - 00:49:50: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "obj_sentrygun" (attacker_position "1064 -54 0") (victim_position "24 291 -15")
+L 10/23/2022 - 00:49:50: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "-13 -55 5") (attacker_position "1064 -54 0") (victim_position "24 291 -15")
+L 10/23/2022 - 00:49:54: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "[LL]arcticfox012<22><[U:1:5015550]><Blue>" with "scattergun" (attacker_position "7 -484 -15") (victim_position "66 -117 -8")
+L 10/23/2022 - 00:49:58: "mild<25><[U:1:109550983]><>" connected, address "172.30.44.8:27005"
+L 10/23/2022 - 00:49:58: "mild<25><[U:1:109550983]><>" STEAM USERID validated
+L 10/23/2022 - 00:50:07: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "obj_sentrygun2" (attacker_position "1068 -59 0") (victim_position "1484 537 -3")
+L 10/23/2022 - 00:50:18: "mild<25><[U:1:109550983]><>" entered the game
+L 10/23/2022 - 00:50:20: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1161 -29 0")
+L 10/23/2022 - 00:50:23: "mild<25><[U:1:109550983]><Unassigned>" joined team "Red"
+L 10/23/2022 - 00:50:27: "mild<25><[U:1:109550983]><Red>" changed role to "sniper"
+L 10/23/2022 - 00:50:30: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-389 -348 -94")
+L 10/23/2022 - 00:50:30: "pastel<16><[U:1:95728106]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tf_projectile_rocket" (attacker_position "-389 -348 -94") (victim_position "60 -114 -8")
+L 10/23/2022 - 00:50:30: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "BraveSirRobbin<10><[U:1:3253505]><Red>" (assister_position "-107 -284 -15") (attacker_position "-389 -348 -94") (victim_position "60 -114 -8")
+L 10/23/2022 - 00:50:32: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-152 -546 -13")
+L 10/23/2022 - 00:50:32: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "-152 -546 -13") (victim_position "-228 -291 -14")
+L 10/23/2022 - 00:50:36: "[LL] BEan<2><[U:1:7609438]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "degreaser" (attacker_position "-212 -300 0") (victim_position "-167 -184 -15")
+L 10/23/2022 - 00:50:51: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "player" (attacker_position "-593 -1462 25") (victim_position "0 -812 732")
+L 10/23/2022 - 00:50:51: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assister_position "-667 -1537 -15") (attacker_position "-593 -1462 25") (victim_position "0 -812 732")
+L 10/23/2022 - 00:51:21: "[LL] BEan<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "-66 -533 -3")
+L 10/23/2022 - 00:51:24: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1103 -52 0")
+L 10/23/2022 - 00:51:27: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1131 69 0")
+L 10/23/2022 - 00:51:27: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1131 69 0")
+L 10/23/2022 - 00:51:28: "Brak | LacledesLAN<15><[U:1:75056154]><Unassigned>" joined team "Blue"
+L 10/23/2022 - 00:51:28: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "heavyweapons"
+L 10/23/2022 - 00:51:33: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "sniper"
+L 10/23/2022 - 00:52:05: "[LL] ZDubuya<23><[U:1:1831779]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:52:11: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1113 -8 0")
+L 10/23/2022 - 00:52:13: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "994 135 0")
+L 10/23/2022 - 00:52:13: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "994 135 0")
+L 10/23/2022 - 00:52:14: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "1135 -48 0")
+L 10/23/2022 - 00:52:15: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "1116 20 0")
+L 10/23/2022 - 00:52:15: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1116 20 0")
+L 10/23/2022 - 00:52:57: "[LL] BEan<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:53:05: HALLOWEEN: merasmus_escaped (max_dps 1383.77) (health 16154) (level 1)
+L 10/23/2022 - 00:53:10: "BraveSirRobbin<10><[U:1:3253505]><Red>" committed suicide with "merasmus_player_bomb" (attacker_position "121 -310 -15")
+L 10/23/2022 - 00:53:15: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "[LL]arcticfox012<22><[U:1:5015550]><Blue>" with "obj_sentrygun3" (attacker_position "1006 90 0") (victim_position "714 358 -213")
+L 10/23/2022 - 00:53:18: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "obj_sentrygun3" (attacker_position "1006 90 0") (victim_position "1129 -700 -239")
+L 10/23/2022 - 00:53:18: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "1129 -700 -225") (victim_position "1006 90 0")
+L 10/23/2022 - 00:53:18: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "obj_sentrygun3" (attacker_position "1006 90 14") (victim_position "7 382 -15")
+L 10/23/2022 - 00:53:19: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "quake_rl") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "1465 509 -3")
+L 10/23/2022 - 00:53:23: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "quake_rl") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "1187 136 0")
+L 10/23/2022 - 00:53:26: "[LL] BEan<2><[U:1:7609438]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "degreaser" (attacker_position "1322 -482 74") (victim_position "1383 -645 0")
+L 10/23/2022 - 00:53:27: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "blutsauger" (attacker_position "1282 -1351 -4") (victim_position "1282 -1043 7")
+L 10/23/2022 - 00:53:27: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "1383 -645 68") (attacker_position "1282 -1351 -4") (victim_position "1282 -1043 7")
+L 10/23/2022 - 00:53:29: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "pistol_scout" (attacker_position "891 515 -231") (victim_position "611 346 -193")
+L 10/23/2022 - 00:53:39: "mild<25><[U:1:109550983]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "1178") (ubercharge "0")
+L 10/23/2022 - 00:53:39: "mild<25><[U:1:109550983]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1223 264 -3") (victim_position "-155 -581 -15")
+L 10/23/2022 - 00:53:41: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "demoman"
+L 10/23/2022 - 00:53:43: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL] ZDubuya<23><[U:1:1831779]><Red>") (position1 "1 120 -15") 
+L 10/23/2022 - 00:53:46: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1164 -91 0")
+L 10/23/2022 - 00:53:49: "mild<25><[U:1:109550983]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "159 -130 -15") (victim_position "-1409 -555 0")
+L 10/23/2022 - 00:53:55: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "flamethrower" (attacker_position "67 -410 -15") (victim_position "-614 -531 -175")
+L 10/23/2022 - 00:53:57: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tomislav" (attacker_position "45 -290 -15") (victim_position "-38 -155 -8")
+L 10/23/2022 - 00:53:57: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-861 -478 -162") (attacker_position "45 -290 -15") (victim_position "-38 -155 -8")
+L 10/23/2022 - 00:54:04: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "5") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "88 -271 -15") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "2 -121 -8") (player3 "Brak | LacledesLAN<15><[U:1:75056154]><Blue>") (position3 "165 -429 -15") (player4 "[LL]arcticfox012<22><[U:1:5015550]><Blue>") (position4 "68 -187 -8") (player5 "[LL] Dudsmack<24><[U:1:7297941]><Blue>") (position5 "54 -78 -8") 
+L 10/23/2022 - 00:54:10: "Bryfi<17><[U:1:121185120]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tomislav" (attacker_position "173 -314 -15") (victim_position "-37 -428 -15")
+L 10/23/2022 - 00:54:10: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "BraveSirRobbin<10><[U:1:3253505]><Red>" (assister_position "157 -96 -15") (attacker_position "173 -314 -15") (victim_position "-37 -428 -15")
+L 10/23/2022 - 00:54:20: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "-357 -242 -46") (victim_position "-12 -599 -15")
+L 10/23/2022 - 00:54:24: "mild<25><[U:1:109550983]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1401 -723 -238") (victim_position "561 -441 -188")
+L 10/23/2022 - 00:54:24: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "[LL] Dudsmack<24><[U:1:7297941]><Blue>" (assister_position "-400 -238 -101") (attacker_position "1401 -723 -238") (victim_position "561 -441 -188")
+L 10/23/2022 - 00:54:26: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "flamethrower" (attacker_position "-269 -363 -15") (victim_position "-260 -420 -15")
+L 10/23/2022 - 00:54:26: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-108 -589 -12") (attacker_position "-269 -363 -15") (victim_position "-260 -420 -15")
+L 10/23/2022 - 00:54:26: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tf_projectile_pipe" (attacker_position "-786 -403 -220") (victim_position "-808 88 -222")
+L 10/23/2022 - 00:54:26: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-598 -443 -195") (victim_position "-127 -634 -15")
+L 10/23/2022 - 00:54:42: "Bryfi<17><[U:1:121185120]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tomislav" (attacker_position "221 488 -15") (victim_position "690 463 -207")
+L 10/23/2022 - 00:54:42: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "BraveSirRobbin<10><[U:1:3253505]><Red>" (assister_position "-6 492 -15") (attacker_position "221 488 -15") (victim_position "690 463 -207")
+L 10/23/2022 - 00:54:42: "Bryfi<17><[U:1:121185120]><Blue>" triggered "domination" against "BraveSirRobbin<10><[U:1:3253505]><Red>"
+L 10/23/2022 - 00:54:50: "mild<25><[U:1:109550983]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1646 491 -3") (victim_position "130 -259 -15")
+L 10/23/2022 - 00:54:57: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "flamethrower" (attacker_position "199 -365 -14") (victim_position "1579 -408 -237")
+L 10/23/2022 - 00:55:02: "pastel<16><[U:1:95728106]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "tf_projectile_rocket" (attacker_position "849 19 -220") (victim_position "1653 310 -41")
+L 10/23/2022 - 00:55:04: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "533 -161 -150") (victim_position "478 -124 -153")
+L 10/23/2022 - 00:55:05: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "463 -193 -143") (victim_position "643 -281 -203")
+L 10/23/2022 - 00:55:05: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "478 -117 -143") (attacker_position "463 -193 -143") (victim_position "643 -281 -203")
+L 10/23/2022 - 00:55:06: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "chargedeployed"
+L 10/23/2022 - 00:55:08: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:55:10: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "shotgun_soldier" (attacker_position "29 -22 -15") (victim_position "54 671 16")
+L 10/23/2022 - 00:55:23: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "quake_rl" (attacker_position "1173 -1113 -15") (victim_position "1310 -1483 47")
+L 10/23/2022 - 00:55:24: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" changed role to "medic"
+L 10/23/2022 - 00:55:36: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "axtinguisher" (attacker_position "177 431 -15") (victim_position "220 377 -15")
+L 10/23/2022 - 00:55:38: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "quake_rl" (attacker_position "779 -1274 -15") (victim_position "1377 -652 -242")
+L 10/23/2022 - 00:55:43: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "degreaser" (attacker_position "-28 370 -15") (victim_position "-105 349 -15")
+L 10/23/2022 - 00:55:45: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "1 180 -15") (victim_position "126 361 -15")
+L 10/23/2022 - 00:55:45: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "131 366 -15") (victim_position "467 152 -125")
+L 10/23/2022 - 00:55:45: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "1 180 -15") (attacker_position "131 366 -15") (victim_position "467 152 -125")
+L 10/23/2022 - 00:55:46: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "1460") (ubercharge "0")
+L 10/23/2022 - 00:55:46: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "scattergun" (attacker_position "-18 -380 -15") (victim_position "-26 -133 -8")
+L 10/23/2022 - 00:55:48: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tf_projectile_rocket" (attacker_position "-187 417 -15") (victim_position "-176 285 -15")
+L 10/23/2022 - 00:55:48: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assister_position "-170 416 -15") (attacker_position "-187 417 -15") (victim_position "-176 285 -15")
+L 10/23/2022 - 00:55:50: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "scout"
+L 10/23/2022 - 00:56:11: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "1064 -132 0")
+L 10/23/2022 - 00:56:15: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "1375 -395 0")
+L 10/23/2022 - 00:56:15: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1375 -395 0")
+L 10/23/2022 - 00:56:17: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "shotgun_soldier" (attacker_position "262 -1218 16") (victim_position "177 -1287 44")
+L 10/23/2022 - 00:56:17: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assister_position "-233 -1139 16") (attacker_position "262 -1218 16") (victim_position "177 -1287 44")
+L 10/23/2022 - 00:56:25: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-331 -1009 16") (victim_position "-194 -1108 16")
+L 10/23/2022 - 00:56:26: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1366 -479 0")
+L 10/23/2022 - 00:56:26: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "quake_rl" (attacker_position "-11 -93 -8") (victim_position "884 -896 -198")
+L 10/23/2022 - 00:56:26: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "154 -1024 16") (attacker_position "-11 -93 -8") (victim_position "884 -896 -198")
+L 10/23/2022 - 00:56:27: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "blutsauger") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "263 -1725 16")
+L 10/23/2022 - 00:56:37: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "market_gardener" (attacker_position "1339 -372 0") (victim_position "1384 -339 0")
+L 10/23/2022 - 00:56:39: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "blutsauger") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "366 -1596 16")
+L 10/23/2022 - 00:56:43: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "chargedeployed"
+L 10/23/2022 - 00:56:51: "NoToR1OuS<9><[U:1:19175114]><Red>" changed role to "soldier"
+L 10/23/2022 - 00:57:43: "NoToR1OuS<9><[U:1:19175114]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-20 -188 -8")
+L 10/23/2022 - 00:57:50: "[LL] ZDubuya<23><[U:1:1831779]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:58:07: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:58:17: "[LL] ZDubuya<23><[U:1:1831779]><Red>" say "he is hiding"
+L 10/23/2022 - 00:58:19: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" say "found the spikey anus"
+L 10/23/2022 - 00:58:26: "pastel<16><[U:1:95728106]><Blue>" say "0_0"
+L 10/23/2022 - 00:58:40: HALLOWEEN: merasmus_escaped (max_dps 2382.33) (health 8771) (level 1)
+L 10/23/2022 - 00:58:53: "[LL] ZDubuya<23><[U:1:1831779]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 00:58:54: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-471 231 -148") (victim_position "-259 393 -15")
+L 10/23/2022 - 00:58:55: "pastel<16><[U:1:95728106]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "tf_pumpkin_bomb" (attacker_position "1225 320 -3") (victim_position "1503 313 -3")
+L 10/23/2022 - 00:58:55: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "mild<25><[U:1:109550983]><Red>" (assister_position "-157 507 -13") (attacker_position "1225 320 -3") (victim_position "1503 313 -3")
+L 10/23/2022 - 00:58:56: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "atomizer" (attacker_position "-811 348 -225") (victim_position "-770 377 -220")
+L 10/23/2022 - 00:58:56: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-524 -212 -178") (attacker_position "-811 348 -225") (victim_position "-770 377 -220")
+L 10/23/2022 - 00:59:02: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-283 335 -23") (victim_position "40 320 -15")
+L 10/23/2022 - 00:59:08: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "4") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "9 -266 -11") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "-121 -309 -15") (player3 "pastel<16><[U:1:95728106]><Blue>") (position3 "36 87 -15") (player4 "[LL]arcticfox012<22><[U:1:5015550]><Blue>") (position4 "-169 -60 -15") 
+L 10/23/2022 - 00:59:12: "[LL] ZDubuya<23><[U:1:1831779]><Red>" changed role to "heavyweapons"
+L 10/23/2022 - 00:59:14: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "degreaser" (attacker_position "-633 -1390 0") (victim_position "-500 -1495 56")
+L 10/23/2022 - 00:59:15: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "-59 -1079 16") (victim_position "-355 -1251 16")
+L 10/23/2022 - 00:59:15: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-500 -1495 70") (attacker_position "-59 -1079 16") (victim_position "-355 -1251 16")
+L 10/23/2022 - 00:59:15: "pastel<16><[U:1:95728106]><Blue>" triggered "domination" against "[LL] BEan<2><[U:1:7609438]><Red>"
+L 10/23/2022 - 00:59:22: "mild<25><[U:1:109550983]><Red>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Blue>" (healing "1374") (ubercharge "0")
+L 10/23/2022 - 00:59:22: "mild<25><[U:1:109550983]><Red>" killed "[LL]arcticfox012<22><[U:1:5015550]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1522 -1486 -8") (victim_position "-148 -117 -15")
+L 10/23/2022 - 00:59:24: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "1139") (ubercharge "1")
+L 10/23/2022 - 00:59:24: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "tf_projectile_rocket" (attacker_position "925 -1379 -15") (victim_position "32 -408 -15")
+L 10/23/2022 - 00:59:28: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "23 -684 -15") (victim_position "338 -1348 16")
+L 10/23/2022 - 00:59:28: "pastel<16><[U:1:95728106]><Blue>" triggered "domination" against "NoToR1OuS<9><[U:1:19175114]><Red>"
+L 10/23/2022 - 00:59:28: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "tf_projectile_rocket" (attacker_position "338 -1348 30") (victim_position "-24 -692 -12")
+L 10/23/2022 - 00:59:28: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "revenge" against "pastel<16><[U:1:95728106]><Blue>"
+L 10/23/2022 - 00:59:30: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "minigun" (attacker_position "1294 -1026 8") (victim_position "773 -377 -176")
+L 10/23/2022 - 00:59:30: "mild<25><[U:1:109550983]><Red>" triggered "kill assist" against "[LL] Dudsmack<24><[U:1:7297941]><Blue>" (assister_position "1092 -1413 -14") (attacker_position "1294 -1026 8") (victim_position "773 -377 -176")
+L 10/23/2022 - 00:59:30: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "quake_rl" (attacker_position "750 -365 -147") (victim_position "1296 -1025 8")
+L 10/23/2022 - 00:59:32: "pastel<16><[U:1:95728106]><Blue>" say "lol"
+L 10/23/2022 - 00:59:37: "mild<25><[U:1:109550983]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "bazaar_bargain" (attacker_position "-58 -1214 16") (victim_position "137 -539 -15")
+L 10/23/2022 - 00:59:37: "NoToR1OuS<9><[U:1:19175114]><Red>" say "LOL"
+L 10/23/2022 - 00:59:48: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-242 -184 -14")
+L 10/23/2022 - 00:59:55: "mild<25><[U:1:109550983]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "smg" (attacker_position "-9 201 -15") (victim_position "-131 -567 -15")
+L 10/23/2022 - 01:00:09: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "170 119 33")
+L 10/23/2022 - 01:00:10: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "quake_rl" (attacker_position "-551 -1566 48") (victim_position "-47 -895 48")
+L 10/23/2022 - 01:00:10: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assister_position "-328 -1245 16") (attacker_position "-551 -1566 48") (victim_position "-47 -895 48")
+L 10/23/2022 - 01:00:10: "pastel<16><[U:1:95728106]><Blue>" triggered "domination" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assist "1")
+L 10/23/2022 - 01:00:11: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "sniper"
+L 10/23/2022 - 01:00:14: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-134 215 -14")
+L 10/23/2022 - 01:00:14: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "3 264 30")
+L 10/23/2022 - 01:00:14: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "blutsauger" (attacker_position "3 264 30") (victim_position "16 -213 25")
+L 10/23/2022 - 01:00:14: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-430 305 -121") (attacker_position "3 264 30") (victim_position "16 -213 25")
+L 10/23/2022 - 01:00:15: "pastel<16><[U:1:95728106]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "tf_projectile_rocket" (attacker_position "85 -644 -15") (victim_position "345 -408 -64")
+L 10/23/2022 - 01:00:49: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "quake_rl" (attacker_position "1369 296 -3") (victim_position "1428 695 -3")
+L 10/23/2022 - 01:01:03: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "369 -1281 16") (victim_position "513 -1535 48")
+L 10/23/2022 - 01:01:09: "mild<25><[U:1:109550983]><Red>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Blue>" (healing "562") (ubercharge "1")
+L 10/23/2022 - 01:01:09: "mild<25><[U:1:109550983]><Red>" killed "[LL]arcticfox012<22><[U:1:5015550]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1609 525 -3") (victim_position "38 -544 -15")
+L 10/23/2022 - 01:01:17: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tomislav" (attacker_position "1271 -1338 -5") (victim_position "1368 -1615 10")
+L 10/23/2022 - 01:01:32: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "chargedeployed"
+L 10/23/2022 - 01:01:33: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "706 -451 -212") (victim_position "773 -747 -194")
+L 10/23/2022 - 01:01:33: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "525 -363 -152") (attacker_position "706 -451 -212") (victim_position "773 -747 -194")
+L 10/23/2022 - 01:01:42: "NoToR1OuS<9><[U:1:19175114]><Red>" changed role to "pyro"
+L 10/23/2022 - 01:01:48: "mild<25><[U:1:109550983]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "smg" (attacker_position "-62 -106 -8") (victim_position "-285 -207 -24")
+L 10/23/2022 - 01:01:50: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "375 303 -85")
+L 10/23/2022 - 01:01:50: "pastel<16><[U:1:95728106]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "tf_pumpkin_bomb" (attacker_position "375 303 -85") (victim_position "-75 16 -15")
+L 10/23/2022 - 01:01:50: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "mild<25><[U:1:109550983]><Red>" (assister_position "938 -483 -236") (attacker_position "375 303 -85") (victim_position "-75 16 -15")
+L 10/23/2022 - 01:01:50: "pastel<16><[U:1:95728106]><Blue>" triggered "domination" against "mild<25><[U:1:109550983]><Red>"
+L 10/23/2022 - 01:01:56: World triggered "Round_Overtime"
+L 10/23/2022 - 01:01:57: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" changed role to "soldier"
+L 10/23/2022 - 01:01:59: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "flamethrower" (attacker_position "26 -312 17") (victim_position "109 -221 -14")
+L 10/23/2022 - 01:02:01: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-166 119 -15")
+L 10/23/2022 - 01:02:01: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "shotgun_soldier" (attacker_position "-166 119 -15") (victim_position "-10 26 40")
+L 10/23/2022 - 01:02:01: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "109 -221 0") (attacker_position "-166 119 -15") (victim_position "-10 26 40")
+L 10/23/2022 - 01:02:04: World triggered "Round_Win" (winner "Blue")
+L 10/23/2022 - 01:02:04: World triggered "Round_Length" (seconds "809.74")
+L 10/23/2022 - 01:02:04: Team "Red" current score "0" with "5" players
+L 10/23/2022 - 01:02:04: Team "Blue" current score "1" with "6" players
+L 10/23/2022 - 01:02:06: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "40 162 -15") (victim_position "-114 206 -14")
+L 10/23/2022 - 01:02:12: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tf_projectile_rocket" (attacker_position "120 -401 -15") (victim_position "-1125 -1296 -13")
+L 10/23/2022 - 01:02:18: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "blutsauger" (attacker_position "3065 -534 -223") (victim_position "3266 -482 -223")
+L 10/23/2022 - 01:02:19: World triggered "Round_Start"
+L 10/23/2022 - 01:03:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "216 -248 -14") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "-245 -313 -14") 
+L 10/23/2022 - 01:03:05: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "361 -311 -75") (victim_position "264 -583 -134")
+L 10/23/2022 - 01:03:05: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-140 -299 -15") (attacker_position "361 -311 -75") (victim_position "264 -583 -134")
+L 10/23/2022 - 01:03:05: "mild<25><[U:1:109550983]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "453") (ubercharge "0")
+L 10/23/2022 - 01:03:05: "mild<25><[U:1:109550983]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1504 333 -3") (victim_position "-155 -373 -15")
+L 10/23/2022 - 01:03:34: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "flamethrower" (attacker_position "310 -583 -142") (victim_position "382 -349 -89")
+L 10/23/2022 - 01:03:34: "mild<25><[U:1:109550983]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "1587 536 -3") (attacker_position "310 -583 -142") (victim_position "382 -349 -89")
+L 10/23/2022 - 01:03:35: "mild<25><[U:1:109550983]><Red>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Blue>" (healing "256") (ubercharge "0")
+L 10/23/2022 - 01:03:35: "mild<25><[U:1:109550983]><Red>" killed "[LL]arcticfox012<22><[U:1:5015550]><Blue>" with "bazaar_bargain" (customkill "headshot") (attacker_position "1475 454 -3") (victim_position "212 -457 -14")
+L 10/23/2022 - 01:03:42: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "23 -926 44")
+L 10/23/2022 - 01:03:42: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_pumpkin_bomb" (attacker_position "23 -926 44") (victim_position "193 -44 34")
+L 10/23/2022 - 01:03:42: "pastel<16><[U:1:95728106]><Blue>" triggered "domination" against "NoToR1OuS<9><[U:1:19175114]><Red>"
+L 10/23/2022 - 01:03:42: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "tf_weapon_medigun" (attacker_position "-99 -302 -15") (victim_position "-79 169 6")
+L 10/23/2022 - 01:03:50: "pastel<16><[U:1:95728106]><Blue>" killed "mild<25><[U:1:109550983]><Red>" with "tf_projectile_rocket" (attacker_position "511 -1427 48") (victim_position "1398 -552 -242")
+L 10/23/2022 - 01:03:53: "mild<25><[U:1:109550983]><Red>" disconnected (reason "Client Disconnect")
+L 10/23/2022 - 01:03:53: "[LL]arcticfox012<22><[U:1:5015550]><Blue>" joined team "Red"
+L 10/23/2022 - 01:04:35: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "34 -263 34")
+L 10/23/2022 - 01:04:35: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "34 -263 34") (victim_position "67 -1 25")
+L 10/23/2022 - 01:04:35: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "35 -895 48") (attacker_position "34 -263 34") (victim_position "67 -1 25")
+L 10/23/2022 - 01:04:40: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "flamethrower" (attacker_position "3741 -576 -223") (victim_position "47 -18 -15")
+L 10/23/2022 - 01:05:12: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "shotgun_soldier" (attacker_position "411 -1426 41") (victim_position "750 -1530 24")
+L 10/23/2022 - 01:05:12: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "179 -1177 16") (attacker_position "411 -1426 41") (victim_position "750 -1530 24")
+L 10/23/2022 - 01:05:12: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "domination" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assist "1")
+L 10/23/2022 - 01:05:15: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "634 -1568 -1") (victim_position "842 -1285 -15")
+L 10/23/2022 - 01:06:09: "NoToR1OuS<9><[U:1:19175114]><Red>" committed suicide with "world" (attacker_position "729 -1334 -2")
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<26><[U:1:13237579]><>" connected, address "172.30.44.5:27005"
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<26><[U:1:13237579]><>" disconnected (reason "Connection closing")
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<27><[U:1:13237579]><>" connected, address "172.30.44.5:27005"
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<27><[U:1:13237579]><>" disconnected (reason "Connection closing")
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<28><[U:1:13237579]><>" connected, address "172.30.44.5:27005"
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<28><[U:1:13237579]><>" disconnected (reason "Connection closing")
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<29><[U:1:13237579]><>" connected, address "172.30.44.5:27005"
+L 10/23/2022 - 01:06:19: "[LL] sargentwolf<29><[U:1:13237579]><>" STEAM USERID validated
+L 10/23/2022 - 01:06:28: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" committed suicide with "world" (attacker_position "819 -120 -221")
+L 10/23/2022 - 01:06:35: "Bryfi<17><[U:1:121185120]><Blue>" committed suicide with "world" (attacker_position "546 -429 -186")
+L 10/23/2022 - 01:06:41: "[LL] sargentwolf<29><[U:1:13237579]><>" entered the game
+L 10/23/2022 - 01:06:48: "[LL] sargentwolf<29><[U:1:13237579]><Unassigned>" joined team "Red"
+L 10/23/2022 - 01:06:52: "NoToR1OuS<9><[U:1:19175114]><Red>" committed suicide with "world" (attacker_position "546 -979 23")
+L 10/23/2022 - 01:07:02: "[LL] sargentwolf<29><[U:1:13237579]><Red>" changed role to "heavyweapons"
+L 10/23/2022 - 01:07:28: HALLOWEEN: merasmus_escaped (max_dps 543.40) (health 17927) (level 1)
+L 10/23/2022 - 01:07:36: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "39 351 -15") (victim_position "-92 174 -14")
+L 10/23/2022 - 01:07:36: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-377 513 -135") (attacker_position "39 351 -15") (victim_position "-92 174 -14")
+L 10/23/2022 - 01:07:36: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "chargedeployed"
+L 10/23/2022 - 01:07:37: "Bryfi<17><[U:1:121185120]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "71 225 -15")
+L 10/23/2022 - 01:07:37: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tomislav" (attacker_position "71 225 -15") (victim_position "-80 -83 -8")
+L 10/23/2022 - 01:07:38: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-198 370 -15") (victim_position "109 128 -15")
+L 10/23/2022 - 01:07:40: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "-27 295 -15") (victim_position "-45 181 -15")
+L 10/23/2022 - 01:07:49: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "-66 -281 -15") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "37 -122 -8") 
+L 10/23/2022 - 01:07:59: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "610 -1480 14") (victim_position "787 -581 -223")
+L 10/23/2022 - 01:07:59: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "145 -230 -15") (attacker_position "610 -1480 14") (victim_position "787 -581 -223")
+L 10/23/2022 - 01:08:04: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tomislav" (attacker_position "661 -1304 -15") (victim_position "911 -1328 -15")
+L 10/23/2022 - 01:08:04: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL] ZDubuya<23><[U:1:1831779]><Red>" (assister_position "702 -763 -214") (attacker_position "661 -1304 -15") (victim_position "911 -1328 -15")
+L 10/23/2022 - 01:08:04: "Bryfi<17><[U:1:121185120]><Blue>" triggered "domination" against "[LL] ZDubuya<23><[U:1:1831779]><Red>"
+L 10/23/2022 - 01:08:09: "NoToR1OuS<9><[U:1:19175114]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 01:08:10: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-154 113 -15")
+L 10/23/2022 - 01:08:10: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "blutsauger" (attacker_position "-154 113 -15") (victim_position "-68 60 -15")
+L 10/23/2022 - 01:08:10: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-231 -186 -14") (attacker_position "-154 113 -15") (victim_position "-68 60 -15")
+L 10/23/2022 - 01:08:10: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "domination" against "[LL] BEan<2><[U:1:7609438]><Red>"
+L 10/23/2022 - 01:08:22: "[LL] BEan<2><[U:1:7609438]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "player" (attacker_position "3838 -515 -223") (victim_position "0 -812 704")
+L 10/23/2022 - 01:08:22: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "revenge" against "pastel<16><[U:1:95728106]><Blue>"
+L 10/23/2022 - 01:08:31: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "flamethrower" (attacker_position "932 -1765 -2") (victim_position "1081 -1647 -1")
+L 10/23/2022 - 01:08:33: "pastel<16><[U:1:95728106]><Blue>" say "oop"
+L 10/23/2022 - 01:08:37: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tomislav" (attacker_position "437 326 -126") (victim_position "783 775 -209")
+L 10/23/2022 - 01:08:41: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "3026") (ubercharge "0")
+L 10/23/2022 - 01:08:41: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "tf_pumpkin_bomb" (attacker_position "35 239 -15") (victim_position "-69 148 -15")
+L 10/23/2022 - 01:08:41: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (assister_position "1355 -433 0") (attacker_position "35 239 -15") (victim_position "-69 148 -15")
+L 10/23/2022 - 01:08:41: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "revenge" against "Turbo_Vince<8><[U:1:198477938]><Blue>"
+L 10/23/2022 - 01:08:46: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "minigun" (attacker_position "1192 151 0") (victim_position "94 301 -15")
+L 10/23/2022 - 01:08:46: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "154 -55 41") (attacker_position "1192 151 0") (victim_position "94 301 -15")
+L 10/23/2022 - 01:08:49: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "[LL] BEan<2><[U:1:7609438]><Red>") (position1 "-195 163 -14") (player2 "NoToR1OuS<9><[U:1:19175114]><Red>") (position2 "-101 -262 -15") 
+L 10/23/2022 - 01:08:58: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "shotgun_soldier" (attacker_position "-577 -385 -191") (victim_position "-118 -188 -13")
+L 10/23/2022 - 01:09:09: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "207 410 -15") (victim_position "606 390 -191")
+L 10/23/2022 - 01:09:12: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "minigun" (attacker_position "-42 -1043 16") (victim_position "89 389 -15")
+L 10/23/2022 - 01:09:12: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "-35 382 -15") (attacker_position "-42 -1043 16") (victim_position "89 389 -15")
+L 10/23/2022 - 01:09:12: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "revenge" against "pastel<16><[U:1:95728106]><Blue>"
+L 10/23/2022 - 01:09:16: "NoToR1OuS<9><[U:1:19175114]><Red>" say "/autobalance"
+L 10/23/2022 - 01:09:24: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tomislav" (attacker_position "-389 -209 -94") (victim_position "-178 -55 -15")
+L 10/23/2022 - 01:09:24: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-532 -389 -183") (attacker_position "-389 -209 -94") (victim_position "-178 -55 -15")
+L 10/23/2022 - 01:09:25: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "-424 -398 -112") (victim_position "-235 -142 -14")
+L 10/23/2022 - 01:09:33: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-247 -264 -14")
+L 10/23/2022 - 01:09:35: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "176 -32 -15") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "98 -103 34") 
+L 10/23/2022 - 01:09:37: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "496") (ubercharge "0")
+L 10/23/2022 - 01:09:37: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "minigun" (attacker_position "-373 -178 -83") (victim_position "34 3 -15")
+L 10/23/2022 - 01:09:37: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "kill assist" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (assister_position "-32 -176 38") (attacker_position "-373 -178 -83") (victim_position "34 3 -15")
+L 10/23/2022 - 01:09:39: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "flamethrower" (attacker_position "18 -210 -8") (victim_position "19 -372 -15")
+L 10/23/2022 - 01:09:39: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "-383 -347 -90") (attacker_position "18 -210 -8") (victim_position "19 -372 -15")
+L 10/23/2022 - 01:09:39: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "revenge" against "Bryfi<17><[U:1:121185120]><Blue>" (assist "1")
+L 10/23/2022 - 01:09:53: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "-638 -434 -202") (victim_position "-313 -248 -43")
+L 10/23/2022 - 01:09:54: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "player" (attacker_position "-68 -994 16") (victim_position "0 -812 732")
+L 10/23/2022 - 01:09:59: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-246 -263 -14")
+L 10/23/2022 - 01:10:00: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "-73 -1036 16") (victim_position "38 -823 48")
+L 10/23/2022 - 01:10:00: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-152 -271 -15") (attacker_position "-73 -1036 16") (victim_position "38 -823 48")
+L 10/23/2022 - 01:10:00: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "minigun" (attacker_position "1 -109 -8") (victim_position "13 -303 -15")
+L 10/23/2022 - 01:10:03: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL] sargentwolf<29><[U:1:13237579]><Red>") (position1 "112 -450 -15") 
+L 10/23/2022 - 01:10:06: "[LL] BEan<2><[U:1:7609438]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "flaregun" (attacker_position "3839 -514 -223") (victim_position "56 -987 16")
+L 10/23/2022 - 01:10:06: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "-10 -285 -15") (attacker_position "3839 -514 -223") (victim_position "56 -987 16")
+L 10/23/2022 - 01:10:07: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "blutsauger" (attacker_position "-339 -219 -61") (victim_position "-30 -110 -8")
+L 10/23/2022 - 01:10:07: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "56 -987 84") (attacker_position "-339 -219 -61") (victim_position "-30 -110 -8")
+L 10/23/2022 - 01:10:22: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "38 -512 73")
+L 10/23/2022 - 01:10:24: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "9") (ubercharge "0")
+L 10/23/2022 - 01:10:24: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-80 -318 -15")
+L 10/23/2022 - 01:10:24: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "flamethrower" (attacker_position "-80 -318 -15") (victim_position "-246 -423 -14")
+L 10/23/2022 - 01:10:25: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "-413 -327 -110") (victim_position "-373 -260 -83")
+L 10/23/2022 - 01:10:25: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-246 -423 0") (attacker_position "-413 -327 -110") (victim_position "-373 -260 -83")
+L 10/23/2022 - 01:10:27: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-240 -423 -14")
+L 10/23/2022 - 01:10:30: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "degreaser" (attacker_position "-201 490 22") (victim_position "169 434 45")
+L 10/23/2022 - 01:10:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "-139 11 -15") 
+L 10/23/2022 - 01:10:32: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tomislav" (attacker_position "-131 369 -15") (victim_position "-236 243 -15")
+L 10/23/2022 - 01:10:33: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-575 -467 -190")
+L 10/23/2022 - 01:10:33: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "shotgun_soldier" (attacker_position "-575 -467 -190") (victim_position "-171 -183 -15")
+L 10/23/2022 - 01:10:35: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "minigun" (attacker_position "144 316 -15") (victim_position "14 115 -15")
+L 10/23/2022 - 01:10:35: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "-191 306 -1") (attacker_position "144 316 -15") (victim_position "14 115 -15")
+L 10/23/2022 - 01:10:40: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "shotgun_soldier" (attacker_position "50 352 -15") (victim_position "447 476 -132")
+L 10/23/2022 - 01:11:36: "pastel<16><[U:1:95728106]><Blue>" committed suicide with "world" (attacker_position "531 -201 -179")
+L 10/23/2022 - 01:11:37: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" committed suicide with "world" (attacker_position "30 306 29")
+L 10/23/2022 - 01:11:39: "NoToR1OuS<9><[U:1:19175114]><Red>" committed suicide with "world" (attacker_position "98 -185 -8")
+L 10/23/2022 - 01:11:40: "[LL] BEan<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "188 -80 -14")
+L 10/23/2022 - 01:11:40: "Turbo_Vince<0><[U:1:198477938]><Blue>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "368") (ubercharge "0")
+L 10/23/2022 - 01:11:40: "Turbo_Vince<8><[U:1:198477938]><Blue>" committed suicide with "world" (attacker_position "172 19 -15")
+L 10/23/2022 - 01:11:43: "Bryfi<17><[U:1:121185120]><Blue>" committed suicide with "world" (attacker_position "87 -153 -8")
+L 10/23/2022 - 01:11:44: "[LL] ZDubuya<23><[U:1:1831779]><Red>" committed suicide with "world" (attacker_position "-116 -392 -15")
+L 10/23/2022 - 01:11:56: "[LL] ZDubuya<23><[U:1:1831779]><Red>" changed role to "demoman"
+L 10/23/2022 - 01:11:59: "[LL] ZDubuya<23><[U:1:1831779]><Red>" changed role to "soldier"
+L 10/23/2022 - 01:12:55: HALLOWEEN: "[LL] BEan<2><[U:1:7609438]><Red>" purgatory_teleport "spawn_loot_red"
+L 10/23/2022 - 01:12:57: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "blutsauger" (attacker_position "-842 -619 -229") (victim_position "-669 -965 -129")
+L 10/23/2022 - 01:12:57: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-788 -891 -215") (attacker_position "-842 -619 -229") (victim_position "-669 -965 -129")
+L 10/23/2022 - 01:12:59: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "tf_projectile_rocket" (attacker_position "-1143 -537 -239") (victim_position "-872 -670 -193")
+L 10/23/2022 - 01:12:59: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" (assister_position "-404 106 -15") (attacker_position "-1143 -537 -239") (victim_position "-872 -670 -193")
+L 10/23/2022 - 01:13:00: "[LL] ZDubuya<23><[U:1:1831779]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "0") (ubercharge "0")
+L 10/23/2022 - 01:13:00: "[LL] ZDubuya<23><[U:1:1831779]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "tf_projectile_rocket" (attacker_position "-919 -342 -232") (victim_position "-552 -749 -180")
+L 10/23/2022 - 01:13:00: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (assister_position "-402 111 -15") (attacker_position "-919 -342 -232") (victim_position "-552 -749 -180")
+L 10/23/2022 - 01:13:01: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] ZDubuya<23><[U:1:1831779]><Red>" with "tomislav" (attacker_position "-1053 -695 -238") (victim_position "-760 -315 -215")
+L 10/23/2022 - 01:13:03: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "minigun" (attacker_position "-398 99 -15") (victim_position "-961 -479 -237")
+L 10/23/2022 - 01:13:15: HALLOWEEN: "[LL] BEan<2><[U:1:7609438]><Red>" purgatory_escaped
+L 10/23/2022 - 01:13:28: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "NoToR1OuS<9><[U:1:19175114]><Red>") (position1 "-140 -462 -14") (player2 "[LL] sargentwolf<29><[U:1:13237579]><Red>") (position2 "72 -9 -15") (player3 "[LL]arcticfox012<22><[U:1:5015550]><Red>") (position3 "2 -255 -8") 
+L 10/23/2022 - 01:13:28: "[LL] BEan<2><[U:1:7609438]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "degreaser" (attacker_position "-314 376 91") (victim_position "-333 476 -56")
+L 10/23/2022 - 01:13:28: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "73 14 -15") (attacker_position "-314 376 91") (victim_position "-333 476 -56")
+L 10/23/2022 - 01:13:30: "[LL] ZDubuya<23><[U:1:1831779]><Red>" committed suicide with "world" (attacker_position "3840 -448 -223")
+L 10/23/2022 - 01:13:30: "[LL] ZDubuya<23><[U:1:1831779]><Red>" joined team "Spectator"
+L 10/23/2022 - 01:13:38: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "degreaser" (attacker_position "-796 -394 -221") (victim_position "-709 -334 -211")
+L 10/23/2022 - 01:13:51: "[LL] BEan<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 01:13:54: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "minigun" (attacker_position "20 118 -15") (victim_position "-33 141 -15")
+L 10/23/2022 - 01:13:54: "[LL]arcticfox012<22><[U:1:5015550]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "-40 345 27") (attacker_position "20 118 -15") (victim_position "-33 141 -15")
+L 10/23/2022 - 01:13:57: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "177") (ubercharge "0")
+L 10/23/2022 - 01:13:57: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "minigun" (attacker_position "120 -228 -15") (victim_position "-5 -500 -15")
+L 10/23/2022 - 01:13:57: "[LL]arcticfox012<22><[U:1:5015550]><Red>" triggered "kill assist" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (assister_position "12 -70 29") (attacker_position "120 -228 -15") (victim_position "-5 -500 -15")
+L 10/23/2022 - 01:13:59: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tomislav" (attacker_position "132 -126 -15") (victim_position "129 -79 -15")
+L 10/23/2022 - 01:13:59: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "2 -571 -1") (attacker_position "132 -126 -15") (victim_position "129 -79 -15")
+L 10/23/2022 - 01:14:04: "Bryfi<17><[U:1:121185120]><Blue>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "901") (ubercharge "0")
+L 10/23/2022 - 01:14:04: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tomislav" (attacker_position "93 0 -15") (victim_position "-170 -230 -14")
+L 10/23/2022 - 01:14:05: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "64 -41 -13")
+L 10/23/2022 - 01:14:05: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "flamethrower" (attacker_position "64 -41 -13") (victim_position "82 -135 -8")
+L 10/23/2022 - 01:14:23: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "-229 -321 -14") (victim_position "-155 -338 33")
+L 10/23/2022 - 01:14:28: "Turbo_Vince<8><[U:1:198477938]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "blutsauger" (attacker_position "-84 -221 -8") (victim_position "-81 243 -15")
+L 10/23/2022 - 01:14:28: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-242 -305 -14") (attacker_position "-84 -221 -8") (victim_position "-81 243 -15")
+L 10/23/2022 - 01:14:37: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "minigun" (attacker_position "264 -317 -15") (victim_position "141 226 -15")
+L 10/23/2022 - 01:14:41: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "7 -23 -15")
+L 10/23/2022 - 01:14:42: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tomislav" (attacker_position "-227 -209 -14") (victim_position "12 -23 -15")
+L 10/23/2022 - 01:14:42: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "-717 -967 -128") (attacker_position "-227 -209 -14") (victim_position "12 -23 -15")
+L 10/23/2022 - 01:14:42: "[LL]arcticfox012<22><[U:1:5015550]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "51 -282 -15")
+L 10/23/2022 - 01:14:42: "NoToR1OuS<9><[U:1:19175114]><Red>" changed role to "engineer"
+L 10/23/2022 - 01:14:44: "Bryfi<17><[U:1:121185120]><Blue>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "0") (ubercharge "0")
+L 10/23/2022 - 01:14:44: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tomislav" (attacker_position "-29 -214 -8") (victim_position "71 -363 -15")
+L 10/23/2022 - 01:14:44: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (assister_position "-7 14 -15") (attacker_position "-29 -214 -8") (victim_position "71 -363 -15")
+L 10/23/2022 - 01:14:45: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Bryfi<17><[U:1:121185120]><Blue>") (position1 "-4 -157 -8") (player2 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position2 "-41 -109 -8") 
+L 10/23/2022 - 01:14:56: "[LL]arcticfox012<22><[U:1:5015550]><Red>" changed role to "heavyweapons"
+L 10/23/2022 - 01:15:00: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "84 -603 -15")
+L 10/23/2022 - 01:15:03: "pastel<16><[U:1:95728106]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "NoToR1OuS<9><[U:1:19175114]><Red>") (attacker_position "113 -257 -15")
+L 10/23/2022 - 01:15:04: "[LL] BEan<2><[U:1:7609438]><Red>" killed "[LL] Dudsmack<24><[U:1:7297941]><Blue>" with "world" (attacker_position "-173 -534 -15") (victim_position "-995 -92 -223")
+L 10/23/2022 - 01:15:04: "Bryfi<17><[U:1:121185120]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tomislav" (attacker_position "-152 -253 -15") (victim_position "115 -585 -15")
+L 10/23/2022 - 01:15:06: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "68 -221 -8") (victim_position "-231 -512 -15")
+L 10/23/2022 - 01:15:06: "pastel<16><[U:1:95728106]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "295 -323 -31") (attacker_position "68 -221 -8") (victim_position "-231 -512 -15")
+L 10/23/2022 - 01:15:07: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "axtinguisher" (attacker_position "143 -254 -15") (victim_position "126 -298 -15")
+L 10/23/2022 - 01:15:10: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "400") (ubercharge "0")
+L 10/23/2022 - 01:15:10: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "degreaser" (attacker_position "-240 -330 -14") (victim_position "-479 -243 -2")
+L 10/23/2022 - 01:15:10: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "revenge" against "Turbo_Vince<8><[U:1:198477938]><Blue>"
+L 10/23/2022 - 01:15:11: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "shotgun_soldier" (attacker_position "-31 -254 -8") (victim_position "-346 -292 -65")
+L 10/23/2022 - 01:15:14: "NoToR1OuS<9><[U:1:19175114]><Red>" changed role to "pyro"
+L 10/23/2022 - 01:15:18: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "minigun" (attacker_position "299 -369 -34") (victim_position "34 134 50")
+L 10/23/2022 - 01:15:18: "[LL]arcticfox012<22><[U:1:5015550]><Red>" triggered "kill assist" against "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" (assister_position "617 -383 -198") (attacker_position "299 -369 -34") (victim_position "34 134 50")
+L 10/23/2022 - 01:15:18: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "domination" against "Brak | LacledesLAN<15><[U:1:75056154]><Blue>"
+L 10/23/2022 - 01:15:22: "pastel<16><[U:1:95728106]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tf_projectile_rocket" (attacker_position "421 -122 -15") (victim_position "26 -106 -8")
+L 10/23/2022 - 01:15:23: "pastel<16><[U:1:95728106]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "217 -196 -14")
+L 10/23/2022 - 01:15:23: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "217 -196 -14") (victim_position "-171 137 -15")
+L 10/23/2022 - 01:15:37: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "flamethrower" (attacker_position "-25 -645 -15") (victim_position "-60 -394 -15")
+L 10/23/2022 - 01:15:37: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "revenge" against "pastel<16><[U:1:95728106]><Blue>"
+L 10/23/2022 - 01:15:50: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "194") (ubercharge "0")
+L 10/23/2022 - 01:15:51: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "degreaser" (attacker_position "-776 -795 -221") (victim_position "-599 -682 -193")
+L 10/23/2022 - 01:15:51: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tomislav" (attacker_position "-598 -529 -196") (victim_position "-794 -804 -222")
+L 10/23/2022 - 01:15:51: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "kill assist" against "[LL] BEan<2><[U:1:7609438]><Red>" (assister_position "-1435 -563 -243") (attacker_position "-598 -529 -196") (victim_position "-794 -804 -222")
+L 10/23/2022 - 01:15:53: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "-681 -682 -212") (victim_position "-573 -620 -122")
+L 10/23/2022 - 01:15:58: "Bryfi<17><[U:1:121185120]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-247 -381 -14")
+L 10/23/2022 - 01:15:58: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "minigun" (attacker_position "146 -58 -15") (victim_position "-235 -371 -14")
+L 10/23/2022 - 01:15:58: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "-236 -800 537") (attacker_position "146 -58 -15") (victim_position "-235 -371 -14")
+L 10/23/2022 - 01:16:00: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "[LL] sargentwolf<29><[U:1:13237579]><Red>") (position1 "58 -111 -8") 
+L 10/23/2022 - 01:16:04: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "-247 347 -15") (victim_position "-12 -165 -8")
+L 10/23/2022 - 01:16:04: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "revenge" against "[LL] sargentwolf<29><[U:1:13237579]><Red>"
+L 10/23/2022 - 01:16:09: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tf_projectile_rocket" (attacker_position "-89 -137 -8") (victim_position "6 -478 -15")
+L 10/23/2022 - 01:16:22: "[LL]arcticfox012<22><[U:1:5015550]><Red>" changed role to "medic"
+L 10/23/2022 - 01:16:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position1 "126 31 -15") (player2 "pastel<16><[U:1:95728106]><Blue>") (position2 "62 -72 -8") 
+L 10/23/2022 - 01:16:29: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "shotgun_soldier" (attacker_position "31 -217 -8") (victim_position "427 -313 -50")
+L 10/23/2022 - 01:16:29: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "19 -220 153") (attacker_position "31 -217 -8") (victim_position "427 -313 -50")
+L 10/23/2022 - 01:16:41: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "world" (attacker_position "-62 -588 -15") (victim_position "-995 162 6")
+L 10/23/2022 - 01:16:49: "[LL] Dudsmack<24><[U:1:7297941]><Blue>" committed suicide with "world" (attacker_position "237 -349 -4")
+L 10/23/2022 - 01:16:50: "Turbo_Vince<0><[U:1:198477938]><Blue>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "223") (ubercharge "0")
+L 10/23/2022 - 01:16:50: "Turbo_Vince<8><[U:1:198477938]><Blue>" committed suicide with "world" (attacker_position "-35 -567 -15")
+L 10/23/2022 - 01:16:55: "Bryfi<17><[U:1:121185120]><Blue>" committed suicide with "world" (attacker_position "-719 -275 -212")
+L 10/23/2022 - 01:16:55: "[LL] BEan<2><[U:1:7609438]><Red>" committed suicide with "world" (attacker_position "-570 -390 -190")
+L 10/23/2022 - 01:16:59: "Turbo_Vince<8><[U:1:198477938]><Blue>" changed role to "scout"
+L 10/23/2022 - 01:17:28: "BraveSirRobbin<10><[U:1:3253505]><Red>" committed suicide with "world" (attacker_position "260 -693 -15")
+L 10/23/2022 - 01:17:31: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" committed suicide with "world" (attacker_position "496 239 -165")
+L 10/23/2022 - 01:17:33: "pastel<16><[U:1:95728106]><Blue>" committed suicide with "world" (attacker_position "-32 354 33")
+L 10/23/2022 - 01:17:33: "Turbo_Vince<8><[U:1:198477938]><Blue>" committed suicide with "world" (attacker_position "-103 -32 -15")
+L 10/23/2022 - 01:17:38: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" say "boom"
+L 10/23/2022 - 01:18:34: "Turbo_Vince<8><[U:1:198477938]><Blue>" committed suicide with "world" (attacker_position "-395 -1443 31")
+L 10/23/2022 - 01:18:34: "[LL]arcticfox012<0><[U:1:5015550]><Red>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "338") (ubercharge "0")
+L 10/23/2022 - 01:18:34: "[LL]arcticfox012<22><[U:1:5015550]><Red>" committed suicide with "world" (attacker_position "-364 -1433 16")
+L 10/23/2022 - 01:18:39: HALLOWEEN: "[LL] BEan<2><[U:1:7609438]><Red>" purgatory_teleport "spawn_loot_red"
+L 10/23/2022 - 01:18:40: "Turbo_Vince<8><[U:1:198477938]><Blue>" changed role to "medic"
+L 10/23/2022 - 01:18:41: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "flamethrower" (attacker_position "-385 -1269 16") (victim_position "-275 -1131 16")
+L 10/23/2022 - 01:18:41: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "96 -702 -6") (attacker_position "-385 -1269 16") (victim_position "-275 -1131 16")
+L 10/23/2022 - 01:18:43: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" committed suicide with "world" (attacker_position "0 -812 732")
+L 10/23/2022 - 01:18:49: "pastel<16><[U:1:95728106]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "1312 -777 0") (victim_position "705 -1186 -15")
+L 10/23/2022 - 01:18:57: HALLOWEEN: "[LL] BEan<2><[U:1:7609438]><Red>" purgatory_escaped
+L 10/23/2022 - 01:19:13: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "343 -574 -34") (victim_position "-17 -641 -15")
+L 10/23/2022 - 01:19:19: "[LL] sargentwolf<29><[U:1:13237579]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "254") (ubercharge "0")
+L 10/23/2022 - 01:19:19: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "minigun" (attacker_position "201 -272 -14") (victim_position "0 -295 -15")
+L 10/23/2022 - 01:19:19: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (assister_position "-152 -481 -14") (attacker_position "201 -272 -14") (victim_position "0 -295 -15")
+L 10/23/2022 - 01:19:23: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "[LL] BEan<2><[U:1:7609438]><Red>") (position1 "35 -52 -8") (player2 "[LL] sargentwolf<29><[U:1:13237579]><Red>") (position2 "-74 -484 -14") (player3 "[LL]arcticfox012<22><[U:1:5015550]><Red>") (position3 "-83 -41 -15") 
+L 10/23/2022 - 01:19:23: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "-788 -8 -171") (victim_position "-396 -504 -103")
+L 10/23/2022 - 01:19:23: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-845 -762 -230") (attacker_position "-788 -8 -171") (victim_position "-396 -504 -103")
+L 10/23/2022 - 01:19:23: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "domination" against "NoToR1OuS<9><[U:1:19175114]><Red>"
+L 10/23/2022 - 01:19:24: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "pastel<16><[U:1:95728106]><Blue>" with "minigun" (attacker_position "-88 -550 -15") (victim_position "-398 -410 -100")
+L 10/23/2022 - 01:19:24: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "kill assist" against "pastel<16><[U:1:95728106]><Blue>" (assister_position "-396 -504 -89") (attacker_position "-88 -550 -15") (victim_position "-398 -410 -100")
+L 10/23/2022 - 01:19:28: "[LL] sargentwolf<29><[U:1:13237579]><Red>" killed "Bryfi<17><[U:1:121185120]><Blue>" with "minigun" (attacker_position "-93 -374 -15") (victim_position "-577 -482 -191")
+L 10/23/2022 - 01:19:28: "[LL] BEan<2><[U:1:7609438]><Red>" triggered "kill assist" against "Bryfi<17><[U:1:121185120]><Blue>" (assister_position "-140 -248 -15") (attacker_position "-93 -374 -15") (victim_position "-577 -482 -191")
+L 10/23/2022 - 01:19:29: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "61 127 -15") (victim_position "-95 -358 -15")
+L 10/23/2022 - 01:19:29: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "-581 -469 -178") (attacker_position "61 127 -15") (victim_position "-95 -358 -15")
+L 10/23/2022 - 01:19:38: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "677") (ubercharge "0")
+L 10/23/2022 - 01:19:38: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tf_projectile_rocket" (attacker_position "-92 -657 -15") (victim_position "84 -550 -15")
+L 10/23/2022 - 01:19:39: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tf_projectile_rocket" (attacker_position "-267 -588 -15") (victim_position "49 -689 -14")
+L 10/23/2022 - 01:19:46: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "BraveSirRobbin<10><[U:1:3253505]><Red>" with "tf_projectile_rocket" (attacker_position "-21 -349 -15") (victim_position "160 -555 -15")
+L 10/23/2022 - 01:19:55: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Turbo_Vince<8><[U:1:198477938]><Blue>") (position1 "-59 -18 -15") (player2 "Brak | LacledesLAN<15><[U:1:75056154]><Blue>") (position2 "99 -108 -8") 
+L 10/23/2022 - 01:20:00: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "109 -230 -15")
+L 10/23/2022 - 01:20:00: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tf_projectile_rocket" (attacker_position "109 -230 -15") (victim_position "-110 -63 -15")
+L 10/23/2022 - 01:20:00: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assister_position "-119 41 -15") (attacker_position "109 -230 -15") (victim_position "-110 -63 -15")
+L 10/23/2022 - 01:20:00: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "domination" against "NoToR1OuS<9><[U:1:19175114]><Red>" (assist "1")
+L 10/23/2022 - 01:20:02: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "-150 -2 -15") (victim_position "-120 3 -15")
+L 10/23/2022 - 01:20:08: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "medic_death" against "Turbo_Vince<8><[U:1:198477938]><Blue>" (healing "353") (ubercharge "0")
+L 10/23/2022 - 01:20:08: "NoToR1OuS<9><[U:1:19175114]><Red>" killed "Turbo_Vince<8><[U:1:198477938]><Blue>" with "flamethrower" (attacker_position "3902 -500 -223") (victim_position "36 -329 -15")
+L 10/23/2022 - 01:20:08: "NoToR1OuS<9><[U:1:19175114]><Red>" triggered "revenge" against "Turbo_Vince<8><[U:1:198477938]><Blue>"
+L 10/23/2022 - 01:20:22: "pastel<16><[U:1:95728106]><Blue>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "342") (ubercharge "0")
+L 10/23/2022 - 01:20:22: "pastel<16><[U:1:95728106]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tf_projectile_rocket" (attacker_position "1295 -63 0") (victim_position "1287 183 0")
+L 10/23/2022 - 01:20:29: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "shotgun_soldier" (attacker_position "392 287 -96") (victim_position "230 346 -15")
+L 10/23/2022 - 01:20:29: "[LL] BEan<2><[U:1:7609438]><Red>" killed "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" with "deflect_rocket" (attacker_position "-63 -195 -8") (victim_position "-200 -124 -14")
+L 10/23/2022 - 01:20:29: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-200 -124 -14")
+L 10/23/2022 - 01:20:29: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "world" (attacker_position "-200 -124 -14") (victim_position "-63 -195 -8")
+L 10/23/2022 - 01:20:42: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "pastel<16><[U:1:95728106]><Blue>" with "tf_weapon_medigun" (attacker_position "-156 0 -15") (victim_position "-100 63 -15")
+L 10/23/2022 - 01:20:44: "Bryfi<17><[U:1:121185120]><Blue>" killed "NoToR1OuS<9><[U:1:19175114]><Red>" with "tomislav" (attacker_position "35 -614 -15") (victim_position "-140 -966 18")
+L 10/23/2022 - 01:20:55: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL] BEan<2><[U:1:7609438]><Red>" with "tomislav" (attacker_position "978 -911 -227") (victim_position "1023 -759 -237")
+L 10/23/2022 - 01:20:57: "Bryfi<17><[U:1:121185120]><Blue>" triggered "medic_death" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (healing "0") (ubercharge "0")
+L 10/23/2022 - 01:20:57: "Bryfi<17><[U:1:121185120]><Blue>" killed "[LL]arcticfox012<22><[U:1:5015550]><Red>" with "tomislav" (attacker_position "1042 -786 -237") (victim_position "1037 -493 -240")
+L 10/23/2022 - 01:20:57: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "kill assist" against "[LL]arcticfox012<22><[U:1:5015550]><Red>" (assister_position "1000 -1014 -208") (attacker_position "1042 -786 -237") (victim_position "1037 -493 -240")
+L 10/23/2022 - 01:20:58: "Turbo_Vince<8><[U:1:198477938]><Blue>" triggered "player_extinguished" against "Bryfi<17><[U:1:121185120]><Blue>" with "tf_weapon_medigun" (attacker_position "880 -907 -225") (victim_position "1051 -705 -238")
+L 10/23/2022 - 01:21:01: "pastel<16><[U:1:95728106]><Blue>" killed "[LL] sargentwolf<29><[U:1:13237579]><Red>" with "tf_projectile_rocket" (attacker_position "305 343 -38") (victim_position "617 307 -196")
+L 10/23/2022 - 01:21:01: "Bryfi<17><[U:1:121185120]><Blue>" triggered "kill assist" against "[LL] sargentwolf<29><[U:1:13237579]><Red>" (assister_position "992 -455 -238") (attacker_position "305 343 -38") (victim_position "617 307 -196")
+L 10/23/2022 - 01:21:05: "NoToR1OuS<9><[U:1:19175114]><Red>" say "pastel don't get any more kills, your score is perfect"
+L 10/23/2022 - 01:21:09: "NoToR1OuS<9><[U:1:19175114]><Red>" say "damn"
+L 10/23/2022 - 01:21:11: World triggered "Round_Win" (winner "Blue")
+L 10/23/2022 - 01:21:11: World triggered "Round_Length" (seconds "1131.30")
+L 10/23/2022 - 01:21:11: Team "Red" current score "0" with "5" players
+L 10/23/2022 - 01:21:11: Team "Blue" current score "2" with "5" players
+L 10/23/2022 - 01:21:13: "NoToR1OuS<9><[U:1:19175114]><Red>" say "too late"
+L 10/23/2022 - 01:21:22: "Brak | LacledesLAN<15><[U:1:75056154]><Blue>" say "hawt4"
+L 10/23/2022 - 01:21:26: World triggered "Game_Over" reason "Reached Time Limit"
+L 10/23/2022 - 01:21:26: Team "Red" final score "0" with "5" players
+L 10/23/2022 - 01:21:26: Team "Blue" final score "2" with "5" players
+L 10/23/2022 - 01:21:27: "[LL] sargentwolf<29><[U:1:13237579]><Red>" disconnected (reason "Client Disconnect")
+L 10/23/2022 - 01:21:36: [META] Loaded 0 plugins (1 already loaded)
+L 10/23/2022 - 01:21:36: Log file closed.

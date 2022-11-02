@@ -1,2 +1,4 @@
-# Set default behavior to automatically normalize to linux line endings.
-* text=auto eol=lf
+* text=auto encoding=UTF-8 eol=lf
+
+*.log       text
+*.txt       text
