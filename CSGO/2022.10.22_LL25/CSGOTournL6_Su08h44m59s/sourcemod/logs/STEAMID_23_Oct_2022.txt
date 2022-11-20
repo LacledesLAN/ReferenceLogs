@@ -1,0 +1,29 @@
+
+13:45:18 - ===== Map change to de_orange =====
+
+13:47:47 - <bow down on rock> <STEAM_1:0:57100298> <172.30.44.75> CONNECTED from <Unknown>
+13:47:57 - <mild> <STEAM_1:1:54775491> <172.30.44.8> CONNECTED from <Unknown>
+13:48:20 - <reece is my friend now> <STEAM_1:1:86108244> <172.30.44.57> CONNECTED from <Unknown>
+13:48:37 - <ZorF> <STEAM_1:1:39459564> <172.30.44.81> CONNECTED from <Unknown>
+13:48:56 - <Buttermilk @ LAN> <STEAM_1:0:80218567> <172.30.44.7> CONNECTED from <Unknown>
+13:49:50 - <railgun> <STEAM_1:1:120921533> <172.30.44.78> CONNECTED from <Unknown>
+13:49:53 - <blinK @Lanfest> <STEAM_1:1:33626697> <172.30.44.174> CONNECTED from <Unknown>
+13:50:06 - <MARKYY@Lan> <STEAM_1:0:60271379> <172.30.44.65> CONNECTED from <Unknown>
+13:50:15 - <LinX> <STEAM_1:1:59301755> <172.30.44.88> CONNECTED from <Unknown>
+13:50:17 - <spud> <STEAM_1:0:94988281> <172.30.44.82> CONNECTED from <Unknown>
+
+13:57:12 - ===== Map change to de_dust2 =====
+
+
+14:30:40 - ===== Map change to de_inferno =====
+
+15:21:06 - <reece is my friend now> <STEAM_1:1:86108244> <172.30.44.57> DISCONNECTED after 93 minutes. <Disconnect>
+15:22:47 - <spud> <STEAM_1:0:94988281> <172.30.44.82> DISCONNECTED after 93 minutes. <Disconnect>
+15:23:05 - <Kappie (rat)> <STEAM_1:0:57100298> <172.30.44.75> DISCONNECTED after 95 minutes. <The match is over>
+15:23:05 - <mild> <STEAM_1:1:54775491> <172.30.44.8> DISCONNECTED after 95 minutes. <The match is over>
+15:23:05 - <ZorF> <STEAM_1:1:39459564> <172.30.44.81> DISCONNECTED after 95 minutes. <The match is over>
+15:23:05 - <Buttermilk @ LAN> <STEAM_1:0:80218567> <172.30.44.7> DISCONNECTED after 94 minutes. <The match is over>
+15:23:05 - <railgun> <STEAM_1:1:120921533> <172.30.44.78> DISCONNECTED after 93 minutes. <The match is over>
+15:23:05 - <blinK @Lanfest> <STEAM_1:1:33626697> <172.30.44.174> DISCONNECTED after 93 minutes. <The match is over>
+15:23:05 - <MARKYY@Lan> <STEAM_1:0:60271379> <172.30.44.65> DISCONNECTED after 93 minutes. <The match is over>
+15:23:05 - <LinX> <STEAM_1:1:59301755> <172.30.44.88> DISCONNECTED after 93 minutes. <The match is over>

@@ -1,0 +1,1462 @@
+L 10/23/2022 - 00:00:00: SourceMod error session started
+L 10/23/2022 - 00:00:00: Info (map "de_overpass") (file "/app/csgo/addons/sourcemod/logs/errors_20221023.log")
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:02: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:02: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:05: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:05: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:05: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:05: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:05: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:09: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:12: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:14: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:16: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:36: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:00:43: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:43: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:44: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:45: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:46: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:00:47: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:47: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:49: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:50: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:50: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:50: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:51: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:52: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:52: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:52: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:00:54: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:54: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:54: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:56: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:57: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:00:57: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:00:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:04: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:07: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:07: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:08: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:09: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:10: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:13: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:15: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:16: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:18: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:18: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:18: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:18: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:18: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:01:57: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:02: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:07: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:02:11: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:02:18: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:18: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:20: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:20: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:21: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:21: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:22: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:22: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:22: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:22: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:24: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:26: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:26: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:27: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:28: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:05: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:06: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:06: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:03:06: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:06: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:06: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:13: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:22: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:23: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:24: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:27: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:27: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:29: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:03:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:03:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:37: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:44: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:03:56: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:03:59: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:00: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:15: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:22: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:04:45: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:49: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:04:50: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:04:52: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:52: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:52: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:53: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:53: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:53: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:53: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:54: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:54: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:55: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:56: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:57: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:57: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:04:57: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:57: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:00: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:03: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:05:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:05:10: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:12: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:05:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:18: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:18: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:18: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:18: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:27: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:29: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:32: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:34: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:05:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:52: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:05:52: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:56: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:56: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:05:58: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:05:58: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:05:58: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:05:58: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:02: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:02: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:07: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:15: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:16: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:17: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:06:39: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:44: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:46: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:06:47: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:06:49: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:06:50: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:00: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:02: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:02: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:02: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:03: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:07:12: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:16: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:19: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:26: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:27: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:27: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:29: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:29: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:31: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:31: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:31: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:32: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:36: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:37: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:39: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:39: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:39: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:40: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:40: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:40: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:40: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:40: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:42: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:44: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:06: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:19: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:26: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:28: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:28: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:29: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:29: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:29: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:29: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:34: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:34: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:08:37: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:38: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:39: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:40: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:41: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:41: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:41: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:42: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:42: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:42: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:44: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:44: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:44: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:08:46: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:47: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:47: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:08:51: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:51: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:52: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:08:52: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:08:54: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:56: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:08:58: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:02: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:03: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:07: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:28: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:30: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:48: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:09:50: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:57: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:57: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:09:59: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:00: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:01: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:01: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:10:01: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:10:03: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:10:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:08: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:08: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:09: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:10: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:24: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:30: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:33: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:34: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:39: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:39: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:40: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:40: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:42: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:44: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:44: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:44: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:44: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:44: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:10:46: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:46: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:48: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:48: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:10:48: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:51: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:52: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:53: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:10:54: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:55: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:10:56: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:57: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:57: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:10:57: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:10:59: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:00: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:02: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:11:04: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:11:05: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:11:23: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:08: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:18: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:18: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:19: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:19: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:19: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:20: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:23: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:24: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:25: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:25: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:26: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:27: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:27: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:27: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:27: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:28: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:29: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:29: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:30: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:33: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:33: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:34: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:34: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:34: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:35: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:36: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:12:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:38: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:39: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:39: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:39: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:39: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:39: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:12:49: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:51: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:53: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:55: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:12:56: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:12:57: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:12:58: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:00: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:04: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:05: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:06: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:13:06: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:13:07: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:13:24: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:14:09: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:14:13: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:16: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:16: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:17: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:14:18: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:18: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:19: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:14:19: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:19: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:20: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:20: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:14:20: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:20: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:21: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:14:22: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:22: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:27: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:29: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:29: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:29: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:14:35: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:37: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:38: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:14:40: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:40: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:40: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:14:40: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:14:44: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:14:46: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:15:24: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:24: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:24: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:25: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:26: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:28: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:15:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:28: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:15:28: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:31: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:31: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:15:32: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:33: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:35: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>
+L 10/23/2022 - 00:15:38: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:44: [get5.smx] Failed to get steamid for client LinX<21><STEAM_1:1:59301755><>
+L 10/23/2022 - 00:15:56: [get5.smx] Failed to get steamid for client spud<5><STEAM_1:0:94988281><>
+L 10/23/2022 - 00:15:56: [get5.smx] Failed to get steamid for client kap<10><STEAM_1:0:57100298><>
+L 10/23/2022 - 00:16:09: [get5.smx] Failed to get steamid for client railgun<7><STEAM_1:1:120921533><>
+L 10/23/2022 - 00:17:14: [get5.smx] Failed to get steamid for client noot mf shiesty<24><STEAM_1:1:155617015><>
+L 10/23/2022 - 00:17:41: [get5.smx] Failed to get steamid for client JeNume @ LanFest<22><STEAM_1:0:43204461><>
+L 10/23/2022 - 00:17:41: [get5.smx] Failed to get steamid for client fuller<23><STEAM_1:0:79384290><>
+L 10/23/2022 - 00:17:41: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<6><STEAM_1:0:76678618><>
+L 10/23/2022 - 00:17:41: [get5.smx] Failed to get steamid for client ZorF<8><STEAM_1:1:39459564><>
+L 10/23/2022 - 00:17:41: [get5.smx] Failed to get steamid for client Lil Jelly<11><STEAM_1:0:215487283><>

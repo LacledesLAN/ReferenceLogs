@@ -1,0 +1,15 @@
+L 10/22/2022 - 22:08:55: SourceMod log file session started (file "/app/csgo/addons/sourcemod/logs/L20221022.log") (Version "1.12.0.6928")
+L 10/22/2022 - 22:08:55: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/app/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/22/2022 - 22:08:55: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/22/2022 - 22:08:55: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/22/2022 - 22:08:55: [get5.smx] SteamWorks not installed. Cannot perform Get5 version check.
+L 10/22/2022 - 22:09:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 22:09:03: [get5.smx] Match configuration was loaded via get5_autoload_config.
+L 10/22/2022 - 22:29:27: -------- Mapchange to de_mirage --------
+L 10/22/2022 - 22:29:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 22:30:54: [get5.smx] Recording to 2022-10-22_22-30-54__map1_de_mirage.dem
+L 10/22/2022 - 22:57:52: -------- Mapchange to de_inferno --------
+L 10/22/2022 - 22:57:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 23:07:24: [get5.smx] Recording to 2022-10-22_23-07-24__map2_de_inferno.dem
+L 10/22/2022 - 23:35:00: -------- Mapchange to de_overpass --------
+L 10/22/2022 - 23:35:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")

@@ -1,0 +1,54 @@
+L 10/22/2022 - 20:16:24: SourceMod error session started
+L 10/22/2022 - 20:16:24: Info (map "de_orange") (file "/app/csgo/addons/sourcemod/logs/errors_20221022.log")
+L 10/22/2022 - 20:16:24: [get5.smx] Failed to get steamid for client noot mf shiesty<3><STEAM_1:1:155617015><>
+L 10/22/2022 - 20:16:30: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<4><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:16:34: [get5.smx] Failed to get steamid for client Lil Jelly<5><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:18:19: [get5.smx] Failed to get steamid for client JeNume @ LanFest<6><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:19:27: [get5.smx] Failed to get steamid for client Lil Jelly<5><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:20:41: [get5.smx] Failed to get steamid for client Lil Jelly<8><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:20:44: [get5.smx] Failed to get steamid for client trance-<9><STEAM_1:1:91023470><>
+L 10/22/2022 - 20:20:57: [get5.smx] Failed to get steamid for client doku @ lan<10><STEAM_1:0:59627425><>
+L 10/22/2022 - 20:20:58: [get5.smx] Failed to get steamid for client JeNume @ LanFest<6><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:21:10: [get5.smx] Failed to get steamid for client ze0n[t]<11><STEAM_1:0:840361><>
+L 10/22/2022 - 20:21:35: [get5.smx] Failed to get steamid for client trance-<9><STEAM_1:1:91023470><>
+L 10/22/2022 - 20:21:42: [get5.smx] Failed to get steamid for client ze0n[t]<11><STEAM_1:0:840361><>
+L 10/22/2022 - 20:21:49: [get5.smx] Failed to get steamid for client JeNume @ LanFest<6><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:21:54: [get5.smx] Failed to get steamid for client fuller<12><STEAM_1:0:79384290><>
+L 10/22/2022 - 20:21:59: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<4><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:22:02: [get5.smx] Failed to get steamid for client fuller<12><STEAM_1:0:79384290><>
+L 10/22/2022 - 20:22:03: [get5.smx] Failed to get steamid for client Lil Jelly<8><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:22:04: [get5.smx] Failed to get steamid for client fuller<12><STEAM_1:0:79384290><>
+L 10/22/2022 - 20:22:15: [get5.smx] Failed to get steamid for client ze0n[t]<13><STEAM_1:0:840361><>
+L 10/22/2022 - 20:22:36: [get5.smx] Failed to get steamid for client noot mf shiesty<3><STEAM_1:1:155617015><>
+L 10/22/2022 - 20:22:44: [get5.smx] Failed to get steamid for client JeNume @ LanFest<6><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:22:54: [get5.smx] Failed to get steamid for client trance-<9><STEAM_1:1:91023470><>
+L 10/22/2022 - 20:23:03: [get5.smx] Failed to get steamid for client Lil Jelly<8><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:23:08: [get5.smx] Failed to get steamid for client doku @ lan<10><STEAM_1:0:59627425><>
+L 10/22/2022 - 20:23:39: [get5.smx] Failed to get steamid for client trance-<9><STEAM_1:1:91023470><>
+L 10/22/2022 - 20:23:55: [get5.smx] Failed to get steamid for client ze0n[t]<13><STEAM_1:0:840361><>
+L 10/22/2022 - 20:24:01: [get5.smx] Failed to get steamid for client doku @ lan<10><STEAM_1:0:59627425><>
+L 10/22/2022 - 20:24:03: [get5.smx] Failed to get steamid for client doku @ lan<10><STEAM_1:0:59627425><>
+L 10/22/2022 - 20:24:11: [get5.smx] Failed to get steamid for client Ади<14><STEAM_1:1:15473605><>
+L 10/22/2022 - 20:24:44: [get5.smx] Failed to get steamid for client ze0n[t]<13><STEAM_1:0:840361><>
+L 10/22/2022 - 20:25:09: [get5.smx] Failed to get steamid for client Sunny Dogg<15><STEAM_1:1:52074304><>
+L 10/22/2022 - 20:25:28: [get5.smx] Failed to get steamid for client Sunny Dogg<16><STEAM_1:1:52074304><>
+L 10/22/2022 - 20:26:07: [get5.smx] Failed to get steamid for client Sunny Dogg<17><STEAM_1:1:52074304><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client noot mf shiesty<3><STEAM_1:1:155617015><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<4><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client Lil Jelly<8><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client JeNume @ LanFest<6><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client trance-<9><STEAM_1:1:91023470><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client doku @ lan<10><STEAM_1:0:59627425><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client ze0n[t]<13><STEAM_1:0:840361><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client fuller<12><STEAM_1:0:79384290><>
+L 10/22/2022 - 20:26:39: [get5.smx] Failed to get steamid for client Ади<14><STEAM_1:1:15473605><>
+L 10/22/2022 - 20:26:50: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<18><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:26:54: [get5.smx] Failed to get steamid for client ze0n[t]<19><STEAM_1:0:840361><>
+L 10/22/2022 - 20:27:02: [get5.smx] Failed to get steamid for client fuller<20><STEAM_1:0:79384290><>
+L 10/22/2022 - 20:27:02: [get5.smx] Failed to get steamid for client JeNume @ LanFest<21><STEAM_1:0:43204461><>
+L 10/22/2022 - 20:27:07: [get5.smx] Failed to get steamid for client Lil Jelly<22><STEAM_1:0:215487283><>
+L 10/22/2022 - 20:27:08: [get5.smx] Failed to get steamid for client noot mf shiesty<23><STEAM_1:1:155617015><>
+L 10/22/2022 - 20:27:17: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<24><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:27:55: [get5.smx] Failed to get steamid for client ze0n[t]<25><STEAM_1:0:840361><>
+L 10/22/2022 - 20:28:08: [get5.smx] Failed to get steamid for client ShikeZ [@Laclede's]<26><STEAM_1:0:76678618><>
+L 10/22/2022 - 20:29:13: [get5.smx] Failed to get steamid for client ze0n[t]<27><STEAM_1:0:840361><>

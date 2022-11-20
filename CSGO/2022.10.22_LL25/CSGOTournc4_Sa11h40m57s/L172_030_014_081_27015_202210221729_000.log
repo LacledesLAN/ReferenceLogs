@@ -1,0 +1,1699 @@
+L 10/22/2022 - 17:29:15: Log file started (file "logs/L172_030_014_081_27015_202210221729_000.log") (game "/app/csgo") (version "8749")
+L 10/22/2022 - 17:29:15: Loading map "de_inferno"
+L 10/22/2022 - 17:29:15: server cvars start
+L 10/22/2022 - 17:29:15: "cash_player_killed_teammate" = "-300"
+L 10/22/2022 - 17:29:15: "cash_player_respawn_amount" = "0"
+L 10/22/2022 - 17:29:15: "sv_maxspeed" = "320"
+L 10/22/2022 - 17:29:15: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_rescued_hostage" = "600"
+L 10/22/2022 - 17:29:15: "cash_team_win_by_defusing_bomb" = "3500"
+L 10/22/2022 - 17:29:15: "sv_rollangle" = "0"
+L 10/22/2022 - 17:29:15: "r_AirboatViewZHeight" = "0.0"
+L 10/22/2022 - 17:29:15: "sv_cheats" = "0"
+L 10/22/2022 - 17:29:15: "r_VehicleViewDampen" = "1"
+L 10/22/2022 - 17:29:15: "metamod_version" = "1.11.0-dev+1148V"
+L 10/22/2022 - 17:29:15: "mp_allowNPCs" = "1"
+L 10/22/2022 - 17:29:15: "mp_tournament" = "0"
+L 10/22/2022 - 17:29:15: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/22/2022 - 17:29:15: "sv_spec_hear" = "1"
+L 10/22/2022 - 17:29:15: "cash_player_interact_with_hostage" = "300"
+L 10/22/2022 - 17:29:15: "mp_maxrounds" = "30"
+L 10/22/2022 - 17:29:15: "mp_flashlight" = "0"
+L 10/22/2022 - 17:29:15: "sv_tags" = ""
+L 10/22/2022 - 17:29:15: "sv_stepsize" = "18"
+L 10/22/2022 - 17:29:15: "sv_alltalk" = "0"
+L 10/22/2022 - 17:29:15: "mp_teamlist" = "hgrunt;scientist"
+L 10/22/2022 - 17:29:15: "mp_footsteps" = "1"
+L 10/22/2022 - 17:29:15: "sv_noclipaccelerate" = "5"
+L 10/22/2022 - 17:29:15: "sv_accelerate_debug_speed" = "0"
+L 10/22/2022 - 17:29:15: "sv_wateraccelerate" = "10"
+L 10/22/2022 - 17:29:15: "mp_stalemate_enable" = "0"
+L 10/22/2022 - 17:29:15: "mp_autocrosshair" = "1"
+L 10/22/2022 - 17:29:15: "sourcemod_version" = "1.12.0.6928"
+L 10/22/2022 - 17:29:15: "cash_team_elimination_bomb_map" = "3250"
+L 10/22/2022 - 17:29:15: "cash_player_get_killed" = "0"
+L 10/22/2022 - 17:29:15: "mp_roundtime_defuse" = "1.92"
+L 10/22/2022 - 17:29:15: "sv_autobuyammo" = "0"
+L 10/22/2022 - 17:29:15: "sv_rollspeed" = "200"
+L 10/22/2022 - 17:29:15: "sv_airaccelerate" = "12"
+L 10/22/2022 - 17:29:15: "sv_show_team_equipment_prohibit" = "0"
+L 10/22/2022 - 17:29:15: "mp_teams_unbalance_limit" = "1"
+L 10/22/2022 - 17:29:15: "mp_timelimit" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_loser_bonus" = "1400"
+L 10/22/2022 - 17:29:15: "sv_deadtalk" = "0"
+L 10/22/2022 - 17:29:15: "cash_player_rescued_hostage" = "1000"
+L 10/22/2022 - 17:29:15: "sv_waterfriction" = "1"
+L 10/22/2022 - 17:29:15: "sv_competitive_official_5v5" = "1"
+L 10/22/2022 - 17:29:15: "sv_steamgroup" = ""
+L 10/22/2022 - 17:29:15: "cash_player_killed_enemy_default" = "300"
+L 10/22/2022 - 17:29:15: "coop" = "0"
+L 10/22/2022 - 17:29:15: "mp_respawnwavetime" = "10.0"
+L 10/22/2022 - 17:29:15: "sv_teamid_overhead" = "1"
+L 10/22/2022 - 17:29:15: "tv_enable1" = "0"
+L 10/22/2022 - 17:29:15: "nextlevel" = ""
+L 10/22/2022 - 17:29:15: "sv_stopspeed" = "80"
+L 10/22/2022 - 17:29:15: "sv_specaccelerate" = "5"
+L 10/22/2022 - 17:29:15: "deathmatch" = "1"
+L 10/22/2022 - 17:29:15: "tv_enable" = "1"
+L 10/22/2022 - 17:29:15: "mp_roundtime_hostage" = "1.75"
+L 10/22/2022 - 17:29:15: "mp_freezetime" = "15"
+L 10/22/2022 - 17:29:15: "mp_teammates_are_enemies" = "0"
+L 10/22/2022 - 17:29:15: "mp_falldamage" = "0"
+L 10/22/2022 - 17:29:15: "sv_accelerate_use_weapon_speed" = "1"
+L 10/22/2022 - 17:29:15: "sv_voiceenable" = "0"
+L 10/22/2022 - 17:29:15: "sv_teamid_overhead_always_prohibit" = "1"
+L 10/22/2022 - 17:29:15: "sv_bounce" = "0"
+L 10/22/2022 - 17:29:15: "mp_disable_respawn_times" = "0"
+L 10/22/2022 - 17:29:15: "r_AirboatViewDampenFreq" = "7.0"
+L 10/22/2022 - 17:29:15: "mp_weaponstay" = "0"
+L 10/22/2022 - 17:29:15: "mp_hostagepenalty" = "10"
+L 10/22/2022 - 17:29:15: "tv_advertise_watchable" = "0"
+L 10/22/2022 - 17:29:15: "mp_friendlyfire" = "1"
+L 10/22/2022 - 17:29:15: "cash_team_hostage_interaction" = "600"
+L 10/22/2022 - 17:29:15: "sv_noclipspeed" = "5"
+L 10/22/2022 - 17:29:15: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/22/2022 - 17:29:15: "sv_allchat" = "1"
+L 10/22/2022 - 17:29:15: "mp_buy_during_immunity" = "0"
+L 10/22/2022 - 17:29:15: "cash_player_killed_enemy_factor" = "1"
+L 10/22/2022 - 17:29:15: "mp_c4timer" = "40"
+L 10/22/2022 - 17:29:15: "r_JeepViewDampenDamp" = "1.0"
+L 10/22/2022 - 17:29:15: "sv_competitive_minspec" = "1"
+L 10/22/2022 - 17:29:15: "r_AirboatViewDampenDamp" = "1.0"
+L 10/22/2022 - 17:29:15: "sm_nextmap" = ""
+L 10/22/2022 - 17:29:15: "get5_version" = "0.10.5"
+L 10/22/2022 - 17:29:15: "sv_max_allowed_net_graph" = "1"
+L 10/22/2022 - 17:29:15: "mp_stalemate_at_timelimit" = "0"
+L 10/22/2022 - 17:29:15: "mp_limitteams" = "0"
+L 10/22/2022 - 17:29:15: "sv_footsteps" = "1"
+L 10/22/2022 - 17:29:15: "sv_vote_issue_kick_allowed" = "1"
+L 10/22/2022 - 17:29:15: "sm_log_connections_version" = "1.11"
+L 10/22/2022 - 17:29:15: "cash_team_survive_guardian_wave" = "1000"
+L 10/22/2022 - 17:29:15: "tv_relaypassword" = "CoyotesTakeWaterfalls"
+L 10/22/2022 - 17:29:15: "mp_teamplay" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_terrorist_win_bomb" = "3500"
+L 10/22/2022 - 17:29:15: "cash_team_elimination_hostage_map_t" = "3000"
+L 10/22/2022 - 17:29:15: "r_JeepViewDampenFreq" = "7.0"
+L 10/22/2022 - 17:29:15: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/22/2022 - 17:29:15: "sv_specnoclip" = "1"
+L 10/22/2022 - 17:29:15: "sv_friction" = "5.2"
+L 10/22/2022 - 17:29:15: "cash_player_bomb_planted" = "300"
+L 10/22/2022 - 17:29:15: "mp_autoteambalance" = "0"
+L 10/22/2022 - 17:29:15: "sv_contact" = "0"
+L 10/22/2022 - 17:29:15: "sv_vote_kick_ban_duration" = "15"
+L 10/22/2022 - 17:29:15: "cash_player_bomb_defused" = "300"
+L 10/22/2022 - 17:29:15: "mp_roundtime" = "1.92"
+L 10/22/2022 - 17:29:15: "sv_kick_ban_duration" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_planted_bomb_but_defused" = "800"
+L 10/22/2022 - 17:29:15: "cash_player_killed_hostage" = "-1000"
+L 10/22/2022 - 17:29:15: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/22/2022 - 17:29:15: "nextmode" = ""
+L 10/22/2022 - 17:29:15: "mp_fraglimit" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_bonus_shorthanded" = "1000"
+L 10/22/2022 - 17:29:15: "mp_forcerespawn" = "1"
+L 10/22/2022 - 17:29:15: "mp_winlimit" = "0"
+L 10/22/2022 - 17:29:15: "sv_accelerate" = "5.5"
+L 10/22/2022 - 17:29:15: "mp_buy_anywhere" = "0"
+L 10/22/2022 - 17:29:15: "sv_gravity" = "800"
+L 10/22/2022 - 17:29:15: "sv_password" = "teaching11"
+L 10/22/2022 - 17:29:15: "cash_team_elimination_hostage_map_ct" = "3000"
+L 10/22/2022 - 17:29:15: "cash_team_win_by_hostage_rescue" = "2900"
+L 10/22/2022 - 17:29:15: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/22/2022 - 17:29:15: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/22/2022 - 17:29:15: "cash_player_damage_hostage" = "-30"
+L 10/22/2022 - 17:29:15: "r_JeepViewZHeight" = "10.0"
+L 10/22/2022 - 17:29:15: "cash_team_hostage_alive" = "0"
+L 10/22/2022 - 17:29:15: "tv_password" = "CoyotesTakeWaterfalls"
+L 10/22/2022 - 17:29:15: "sv_specspeed" = "3"
+L 10/22/2022 - 17:29:15: server cvars end
+L 10/22/2022 - 17:29:18: Started map "de_inferno" (CRC "-1093665267")
+L 10/22/2022 - 17:29:18: server_cvar: "cash_player_interact_with_hostage" "150"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_hostage_interaction" "500"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_bonus_shorthanded" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_rescued_hostage" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_autoteambalance" "1"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_freezetime" "6"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_friendlyfire" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_limitteams" "2"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_maxrounds" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime" "5"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime_defuse" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime_hostage" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_timelimit" "5"
+L 10/22/2022 - 17:29:18: "Console<0><Console><Console>" say ""Running server.cfg""
+L 10/22/2022 - 17:29:18: server_cvar: "sv_deadtalk" "1"
+L 10/22/2022 - 17:29:18: server_cvar: "sv_voiceenable" "1"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_hostage_interaction" "600"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_bonus_shorthanded" "1000"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_rescued_hostage" "600"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 10/22/2022 - 17:29:18: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_freezetime" "15"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_friendlyfire" "1"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_maxrounds" "30"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime" "1.92"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime_hostage" "1.92"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime_defuse" "1.92"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_timelimit" "0"
+L 10/22/2022 - 17:29:18: "Console<0><Console><Console>" say ""Running gamemode_competitive_server.cfg""
+L 10/22/2022 - 17:29:18: server_cvar: "sv_deadtalk" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "sv_voiceenable" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_roundtime_hostage" "1.75"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_autoteambalance" "0"
+L 10/22/2022 - 17:29:18: server_cvar: "mp_limitteams" "0"
+L 10/22/2022 - 17:29:24: "zLLTV_CSGO_BRACKET_c4<2><BOT><>" entered the game
+L 10/22/2022 - 17:29:24: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/22/2022 - 17:29:24: World triggered "Round_Start"
+L 10/22/2022 - 17:29:26: server_cvar: "sv_alltalk" "1"
+L 10/22/2022 - 17:29:26: server_cvar: "sv_deadtalk" "1"
+L 10/22/2022 - 17:29:26: server_cvar: "sv_voiceenable" "1"
+L 10/22/2022 - 17:29:31: "GIT GUD MID<12><STEAM_1:1:49252482><>" entered the game
+L 10/22/2022 - 17:29:33: "BroHamBone<4><STEAM_1:0:2183222><>" entered the game
+L 10/22/2022 - 17:29:34: "Poppa G's<9><STEAM_1:0:8163860><>" entered the game
+L 10/22/2022 - 17:29:39: "Gmx<10><STEAM_1:1:2524853><>" entered the game
+L 10/22/2022 - 17:29:41: "PeachBoi<14><STEAM_1:0:70257920><>" entered the game
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482>" switched from team <Unassigned> to <TERRORIST>
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:30:23: World triggered "Game_Commencing"
+L 10/22/2022 - 17:30:23: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:30:23: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:30:23: Starting Freeze period
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:30:23: World triggered "Match_Start" on "de_inferno"
+L 10/22/2022 - 17:30:23: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:30:23: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:30:23: MatchStatus: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:30:23: MatchStatus: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:30:23: MatchStatus: Score: 0:0 on map "de_inferno" RoundsPlayed: -1
+L 10/22/2022 - 17:30:23: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:30:25: World triggered "Round_Start"
+L 10/22/2022 - 17:31:03: "Noopers<16><STEAM_1:1:128551455><>" connected, address ""
+L 10/22/2022 - 17:31:03: "Noopers<16><STEAM_1:1:128551455><>" STEAM USERID validated
+L 10/22/2022 - 17:31:15: "Noopers<16><STEAM_1:1:128551455><>" entered the game
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "knife"
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" dropped "knife"
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:31:37: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:31:37: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "galilar"
+L 10/22/2022 - 17:31:37: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "knife"
+L 10/22/2022 - 17:31:37: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "galilar"
+L 10/22/2022 - 17:31:37: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:31:43: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" disconnected (reason "GIT GUD MID timed out")
+L 10/22/2022 - 17:31:43: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "galilar"
+L 10/22/2022 - 17:31:43: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:31:43: "GIT GUD MID<12><STEAM_1:1:49252482><TERRORIST>" [7952 -7712 3008] committed suicide with "world"
+L 10/22/2022 - 17:31:43: "GIT GUD MID<12><STEAM_1:1:49252482>" switched from team <TERRORIST> to <Unassigned>
+L 10/22/2022 - 17:31:56: "Noopers<16><STEAM_1:1:128551455>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:31:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:31:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:31:56: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:31:57: "BRICKS<17><STEAM_1:0:24452999><>" connected, address ""
+L 10/22/2022 - 17:31:57: "BRICKS<17><STEAM_1:0:24452999><>" STEAM USERID validated
+L 10/22/2022 - 17:32:08: "BRICKS<17><STEAM_1:0:24452999><>" entered the game
+L 10/22/2022 - 17:32:57: "JaySee<18><STEAM_1:1:54870697><>" connected, address ""
+L 10/22/2022 - 17:32:57: "JaySee<18><STEAM_1:1:54870697><>" STEAM USERID validated
+L 10/22/2022 - 17:33:09: "JaySee<18><STEAM_1:1:54870697><>" entered the game
+L 10/22/2022 - 17:33:18: "JaySee<18><STEAM_1:1:54870697>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:33:18: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "knife"
+L 10/22/2022 - 17:33:18: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:33:18: "JaySee<18><STEAM_1:1:54870697><CT>" left buyzone with [ weapon_knife_ursus weapon_usp_silencer ]
+L 10/22/2022 - 17:33:25: "B<19><STEAM_1:1:58277541><>" connected, address ""
+L 10/22/2022 - 17:33:26: "B<19><STEAM_1:1:58277541><>" STEAM USERID validated
+L 10/22/2022 - 17:33:36: "B<19><STEAM_1:1:58277541><>" entered the game
+L 10/22/2022 - 17:33:38: "PeachBoi<14><STEAM_1:0:70257920><Unassigned>" say "!ready"
+L 10/22/2022 - 17:33:45: "B<19><STEAM_1:1:58277541>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:33:45: "B<19><STEAM_1:1:58277541><CT>" picked up "knife"
+L 10/22/2022 - 17:33:45: "B<19><STEAM_1:1:58277541><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:33:45: "B<19><STEAM_1:1:58277541><CT>" left buyzone with [ weapon_knife_ursus weapon_usp_silencer ]
+L 10/22/2022 - 17:33:46: "Poppa G's<9><STEAM_1:0:8163860>" switched from team <Unassigned> to <TERRORIST>
+L 10/22/2022 - 17:33:46: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:46: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:33:46: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" left buyzone with [ weapon_knife_butterfly weapon_glock ]
+L 10/22/2022 - 17:33:47: "BroHamBone<4><STEAM_1:0:2183222><CT>" dropped "vest"
+L 10/22/2022 - 17:33:47: "BroHamBone<4><STEAM_1:0:2183222><CT>" dropped "galilar"
+L 10/22/2022 - 17:33:47: "BroHamBone<4><STEAM_1:0:2183222><CT>" dropped "knife"
+L 10/22/2022 - 17:33:47: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:33:47: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:33:47: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "glock"
+L 10/22/2022 - 17:33:47: "BroHamBone<4><STEAM_1:0:2183222><CT>" picked up "knife"
+L 10/22/2022 - 17:33:47: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:33:47: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:47: "Noopers<16><STEAM_1:1:128551455><CT>" say "!READY"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920>" switched from team <Unassigned> to <TERRORIST>
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:33:50: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:33:50: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:33:50: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:33:50: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:33:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222>" switched from team <CT> to <TERRORIST>
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7024 -7712 3009] committed suicide with "world"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><>" connected, address ""
+L 10/22/2022 - 17:33:50: "Wade<20><BOT>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><>" entered the game
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:33:50: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "knife"
+L 10/22/2022 - 17:33:50: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:33:50: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "deagle"
+L 10/22/2022 - 17:33:50: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "knife"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:33:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:33:50: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:33:50: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:33:50: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" picked up "famas"
+L 10/22/2022 - 17:33:50: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:33:50: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:33:50: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10251 -7693 2966] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9669 -7776 3038] with "glock" (damage "99") (damage_armor "0") (health "1") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:34:00: "Noopers<16><STEAM_1:1:128551455><CT>" [9669 -7776 3038] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10251 -7693 2966] with "glock" (damage "11") (damage_armor "6") (health "89") (armor "93") (hitgroup "chest")
+L 10/22/2022 - 17:34:00: "Noopers<16><STEAM_1:1:128551455><CT>" [9669 -7776 3038] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10251 -7693 2966] with "glock" (damage "99") (damage_armor "0") (health "0") (armor "93") (hitgroup "head")
+L 10/22/2022 - 17:34:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:00: "Noopers<16><STEAM_1:1:128551455><CT>" [9669 -7776 3038] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10251 -7693 3030] with "glock" (headshot)
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:03: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:34:03: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:34:03: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:03: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:34:03: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:34:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:05: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10307 -7840 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7832 2976] with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 10/22/2022 - 17:34:09: "Noopers<16><STEAM_1:1:128551455><CT>" [9652 -7815 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10245 -7756 2994] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "right arm")
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853>" switched from team <Unassigned> to <TERRORIST>
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:14: "B<19><STEAM_1:1:58277541><CT>" dropped "knife"
+L 10/22/2022 - 17:34:14: "B<19><STEAM_1:1:58277541><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:14: "B<19><STEAM_1:1:58277541><CT>" picked up "m4a1"
+L 10/22/2022 - 17:34:14: "B<19><STEAM_1:1:58277541><CT>" picked up "knife"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:34:14: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:16: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7792 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9645 -7811 2976] with "ak47" (damage "27") (damage_armor "3") (health "40") (armor "91") (hitgroup "chest")
+L 10/22/2022 - 17:34:16: "Noopers<16><STEAM_1:1:128551455><CT>" [9645 -7812 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7764 2976] with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "96") (hitgroup "head")
+L 10/22/2022 - 17:34:16: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:34:16: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:16: "Noopers<16><STEAM_1:1:128551455><CT>" [9645 -7812 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7764 3040] with "ak47" (headshot)
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:34:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:34:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:17: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:34:17: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:19: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7755 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7768 2976] with "glock" (damage "101") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:34:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:19: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7755 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7768 3040] with "glock" (headshot)
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:34:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:34:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:20: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:34:20: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7757 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9628 -7749 2994] with "glock" (damage "11") (damage_armor "6") (health "89") (armor "93") (hitgroup "chest")
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7749 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7757 2976] with "glock" (damage "101") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7749 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10170 -7757 3040] with "glock" (headshot)
+L 10/22/2022 - 17:34:23: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" [8226 -10128 2980] attacked "B<19><STEAM_1:1:58277541><CT>" [8176 -10144 2945] with "knife" (damage "55") (damage_armor "4") (health "45") (armor "95") (hitgroup "generic")
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:34:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:25: "BRICKS<17><STEAM_1:0:24452999>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:34:25: "BRICKS<17><STEAM_1:0:24452999><CT>" picked up "knife"
+L 10/22/2022 - 17:34:25: "BRICKS<17><STEAM_1:0:24452999><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:34:25: "BRICKS<17><STEAM_1:0:24452999><CT>" left buyzone with [ weapon_knife_stiletto weapon_usp_silencer ]
+L 10/22/2022 - 17:34:28: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" [8172 -10176 2987] attacked "B<19><STEAM_1:1:58277541><CT>" [8176 -10144 2945] with "knife" (damage "55") (damage_armor "4") (health "0") (armor "90") (hitgroup "generic")
+L 10/22/2022 - 17:34:28: "B<19><STEAM_1:1:58277541><CT>" dropped "m4a1"
+L 10/22/2022 - 17:34:28: "B<19><STEAM_1:1:58277541><CT>" dropped "knife"
+L 10/22/2022 - 17:34:28: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" [8172 -10176 2987] killed "B<19><STEAM_1:1:58277541><CT>" [8176 -10144 3009] with "knife"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" picked up "knife"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" left buyzone with [ weapon_knife_ursus weapon_usp_silencer ]
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" dropped "knife"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:34:31: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:34:31: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:34:31: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" picked up "m4a1"
+L 10/22/2022 - 17:34:31: "B<19><STEAM_1:1:58277541><CT>" picked up "knife"
+L 10/22/2022 - 17:34:31: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:34:31: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:34: "Noopers<16><STEAM_1:1:128551455><CT>" [9776 -7535 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10269 -7770 2946] with "glock" (damage "100") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:34:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:34: "Noopers<16><STEAM_1:1:128551455><CT>" [9776 -7535 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10269 -7770 3010] with "glock" (headshot)
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:34:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:34:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:34:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:34:36: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:34:36: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:34:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:34:37: "BRICKS<17><STEAM_1:0:24452999><CT>" say ".ready"
+L 10/22/2022 - 17:34:41: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" say "!ready"
+L 10/22/2022 - 17:34:48: "B<19><STEAM_1:1:58277541><CT>" say "!ready"
+L 10/22/2022 - 17:34:55: "Noopers<16><STEAM_1:1:128551455><CT>" [10169 -7685 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10210 -7687 2976] with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "100") (hitgroup "right leg")
+L 10/22/2022 - 17:35:03: "Noopers<16><STEAM_1:1:128551455><CT>" [9729 -7791 3038] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10210 -7687 2976] with "m4a1" (damage "128") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:35:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:35:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:35:03: "Noopers<16><STEAM_1:1:128551455><CT>" [9729 -7791 3038] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10210 -7687 3040] with "m4a1" (headshot)
+L 10/22/2022 - 17:35:04: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" disconnected (reason "Disconnect")
+L 10/22/2022 - 17:35:04: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:35:04: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:35:04: "Poppa G's<9><STEAM_1:0:8163860><TERRORIST>" [7952 -7712 3008] committed suicide with "world"
+L 10/22/2022 - 17:35:04: "Poppa G's<9><STEAM_1:0:8163860>" switched from team <TERRORIST> to <Unassigned>
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:35:06: "Wade<20><BOT><CT>" dropped "vest"
+L 10/22/2022 - 17:35:06: "Wade<20><BOT><CT>" dropped "famas"
+L 10/22/2022 - 17:35:06: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:35:06: "Wade<20><BOT><CT>" picked up "famas"
+L 10/22/2022 - 17:35:06: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:35:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:35:13: "JaySee<18><STEAM_1:1:54870697><CT>" [12685 -7683 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 2976] with "knife" (damage "33") (damage_armor "3") (health "67") (armor "97") (hitgroup "generic")
+L 10/22/2022 - 17:35:13: "JaySee<18><STEAM_1:1:54870697><CT>" [12721 -7703 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 2976] with "knife" (damage "21") (damage_armor "1") (health "46") (armor "95") (hitgroup "generic")
+L 10/22/2022 - 17:35:14: "JaySee<18><STEAM_1:1:54870697><CT>" [12719 -7703 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 2976] with "knife" (damage "21") (damage_armor "1") (health "25") (armor "93") (hitgroup "generic")
+L 10/22/2022 - 17:35:14: "JaySee<18><STEAM_1:1:54870697><CT>" [12719 -7703 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 2976] with "knife" (damage "21") (damage_armor "1") (health "4") (armor "91") (hitgroup "generic")
+L 10/22/2022 - 17:35:15: "JaySee<18><STEAM_1:1:54870697><CT>" [12719 -7703 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 2976] with "knife" (damage "21") (damage_armor "1") (health "0") (armor "89") (hitgroup "generic")
+L 10/22/2022 - 17:35:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:35:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:35:15: "JaySee<18><STEAM_1:1:54870697><CT>" [12719 -7703 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [12730 -7735 3040] with "knife_ursus"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:35:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:35:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:35:17: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:35:17: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:35:17: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:35:17: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:15: "Wade<20><BOT><CT>" [7269 -7672 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7728 -7866 2971] with "famas" (damage "21") (damage_armor "0") (health "79") (armor "100") (hitgroup "left leg")
+L 10/22/2022 - 17:36:15: "Wade<20><BOT><CT>" [7269 -7672 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7882 2948] with "famas" (damage "20") (damage_armor "4") (health "59") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:36:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7883 2948] attacked "Wade<20><BOT><CT>" [7269 -7672 2976] with "famas" (damage "25") (damage_armor "5") (health "75") (armor "94") (hitgroup "stomach")
+L 10/22/2022 - 17:36:17: "Wade<20><BOT><CT>" [7277 -7646 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7883 2948] with "famas" (damage "25") (damage_armor "5") (health "34") (armor "89") (hitgroup "stomach")
+L 10/22/2022 - 17:36:17: "Wade<20><BOT><CT>" [7282 -7634 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7883 2948] with "famas" (damage "25") (damage_armor "5") (health "9") (armor "83") (hitgroup "stomach")
+L 10/22/2022 - 17:36:17: "Wade<20><BOT><CT>" [7280 -7637 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7883 2948] with "famas" (damage "20") (damage_armor "4") (health "0") (armor "78") (hitgroup "chest")
+L 10/22/2022 - 17:36:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:36:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:17: "Wade<20><BOT><CT>" [7280 -7637 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7722 -7883 3012] with "famas"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:36:19: "Wade<20><BOT><CT>" dropped "vest"
+L 10/22/2022 - 17:36:19: "Wade<20><BOT><CT>" dropped "famas"
+L 10/22/2022 - 17:36:19: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:36:19: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:19: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:36:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:22: "Wade<20><BOT><CT>" [6992 -7648 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7578 -7600 2976] with "hkp2000" (damage "1") (damage_armor "0") (health "99") (armor "99") (hitgroup "chest")
+L 10/22/2022 - 17:36:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7573 -7607 2976] attacked "Wade<20><BOT><CT>" [6992 -7648 2946] with "hkp2000" (damage "15") (damage_armor "7") (health "85") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:36:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7572 -7608 2976] attacked "Wade<20><BOT><CT>" [6992 -7648 2946] with "hkp2000" (damage "125") (damage_armor "0") (health "0") (armor "92") (hitgroup "head")
+L 10/22/2022 - 17:36:22: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:22: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7572 -7608 2976] killed "Wade<20><BOT><CT>" [6992 -7648 3010] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:25: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:36:25: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:36:25: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" picked up "awp"
+L 10/22/2022 - 17:36:25: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:25: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "awp"
+L 10/22/2022 - 17:36:25: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:27: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7882 -7872 2944] attacked "Wade<20><BOT><CT>" [7026 -7773 2945] with "awp" (damage "320") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:36:27: "Wade<20><BOT><CT>" dropped "awp"
+L 10/22/2022 - 17:36:27: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:27: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7882 -7872 2944] killed "Wade<20><BOT><CT>" [7026 -7773 3009] with "awp" (headshot penetrated)
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:36:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "awp"
+L 10/22/2022 - 17:36:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:29: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:36:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9876 -7822 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9619 -7825 3003] with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "left arm")
+L 10/22/2022 - 17:36:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9876 -7822 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9627 -7829 2979] with "ak47" (damage "34") (damage_armor "5") (health "39") (armor "89") (hitgroup "stomach")
+L 10/22/2022 - 17:36:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9876 -7822 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9629 -7830 2976] with "ak47" (damage "34") (damage_armor "5") (health "5") (armor "83") (hitgroup "stomach")
+L 10/22/2022 - 17:36:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9876 -7822 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9629 -7830 2983] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "83") (hitgroup "right leg")
+L 10/22/2022 - 17:36:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:36:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9876 -7822 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9629 -7830 3047] with "ak47"
+L 10/22/2022 - 17:36:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7233 -7940 2949] attacked "Wade<20><BOT><CT>" [7089 -7604 2948] with "hkp2000" (damage "16") (damage_armor "8") (health "84") (armor "91") (hitgroup "chest")
+L 10/22/2022 - 17:36:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7226 -7942 2948] attacked "Wade<20><BOT><CT>" [7103 -7604 2948] with "hkp2000" (damage "131") (damage_armor "0") (health "0") (armor "91") (hitgroup "head")
+L 10/22/2022 - 17:36:34: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:34: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7226 -7942 2948] killed "Wade<20><BOT><CT>" [7103 -7604 3012] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:36:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:36:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:36:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:36:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:36:36: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:36:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:36:36: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "deagle"
+L 10/22/2022 - 17:36:36: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:36:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:36:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:36:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:36:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" picked up "glock"
+L 10/22/2022 - 17:36:36: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:36:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7403 -7683 2976] attacked "Wade<20><BOT><CT>" [7008 -7648 2945] with "glock" (damage "12") (damage_armor "7") (health "88") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:36:42: "Noopers<16><STEAM_1:1:128551455><CT>" [9632 -7734 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10173 -7755 2976] with "deagle" (damage "174") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:36:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:36:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:42: "Noopers<16><STEAM_1:1:128551455><CT>" [9632 -7734 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10173 -7755 3040] with "deagle" (headshot)
+L 10/22/2022 - 17:36:43: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7275 -7885 2950] attacked "Wade<20><BOT><CT>" [7014 -7910 2949] with "glock" (damage "110") (damage_armor "0") (health "0") (armor "92") (hitgroup "head")
+L 10/22/2022 - 17:36:43: "Wade<20><BOT><CT>" dropped "glock"
+L 10/22/2022 - 17:36:43: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:43: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7275 -7885 2950] killed "Wade<20><BOT><CT>" [7014 -7910 3013] with "glock" (headshot)
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:36:44: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:36:44: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "deagle"
+L 10/22/2022 - 17:36:44: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:36:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:36:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:36:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:36:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:36:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" picked up "galilar"
+L 10/22/2022 - 17:36:46: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:36:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "galilar"
+L 10/22/2022 - 17:36:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:46: "Sweets<21><STEAM_1:1:44108695><>" connected, address ""
+L 10/22/2022 - 17:36:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10170 -7774 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9612 -7767 2988] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:36:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10170 -7779 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9621 -7781 2976] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "94") (hitgroup "head")
+L 10/22/2022 - 17:36:47: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:36:47: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:36:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10170 -7779 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9621 -7781 3040] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:36:47: "Sweets<21><STEAM_1:1:44108695><>" STEAM USERID validated
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:36:48: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:36:48: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:36:48: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:36:48: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:36:48: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:36:48: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:52: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10184 -7828 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9547 -7880 2946] with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "right arm")
+L 10/22/2022 - 17:36:52: "Noopers<16><STEAM_1:1:128551455><CT>" [9549 -7879 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10184 -7828 2976] with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:36:53: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10184 -7824 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9549 -7879 2946] with "famas" (damage "19") (damage_armor "4") (health "62") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:36:53: "Noopers<16><STEAM_1:1:128551455><CT>" [9549 -7879 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10184 -7826 2976] with "famas" (damage "114") (damage_armor "0") (health "0") (armor "95") (hitgroup "head")
+L 10/22/2022 - 17:36:53: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:36:53: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:53: "Noopers<16><STEAM_1:1:128551455><CT>" [9549 -7879 2946] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10184 -7826 3040] with "famas" (headshot)
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:36:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:36:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:36:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:36:55: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:36:55: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:36:55: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:36:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7826 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9503 -7819 2944] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:36:58: "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7823 2976] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "right arm")
+L 10/22/2022 - 17:36:58: "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7815 2976] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/22/2022 - 17:36:58: "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7813 2976] with "m4a1" (damage "26") (damage_armor "5") (health "22") (armor "82") (hitgroup "chest")
+L 10/22/2022 - 17:36:58: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7813 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/22/2022 - 17:36:58: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7813 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] with "m4a1" (damage "26") (damage_armor "5") (health "22") (armor "82") (hitgroup "chest")
+L 10/22/2022 - 17:36:59: "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7813 2976] with "m4a1" (damage "26") (damage_armor "5") (health "0") (armor "76") (hitgroup "chest")
+L 10/22/2022 - 17:36:59: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:36:59: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:36:59: "Noopers<16><STEAM_1:1:128551455><CT>" [9502 -7811 2944] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10180 -7813 3022] with "m4a1_silencer"
+L 10/22/2022 - 17:37:00: "Sweets<21><STEAM_1:1:44108695><>" entered the game
+L 10/22/2022 - 17:37:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7620 -7817 2976] attacked "Wade<20><BOT><CT>" [7146 -7636 2959] with "galilar" (damage "28") (damage_armor "4") (health "72") (armor "95") (hitgroup "stomach")
+L 10/22/2022 - 17:37:01: "Wade<20><BOT><CT>" [7164 -7615 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7590 -7806 2976] with "galilar" (damage "22") (damage_armor "3") (health "78") (armor "96") (hitgroup "right arm")
+L 10/22/2022 - 17:37:01: "Wade<20><BOT><CT>" [7164 -7615 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7588 -7803 2976] with "galilar" (damage "28") (damage_armor "4") (health "50") (armor "91") (hitgroup "stomach")
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:37:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:37:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:01: "Wade<20><BOT><CT>" [7164 -7615 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7577 -7794 2976] with "galilar" (damage "28") (damage_armor "4") (health "22") (armor "86") (hitgroup "stomach")
+L 10/22/2022 - 17:37:01: "Wade<20><BOT><CT>" [7164 -7615 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7570 -7803 2976] with "galilar" (damage "28") (damage_armor "4") (health "0") (armor "81") (hitgroup "stomach")
+L 10/22/2022 - 17:37:01: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "galilar"
+L 10/22/2022 - 17:37:01: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:01: "Wade<20><BOT><CT>" [7164 -7615 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7570 -7803 3040] with "galilar"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:03: "Wade<20><BOT><CT>" dropped "vest"
+L 10/22/2022 - 17:37:03: "Wade<20><BOT><CT>" dropped "galilar"
+L 10/22/2022 - 17:37:03: "Wade<20><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:03: "Wade<20><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:03: "Wade<20><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:37:03: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9778 -7694 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9450 -7676 2946] with "glock" (damage "108") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:09: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:37:09: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9778 -7694 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9450 -7676 3010] with "glock" (headshot)
+L 10/22/2022 - 17:37:10: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7500 -7520 2976] attacked "Wade<20><BOT><CT>" [7034 -7730 2944] with "hkp2000" (damage "16") (damage_armor "7") (health "84") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:37:10: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:37:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:13: "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7881 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10175 -7823 2976] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:37:13: "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7881 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10175 -7823 2976] with "m4a1" (damage "22") (damage_armor "4") (health "56") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:37:13: "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7881 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10175 -7823 2976] with "m4a1" (damage "22") (damage_armor "4") (health "34") (armor "85") (hitgroup "chest")
+L 10/22/2022 - 17:37:13: "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7881 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10175 -7823 2976] with "m4a1" (damage "127") (damage_armor "0") (health "0") (armor "85") (hitgroup "head")
+L 10/22/2022 - 17:37:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:37:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:13: "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7881 2946] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10175 -7823 3027] with "m4a1" (headshot)
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:14: "Wade<20><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/22/2022 - 17:37:14: "Wade<20><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:14: "Wade<20><BOT>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:37:14: "Wade<20><BOT><Unassigned>" dropped "vest"
+L 10/22/2022 - 17:37:14: "Wade<20><BOT><Unassigned>" dropped "knife"
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:37:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "deagle"
+L 10/22/2022 - 17:37:14: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:37:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:37:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:15: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:37:15: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:37:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7738 -7803 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7266 -7678 2976] with "deagle" (damage "42") (damage_armor "1") (health "58") (armor "98") (hitgroup "chest")
+L 10/22/2022 - 17:37:18: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7738 -7810 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7266 -7678 2976] with "deagle" (damage "42") (damage_armor "1") (health "16") (armor "96") (hitgroup "chest")
+L 10/22/2022 - 17:37:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7741 -7799 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7266 -7678 2976] with "deagle" (damage "176") (damage_armor "0") (health "0") (armor "96") (hitgroup "head")
+L 10/22/2022 - 17:37:20: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "deagle"
+L 10/22/2022 - 17:37:20: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7741 -7799 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7266 -7678 3040] with "deagle" (headshot)
+L 10/22/2022 - 17:37:20: "Sweets<21><STEAM_1:1:44108695><CT>" say "!ready"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:37:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "glock"
+L 10/22/2022 - 17:37:22: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7546 -7602 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "glock" (damage "101") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:26: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "glock"
+L 10/22/2022 - 17:37:26: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7546 -7602 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 3009] with "glock" (headshot)
+L 10/22/2022 - 17:37:28: "Noopers<16><STEAM_1:1:128551455><CT>" [9473 -7850 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9510 -7718 2944] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:37:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:28: "Noopers<16><STEAM_1:1:128551455><CT>" [9473 -7850 2944] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9510 -7718 3008] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:28: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:28: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:28: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:28: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:28: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:37:28: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:29: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:37:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:29: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:29: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:29: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:37:29: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:29: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:37:29: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:31: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7551 -7615 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "hkp2000" (damage "126") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:31: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:31: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:31: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7551 -7615 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 3009] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:37:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10171 -7674 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9563 -7860 2945] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:37:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10171 -7674 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9563 -7860 2945] with "m4a1" (damage "22") (damage_armor "4") (health "56") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:37:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9563 -7860 2945] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10171 -7674 2976] with "m4a1" (damage "127") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:37:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:33: "Noopers<16><STEAM_1:1:128551455><CT>" [9563 -7860 2945] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10171 -7674 3040] with "m4a1" (headshot)
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:37:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "glock"
+L 10/22/2022 - 17:37:34: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:37:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:37:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:37:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:37: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7668 -7601 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "glock" (damage "97") (damage_armor "0") (health "3") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:37: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7666 -7590 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "glock" (damage "97") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:37: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "glock"
+L 10/22/2022 - 17:37:37: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:37: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7666 -7590 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 3009] with "glock" (headshot)
+L 10/22/2022 - 17:37:38: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10232 -7844 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9540 -7902 2948] with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:37:38: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10232 -7844 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9540 -7902 2948] with "famas" (damage "113") (damage_armor "0") (health "0") (armor "95") (hitgroup "head")
+L 10/22/2022 - 17:37:38: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:37:38: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:38: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10232 -7844 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9540 -7902 2995] with "famas" (headshot)
+L 10/22/2022 - 17:37:39: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:39: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:39: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:40: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:40: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:40: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "m4a1"
+L 10/22/2022 - 17:37:40: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:37:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:37:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "awp"
+L 10/22/2022 - 17:37:40: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "awp"
+L 10/22/2022 - 17:37:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10203 -7804 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7856 2945] with "awp" (damage "454") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:43: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "awp"
+L 10/22/2022 - 17:37:43: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10203 -7804 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9571 -7856 2991] with "awp" (headshot)
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "awp"
+L 10/22/2022 - 17:37:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "galilar"
+L 10/22/2022 - 17:37:44: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "galilar"
+L 10/22/2022 - 17:37:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10345 -7857 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7850 2976] with "galilar" (damage "22") (damage_armor "3") (health "78") (armor "96") (hitgroup "chest")
+L 10/22/2022 - 17:37:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10345 -7857 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7850 2976] with "galilar" (damage "22") (damage_armor "3") (health "56") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:37:47: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7850 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10345 -7853 2944] with "galilar" (damage "116") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "galilar"
+L 10/22/2022 - 17:37:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:47: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7850 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10345 -7853 3008] with "galilar" (headshot)
+L 10/22/2022 - 17:37:47: "Sweets<21><STEAM_1:1:44108695><CT>" say "Do we need to get mirage back up and goin?"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:49: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:49: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "galilar"
+L 10/22/2022 - 17:37:49: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:49: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:37:49: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:37:49: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:51: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7494 -7946 2946] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:37:51: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7471 -7943 2947] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "94") (hitgroup "head")
+L 10/22/2022 - 17:37:51: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "m4a1"
+L 10/22/2022 - 17:37:51: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:51: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7471 -7943 2947] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 3009] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:37:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:37:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:37:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "deagle"
+L 10/22/2022 - 17:37:53: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:37:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:37:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10063 -7545 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9681 -7764 3038] with "ak47" (damage "20") (damage_armor "2") (health "80") (armor "97") (hitgroup "chest")
+L 10/22/2022 - 17:37:54: "Sweets<21><STEAM_1:1:44108695><CT>" say "i assume they are working on that"
+L 10/22/2022 - 17:37:54: "Noopers<16><STEAM_1:1:128551455><CT>" [9681 -7756 3038] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10056 -7534 2976] with "ak47" (damage "109") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:37:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:37:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:54: "Noopers<16><STEAM_1:1:128551455><CT>" [9681 -7756 3038] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10056 -7534 3040] with "ak47" (headshot penetrated)
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:37:57: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:37:57: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:37:57: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:37:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:37:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:37:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:37:59: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10193 -7836 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9583 -7896 2946] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "left arm")
+L 10/22/2022 - 17:37:59: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10193 -7836 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7891 2946] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/22/2022 - 17:37:59: "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7890 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10193 -7836 2976] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:37:59: "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7890 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10193 -7826 2976] with "m4a1" (damage "32") (damage_armor "7") (health "42") (armor "86") (hitgroup "stomach")
+L 10/22/2022 - 17:37:59: "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7890 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10192 -7821 2976] with "m4a1" (damage "26") (damage_armor "5") (health "16") (armor "80") (hitgroup "chest")
+L 10/22/2022 - 17:38:00: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10192 -7822 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7890 2946] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "88") (hitgroup "head")
+L 10/22/2022 - 17:38:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:38:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:00: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10192 -7822 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9582 -7890 2993] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:38:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:38:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:38:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:03: "Noopers<16><STEAM_1:1:128551455><CT>" [9589 -7894 2946] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10164 -7625 2976] with "glock" (damage "11") (damage_armor "6") (health "89") (armor "93") (hitgroup "chest")
+L 10/22/2022 - 17:38:05: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9983 -7761 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9790 -7939 2946] with "glock" (damage "110") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:05: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:38:05: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:05: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9983 -7761 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9790 -7939 3010] with "glock" (headshot)
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:07: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:07: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:38:07: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:38:07: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:07: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:38:07: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10196 -7681 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9553 -7847 2944] with "m4a1" (damage "4") (damage_armor "0") (health "96") (armor "99") (hitgroup "chest")
+L 10/22/2022 - 17:38:10: "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7821 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10204 -7816 2976] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:38:10: "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7814 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10203 -7819 2976] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/22/2022 - 17:38:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10203 -7816 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7817 2944] with "m4a1" (damage "26") (damage_armor "5") (health "70") (armor "93") (hitgroup "right arm")
+L 10/22/2022 - 17:38:10: "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7810 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10204 -7814 2976] with "m4a1" (damage "26") (damage_armor "5") (health "22") (armor "82") (hitgroup "chest")
+L 10/22/2022 - 17:38:10: "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7810 2944] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10204 -7814 2976] with "m4a1" (damage "26") (damage_armor "5") (health "0") (armor "76") (hitgroup "chest")
+L 10/22/2022 - 17:38:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:38:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:10: "Noopers<16><STEAM_1:1:128551455><CT>" [9550 -7810 2944] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10204 -7814 3038] with "m4a1_silencer"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:38:13: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:38:13: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:38:13: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:38:13: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:38:13: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:38:13: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10207 -7834 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9601 -7883 2946] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:38:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:15: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10207 -7834 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9601 -7883 2992] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:16: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:16: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:38:16: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:16: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:16: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:38:16: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:20: "Noopers<16><STEAM_1:1:128551455><CT>" [9632 -7768 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10200 -7781 2976] with "hkp2000" (damage "126") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:20: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:38:20: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:20: "Noopers<16><STEAM_1:1:128551455><CT>" [9632 -7768 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10200 -7781 3040] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:38:22: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:22: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:38:22: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:38:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:38:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:23: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:23: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:38:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:38:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:23: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:38:23: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:25: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10173 -7747 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9646 -7837 2976] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "right arm")
+L 10/22/2022 - 17:38:25: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10182 -7804 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9646 -7837 2976] with "m4a1" (damage "22") (damage_armor "4") (health "56") (armor "90") (hitgroup "right arm")
+L 10/22/2022 - 17:38:26: "Noopers<16><STEAM_1:1:128551455><CT>" [9646 -7837 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10182 -7804 2976] with "m4a1" (damage "127") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:26: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:38:26: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:26: "Noopers<16><STEAM_1:1:128551455><CT>" [9646 -7837 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10182 -7804 3022] with "m4a1" (headshot)
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:38:28: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:38:28: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:38:28: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:38:28: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:38:28: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:38:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:34: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10212 -7831 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9642 -7860 2949] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "99") (hitgroup "head")
+L 10/22/2022 - 17:38:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:38:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:34: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10212 -7831 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9642 -7860 3013] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:38:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:38:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:38:35: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:38: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10257 -7839 2946] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9653 -7731 2976] with "famas" (damage "114") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:38: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:38:38: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:38: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10257 -7839 2946] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9653 -7731 3040] with "famas" (headshot)
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:39: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:39: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:38:39: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "deagle"
+L 10/22/2022 - 17:38:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:39: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:38:39: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:41: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10233 -7662 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9653 -7843 2976] with "deagle" (damage "170") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:41: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "deagle"
+L 10/22/2022 - 17:38:41: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:41: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10233 -7662 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9653 -7843 3040] with "deagle" (headshot)
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:38:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:38:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:38:42: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10367 -7881 2946] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7814 2976] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/22/2022 - 17:38:44: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7820 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10367 -7879 2946] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:38:44: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:44: "Noopers<16><STEAM_1:1:128551455><CT>" [9654 -7820 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10367 -7879 3010] with "ak47" (headshot)
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:38:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:38:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:38:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:38:46: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:46: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:38:46: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:38:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10185 -7720 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9620 -7773 2976] with "hkp2000" (damage "126") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:38:54: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:54: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10185 -7720 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9620 -7773 3040] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:38:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:38:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:38:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:38:56: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:38:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:38:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:02: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10188 -7828 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9576 -7832 2944] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "right arm")
+L 10/22/2022 - 17:39:03: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10188 -7828 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9575 -7816 2944] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "right arm")
+L 10/22/2022 - 17:39:09: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7230 -7943 2948] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 2945] with "deagle" (damage "187") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:09: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "deagle"
+L 10/22/2022 - 17:39:09: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:39:09: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7230 -7943 2948] killed "Sweets<21><STEAM_1:1:44108695><CT>" [7024 -7712 3009] with "deagle" (headshot)
+L 10/22/2022 - 17:39:09: "Noopers<16><STEAM_1:1:128551455><CT>" [9498 -7852 2945] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10014 -7761 2976] with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 10/22/2022 - 17:39:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10008 -7760 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9498 -7852 2945] with "ak47" (damage "27") (damage_armor "3") (health "19") (armor "88") (hitgroup "right arm")
+L 10/22/2022 - 17:39:09: "Noopers<16><STEAM_1:1:128551455><CT>" [9498 -7852 2945] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10009 -7760 2976] with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:39:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10006 -7757 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [9498 -7852 2945] with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "84") (hitgroup "chest")
+L 10/22/2022 - 17:39:10: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:39:10: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:10: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10006 -7757 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [9498 -7852 3009] with "ak47"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:11: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:39:11: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:39:11: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:39:11: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:11: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:39:11: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:39:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:39:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:39:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:39:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:14: "Noopers<16><STEAM_1:1:128551455><CT>" [7222 -7832 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7733 -7936 2948] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:39:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:14: "Noopers<16><STEAM_1:1:128551455><CT>" [7222 -7832 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7733 -7936 2994] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:39:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:39:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:39:15: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:15: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:39:15: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:15: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:17: "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7888 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7738 -7760 2976] with "glock" (damage "98") (damage_armor "0") (health "2") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:18: "Noopers<16><STEAM_1:1:128551455><CT>" [7125 -7886 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7738 -7760 2976] with "glock" (damage "51") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:18: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:18: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:18: "Noopers<16><STEAM_1:1:128551455><CT>" [7125 -7886 2947] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7738 -7760 3040] with "glock" (headshot penetrated)
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:39:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:39:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:39:20: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:20: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:39:20: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:39:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:21: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7873 -7846 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7119 -7848 2944] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:39:21: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7873 -7854 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7858 2945] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/22/2022 - 17:39:22: "Noopers<16><STEAM_1:1:128551455><CT>" [7134 -7859 2945] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7873 -7867 2945] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:39:22: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:22: "Noopers<16><STEAM_1:1:128551455><CT>" [7134 -7859 2945] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7873 -7867 2991] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:39:24: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:39:24: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:39:24: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:24: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "glock"
+L 10/22/2022 - 17:39:24: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:24: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:24: "Poppa G's<22><STEAM_1:0:8163860><>" connected, address ""
+L 10/22/2022 - 17:39:25: "Poppa G's<22><STEAM_1:0:8163860><>" STEAM USERID validated
+L 10/22/2022 - 17:39:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9665 -7851 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9456 -7712 2945] with "hkp2000" (damage "133") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:28: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:28: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:39:28: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9665 -7851 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [9456 -7712 3009] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:39:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:39:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "glock"
+L 10/22/2022 - 17:39:33: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:39:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:33: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:33: "Poppa G's<22><STEAM_1:0:8163860><>" entered the game
+L 10/22/2022 - 17:39:33: "Poppa G's<22><STEAM_1:0:8163860><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:39:33: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7572 -7732 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7683 -7928 2947] with "glock" (damage "13") (damage_armor "7") (health "87") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7572 -7732 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7657 -7911 2949] with "glock" (damage "112") (damage_armor "0") (health "0") (armor "92") (hitgroup "head")
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "glock"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7572 -7732 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7657 -7911 3013] with "glock" (headshot)
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:39:34: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:39:34: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:38: "Noopers<16><STEAM_1:1:128551455><CT>" [7463 -7925 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7895 -7731 2944] with "famas" (damage "25") (damage_armor "5") (health "75") (armor "94") (hitgroup "stomach")
+L 10/22/2022 - 17:39:39: "Noopers<16><STEAM_1:1:128551455><CT>" [7463 -7925 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7895 -7731 2944] with "famas" (damage "25") (damage_armor "5") (health "50") (armor "88") (hitgroup "stomach")
+L 10/22/2022 - 17:39:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7895 -7731 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7462 -7923 2946] with "famas" (damage "115") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:40: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:39:40: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:40: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7895 -7731 2944] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7462 -7923 3010] with "famas" (headshot)
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:42: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:39:42: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:39:42: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:42: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:42: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:39:42: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:44: "Poppa G's<23><STEAM_1:0:8163860><>" connected, address ""
+L 10/22/2022 - 17:39:44: "Poppa G's<23><STEAM_1:0:8163860><>" STEAM USERID validated
+L 10/22/2022 - 17:39:46: "Poppa G's<23><STEAM_1:0:8163860><>" entered the game
+L 10/22/2022 - 17:39:46: "Poppa G's<23><STEAM_1:0:8163860><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:39:52: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7877 -7830 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7420 -7943 2948] with "hkp2000" (damage "16") (damage_armor "7") (health "84") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:39:52: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7877 -7830 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7440 -7942 2948] with "hkp2000" (damage "16") (damage_armor "7") (health "68") (armor "84") (hitgroup "chest")
+L 10/22/2022 - 17:39:53: "Noopers<16><STEAM_1:1:128551455><CT>" [7440 -7942 2948] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7877 -7830 2945] with "hkp2000" (damage "128") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:39:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:39:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:53: "Noopers<16><STEAM_1:1:128551455><CT>" [7440 -7942 2948] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7877 -7830 3009] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:39:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:39:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:39:55: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:39:55: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:39:55: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:39:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:39:59: "GIT GUD MID<24><STEAM_1:1:49252482><>" connected, address ""
+L 10/22/2022 - 17:39:59: "GIT GUD MID<24><STEAM_1:1:49252482><>" STEAM USERID validated
+L 10/22/2022 - 17:40:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7824 -7841 2946] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7157 -7883 2946] with "hkp2000" (damage "123") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:00: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7824 -7841 2946] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7157 -7883 3010] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:02: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:02: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:40:02: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "deagle"
+L 10/22/2022 - 17:40:02: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:02: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:40:02: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:06: "GIT GUD MID<24><STEAM_1:1:49252482><>" entered the game
+L 10/22/2022 - 17:40:06: "GIT GUD MID<24><STEAM_1:1:49252482><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:40:09: "Sweets<21><STEAM_1:1:44108695><CT>" [9821 -7729 2976] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10170 -7796 2976] with "glock" (damage "107") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:09: "Sweets<21><STEAM_1:1:44108695><CT>" [9821 -7729 2976] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10170 -7796 3040] with "glock" (headshot)
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:11: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:40:11: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "glock"
+L 10/22/2022 - 17:40:11: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:11: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "ak47"
+L 10/22/2022 - 17:40:11: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:40:11: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:11: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "deagle"
+L 10/22/2022 - 17:40:11: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "knife"
+L 10/22/2022 - 17:40:11: "JaySee<18><STEAM_1:1:54870697><CT>" [12832 -7542 3040] committed suicide with "world"
+L 10/22/2022 - 17:40:13: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7546 -7935 2948] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7124 -7851 2944] with "deagle" (damage "53") (damage_armor "1") (health "47") (armor "98") (hitgroup "stomach")
+L 10/22/2022 - 17:40:13: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "knife"
+L 10/22/2022 - 17:40:13: "JaySee<18><STEAM_1:1:54870697><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:13: "JaySee<18><STEAM_1:1:54870697><CT>" left buyzone with [ weapon_knife_ursus weapon_usp_silencer ]
+L 10/22/2022 - 17:40:13: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7533 -7864 2952] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7145 -7874 2946] with "deagle" (damage "183") (damage_armor "0") (health "0") (armor "98") (hitgroup "head")
+L 10/22/2022 - 17:40:13: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "deagle"
+L 10/22/2022 - 17:40:13: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:13: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7533 -7864 2952] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7145 -7874 2992] with "deagle" (headshot)
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:40:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:40:14: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:40:14: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:16: "Noopers<16><STEAM_1:1:128551455><CT>" [7180 -7893 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7742 -7800 2976] with "famas" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "neck")
+L 10/22/2022 - 17:40:16: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7743 -7815 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7180 -7893 2947] with "famas" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:40:17: "Noopers<16><STEAM_1:1:128551455><CT>" [7180 -7893 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7743 -7815 2976] with "famas" (damage "114") (damage_armor "0") (health "0") (armor "95") (hitgroup "head")
+L 10/22/2022 - 17:40:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:40:17: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:17: "Noopers<16><STEAM_1:1:128551455><CT>" [7180 -7893 2947] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7743 -7815 3022] with "famas" (headshot)
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:19: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:19: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:40:19: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:19: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:40:19: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:40:19: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7875 -7812 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7116 -7870 2946] with "famas" (damage "24") (damage_armor "5") (health "76") (armor "94") (hitgroup "stomach")
+L 10/22/2022 - 17:40:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] with "famas" (damage "19") (damage_armor "4") (health "57") (armor "89") (hitgroup "chest")
+L 10/22/2022 - 17:40:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] with "famas" (damage "19") (damage_armor "4") (health "38") (armor "84") (hitgroup "chest")
+L 10/22/2022 - 17:40:20: "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:40:20: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] with "famas" (damage "19") (damage_armor "4") (health "19") (armor "79") (hitgroup "chest")
+L 10/22/2022 - 17:40:20: "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] with "famas" (damage "19") (damage_armor "4") (health "62") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:40:21: "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2945] with "famas" (damage "112") (damage_armor "0") (health "0") (armor "90") (hitgroup "head")
+L 10/22/2022 - 17:40:21: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:40:21: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:21: "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7868 2946] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7876 -7815 2991] with "famas" (headshot)
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:40:23: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:23: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:40:23: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:24: "GIT GUD MID<25><STEAM_1:1:49252482><>" connected, address ""
+L 10/22/2022 - 17:40:24: "GIT GUD MID<25><STEAM_1:1:49252482><>" STEAM USERID validated
+L 10/22/2022 - 17:40:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7933 -7802 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7218 -7840 2976] with "hkp2000" (damage "15") (damage_armor "7") (health "85") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:40:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7927 -7810 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7217 -7829 2976] with "hkp2000" (damage "15") (damage_armor "7") (health "70") (armor "84") (hitgroup "chest")
+L 10/22/2022 - 17:40:26: "Noopers<16><STEAM_1:1:128551455><CT>" [7217 -7829 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7927 -7810 2944] with "hkp2000" (damage "122") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:40:26: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:26: "Noopers<16><STEAM_1:1:128551455><CT>" [7217 -7829 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7927 -7810 2990] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:40:27: "GIT GUD MID<25><STEAM_1:1:49252482><>" entered the game
+L 10/22/2022 - 17:40:27: "GIT GUD MID<25><STEAM_1:1:49252482><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:40:27: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:40:27: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "ak47"
+L 10/22/2022 - 17:40:27: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:27: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:27: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:40:27: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:27: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "m4a1"
+L 10/22/2022 - 17:40:27: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:27: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:40:27: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:29: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:29: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:40:29: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:40:29: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:33: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7741 -7712 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7220 -7834 2976] with "m4a1" (damage "127") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:33: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:40:33: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:33: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7741 -7712 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7220 -7834 3040] with "m4a1" (headshot)
+L 10/22/2022 - 17:40:34: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9944 -7520 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9478 -7809 2944] with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "right arm")
+L 10/22/2022 - 17:40:34: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9944 -7520 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9478 -7809 2944] with "m4a1" (damage "127") (damage_armor "0") (health "0") (armor "95") (hitgroup "head")
+L 10/22/2022 - 17:40:34: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "m4a1"
+L 10/22/2022 - 17:40:34: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:34: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [9944 -7520 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [9478 -7809 3008] with "m4a1" (headshot)
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:35: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:35: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:40:35: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "m4a1"
+L 10/22/2022 - 17:40:35: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:35: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:40:35: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:40:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "m4a1"
+L 10/22/2022 - 17:40:36: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "m4a1"
+L 10/22/2022 - 17:40:36: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:36: "Noopers<16><STEAM_1:1:128551455><CT>" [7156 -7912 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7888 -7867 2944] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:40:36: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:36: "Noopers<16><STEAM_1:1:128551455><CT>" [7156 -7912 2947] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7888 -7867 2990] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:40:38: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:38: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:38: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:39: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:39: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "m4a1"
+L 10/22/2022 - 17:40:39: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:39: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:39: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:40:39: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:39: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:40:39: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10185 -7785 2976] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9627 -7745 2976] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:40: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "m4a1"
+L 10/22/2022 - 17:40:40: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:40: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10185 -7785 2976] killed "Sweets<21><STEAM_1:1:44108695><CT>" [9627 -7745 3040] with "m4a1_silencer" (headshot)
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" left buyzone with [ weapon_knife_survival_bowie weapon_hkp2000 ]
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:40:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "ak47"
+L 10/22/2022 - 17:40:43: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:40:43: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:44: "Noopers<16><STEAM_1:1:128551455><CT>" [7135 -7877 2946] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7860 -7629 2946] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:44: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:40:44: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:44: "Noopers<16><STEAM_1:1:128551455><CT>" [7135 -7877 2946] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7860 -7629 2992] with "ak47" (headshot)
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:40:46: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:46: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:46: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "hkp2000"
+L 10/22/2022 - 17:40:46: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:47: "Sweets<21><STEAM_1:1:44108695><CT>" [9829 -7944 2948] attacked "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10384 -7712 2944] with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:40:47: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:47: "Sweets<21><STEAM_1:1:44108695><CT>" [9829 -7944 2948] killed "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [10384 -7712 3008] with "ak47" (headshot)
+L 10/22/2022 - 17:40:48: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7834 -7819 2946] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7126 -7900 2947] with "hkp2000" (damage "15") (damage_armor "7") (health "85") (armor "92") (hitgroup "chest")
+L 10/22/2022 - 17:40:48: "Noopers<16><STEAM_1:1:128551455><CT>" [7130 -7899 2947] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7834 -7819 2946] with "hkp2000" (damage "122") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:48: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "hkp2000"
+L 10/22/2022 - 17:40:48: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:48: "Noopers<16><STEAM_1:1:128551455><CT>" [7130 -7899 2947] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [7834 -7819 3010] with "usp_silencer" (headshot)
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:50: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "vest"
+L 10/22/2022 - 17:40:50: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:50: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:50: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "famas"
+L 10/22/2022 - 17:40:50: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:40:50: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:50: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:40:50: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "ak47"
+L 10/22/2022 - 17:40:50: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:50: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "famas"
+L 10/22/2022 - 17:40:50: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:40:50: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:53: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7749 -7674 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7122 -7855 2945] with "famas" (damage "79") (damage_armor "0") (health "21") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:53: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10309 -7878 2944] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9605 -7770 2993] with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:40:54: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7782 -7806 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7120 -7794 2944] with "famas" (damage "19") (damage_armor "4") (health "2") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:40:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10309 -7873 2944] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9641 -7804 2976] with "famas" (damage "24") (damage_armor "5") (health "57") (armor "89") (hitgroup "stomach")
+L 10/22/2022 - 17:40:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10311 -7859 2945] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9639 -7812 2976] with "famas" (damage "19") (damage_armor "4") (health "38") (armor "84") (hitgroup "left arm")
+L 10/22/2022 - 17:40:55: "Sweets<21><STEAM_1:1:44108695><CT>" [9639 -7812 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10311 -7862 2945] with "famas" (damage "113") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:40:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:40:55: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:55: "Sweets<21><STEAM_1:1:44108695><CT>" [9639 -7812 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10311 -7862 2991] with "famas" (headshot)
+L 10/22/2022 - 17:40:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7734 -7672 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7127 -7885 2947] with "famas" (damage "19") (damage_armor "4") (health "0") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:40:56: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "famas"
+L 10/22/2022 - 17:40:56: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:56: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7734 -7672 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7127 -7885 3011] with "famas"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:40:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:40:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:40:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "deagle"
+L 10/22/2022 - 17:40:57: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:40:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:40:57: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:40:57: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:40:57: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "famas"
+L 10/22/2022 - 17:40:57: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:40:57: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "ak47"
+L 10/22/2022 - 17:40:57: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:40:57: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:00: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7882 -7821 2944] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7143 -7840 2944] with "deagle" (damage "163") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:41:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "deagle"
+L 10/22/2022 - 17:41:00: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:41:00: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7882 -7821 2944] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7143 -7840 2990] with "deagle" (headshot)
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:41:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:41:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:41:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "ak47"
+L 10/22/2022 - 17:41:01: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:41:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "ak47"
+L 10/22/2022 - 17:41:01: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:03: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7916 -7877 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7114 -7819 2944] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 10/22/2022 - 17:41:03: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "ak47"
+L 10/22/2022 - 17:41:03: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:41:03: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7916 -7877 2945] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7114 -7819 3002] with "ak47" (headshot)
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" left buyzone with [ weapon_knife_push weapon_hkp2000 ]
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:41:04: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "vest"
+L 10/22/2022 - 17:41:04: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:41:04: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "deagle"
+L 10/22/2022 - 17:41:04: "Noopers<16><STEAM_1:1:128551455><CT>" picked up "knife"
+L 10/22/2022 - 17:41:04: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "deagle"
+L 10/22/2022 - 17:41:04: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:04: "Sweets<21><STEAM_1:1:44108695><CT>" [9760 -7847 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [9959 -7781 2976] with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:41:04: "Sweets<21><STEAM_1:1:44108695><CT>" [9768 -7849 2976] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [9957 -7803 2976] with "ak47" (damage "142") (damage_armor "0") (health "0") (armor "95") (hitgroup "head")
+L 10/22/2022 - 17:41:04: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "ak47"
+L 10/22/2022 - 17:41:04: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:04: "Sweets<21><STEAM_1:1:44108695><CT>" [9768 -7849 2976] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [9957 -7803 3040] with "ak47" (headshot)
+L 10/22/2022 - 17:41:06: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7955 -7857 2945] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7105 -7795 2944] with "deagle" (damage "37") (damage_armor "1") (health "63") (armor "98") (hitgroup "chest")
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:41:06: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:41:06: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "ak47"
+L 10/22/2022 - 17:41:06: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:41:06: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "famas"
+L 10/22/2022 - 17:41:06: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:41:06: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:09: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7949 -7917 2948] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7105 -7795 2944] with "deagle" (damage "37") (damage_armor "1") (health "26") (armor "96") (hitgroup "chest")
+L 10/22/2022 - 17:41:09: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10285 -7844 2945] attacked "Sweets<21><STEAM_1:1:44108695><CT>" [9690 -7895 2953] with "famas" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "chest")
+L 10/22/2022 - 17:41:09: "Sweets<21><STEAM_1:1:44108695><CT>" [9698 -7906 2949] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10285 -7844 2945] with "famas" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "right arm")
+L 10/22/2022 - 17:41:09: "Sweets<21><STEAM_1:1:44108695><CT>" [9698 -7906 2949] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10285 -7844 2945] with "famas" (damage "20") (damage_armor "4") (health "60") (armor "90") (hitgroup "chest")
+L 10/22/2022 - 17:41:10: "Sweets<21><STEAM_1:1:44108695><CT>" [9698 -7906 2949] attacked "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10285 -7844 2945] with "famas" (damage "114") (damage_armor "0") (health "0") (armor "90") (hitgroup "head")
+L 10/22/2022 - 17:41:10: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:41:10: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:10: "Sweets<21><STEAM_1:1:44108695><CT>" [9698 -7906 2949] killed "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10285 -7844 2991] with "famas" (headshot)
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "glock"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "vest"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "famas"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "glock"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "famas"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" picked up "knife"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "famas"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" picked up "knife"
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7758 -7830 2976] attacked "Noopers<16><STEAM_1:1:128551455><CT>" [7105 -7853 2945] with "deagle" (damage "40") (damage_armor "1") (health "0") (armor "94") (hitgroup "chest")
+L 10/22/2022 - 17:41:12: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "deagle"
+L 10/22/2022 - 17:41:12: "Noopers<16><STEAM_1:1:128551455><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7758 -7830 2976] killed "Noopers<16><STEAM_1:1:128551455><CT>" [7105 -7853 3009] with "deagle"
+L 10/22/2022 - 17:41:12: "Noopers<16><STEAM_1:1:128551455><CT>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "Noopers<16><STEAM_1:1:128551455>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "deagle"
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222><TERRORIST>" [7758 -7827 3040] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "BroHamBone<4><STEAM_1:0:2183222>" switched from team <TERRORIST> to <Unassigned>
+L 10/22/2022 - 17:41:12: "BRICKS<17><STEAM_1:0:24452999><CT>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "BRICKS<17><STEAM_1:0:24452999><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "BRICKS<17><STEAM_1:0:24452999><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:41:12: "BRICKS<17><STEAM_1:0:24452999><CT>" [11839 -10333 3008] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "BRICKS<17><STEAM_1:0:24452999>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:41:12: "JaySee<18><STEAM_1:1:54870697><CT>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "JaySee<18><STEAM_1:1:54870697><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:41:12: "JaySee<18><STEAM_1:1:54870697><CT>" [13005 -7762 3102] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "JaySee<18><STEAM_1:1:54870697>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:41:12: "B<19><STEAM_1:1:58277541><CT>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "B<19><STEAM_1:1:58277541><CT>" dropped "m4a1"
+L 10/22/2022 - 17:41:12: "B<19><STEAM_1:1:58277541><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "B<19><STEAM_1:1:58277541><CT>" [8971 -10212 3055] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "B<19><STEAM_1:1:58277541>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "famas"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" dropped "knife"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695><CT>" [9464 -7713 3009] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "Sweets<21><STEAM_1:1:44108695>" switched from team <CT> to <Unassigned>
+L 10/22/2022 - 17:41:12: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "m4a1"
+L 10/22/2022 - 17:41:12: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:12: "Gmx<10><STEAM_1:1:2524853><TERRORIST>" [8638 -10055 3090] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "Gmx<10><STEAM_1:1:2524853>" switched from team <TERRORIST> to <Unassigned>
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" disconnected (reason "The match is over")
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "famas"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" dropped "knife"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920><TERRORIST>" [10384 -7712 3008] committed suicide with "world"
+L 10/22/2022 - 17:41:12: "PeachBoi<14><STEAM_1:0:70257920>" switched from team <TERRORIST> to <Unassigned>
+L 10/22/2022 - 17:41:12: "Troy<26><BOT><>" connected, address ""
+L 10/22/2022 - 17:41:12: "Troy<26><BOT>" switched from team <Unassigned> to <CT>
+L 10/22/2022 - 17:41:12: "Troy<26><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:41:12: "Troy<26><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:41:12: World triggered "Game_Commencing"
+L 10/22/2022 - 17:41:12: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:41:12: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:41:12: "Troy<26><BOT><>" entered the game
+L 10/22/2022 - 17:41:12: "Troy<26><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:41:13: "Troy<26><BOT><CT>" dropped "knife"
+L 10/22/2022 - 17:41:13: "Troy<26><BOT><CT>" dropped "hkp2000"
+L 10/22/2022 - 17:41:13: Starting Freeze period
+L 10/22/2022 - 17:41:13: "Troy<26><BOT><CT>" picked up "knife"
+L 10/22/2022 - 17:41:13: "Troy<26><BOT><CT>" picked up "hkp2000"
+L 10/22/2022 - 17:41:13: World triggered "Match_Start" on "de_inferno"
+L 10/22/2022 - 17:41:13: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:41:13: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:41:13: MatchStatus: Team playing "CT": Headshot [NOT READY]
+L 10/22/2022 - 17:41:13: MatchStatus: Team playing "TERRORIST": WHALEZ [NOT READY]
+L 10/22/2022 - 17:41:13: MatchStatus: Score: 0:0 on map "de_inferno" RoundsPlayed: -1
+L 10/22/2022 - 17:41:13: "Troy<26><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 10/22/2022 - 17:41:15: World triggered "Round_Start"
+L 10/22/2022 - 17:41:23: "Noopers<27><STEAM_1:1:128551455><>" connected, address ""
+L 10/22/2022 - 17:41:23: "Noopers<27><STEAM_1:1:128551455><>" STEAM USERID validated
+L 10/22/2022 - 17:41:26: "Noopers<27><STEAM_1:1:128551455><>" entered the game
+L 10/22/2022 - 17:41:26: "Noopers<27><STEAM_1:1:128551455><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:43:17: rcon from "172.30.40.33:52015": command "hostname"
+L 10/22/2022 - 17:43:59: rcon from "172.30.40.33:52015": command "get5_dumpstats"
+L 10/22/2022 - 17:44:15: rcon from "172.30.40.33:52015": command "get5_listbackups"
+L 10/22/2022 - 17:44:45: "BroHamBone<28><STEAM_1:0:2183222><>" connected, address ""
+L 10/22/2022 - 17:44:46: "BroHamBone<28><STEAM_1:0:2183222><>" STEAM USERID validated
+L 10/22/2022 - 17:44:56: "BroHamBone<28><STEAM_1:0:2183222><>" entered the game
+L 10/22/2022 - 17:44:56: "BroHamBone<28><STEAM_1:0:2183222><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:46:14: "GIT GUD MID<29><STEAM_1:1:49252482><>" connected, address ""
+L 10/22/2022 - 17:46:14: "GIT GUD MID<29><STEAM_1:1:49252482><>" STEAM USERID validated
+L 10/22/2022 - 17:46:19: "GIT GUD MID<29><STEAM_1:1:49252482><>" entered the game
+L 10/22/2022 - 17:46:19: "GIT GUD MID<29><STEAM_1:1:49252482><Unassigned>" disconnected (reason "No match was set up")
+L 10/22/2022 - 17:52:30: rcon from "172.30.40.33:52015": command "get5_loadbackup get5_backup_match_map0_round18.cfg"
+L 10/22/2022 - 17:52:33: [META] Loaded 0 plugins (1 already loaded)
+L 10/22/2022 - 17:52:33: [META] Loaded 0 plugins (1 already loaded)
+L 10/22/2022 - 17:52:33: Log file closed

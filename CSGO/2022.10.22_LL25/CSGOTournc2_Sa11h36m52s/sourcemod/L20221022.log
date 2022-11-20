@@ -1,0 +1,16 @@
+L 10/22/2022 - 16:37:04: SourceMod log file session started (file "/app/csgo/addons/sourcemod/logs/L20221022.log") (Version "1.12.0.6928")
+L 10/22/2022 - 16:37:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/app/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/22/2022 - 16:37:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/22/2022 - 16:37:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/22/2022 - 16:37:04: [get5.smx] SteamWorks not installed. Cannot perform Get5 version check.
+L 10/22/2022 - 16:37:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 16:37:12: [get5.smx] Match configuration was loaded via get5_autoload_config.
+L 10/22/2022 - 16:46:35: -------- Mapchange to de_overpass --------
+L 10/22/2022 - 16:46:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 16:51:12: [get5.smx] Recording to 2022-10-22_16-51-12__map1_de_overpass.dem
+L 10/22/2022 - 17:37:46: [get5.smx] Recording to 2022-10-22_17-37-46__map1_de_overpass.dem
+L 10/22/2022 - 17:41:48: [get5.smx] Recording to 2022-10-22_17-41-48__map1_de_overpass.dem
+L 10/22/2022 - 17:52:12: [get5.smx] Recording to 2022-10-22_17-52-12__map1_de_overpass.dem
+L 10/22/2022 - 18:05:30: -------- Mapchange to de_vertigo --------
+L 10/22/2022 - 18:05:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 10/22/2022 - 18:15:20: [get5.smx] Recording to 2022-10-22_18-15-20__map2_de_vertigo.dem

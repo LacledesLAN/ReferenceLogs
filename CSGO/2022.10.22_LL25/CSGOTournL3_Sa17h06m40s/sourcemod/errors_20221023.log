@@ -1,0 +1,1654 @@
+L 10/23/2022 - 00:00:02: SourceMod error session started
+L 10/23/2022 - 00:00:02: Info (map "de_overpass") (file "/app/csgo/addons/sourcemod/logs/errors_20221023.log")
+L 10/23/2022 - 00:00:02: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:00:03: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:21: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:21: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:21: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:21: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:21: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:29: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:35: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:00:55: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:03: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:05: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:20: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:21: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:22: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:22: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:22: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:24: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:24: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:24: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:25: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:25: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:25: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:28: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:01:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:30: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:31: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:32: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:34: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:37: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:44: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:47: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:50: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:01:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:52: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:52: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:52: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:52: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:52: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:01:54: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:21: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:23: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:24: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:25: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:25: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:26: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:28: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:28: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:02:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:31: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:33: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:02:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:02:37: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:02:38: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:38: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:39: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:02:40: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:40: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:40: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:02:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:45: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:46: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:47: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:48: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:02:49: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:49: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:49: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:51: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:51: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:02:51: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:02:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:00: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:01: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:04: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:05: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:10: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:10: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:10: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:10: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:10: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:12: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:12: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:12: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:12: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:12: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:15: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:16: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:17: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:19: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:39: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:42: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:45: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:46: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:47: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:47: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:49: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:50: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:50: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:03:51: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:03:52: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:52: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:03:52: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:53: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:03:54: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:03:55: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:03:58: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:04:00: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:04:07: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:04:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:04:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:04:10: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:04:13: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:04:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:04:17: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:04:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:24: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:04:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:04:31: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:32: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:04:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:04:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:04:55: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:04:58: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:04:59: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:00: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:05:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:05:09: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:05:12: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:12: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:17: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:19: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:30: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:35: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:42: [get5.smx] Failed to get steamid for client blinK @Lanfest<52><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:05:47: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:05:51: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:06:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:07:05: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:07:28: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:07:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:07:43: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:07:51: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:07:56: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:07:57: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:07:58: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:07:59: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:00: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:02: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:08:02: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:08:03: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:08:04: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:08:04: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:08:04: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:04: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:08:04: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:08:06: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:07: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:08:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:08:22: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:08:24: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:08:26: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:08:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:08:31: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:08:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:35: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:37: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:08:41: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:08:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:08:57: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:01: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:01: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:02: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:03: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:03: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:09:03: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:03: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:04: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:04: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:04: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:04: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:04: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:05: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:05: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:05: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:05: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:09:05: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:07: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:10: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:10: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:15: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:15: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:15: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:09:21: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:09:25: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:36: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:38: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:09:57: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:10:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:10:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:10:32: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:10:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<56><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:16:05: [get5.smx] Failed to get steamid for client blinK @Lanfest<57><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:16:55: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:17:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:18:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:18:53: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:18:54: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:18:54: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:19:05: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:19:06: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:19:06: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:19:44: [get5.smx] Failed to get steamid for client blinK @Lanfest<58><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:20:00: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:20:03: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:20:09: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:20:17: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:22:58: [get5.smx] Failed to get steamid for client blinK @Lanfest<59><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:24:36: [get5.smx] Failed to get steamid for client blinK @Lanfest<60><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:25:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:25:32: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:25:46: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:25:48: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:25:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:25:58: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:04: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:27:04: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:07: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:27:07: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:07: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:11: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:14: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:15: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:16: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:26: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:37: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:27:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:27:42: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:47: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:48: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:49: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:49: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:49: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:49: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:50: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:50: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:50: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:51: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:51: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:27:53: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:27:55: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:27:58: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:00: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:02: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:28:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:02: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:28:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:16: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:28:20: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:21: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:28:34: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:28:37: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:28:40: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:28:41: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:28:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:48: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:28:51: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:28:52: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:28:59: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:01: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:03: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:06: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:07: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:09: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:10: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:10: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:12: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:13: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:15: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:17: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:29:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:19: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:21: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:23: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:23: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:23: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:23: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:24: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:24: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:27: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:31: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:32: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:33: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:35: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:35: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:35: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:36: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:29:37: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:29:43: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:29:44: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:45: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:29:48: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:30:02: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:05: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:32: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:34: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:35: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:35: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:35: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:35: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:30:38: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:30:41: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:30:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:30:45: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:30:45: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:31:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:31:38: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:31:43: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:31:49: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:32:05: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:10: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:32:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:32:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:32:14: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:15: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:32:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:19: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:20: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:32:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:27: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:30: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:36: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:42: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:48: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:52: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:32:55: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:32:56: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:32:58: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:02: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:05: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:07: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:11: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:12: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:13: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:14: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:14: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:15: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:15: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:16: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:16: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:17: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:18: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:19: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:20: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:21: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:21: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:22: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:23: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:24: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:25: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:25: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:25: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:25: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:27: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:28: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:29: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:50: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:33:53: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:33:55: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:57: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:33:57: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:33:57: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:33:59: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:33:59: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:00: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:00: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:01: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:02: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:02: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:03: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:03: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:04: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:04: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:04: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:04: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:05: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:05: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:06: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:06: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:07: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:07: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:07: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:09: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:09: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:09: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:11: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:14: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:16: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:16: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:17: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:18: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:18: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:19: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:19: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:20: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:21: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:34:25: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:26: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:39: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:41: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:34:59: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:04: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:04: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:06: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:06: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:07: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:09: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:09: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:09: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:09: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:10: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:10: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:11: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:11: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:12: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:14: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:15: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:16: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:16: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:17: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:17: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:17: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:35:17: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:18: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:21: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:30: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:31: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:35:32: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:34: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:36: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:40: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:35:43: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:35:44: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:36:04: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:36:07: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:36:08: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:36:10: [get5.smx] Failed to get steamid for client JaySee<54><STEAM_1:1:54870697><>
+L 10/23/2022 - 00:36:11: [get5.smx] Failed to get steamid for client lets go, reece isnt useless afte<44><STEAM_1:1:86108244><>
+L 10/23/2022 - 00:36:12: [get5.smx] Failed to get steamid for client BRICKS<48><STEAM_1:0:24452999><>
+L 10/23/2022 - 00:36:13: [get5.smx] Failed to get steamid for client blinK @Lanfest<61><STEAM_1:1:33626697><>
+L 10/23/2022 - 00:36:19: [get5.smx] Failed to get steamid for client Sweets<53><STEAM_1:1:44108695><>
+L 10/23/2022 - 00:36:26: [get5.smx] Failed to get steamid for client ivy<55><STEAM_1:1:58277541><>
+L 10/23/2022 - 00:36:28: [get5.smx] Failed to get steamid for client Noopers<46><STEAM_1:1:128551455><>
+L 10/23/2022 - 00:38:06: [get5.smx] Failed to get steamid for client mild<51><STEAM_1:1:54775491><>
+L 10/23/2022 - 00:38:11: [get5.smx] Failed to get steamid for client Buttermilk @ LAN<37><STEAM_1:0:80218567><>
+L 10/23/2022 - 00:38:11: [get5.smx] Failed to get steamid for client MARKYY@Lan<40><STEAM_1:0:60271379><>

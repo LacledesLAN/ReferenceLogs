@@ -1,0 +1,975 @@
+L 10/23/2022 - 13:45:11: Log file started (file "logs/L172_030_014_088_27015_202210231345_000.log") (game "/app/csgo") (version "8749")
+L 10/23/2022 - 13:45:11: Loading map "de_orange"
+L 10/23/2022 - 13:45:11: server cvars start
+L 10/23/2022 - 13:45:11: "cash_player_killed_teammate" = "-300"
+L 10/23/2022 - 13:45:11: "cash_player_respawn_amount" = "0"
+L 10/23/2022 - 13:45:11: "sv_maxspeed" = "320"
+L 10/23/2022 - 13:45:11: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_rescued_hostage" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_win_by_defusing_bomb" = "3250"
+L 10/23/2022 - 13:45:11: "sv_rollangle" = "0"
+L 10/23/2022 - 13:45:11: "r_AirboatViewZHeight" = "0.0"
+L 10/23/2022 - 13:45:11: "sv_cheats" = "0"
+L 10/23/2022 - 13:45:11: "r_VehicleViewDampen" = "1"
+L 10/23/2022 - 13:45:11: "metamod_version" = "1.11.0-dev+1148V"
+L 10/23/2022 - 13:45:11: "mp_allowNPCs" = "1"
+L 10/23/2022 - 13:45:11: "mp_tournament" = "0"
+L 10/23/2022 - 13:45:11: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/23/2022 - 13:45:11: "sv_spec_hear" = "1"
+L 10/23/2022 - 13:45:11: "cash_player_interact_with_hostage" = "150"
+L 10/23/2022 - 13:45:11: "mp_maxrounds" = "0"
+L 10/23/2022 - 13:45:11: "mp_flashlight" = "0"
+L 10/23/2022 - 13:45:11: "sv_tags" = ""
+L 10/23/2022 - 13:45:11: "sv_stepsize" = "18"
+L 10/23/2022 - 13:45:11: "sv_alltalk" = "0"
+L 10/23/2022 - 13:45:11: "mp_teamlist" = "hgrunt;scientist"
+L 10/23/2022 - 13:45:11: "mp_footsteps" = "1"
+L 10/23/2022 - 13:45:11: "sv_noclipaccelerate" = "5"
+L 10/23/2022 - 13:45:11: "sv_accelerate_debug_speed" = "0"
+L 10/23/2022 - 13:45:11: "sv_wateraccelerate" = "10"
+L 10/23/2022 - 13:45:11: "mp_stalemate_enable" = "0"
+L 10/23/2022 - 13:45:11: "mp_autocrosshair" = "1"
+L 10/23/2022 - 13:45:11: "sourcemod_version" = "1.12.0.6928"
+L 10/23/2022 - 13:45:11: "cash_team_elimination_bomb_map" = "3250"
+L 10/23/2022 - 13:45:11: "cash_player_get_killed" = "0"
+L 10/23/2022 - 13:45:11: "mp_roundtime_defuse" = "0"
+L 10/23/2022 - 13:45:11: "sv_autobuyammo" = "0"
+L 10/23/2022 - 13:45:11: "sv_rollspeed" = "200"
+L 10/23/2022 - 13:45:11: "sv_airaccelerate" = "12"
+L 10/23/2022 - 13:45:11: "sv_show_team_equipment_prohibit" = "0"
+L 10/23/2022 - 13:45:11: "mp_teams_unbalance_limit" = "1"
+L 10/23/2022 - 13:45:11: "mp_timelimit" = "5"
+L 10/23/2022 - 13:45:11: "cash_team_loser_bonus" = "1400"
+L 10/23/2022 - 13:45:11: "sv_deadtalk" = "0"
+L 10/23/2022 - 13:45:11: "cash_player_rescued_hostage" = "1000"
+L 10/23/2022 - 13:45:11: "sv_waterfriction" = "1"
+L 10/23/2022 - 13:45:11: "sv_competitive_official_5v5" = "0"
+L 10/23/2022 - 13:45:11: "sv_steamgroup" = ""
+L 10/23/2022 - 13:45:11: "cash_player_killed_enemy_default" = "300"
+L 10/23/2022 - 13:45:11: "coop" = "0"
+L 10/23/2022 - 13:45:11: "mp_respawnwavetime" = "10.0"
+L 10/23/2022 - 13:45:11: "sv_teamid_overhead" = "1"
+L 10/23/2022 - 13:45:11: "tv_enable1" = "0"
+L 10/23/2022 - 13:45:11: "nextlevel" = ""
+L 10/23/2022 - 13:45:11: "sv_stopspeed" = "80"
+L 10/23/2022 - 13:45:11: "sv_specaccelerate" = "5"
+L 10/23/2022 - 13:45:11: "deathmatch" = "1"
+L 10/23/2022 - 13:45:11: "tv_enable" = "0"
+L 10/23/2022 - 13:45:11: "mp_roundtime_hostage" = "0"
+L 10/23/2022 - 13:45:11: "mp_freezetime" = "6"
+L 10/23/2022 - 13:45:11: "mp_teammates_are_enemies" = "0"
+L 10/23/2022 - 13:45:11: "mp_falldamage" = "0"
+L 10/23/2022 - 13:45:11: "sv_accelerate_use_weapon_speed" = "1"
+L 10/23/2022 - 13:45:11: "sv_voiceenable" = "1"
+L 10/23/2022 - 13:45:11: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/23/2022 - 13:45:11: "sv_bounce" = "0"
+L 10/23/2022 - 13:45:11: "mp_disable_respawn_times" = "0"
+L 10/23/2022 - 13:45:11: "r_AirboatViewDampenFreq" = "7.0"
+L 10/23/2022 - 13:45:11: "mp_weaponstay" = "0"
+L 10/23/2022 - 13:45:11: "mp_hostagepenalty" = "10"
+L 10/23/2022 - 13:45:11: "tv_advertise_watchable" = "0"
+L 10/23/2022 - 13:45:11: "mp_friendlyfire" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_hostage_interaction" = "500"
+L 10/23/2022 - 13:45:11: "sv_noclipspeed" = "5"
+L 10/23/2022 - 13:45:11: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/23/2022 - 13:45:11: "sv_allchat" = "1"
+L 10/23/2022 - 13:45:11: "mp_buy_during_immunity" = "0"
+L 10/23/2022 - 13:45:11: "cash_player_killed_enemy_factor" = "1"
+L 10/23/2022 - 13:45:11: "mp_c4timer" = "40"
+L 10/23/2022 - 13:45:11: "r_JeepViewDampenDamp" = "1.0"
+L 10/23/2022 - 13:45:11: "sv_competitive_minspec" = "1"
+L 10/23/2022 - 13:45:11: "r_AirboatViewDampenDamp" = "1.0"
+L 10/23/2022 - 13:45:11: "sm_nextmap" = ""
+L 10/23/2022 - 13:45:11: "sv_max_allowed_net_graph" = "1"
+L 10/23/2022 - 13:45:11: "mp_stalemate_at_timelimit" = "0"
+L 10/23/2022 - 13:45:11: "mp_limitteams" = "2"
+L 10/23/2022 - 13:45:11: "sv_footsteps" = "1"
+L 10/23/2022 - 13:45:11: "sv_vote_issue_kick_allowed" = "1"
+L 10/23/2022 - 13:45:11: "cash_team_survive_guardian_wave" = "1000"
+L 10/23/2022 - 13:45:11: "tv_relaypassword" = "CoyotesTakeWaterfalls"
+L 10/23/2022 - 13:45:11: "mp_teamplay" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_terrorist_win_bomb" = "3500"
+L 10/23/2022 - 13:45:11: "cash_team_elimination_hostage_map_t" = "1000"
+L 10/23/2022 - 13:45:11: "r_JeepViewDampenFreq" = "7.0"
+L 10/23/2022 - 13:45:11: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/23/2022 - 13:45:11: "sv_specnoclip" = "1"
+L 10/23/2022 - 13:45:11: "sv_friction" = "5.2"
+L 10/23/2022 - 13:45:11: "cash_player_bomb_planted" = "300"
+L 10/23/2022 - 13:45:11: "mp_autoteambalance" = "1"
+L 10/23/2022 - 13:45:11: "sv_contact" = ""
+L 10/23/2022 - 13:45:11: "sv_vote_kick_ban_duration" = "15"
+L 10/23/2022 - 13:45:11: "cash_player_bomb_defused" = "300"
+L 10/23/2022 - 13:45:11: "mp_roundtime" = "5"
+L 10/23/2022 - 13:45:11: "sv_kick_ban_duration" = "15"
+L 10/23/2022 - 13:45:11: "cash_team_planted_bomb_but_defused" = "800"
+L 10/23/2022 - 13:45:11: "cash_player_killed_hostage" = "-1000"
+L 10/23/2022 - 13:45:11: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/23/2022 - 13:45:11: "nextmode" = ""
+L 10/23/2022 - 13:45:11: "mp_fraglimit" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_bonus_shorthanded" = "0"
+L 10/23/2022 - 13:45:11: "mp_forcerespawn" = "1"
+L 10/23/2022 - 13:45:11: "mp_winlimit" = "0"
+L 10/23/2022 - 13:45:11: "sv_accelerate" = "5.5"
+L 10/23/2022 - 13:45:11: "mp_buy_anywhere" = "0"
+L 10/23/2022 - 13:45:11: "sv_gravity" = "800"
+L 10/23/2022 - 13:45:11: "sv_password" = "15trumpets"
+L 10/23/2022 - 13:45:11: "cash_team_elimination_hostage_map_ct" = "2000"
+L 10/23/2022 - 13:45:11: "cash_team_win_by_hostage_rescue" = "3500"
+L 10/23/2022 - 13:45:11: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/23/2022 - 13:45:11: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/23/2022 - 13:45:11: "cash_player_damage_hostage" = "-30"
+L 10/23/2022 - 13:45:11: "r_JeepViewZHeight" = "10.0"
+L 10/23/2022 - 13:45:11: "cash_team_hostage_alive" = "0"
+L 10/23/2022 - 13:45:11: "tv_password" = "CoyotesTakeWaterfalls"
+L 10/23/2022 - 13:45:11: "sv_specspeed" = "3"
+L 10/23/2022 - 13:45:11: server cvars end
+L 10/23/2022 - 13:45:11: Started map "de_orange" (CRC "-1233476998")
+L 10/23/2022 - 13:45:11: "Console<0><Console><Console>" say ""Running server.cfg""
+L 10/23/2022 - 13:45:11: server_cvar: "sv_competitive_official_5v5" "1"
+L 10/23/2022 - 13:45:11: server_cvar: "sv_contact" "0"
+L 10/23/2022 - 13:45:11: server_cvar: "sv_deadtalk" "1"
+L 10/23/2022 - 13:45:11: server_cvar: "sv_kick_ban_duration" "0"
+L 10/23/2022 - 13:45:11: server_cvar: "tv_enable" "1"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_player_interact_with_hostage" "300"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_hostage_interaction" "600"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_bonus_shorthanded" "1000"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_rescued_hostage" "600"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 10/23/2022 - 13:45:11: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_freezetime" "15"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_friendlyfire" "1"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_maxrounds" "30"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_roundtime" "1.92"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_roundtime_hostage" "1.92"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_roundtime_defuse" "1.92"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_timelimit" "0"
+L 10/23/2022 - 13:45:11: "Console<0><Console><Console>" say ""Running gamemode_competitive_server.cfg""
+L 10/23/2022 - 13:45:11: server_cvar: "sv_deadtalk" "0"
+L 10/23/2022 - 13:45:11: server_cvar: "sv_voiceenable" "0"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_roundtime_hostage" "1.75"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_autoteambalance" "0"
+L 10/23/2022 - 13:45:11: server_cvar: "mp_limitteams" "0"
+L 10/23/2022 - 13:45:18: "GOTV<2><BOT><>" connected, address ""
+L 10/23/2022 - 13:45:18: "GOTV<2><BOT><>" entered the game
+L 10/23/2022 - 13:45:18: "GOTV<2><BOT><Unassigned>" changed name to "zLLTV_CSGO_BRACKET_L6"
+L 10/23/2022 - 13:45:18: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 10/23/2022 - 13:45:18: World triggered "Round_Start"
+L 10/23/2022 - 13:45:19: server_cvar: "sv_alltalk" "1"
+L 10/23/2022 - 13:45:19: server_cvar: "sv_deadtalk" "1"
+L 10/23/2022 - 13:45:19: server_cvar: "sv_voiceenable" "1"
+L 10/23/2022 - 13:47:42: "bow down on rock<3><STEAM_1:0:57100298><>" connected, address ""
+L 10/23/2022 - 13:47:42: "bow down on rock<3><STEAM_1:0:57100298><>" STEAM USERID validated
+L 10/23/2022 - 13:47:51: "bow down on rock<3><STEAM_1:0:57100298><>" entered the game
+L 10/23/2022 - 13:47:52: "mild<4><STEAM_1:1:54775491><>" connected, address ""
+L 10/23/2022 - 13:47:52: "mild<4><STEAM_1:1:54775491><>" STEAM USERID validated
+L 10/23/2022 - 13:47:59: "mild<4><STEAM_1:1:54775491><>" entered the game
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491>" switched from team <Unassigned> to <TERRORIST>
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:48:05: World triggered "Game_Commencing"
+L 10/23/2022 - 13:48:05: Team playing "CT": Fragging4Miller [NOT READY]
+L 10/23/2022 - 13:48:05: Team playing "TERRORIST": Miller_Bros [NOT READY]
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:48:05: Starting Freeze period
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:48:05: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:48:05: World triggered "Match_Start" on "de_orange"
+L 10/23/2022 - 13:48:05: Team playing "CT": Fragging4Miller [NOT READY]
+L 10/23/2022 - 13:48:05: Team playing "TERRORIST": Miller_Bros [NOT READY]
+L 10/23/2022 - 13:48:05: MatchStatus: Team playing "CT": Fragging4Miller [NOT READY]
+L 10/23/2022 - 13:48:05: MatchStatus: Team playing "TERRORIST": Miller_Bros [NOT READY]
+L 10/23/2022 - 13:48:05: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 10/23/2022 - 13:48:07: World triggered "Round_Start"
+L 10/23/2022 - 13:48:15: "reece is my friend now<5><STEAM_1:1:86108244><>" connected, address ""
+L 10/23/2022 - 13:48:15: "reece is my friend now<5><STEAM_1:1:86108244><>" STEAM USERID validated
+L 10/23/2022 - 13:48:27: "bow down on rock<3><STEAM_1:0:57100298>" switched from team <Unassigned> to <CT>
+L 10/23/2022 - 13:48:27: "bow down on rock<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:48:27: "bow down on rock<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:48:27: "reece is my friend now<5><STEAM_1:1:86108244><>" entered the game
+L 10/23/2022 - 13:48:27: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ weapon_knife_css weapon_glock ]
+L 10/23/2022 - 13:48:31: "ZorF<6><STEAM_1:1:39459564><>" connected, address ""
+L 10/23/2022 - 13:48:32: "ZorF<6><STEAM_1:1:39459564><>" STEAM USERID validated
+L 10/23/2022 - 13:48:40: "ZorF<6><STEAM_1:1:39459564><>" entered the game
+L 10/23/2022 - 13:48:50: "reece is my friend now<5><STEAM_1:1:86108244>" switched from team <Unassigned> to <TERRORIST>
+L 10/23/2022 - 13:48:50: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:48:50: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:48:51: "Buttermilk @ LAN<7><STEAM_1:0:80218567><>" connected, address ""
+L 10/23/2022 - 13:48:51: "Buttermilk @ LAN<7><STEAM_1:0:80218567><>" STEAM USERID validated
+L 10/23/2022 - 13:48:58: "ZorF<6><STEAM_1:1:39459564>" switched from team <Unassigned> to <CT>
+L 10/23/2022 - 13:48:58: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "knife"
+L 10/23/2022 - 13:48:58: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 16000-2700 = $13300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 13300-1000 = $12300 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 12300-400 = $11900 (tracked) (purchase: weapon_molotov)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "molotov"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "molotov"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 11900-200 = $11700 (tracked) (purchase: weapon_flashbang)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "flashbang"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "flashbang"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 11700-200 = $11500 (tracked) (purchase: weapon_flashbang)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "flashbang"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "flashbang"
+L 10/23/2022 - 13:48:59: "mild<3><STEAM_1:1:54775491><TERRORIST>" money change 11500-300 = $11200 (tracked) (purchase: weapon_smokegrenade)
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "smokegrenade"
+L 10/23/2022 - 13:48:59: "mild<4><STEAM_1:1:54775491><TERRORIST>" purchased "smokegrenade"
+L 10/23/2022 - 13:49:02: "Buttermilk @ LAN<7><STEAM_1:0:80218567><>" entered the game
+L 10/23/2022 - 13:49:03: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ weapon_knife_css weapon_glock weapon_ak47 weapon_molotov weapon_flashbang weapon_smokegrenade kevlar(100) helmet ]
+L 10/23/2022 - 13:49:11: "Buttermilk @ LAN<7><STEAM_1:0:80218567>" switched from team <Unassigned> to <TERRORIST>
+L 10/23/2022 - 13:49:11: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:49:11: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:49:12: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:49:13: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:49:13: "reece is my friend now<4><STEAM_1:1:86108244><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:49:13: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:49:14: "bow down on rock<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:49:17: "reece is my friend now<4><STEAM_1:1:86108244><TERRORIST>" money change 15000-300 = $14700 (tracked) (purchase: weapon_smokegrenade)
+L 10/23/2022 - 13:49:17: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "smokegrenade"
+L 10/23/2022 - 13:49:17: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" purchased "smokegrenade"
+L 10/23/2022 - 13:49:20: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:49:23: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:49:45: "railgun<8><STEAM_1:1:120921533><>" connected, address ""
+L 10/23/2022 - 13:49:45: "railgun<8><STEAM_1:1:120921533><>" STEAM USERID validated
+L 10/23/2022 - 13:49:48: "blinK @Lanfest<9><STEAM_1:1:33626697><>" connected, address ""
+L 10/23/2022 - 13:49:48: "blinK @Lanfest<9><STEAM_1:1:33626697><>" STEAM USERID validated
+L 10/23/2022 - 13:50:00: "blinK @Lanfest<9><STEAM_1:1:33626697><>" entered the game
+L 10/23/2022 - 13:50:01: "MARKYY@Lan<10><STEAM_1:0:60271379><>" connected, address ""
+L 10/23/2022 - 13:50:01: "MARKYY@Lan<10><STEAM_1:0:60271379><>" STEAM USERID validated
+L 10/23/2022 - 13:50:01: "bow down on rock<3><STEAM_1:0:57100298><CT>" changed name to "kapaie"
+L 10/23/2022 - 13:50:02: "railgun<8><STEAM_1:1:120921533><>" entered the game
+L 10/23/2022 - 13:50:02: "kapaie<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:50:04: "kapaie<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:50:06: "railgun<8><STEAM_1:1:120921533>" switched from team <Unassigned> to <CT>
+L 10/23/2022 - 13:50:06: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:50:06: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:50:10: "LinX<11><STEAM_1:1:59301755><>" connected, address ""
+L 10/23/2022 - 13:50:10: "LinX<11><STEAM_1:1:59301755><>" STEAM USERID validated
+L 10/23/2022 - 13:50:11: "MARKYY@Lan<10><STEAM_1:0:60271379><>" entered the game
+L 10/23/2022 - 13:50:11: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:50:12: "spud<12><STEAM_1:0:94988281><>" connected, address ""
+L 10/23/2022 - 13:50:12: "spud<12><STEAM_1:0:94988281><>" STEAM USERID validated
+L 10/23/2022 - 13:50:13: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:50:14: "railgun<8><STEAM_1:1:120921533><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:50:14: "railgun<7><STEAM_1:1:120921533><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:14: "railgun<8><STEAM_1:1:120921533><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:15: "railgun<7><STEAM_1:1:120921533><CT>" money change 15000-2900 = $12100 (tracked) (purchase: weapon_m4a1_silencer)
+L 10/23/2022 - 13:50:15: "railgun<8><STEAM_1:1:120921533><CT>" picked up "m4a1"
+L 10/23/2022 - 13:50:15: "railgun<8><STEAM_1:1:120921533><CT>" purchased "m4a1_silencer"
+L 10/23/2022 - 13:50:16: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_m4a1_silencer kevlar(100) helmet ]
+L 10/23/2022 - 13:50:17: "blinK @Lanfest<9><STEAM_1:1:33626697>" switched from team <Unassigned> to <TERRORIST>
+L 10/23/2022 - 13:50:17: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:17: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:18: "spud<12><STEAM_1:0:94988281><>" entered the game
+L 10/23/2022 - 13:50:20: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:50:20: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:20: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:21: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:50:21: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:50:21: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:50:21: "LinX<11><STEAM_1:1:59301755><>" entered the game
+L 10/23/2022 - 13:50:22: "spud<12><STEAM_1:0:94988281>" switched from team <Unassigned> to <CT>
+L 10/23/2022 - 13:50:22: "spud<12><STEAM_1:0:94988281><CT>" picked up "knife"
+L 10/23/2022 - 13:50:22: "spud<12><STEAM_1:0:94988281><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:50:22: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:50:26: "railgun<8><STEAM_1:1:120921533><CT>" [-587 -517 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-88 -683 43] with "m4a1" (damage "91") (damage_armor "19") (health "9") (armor "80") (hitgroup "head")
+L 10/23/2022 - 13:50:26: "railgun<8><STEAM_1:1:120921533><CT>" [-586 -525 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-148 -680 61] with "m4a1" (damage "26") (damage_armor "5") (health "0") (armor "74") (hitgroup "chest")
+L 10/23/2022 - 13:50:26: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:50:26: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:50:26: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:50:26: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:50:26: "railgun<8><STEAM_1:1:120921533><CT>" [-586 -525 128] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-148 -680 125] with "m4a1_silencer"
+L 10/23/2022 - 13:50:27: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:27: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:27: "kapaie<3><STEAM_1:0:57100298><CT>" changed name to "Kappie (rat)"
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:50:29: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:50:30: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:50:31: "railgun<8><STEAM_1:1:120921533><CT>" [-439 -636 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [217 -753 0] with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "94") (hitgroup "right arm")
+L 10/23/2022 - 13:50:31: "railgun<8><STEAM_1:1:120921533><CT>" [-445 -642 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [223 -727 0] with "m4a1" (damage "26") (damage_armor "5") (health "48") (armor "88") (hitgroup "chest")
+L 10/23/2022 - 13:50:31: "railgun<8><STEAM_1:1:120921533><CT>" [-445 -639 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [197 -712 0] with "m4a1" (damage "26") (damage_armor "5") (health "22") (armor "82") (hitgroup "chest")
+L 10/23/2022 - 13:50:31: "railgun<8><STEAM_1:1:120921533><CT>" [-444 -637 128] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [197 -706 0] with "m4a1" (damage "32") (damage_armor "7") (health "0") (armor "74") (hitgroup "stomach")
+L 10/23/2022 - 13:50:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:50:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:50:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:50:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:50:31: "railgun<8><STEAM_1:1:120921533><CT>" [-444 -637 128] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [197 -706 64] with "m4a1_silencer"
+L 10/23/2022 - 13:50:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:32: "LinX<11><STEAM_1:1:59301755>" switched from team <Unassigned> to <CT>
+L 10/23/2022 - 13:50:32: "LinX<11><STEAM_1:1:59301755><CT>" picked up "knife"
+L 10/23/2022 - 13:50:32: "LinX<11><STEAM_1:1:59301755><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:50:33: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/23/2022 - 13:50:33: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:50:33: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:33: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:33: "spud<12><STEAM_1:0:94988281><CT>" say ".ready"
+L 10/23/2022 - 13:50:33: "MARKYY@Lan<10><STEAM_1:0:60271379>" switched from team <Unassigned> to <TERRORIST>
+L 10/23/2022 - 13:50:33: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:33: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:34: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:50:34: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:50:34: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:50:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<9><STEAM_1:0:60271379><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<9><STEAM_1:0:60271379><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:50:37: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:50:38: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-557 -535 128] attacked "LinX<11><STEAM_1:1:59301755><CT>" [-564 -500 128] with "ak47" (damage "143") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:50:40: "LinX<11><STEAM_1:1:59301755><CT>" dropped "knife"
+L 10/23/2022 - 13:50:40: "LinX<11><STEAM_1:1:59301755><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-557 -535 128] killed "LinX<11><STEAM_1:1:59301755><CT>" [-564 -500 192] with "ak47" (headshot)
+L 10/23/2022 - 13:50:40: "railgun<8><STEAM_1:1:120921533><CT>" [-735 135 304] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-557 -535 128] with "m4a1" (damage "91") (damage_armor "19") (health "9") (armor "80") (hitgroup "head")
+L 10/23/2022 - 13:50:40: "railgun<8><STEAM_1:1:120921533><CT>" [-727 137 304] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-557 -535 128] with "m4a1" (damage "26") (damage_armor "5") (health "0") (armor "74") (hitgroup "chest")
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:50:40: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:50:40: "railgun<8><STEAM_1:1:120921533><CT>" [-727 137 304] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-557 -535 192] with "m4a1_silencer"
+L 10/23/2022 - 13:50:41: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:41: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:41: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:50:42: "LinX<11><STEAM_1:1:59301755><CT>" picked up "knife"
+L 10/23/2022 - 13:50:42: "LinX<11><STEAM_1:1:59301755><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:50:42: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:50:44: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/23/2022 - 13:50:48: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:50:48: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:48: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:49: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:50:49: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:50:49: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:50:50: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:50:53: "LinX<11><STEAM_1:1:59301755><CT>" [-793 480 64] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [-760 487 64] with "knife" (damage "153") (damage_armor "13") (health "0") (armor "86") (hitgroup "generic")
+L 10/23/2022 - 13:50:53: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:50:53: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:50:53: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:50:53: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:50:53: "LinX<11><STEAM_1:1:59301755><CT>" [-793 480 64] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [-760 487 128] with "knife_butterfly"
+L 10/23/2022 - 13:50:55: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:50:55: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:50:56: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-683 -549 128] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-809 121 304] with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "right leg")
+L 10/23/2022 - 13:50:56: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-683 -549 128] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-802 114 304] with "ak47" (damage "33") (damage_armor "4") (health "41") (armor "95") (hitgroup "stomach")
+L 10/23/2022 - 13:50:56: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-683 -549 128] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-799 110 304] with "ak47" (damage "27") (damage_armor "3") (health "14") (armor "91") (hitgroup "chest")
+L 10/23/2022 - 13:50:56: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-683 -549 128] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-798 109 304] with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "91") (hitgroup "left leg")
+L 10/23/2022 - 13:50:56: "railgun<8><STEAM_1:1:120921533><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:50:56: "railgun<8><STEAM_1:1:120921533><CT>" dropped "knife"
+L 10/23/2022 - 13:50:56: "railgun<8><STEAM_1:1:120921533><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:50:56: "railgun<8><STEAM_1:1:120921533><CT>" dropped "m4a1"
+L 10/23/2022 - 13:50:56: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-683 -549 128] killed "railgun<8><STEAM_1:1:120921533><CT>" [-798 109 368] with "ak47"
+L 10/23/2022 - 13:50:57: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:50:57: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:50:58: "railgun<8><STEAM_1:1:120921533><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:50:58: "railgun<7><STEAM_1:1:120921533><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:50:58: "railgun<8><STEAM_1:1:120921533><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:50:58: "railgun<7><STEAM_1:1:120921533><CT>" money change 15000-700 = $14300 (tracked) (purchase: weapon_deagle)
+L 10/23/2022 - 13:50:58: "railgun<8><STEAM_1:1:120921533><CT>" purchased "deagle"
+L 10/23/2022 - 13:50:58: "railgun<8><STEAM_1:1:120921533><CT>" picked up "deagle"
+L 10/23/2022 - 13:51:00: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/23/2022 - 13:51:02: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-914 126 224] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-870 333 173] with "ak47" (damage "110") (damage_armor "16") (health "0") (armor "83") (hitgroup "head")
+L 10/23/2022 - 13:51:02: "railgun<8><STEAM_1:1:120921533><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:51:02: "railgun<8><STEAM_1:1:120921533><CT>" dropped "knife"
+L 10/23/2022 - 13:51:02: "railgun<8><STEAM_1:1:120921533><CT>" dropped "deagle"
+L 10/23/2022 - 13:51:02: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-914 126 224] killed "railgun<8><STEAM_1:1:120921533><CT>" [-870 333 237] with "ak47" (headshot)
+L 10/23/2022 - 13:51:03: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:51:03: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:05: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-909 139 224] attacked "spud<12><STEAM_1:0:94988281><CT>" [-449 887 0] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:05: "spud<12><STEAM_1:0:94988281><CT>" dropped "knife"
+L 10/23/2022 - 13:51:05: "spud<12><STEAM_1:0:94988281><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:05: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-909 139 224] killed "spud<12><STEAM_1:0:94988281><CT>" [-449 887 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:05: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:51:05: "railgun<8><STEAM_1:1:120921533><CT>" [-515 925 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-909 139 224] with "hkp2000" (damage "14") (damage_armor "7") (health "86") (armor "92") (hitgroup "chest")
+L 10/23/2022 - 13:51:05: "railgun<8><STEAM_1:1:120921533><CT>" [-527 929 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-909 139 224] with "hkp2000" (damage "14") (damage_armor "7") (health "72") (armor "84") (hitgroup "chest")
+L 10/23/2022 - 13:51:06: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-901 134 224] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-542 936 0] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:06: "railgun<8><STEAM_1:1:120921533><CT>" dropped "knife"
+L 10/23/2022 - 13:51:06: "railgun<8><STEAM_1:1:120921533><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:06: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-901 134 224] killed "railgun<8><STEAM_1:1:120921533><CT>" [-542 936 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:06: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:51:06: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-904 136 224] attacked "ZorF<6><STEAM_1:1:39459564><CT>" [-475 999 0] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:06: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "knife"
+L 10/23/2022 - 13:51:06: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:06: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-904 136 224] killed "ZorF<6><STEAM_1:1:39459564><CT>" [-475 999 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:06: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:51:07: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:51:07: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:07: "spud<12><STEAM_1:0:94988281><CT>" picked up "knife"
+L 10/23/2022 - 13:51:07: "spud<12><STEAM_1:0:94988281><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:08: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-898 133 224] attacked "LinX<11><STEAM_1:1:59301755><CT>" [-563 769 0] with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:08: "LinX<11><STEAM_1:1:59301755><CT>" dropped "knife"
+L 10/23/2022 - 13:51:08: "LinX<11><STEAM_1:1:59301755><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:08: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-898 133 224] killed "LinX<11><STEAM_1:1:59301755><CT>" [-563 769 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:08: "railgun<8><STEAM_1:1:120921533><CT>" [-537 951 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-898 133 224] with "hkp2000" (damage "14") (damage_armor "7") (health "58") (armor "76") (hitgroup "chest")
+L 10/23/2022 - 13:51:09: "railgun<8><STEAM_1:1:120921533><CT>" [-541 953 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-884 127 224] with "hkp2000" (damage "14") (damage_armor "7") (health "44") (armor "68") (hitgroup "chest")
+L 10/23/2022 - 13:51:09: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "knife"
+L 10/23/2022 - 13:51:09: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:10: "LinX<11><STEAM_1:1:59301755><CT>" picked up "knife"
+L 10/23/2022 - 13:51:10: "LinX<11><STEAM_1:1:59301755><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:11: "railgun<8><STEAM_1:1:120921533><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:51:11: "railgun<7><STEAM_1:1:120921533><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:51:11: "railgun<8><STEAM_1:1:120921533><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:51:12: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-944 137 224] attacked "spud<12><STEAM_1:0:94988281><CT>" [-505 888 0] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:12: "spud<12><STEAM_1:0:94988281><CT>" dropped "knife"
+L 10/23/2022 - 13:51:12: "spud<12><STEAM_1:0:94988281><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:12: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-944 137 224] killed "spud<12><STEAM_1:0:94988281><CT>" [-505 888 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:12: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:51:12: "spud<12><STEAM_1:0:94988281><CT>" picked up "knife"
+L 10/23/2022 - 13:51:12: "spud<12><STEAM_1:0:94988281><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:51:13: "spud<11><STEAM_1:0:94988281><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:51:13: "spud<11><STEAM_1:0:94988281><CT>" money change 15000-2900 = $12100 (tracked) (purchase: weapon_m4a1_silencer)
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" picked up "m4a1"
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" purchased "m4a1_silencer"
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" picked up "defuser"
+L 10/23/2022 - 13:51:13: "spud<11><STEAM_1:0:94988281><CT>" money change 12100-400 = $11700 (tracked) (purchase: item_defuser)
+L 10/23/2022 - 13:51:13: "spud<12><STEAM_1:0:94988281><CT>" purchased "item_defuser"
+L 10/23/2022 - 13:51:13: "railgun<7><STEAM_1:1:120921533><CT>" money change 15000-1300 = $13700 (tracked) (purchase: weapon_mag7)
+L 10/23/2022 - 13:51:13: "railgun<8><STEAM_1:1:120921533><CT>" picked up "mag7"
+L 10/23/2022 - 13:51:13: "railgun<8><STEAM_1:1:120921533><CT>" purchased "mag7"
+L 10/23/2022 - 13:51:13: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-944 140 224] attacked "ZorF<6><STEAM_1:1:39459564><CT>" [-401 885 0] with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:13: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "knife"
+L 10/23/2022 - 13:51:13: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:51:13: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-944 140 224] killed "ZorF<6><STEAM_1:1:39459564><CT>" [-401 885 64] with "ak47" (headshot)
+L 10/23/2022 - 13:51:13: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:51:14: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mag7 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:14: "spud<12><STEAM_1:0:94988281><CT>" [-544 927 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-892 110 224] with "m4a1" (damage "26") (damage_armor "5") (health "18") (armor "62") (hitgroup "chest")
+L 10/23/2022 - 13:51:15: "spud<12><STEAM_1:0:94988281><CT>" [-544 927 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-898 112 224] with "m4a1" (damage "26") (damage_armor "5") (health "0") (armor "56") (hitgroup "chest")
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:51:15: "spud<12><STEAM_1:0:94988281><CT>" [-544 927 0] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-898 112 288] with "m4a1_silencer"
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:15: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "knife"
+L 10/23/2022 - 13:51:15: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:51:16: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_m4a1_silencer defuser kevlar(100) helmet ]
+L 10/23/2022 - 13:51:16: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "vesthelm"
+L 10/23/2022 - 13:51:16: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:51:16: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:51:17: "blinK @Lanfest<8><STEAM_1:1:33626697><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 10/23/2022 - 13:51:17: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "ak47"
+L 10/23/2022 - 13:51:17: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" purchased "ak47"
+L 10/23/2022 - 13:51:18: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:20: "LinX<11><STEAM_1:1:59301755><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:51:20: "LinX<10><STEAM_1:1:59301755><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:51:20: "LinX<11><STEAM_1:1:59301755><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:51:21: "LinX<10><STEAM_1:1:59301755><CT>" money change 15000-1700 = $13300 (tracked) (purchase: weapon_ssg08)
+L 10/23/2022 - 13:51:21: "LinX<11><STEAM_1:1:59301755><CT>" picked up "ssg08"
+L 10/23/2022 - 13:51:21: "LinX<11><STEAM_1:1:59301755><CT>" purchased "ssg08"
+L 10/23/2022 - 13:51:21: "ZorF<5><STEAM_1:1:39459564><CT>" money change 16000-2900 = $13100 (tracked) (purchase: weapon_m4a1_silencer)
+L 10/23/2022 - 13:51:21: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "m4a1"
+L 10/23/2022 - 13:51:21: "ZorF<6><STEAM_1:1:39459564><CT>" purchased "m4a1_silencer"
+L 10/23/2022 - 13:51:21: "LinX<10><STEAM_1:1:59301755><CT>" money change 13300-700 = $12600 (tracked) (purchase: weapon_deagle)
+L 10/23/2022 - 13:51:21: "LinX<11><STEAM_1:1:59301755><CT>" purchased "deagle"
+L 10/23/2022 - 13:51:21: "LinX<11><STEAM_1:1:59301755><CT>" picked up "deagle"
+L 10/23/2022 - 13:51:21: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:51:21: "ZorF<5><STEAM_1:1:39459564><CT>" money change 13100-1000 = $12100 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:51:22: "ZorF<6><STEAM_1:1:39459564><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:51:23: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer weapon_m4a1_silencer kevlar(100) helmet ]
+L 10/23/2022 - 13:51:23: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_deagle weapon_ssg08 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:23: "railgun<8><STEAM_1:1:120921533><CT>" [-227 -614 180] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [250 -824 0] with "mag7" (damage "12") (damage_armor "0") (health "88") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:24: "railgun<8><STEAM_1:1:120921533><CT>" [-118 -613 144] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [250 -824 0] with "mag7" (damage "15") (damage_armor "0") (health "73") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:24: "railgun<8><STEAM_1:1:120921533><CT>" [-118 -613 144] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [250 -824 0] with "mag7" (damage "15") (damage_armor "0") (health "58") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:24: "railgun<8><STEAM_1:1:120921533><CT>" [-118 -613 144] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [250 -824 0] with "mag7" (damage "59") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:24: "railgun<8><STEAM_1:1:120921533><CT>" [-118 -613 144] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [250 -824 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:25: "railgun<8><STEAM_1:1:120921533><CT>" [-52 -598 144] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 0] with "mag7" (damage "46") (damage_armor "7") (health "54") (armor "92") (hitgroup "head")
+L 10/23/2022 - 13:51:25: "railgun<8><STEAM_1:1:120921533><CT>" [-52 -598 144] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 0] with "mag7" (damage "46") (damage_armor "7") (health "8") (armor "84") (hitgroup "head")
+L 10/23/2022 - 13:51:25: "railgun<8><STEAM_1:1:120921533><CT>" [-52 -598 144] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 0] with "mag7" (damage "11") (damage_armor "1") (health "0") (armor "82") (hitgroup "right arm")
+L 10/23/2022 - 13:51:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:51:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "smokegrenade"
+L 10/23/2022 - 13:51:25: "railgun<8><STEAM_1:1:120921533><CT>" [-52 -598 144] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:26: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:26: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:27: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:27: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:30: "spud<12><STEAM_1:0:94988281><CT>" [-52 -589 144] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [253 -912 0] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:30: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:30: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:30: "spud<12><STEAM_1:0:94988281><CT>" [-52 -589 144] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [253 -912 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:30: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:30: "railgun<8><STEAM_1:1:120921533><CT>" [415 -325 44] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 -64] with "mag7" (damage "15") (damage_armor "0") (health "85") (armor "0") (hitgroup "stomach")
+L 10/23/2022 - 13:51:30: "railgun<8><STEAM_1:1:120921533><CT>" [415 -325 44] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 -64] with "mag7" (damage "13") (damage_armor "0") (health "72") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:30: "railgun<8><STEAM_1:1:120921533><CT>" [415 -325 44] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 -64] with "mag7" (damage "12") (damage_armor "0") (health "60") (armor "0") (hitgroup "right arm")
+L 10/23/2022 - 13:51:31: "spud<12><STEAM_1:0:94988281><CT>" [-52 -589 144] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [77 -836 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:31: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:31: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:31: "spud<12><STEAM_1:0:94988281><CT>" [-52 -589 144] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [77 -836 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:31: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:31: "railgun<8><STEAM_1:1:120921533><CT>" [459 -133 -23] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 -64] with "mag7" (damage "17") (damage_armor "0") (health "43") (armor "0") (hitgroup "left arm")
+L 10/23/2022 - 13:51:31: "railgun<8><STEAM_1:1:120921533><CT>" [459 -133 -23] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 -64] with "mag7" (damage "71") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:31: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:31: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:31: "railgun<8><STEAM_1:1:120921533><CT>" [459 -133 -23] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [565 187 0] with "mag7" (headshot)
+L 10/23/2022 - 13:51:32: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:32: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:33: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:33: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:33: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:33: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:34: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:36: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [139 -888 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:36: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:36: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:36: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [139 -888 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:36: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:36: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 0] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:36: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:36: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:36: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [189 -920 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:36: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:37: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [133 -840 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:37: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:37: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:37: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [133 -840 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:37: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:37: "LinX<11><STEAM_1:1:59301755><CT>" [-331 -528 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [-298 -528 0] with "knife" (damage "153") (damage_armor "13") (health "0") (armor "86") (hitgroup "generic")
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "molotov"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "flashbang"
+L 10/23/2022 - 13:51:37: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "smokegrenade"
+L 10/23/2022 - 13:51:37: "LinX<11><STEAM_1:1:59301755><CT>" [-331 -528 0] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [-298 -528 64] with "knife_butterfly"
+L 10/23/2022 - 13:51:38: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:38: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:38: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:38: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:39: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:39: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:39: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mag7 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:39: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:39: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:41: "railgun<8><STEAM_1:1:120921533><CT>" [-4 -915 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 0] with "mag7" (damage "106") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:41: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:41: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:41: "railgun<8><STEAM_1:1:120921533><CT>" [-4 -915 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:41: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:42: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [140 -937 0] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:42: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:42: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:42: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [140 -937 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:42: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:42: "railgun<8><STEAM_1:1:120921533><CT>" [-4 -912 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 0] with "mag7" (damage "21") (damage_armor "0") (health "79") (armor "0") (hitgroup "neck")
+L 10/23/2022 - 13:51:42: "railgun<8><STEAM_1:1:120921533><CT>" [-4 -912 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 0] with "mag7" (damage "88") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:42: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:42: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:42: "railgun<8><STEAM_1:1:120921533><CT>" [-4 -912 0] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:42: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:43: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [83 -883 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:43: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:43: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:43: "spud<12><STEAM_1:0:94988281><CT>" [-52 -594 144] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [83 -883 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:43: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:44: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:44: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:45: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:45: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:45: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:45: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:45: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:45: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:46: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:51:47: "railgun<8><STEAM_1:1:120921533><CT>" [65 -978 0] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [340 -895 0] with "mag7" (damage "76") (damage_armor "0") (health "24") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:47: "railgun<8><STEAM_1:1:120921533><CT>" [65 -978 0] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [340 -895 0] with "mag7" (damage "75") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:47: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:47: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:47: "railgun<8><STEAM_1:1:120921533><CT>" [65 -978 0] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [340 -895 46] with "mag7" (headshot)
+L 10/23/2022 - 13:51:48: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:48: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:48: "railgun<8><STEAM_1:1:120921533><CT>" [64 -921 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [256 -872 0] with "mag7" (damage "87") (damage_armor "0") (health "13") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:48: "railgun<8><STEAM_1:1:120921533><CT>" [64 -921 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [256 -872 0] with "mag7" (damage "22") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:48: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:48: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:48: "railgun<8><STEAM_1:1:120921533><CT>" [64 -921 0] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [256 -872 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:48: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:49: "railgun<8><STEAM_1:1:120921533><CT>" [77 -908 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 0] with "mag7" (damage "97") (damage_armor "0") (health "3") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:49: "railgun<8><STEAM_1:1:120921533><CT>" [77 -908 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 0] with "mag7" (damage "97") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:49: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:49: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:49: "railgun<8><STEAM_1:1:120921533><CT>" [77 -908 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:49: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:50: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mag7 kevlar(100) helmet ]
+L 10/23/2022 - 13:51:50: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:50: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:51: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:51: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:51: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:51:53: "railgun<8><STEAM_1:1:120921533><CT>" [-240 -890 0] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-198 -881 0] with "mag7" (damage "113") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:53: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:53: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:53: "railgun<8><STEAM_1:1:120921533><CT>" [-240 -890 0] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-198 -881 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:55: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:55: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:55: "railgun<8><STEAM_1:1:120921533><CT>" [-429 -929 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [189 -920 0] with "mag7" (damage "46") (damage_armor "0") (health "54") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:55: "railgun<8><STEAM_1:1:120921533><CT>" [-429 -929 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [189 -920 0] with "mag7" (damage "46") (damage_armor "0") (health "8") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:55: "railgun<8><STEAM_1:1:120921533><CT>" [-429 -929 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [189 -920 0] with "mag7" (damage "11") (damage_armor "0") (health "0") (armor "0") (hitgroup "left arm")
+L 10/23/2022 - 13:51:55: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:55: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:55: "railgun<8><STEAM_1:1:120921533><CT>" [-429 -929 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [189 -920 64] with "mag7" (headshot)
+L 10/23/2022 - 13:51:55: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:57: "railgun<8><STEAM_1:1:120921533><CT>" [-430 -912 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 0] with "mag7" (damage "10") (damage_armor "0") (health "90") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:51:57: "railgun<8><STEAM_1:1:120921533><CT>" [-430 -912 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 0] with "mag7" (damage "41") (damage_armor "0") (health "49") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:57: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:51:57: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:51:58: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [139 -888 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:58: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:58: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:58: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [139 -888 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:58: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:51:59: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [133 -840 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:51:59: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:51:59: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:51:59: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [133 -840 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:51:59: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:00: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 0] with "m4a1" (damage "24") (damage_armor "0") (health "25") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:52:00: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:00: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:01: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 0] with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0") (hitgroup "left arm")
+L 10/23/2022 - 13:52:01: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 0] with "m4a1" (damage "86") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:01: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:01: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:01: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 64] with "m4a1_silencer" (headshot penetrated)
+L 10/23/2022 - 13:52:01: "railgun<8><STEAM_1:1:120921533><CT>" assisted killing "mild<4><STEAM_1:1:54775491><TERRORIST>"
+L 10/23/2022 - 13:52:01: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:01: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 0] with "m4a1" (damage "131") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:01: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:01: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:01: "spud<12><STEAM_1:0:94988281><CT>" [14 -914 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:52:01: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:01: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:01: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:02: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_m4a1_silencer defuser kevlar(100) helmet ]
+L 10/23/2022 - 13:52:03: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:03: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:03: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:03: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:05: "railgun<8><STEAM_1:1:120921533><CT>" [-261 -935 55] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [136 -928 0] with "mag7" (damage "16") (damage_armor "0") (health "84") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:52:05: "railgun<8><STEAM_1:1:120921533><CT>" [-261 -935 55] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [136 -928 0] with "mag7" (damage "63") (damage_armor "0") (health "21") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:06: "railgun<8><STEAM_1:1:120921533><CT>" [-93 -944 56] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [136 -928 0] with "mag7" (damage "20") (damage_armor "0") (health "1") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:52:06: "railgun<8><STEAM_1:1:120921533><CT>" [-93 -944 56] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [136 -928 0] with "mag7" (damage "20") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:52:06: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:06: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:06: "railgun<8><STEAM_1:1:120921533><CT>" [-93 -944 56] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [136 -928 64] with "mag7"
+L 10/23/2022 - 13:52:06: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:07: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" say ".ready"
+L 10/23/2022 - 13:52:07: "railgun<8><STEAM_1:1:120921533><CT>" [42 -892 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 0] with "mag7" (damage "93") (damage_armor "0") (health "7") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:07: "railgun<8><STEAM_1:1:120921533><CT>" [42 -892 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 0] with "mag7" (damage "94") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:07: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:07: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:07: "railgun<8><STEAM_1:1:120921533><CT>" [42 -892 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [186 -832 64] with "mag7" (headshot)
+L 10/23/2022 - 13:52:07: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:08: "railgun<8><STEAM_1:1:120921533><CT>" [47 -883 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [83 -883 0] with "mag7" (damage "114") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:08: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:08: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:08: "railgun<8><STEAM_1:1:120921533><CT>" [47 -883 0] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [83 -883 64] with "mag7" (headshot)
+L 10/23/2022 - 13:52:08: "railgun<8><STEAM_1:1:120921533><CT>" [47 -883 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 0] with "mag7" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:08: "railgun<8><STEAM_1:1:120921533><CT>" [47 -883 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 0] with "mag7" (damage "95") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:08: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:08: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:08: "railgun<8><STEAM_1:1:120921533><CT>" [47 -883 0] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [192 -880 64] with "mag7" (headshot)
+L 10/23/2022 - 13:52:08: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:08: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:08: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:08: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:09: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mag7 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:09: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:09: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:11: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:11: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:11: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:11: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:11: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:52:20: "LinX<11><STEAM_1:1:59301755><CT>" say ".ready"
+L 10/23/2022 - 13:52:20: "railgun<8><STEAM_1:1:120921533><CT>" say "!ready"
+L 10/23/2022 - 13:52:23: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" say "!ready"
+L 10/23/2022 - 13:52:25: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:52:26: "railgun<8><STEAM_1:1:120921533><CT>" [-539 684 32] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-530 731 0] with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0") (hitgroup "generic")
+L 10/23/2022 - 13:52:27: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:28: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_deagle weapon_ssg08 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:34: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-343 917 0] attacked "spud<12><STEAM_1:0:94988281><CT>" [-557 47 384] with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 10/23/2022 - 13:52:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-343 917 0] attacked "spud<12><STEAM_1:0:94988281><CT>" [-557 47 384] with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "92") (hitgroup "chest")
+L 10/23/2022 - 13:52:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-343 917 0] attacked "spud<12><STEAM_1:0:94988281><CT>" [-557 44 384] with "ak47" (damage "26") (damage_armor "3") (health "22") (armor "88") (hitgroup "chest")
+L 10/23/2022 - 13:52:36: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 10/23/2022 - 13:52:37: "ZorF<6><STEAM_1:1:39459564><CT>" say ".ready"
+L 10/23/2022 - 13:52:39: "spud<12><STEAM_1:0:94988281><CT>" [-454 82 384] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-616 705 0] with "m4a1" (damage "130") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:39: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:39: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:39: "spud<12><STEAM_1:0:94988281><CT>" [-454 82 384] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-616 705 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:52:39: "railgun<8><STEAM_1:1:120921533><CT>" assisted killing "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>"
+L 10/23/2022 - 13:52:41: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:41: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:43: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer weapon_m4a1_silencer kevlar(100) helmet ]
+L 10/23/2022 - 13:52:44: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" say "!ready"
+L 10/23/2022 - 13:52:44: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" say ".ready"
+L 10/23/2022 - 13:52:44: "ZorF<6><STEAM_1:1:39459564><CT>" [-312 853 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-199 864 0] with "m4a1" (damage "92") (damage_armor "19") (health "8") (armor "80") (hitgroup "head")
+L 10/23/2022 - 13:52:45: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-199 864 0] attacked "ZorF<6><STEAM_1:1:39459564><CT>" [-312 853 0] with "ak47" (damage "111") (damage_armor "16") (health "0") (armor "83") (hitgroup "head")
+L 10/23/2022 - 13:52:45: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:52:45: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "knife"
+L 10/23/2022 - 13:52:45: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:52:45: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "m4a1"
+L 10/23/2022 - 13:52:45: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-199 864 0] killed "ZorF<6><STEAM_1:1:39459564><CT>" [-312 853 64] with "ak47" (headshot)
+L 10/23/2022 - 13:52:45: "LinX<10><STEAM_1:1:59301755><CT>" money change 12600-300 = $12300 (tracked) (purchase: weapon_elite)
+L 10/23/2022 - 13:52:45: "LinX<11><STEAM_1:1:59301755><CT>" purchased "elite"
+L 10/23/2022 - 13:52:45: "LinX<11><STEAM_1:1:59301755><CT>" picked up "elite"
+L 10/23/2022 - 13:52:46: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "knife"
+L 10/23/2022 - 13:52:46: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:52:47: "railgun<8><STEAM_1:1:120921533><CT>" [-452 978 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-199 864 0] with "hkp2000" (damage "67") (damage_armor "32") (health "0") (armor "47") (hitgroup "head")
+L 10/23/2022 - 13:52:47: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "vesthelm"
+L 10/23/2022 - 13:52:47: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:47: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:47: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "ak47"
+L 10/23/2022 - 13:52:47: "railgun<8><STEAM_1:1:120921533><CT>" [-452 978 0] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-199 864 64] with "usp_silencer" (headshot)
+L 10/23/2022 - 13:52:49: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:49: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:52:49: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:52:55: "spud<12><STEAM_1:0:94988281><CT>" [-435 -475 304] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 0] with "m4a1" (damage "129") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:52:55: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:52:55: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:52:55: "spud<12><STEAM_1:0:94988281><CT>" [-435 -475 304] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [253 -912 64] with "m4a1_silencer" (headshot)
+L 10/23/2022 - 13:52:55: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:52:57: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:52:57: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:53:13: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:53:13: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer weapon_mag7 kevlar(100) helmet ]
+L 10/23/2022 - 13:54:09: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:54:09: "LinX<11><STEAM_1:1:59301755><CT>" [256 -840 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [256 -872 0] with "elite" (damage "150") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:54:09: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:09: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:09: "LinX<11><STEAM_1:1:59301755><CT>" [256 -840 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [256 -872 64] with "elite" (headshot)
+L 10/23/2022 - 13:54:09: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:54:11: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:11: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:23: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] attacked "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [77 -836 0] with "elite" (damage "135") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:54:23: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:23: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:23: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] killed "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" [77 -836 64] with "elite" (headshot)
+L 10/23/2022 - 13:54:23: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:54:24: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] attacked "mild<4><STEAM_1:1:54775491><TERRORIST>" [133 -840 0] with "elite" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:54:24: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:24: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:24: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] killed "mild<4><STEAM_1:1:54775491><TERRORIST>" [133 -840 64] with "elite" (headshot)
+L 10/23/2022 - 13:54:24: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:54:24: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 0] with "elite" (damage "135") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:54:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:24: "LinX<11><STEAM_1:1:59301755><CT>" [318 -874 0] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [80 -923 64] with "elite" (headshot)
+L 10/23/2022 - 13:54:24: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:54:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:25: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:26: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" say_team ".ready"
+L 10/23/2022 - 13:54:26: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:26: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:26: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:26: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:27: "mild<4><STEAM_1:1:54775491><TERRORIST>" say "!ready"
+L 10/23/2022 - 13:54:27: World triggered "Restart_Round_(1_second)"
+L 10/23/2022 - 13:54:27: Team "CT" scored "0" with "5" players
+L 10/23/2022 - 13:54:27: Team "TERRORIST" scored "0" with "5" players
+L 10/23/2022 - 13:54:28: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:54:28: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:54:28: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:28: "mild<4><STEAM_1:1:54775491><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:28: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:28: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:28: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "knife"
+L 10/23/2022 - 13:54:28: "ZorF<6><STEAM_1:1:39459564><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:54:28: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:28: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" dropped "knife"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" dropped "mag7"
+L 10/23/2022 - 13:54:28: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:28: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:28: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:54:28: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" dropped "knife"
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" dropped "elite"
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" dropped "ssg08"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" dropped "defuser"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" dropped "vesthelm"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" dropped "knife"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" dropped "m4a1"
+L 10/23/2022 - 13:54:28: Starting Freeze period
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" picked up "knife"
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:28: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:28: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:28: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:28: "mild<4><STEAM_1:1:54775491><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:28: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "knife"
+L 10/23/2022 - 13:54:28: "ZorF<6><STEAM_1:1:39459564><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:28: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:28: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:28: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:28: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:28: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:54:28: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" picked up "knife"
+L 10/23/2022 - 13:54:28: "spud<12><STEAM_1:0:94988281><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:28: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:54:28: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:54:28: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:28: World triggered "Match_Start" on "de_orange"
+L 10/23/2022 - 13:54:28: Team playing "CT": Fragging4Miller [READY]
+L 10/23/2022 - 13:54:28: Team playing "TERRORIST": Miller_Bros [READY]
+L 10/23/2022 - 13:54:28: MatchStatus: Team playing "CT": Fragging4Miller [READY]
+L 10/23/2022 - 13:54:28: MatchStatus: Team playing "TERRORIST": Miller_Bros [READY]
+L 10/23/2022 - 13:54:28: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 10/23/2022 - 13:54:28: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/23/2022 - 13:54:30: World triggered "Round_Start"
+L 10/23/2022 - 13:54:38: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:54:38: "mild<4><STEAM_1:1:54775491><TERRORIST>" left buyzone with [ weapon_knife_css weapon_glock ]
+L 10/23/2022 - 13:54:44: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:54:46: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:54:51: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-681 -247 224] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-656 -161 224] with "glock" (damage "116") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:54:51: "railgun<8><STEAM_1:1:120921533><CT>" dropped "knife"
+L 10/23/2022 - 13:54:51: "railgun<8><STEAM_1:1:120921533><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:54:51: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-681 -247 224] killed "railgun<8><STEAM_1:1:120921533><CT>" [-656 -161 288] with "glock" (headshot)
+L 10/23/2022 - 13:54:52: "railgun<8><STEAM_1:1:120921533><CT>" picked up "knife"
+L 10/23/2022 - 13:54:52: "railgun<8><STEAM_1:1:120921533><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:54:53: "railgun<8><STEAM_1:1:120921533><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:54:53: "railgun<7><STEAM_1:1:120921533><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:54:53: "railgun<8><STEAM_1:1:120921533><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:54:54: "railgun<7><STEAM_1:1:120921533><CT>" money change 15000-700 = $14300 (tracked) (purchase: weapon_deagle)
+L 10/23/2022 - 13:54:54: "railgun<8><STEAM_1:1:120921533><CT>" purchased "deagle"
+L 10/23/2022 - 13:54:54: "railgun<8><STEAM_1:1:120921533><CT>" picked up "deagle"
+L 10/23/2022 - 13:54:54: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:54:55: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(100) helmet ]
+L 10/23/2022 - 13:54:58: "LinX<11><STEAM_1:1:59301755><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer ]
+L 10/23/2022 - 13:54:59: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:55:00: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:55:00: "railgun<8><STEAM_1:1:120921533><CT>" [-904 221 224] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-782 -204 224] with "deagle" (damage "45") (damage_armor "0") (health "55") (armor "0") (hitgroup "right arm")
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" picked up "vesthelm"
+L 10/23/2022 - 13:55:06: "spud<11><STEAM_1:0:94988281><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" purchased "item_assaultsuit"
+L 10/23/2022 - 13:55:06: "spud<11><STEAM_1:0:94988281><CT>" money change 15000-2900 = $12100 (tracked) (purchase: weapon_m4a1_silencer)
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" picked up "m4a1"
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" purchased "m4a1_silencer"
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" picked up "defuser"
+L 10/23/2022 - 13:55:06: "spud<11><STEAM_1:0:94988281><CT>" money change 12100-400 = $11700 (tracked) (purchase: item_defuser)
+L 10/23/2022 - 13:55:06: "spud<12><STEAM_1:0:94988281><CT>" purchased "item_defuser"
+L 10/23/2022 - 13:55:08: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_m4a1_silencer defuser kevlar(100) helmet ]
+L 10/23/2022 - 13:55:14: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [595 822 -45] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-592 880 0] with "glock" (damage "81") (damage_armor "0") (health "19") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:55:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [595 822 -45] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-592 880 0] with "glock" (damage "81") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:55:15: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:55:15: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:55:15: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [595 822 -45] killed "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-592 880 64] with "glock" (headshot)
+L 10/23/2022 - 13:55:15: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:55:16: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:55:16: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:55:18: "reece is my friend now<5><STEAM_1:1:86108244><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:55:18: "LinX<11><STEAM_1:1:59301755><CT>" [-984 -19 279] attacked "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-1040 -32 304] with "knife" (damage "180") (damage_armor "0") (health "0") (armor "0") (hitgroup "generic")
+L 10/23/2022 - 13:55:18: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:55:18: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:55:18: "LinX<11><STEAM_1:1:59301755><CT>" [-984 -19 279] killed "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" [-1040 -32 350] with "knife_butterfly"
+L 10/23/2022 - 13:55:18: "railgun<8><STEAM_1:1:120921533><CT>" assisted killing "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>"
+L 10/23/2022 - 13:55:19: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:55:20: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-243 876 0] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-627 724 0] with "glock" (damage "104") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:55:20: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:55:20: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:55:20: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-243 876 0] killed "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-627 724 64] with "glock" (headshot)
+L 10/23/2022 - 13:55:21: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:55:21: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:55:22: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:55:22: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:55:22: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:55:27: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:55:29: "spud<12><STEAM_1:0:94988281><CT>" [136 -926 72] attacked "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [136 -928 0] with "hkp2000" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:55:29: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:55:29: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:55:29: "spud<12><STEAM_1:0:94988281><CT>" [136 -926 72] killed "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" [136 -928 64] with "usp_silencer" (headshot)
+L 10/23/2022 - 13:55:29: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" left buyzone with [ ]
+L 10/23/2022 - 13:55:31: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-789 497 64] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-1012 460 192] with "glock" (damage "13") (damage_armor "7") (health "87") (armor "92") (hitgroup "right arm")
+L 10/23/2022 - 13:55:31: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:55:31: "MARKYY@Lan<10><STEAM_1:0:60271379><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:55:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-789 497 64] attacked "railgun<8><STEAM_1:1:120921533><CT>" [-1033 372 237] with "glock" (damage "12") (damage_armor "7") (health "75") (armor "84") (hitgroup "left arm")
+L 10/23/2022 - 13:55:34: "railgun<8><STEAM_1:1:120921533><CT>" [-1085 575 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-949 559 64] with "deagle" (damage "50") (damage_armor "0") (health "50") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:55:35: "railgun<8><STEAM_1:1:120921533><CT>" [-1087 575 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-947 561 64] with "deagle" (damage "50") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:55:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:55:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:55:35: "railgun<8><STEAM_1:1:120921533><CT>" [-1087 575 0] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-947 561 128] with "deagle"
+L 10/23/2022 - 13:55:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:55:35: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:55:37: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:55:39: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(84) helmet ]
+L 10/23/2022 - 13:55:40: "Buttermilk @ LAN<7><STEAM_1:0:80218567><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 10/23/2022 - 13:55:44: "LinX<11><STEAM_1:1:59301755><CT>" [-967 -208 384] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-850 -25 276] with "hkp2000" (damage "33") (damage_armor "0") (health "67") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:55:45: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-920 -58 259] attacked "ZorF<6><STEAM_1:1:39459564><CT>" [-1057 -201 384] with "glock" (damage "27") (damage_armor "0") (health "73") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:55:46: "LinX<11><STEAM_1:1:59301755><CT>" [-967 -208 384] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-934 -65 224] with "hkp2000" (damage "134") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:55:46: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:55:46: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:55:46: "LinX<11><STEAM_1:1:59301755><CT>" [-967 -208 384] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-934 -65 288] with "usp_silencer" (headshot)
+L 10/23/2022 - 13:55:48: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:55:48: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:55:49: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:56:04: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:56:05: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-536 894 0] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-556 846 0] with "knife" (damage "180") (damage_armor "0") (health "0") (armor "0") (hitgroup "generic")
+L 10/23/2022 - 13:56:05: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:56:05: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:56:05: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-536 894 0] killed "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-556 846 64] with "knife_m9_bayonet"
+L 10/23/2022 - 13:56:05: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ ]
+L 10/23/2022 - 13:56:07: "ZorF<6><STEAM_1:1:39459564><CT>" [-815 991 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-624 990 28] with "hkp2000" (damage "42") (damage_armor "0") (health "48") (armor "0") (hitgroup "stomach")
+L 10/23/2022 - 13:56:07: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:56:07: "ZorF<6><STEAM_1:1:39459564><CT>" [-860 989 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-731 975 29] with "hkp2000" (damage "25") (damage_armor "0") (health "23") (armor "0") (hitgroup "left leg")
+L 10/23/2022 - 13:56:07: "ZorF<6><STEAM_1:1:39459564><CT>" [-888 976 0] attacked "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-757 981 9] with "hkp2000" (damage "34") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 10/23/2022 - 13:56:07: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "knife"
+L 10/23/2022 - 13:56:07: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" dropped "glock"
+L 10/23/2022 - 13:56:07: "ZorF<6><STEAM_1:1:39459564><CT>" [-888 976 0] killed "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-757 981 73] with "usp_silencer"
+L 10/23/2022 - 13:56:08: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:56:08: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:56:08: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "knife"
+L 10/23/2022 - 13:56:08: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" picked up "glock"
+L 10/23/2022 - 13:56:11: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:56:19: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:56:24: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock ]
+L 10/23/2022 - 13:56:27: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:56:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-926 -111 224] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-900 58 224] with "glock" (damage "113") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:56:32: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:56:32: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:56:32: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-926 -111 224] killed "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-900 58 288] with "glock" (headshot)
+L 10/23/2022 - 13:56:34: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:56:34: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:56:35: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:56:36: "spud<12><STEAM_1:0:94988281><CT>" say_team "the wat"
+L 10/23/2022 - 13:56:36: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 10/23/2022 - 13:56:40: "spud<12><STEAM_1:0:94988281><CT>" say "the wat"
+L 10/23/2022 - 13:56:43: "railgun<8><STEAM_1:1:120921533><CT>" left buyzone with [ weapon_knife weapon_deagle kevlar(84) helmet ]
+L 10/23/2022 - 13:56:45: "spud<12><STEAM_1:0:94988281><CT>" say "ok"
+L 10/23/2022 - 13:56:48: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:56:50: "ZorF<6><STEAM_1:1:39459564><CT>" left buyzone with [ weapon_knife_cord weapon_usp_silencer ]
+L 10/23/2022 - 13:56:52: "spud<12><STEAM_1:0:94988281><CT>" left buyzone with [ weapon_knife_butterfly weapon_usp_silencer weapon_m4a1_silencer defuser kevlar(100) helmet ]
+L 10/23/2022 - 13:56:54: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-752 -659 128] attacked "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-444 -737 128] with "glock" (damage "108") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 10/23/2022 - 13:56:54: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "knife"
+L 10/23/2022 - 13:56:54: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" dropped "hkp2000"
+L 10/23/2022 - 13:56:54: "blinK @Lanfest<9><STEAM_1:1:33626697><TERRORIST>" [-752 -659 128] killed "Kappie (rat)<3><STEAM_1:0:57100298><CT>" [-444 -737 192] with "glock" (headshot)
+L 10/23/2022 - 13:56:59: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "knife"
+L 10/23/2022 - 13:56:59: "Kappie (rat)<3><STEAM_1:0:57100298><CT>" picked up "hkp2000"
+L 10/23/2022 - 13:57:00: [META] Loaded 0 plugins (1 already loaded)
+L 10/23/2022 - 13:57:00: [META] Loaded 0 plugins (1 already loaded)
+L 10/23/2022 - 13:57:00: Log file closed

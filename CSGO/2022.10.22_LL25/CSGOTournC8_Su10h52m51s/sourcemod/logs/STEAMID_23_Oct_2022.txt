@@ -1,0 +1,26 @@
+
+15:53:26 - ===== Map change to de_orange =====
+
+15:55:37 - <Lil Jelly> <STEAM_1:0:215487283> <172.30.44.12> CONNECTED from <Unknown>
+15:55:57 - <fuller> <STEAM_1:0:79384290> <172.30.44.9> CONNECTED from <Unknown>
+15:56:01 - <ShikeZ [@Laclede's]> <STEAM_1:0:76678618> <172.30.43.244> CONNECTED from <Unknown>
+15:56:03 - <JeNume @ LanFest> <STEAM_1:0:43204461> <172.30.44.6> CONNECTED from <Unknown>
+15:56:19 - <spud> <STEAM_1:0:94988281> <172.30.44.82> CONNECTED from <Unknown>
+15:56:29 - <noot mf shiesty> <STEAM_1:1:155617015> <172.30.44.43> CONNECTED from <Unknown>
+15:56:45 - <railgun> <STEAM_1:1:120921533> <172.30.44.78> CONNECTED from <Unknown>
+15:57:01 - <ZorF> <STEAM_1:1:39459564> <172.30.44.81> CONNECTED from <Unknown>
+15:57:05 - <Kappie (rat)> <STEAM_1:0:57100298> <172.30.44.75> CONNECTED from <Unknown>
+15:57:59 - <LinX> <STEAM_1:1:59301755> <172.30.44.88> CONNECTED from <Unknown>
+15:58:40 - <noot mf shiesty> <STEAM_1:1:155617015> <172.30.44.43> DISCONNECTED after 3 minutes. <#GameUI_Disconnect_TooManyCommands>
+15:59:02 - <noot mf shiesty> <STEAM_1:1:155617015> <172.30.44.43> CONNECTED from <Unknown>
+
+16:05:18 - ===== Map change to de_nuke =====
+
+16:43:55 - <ZorF> <STEAM_1:1:39459564> <172.30.44.81> DISCONNECTED after 47 minutes. <Disconnect>
+16:43:56 - <railgun> <STEAM_1:1:120921533> <172.30.44.78> DISCONNECTED after 48 minutes. <Disconnect>
+16:44:20 - <spud> <STEAM_1:0:94988281> <172.30.44.82> DISCONNECTED after 48 minutes. <Disconnect>
+16:44:51 - <Kappie (rat)> <STEAM_1:0:57100298> <172.30.44.75> DISCONNECTED after 48 minutes. <Disconnect>
+16:45:24 - <LinX> <STEAM_1:1:59301755> <172.30.44.88> DISCONNECTED after 48 minutes. <Disconnect>
+
+16:45:54 - ===== Map change to de_overpass =====
+
