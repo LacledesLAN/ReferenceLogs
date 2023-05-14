@@ -1,0 +1,786 @@
+L 05/13/2023 - 16:46:28: Log file started (file "logs/L172_030_014_080_27015_202305131646_000.log") (game "/app/csgo") (version "8853")
+L 05/13/2023 - 16:46:28: Loading map "de_orange"
+L 05/13/2023 - 16:46:28: server cvars start
+L 05/13/2023 - 16:46:28: "cash_player_killed_teammate" = "-300"
+L 05/13/2023 - 16:46:28: "sv_maxspeed" = "320"
+L 05/13/2023 - 16:46:28: "cash_player_respawn_amount" = "0"
+L 05/13/2023 - 16:46:28: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 05/13/2023 - 16:46:28: "cash_team_rescued_hostage" = "0"
+L 05/13/2023 - 16:46:28: "cash_team_win_by_defusing_bomb" = "3250"
+L 05/13/2023 - 16:46:28: "sv_rollangle" = "0"
+L 05/13/2023 - 16:46:28: "r_AirboatViewZHeight" = "0.0"
+L 05/13/2023 - 16:46:28: "sv_cheats" = "0"
+L 05/13/2023 - 16:46:28: "r_VehicleViewDampen" = "1"
+L 05/13/2023 - 16:46:28: "metamod_version" = "1.11.0-dev+1148V"
+L 05/13/2023 - 16:46:28: "mp_allowNPCs" = "1"
+L 05/13/2023 - 16:46:28: "mp_tournament" = "0"
+L 05/13/2023 - 16:46:28: "sv_vote_issue_pause_match_spec_only" = "0"
+L 05/13/2023 - 16:46:28: "sv_spec_hear" = "1"
+L 05/13/2023 - 16:46:28: "cash_player_interact_with_hostage" = "150"
+L 05/13/2023 - 16:46:28: "mp_flashlight" = "0"
+L 05/13/2023 - 16:46:28: "mp_maxrounds" = "0"
+L 05/13/2023 - 16:46:28: "sv_tags" = ""
+L 05/13/2023 - 16:46:28: "sv_stepsize" = "18"
+L 05/13/2023 - 16:46:28: "mp_teamlist" = "hgrunt;scientist"
+L 05/13/2023 - 16:46:28: "sv_alltalk" = "0"
+L 05/13/2023 - 16:46:28: "mp_footsteps" = "1"
+L 05/13/2023 - 16:46:28: "sv_noclipaccelerate" = "5"
+L 05/13/2023 - 16:46:28: "sv_accelerate_debug_speed" = "0"
+L 05/13/2023 - 16:46:28: "sv_wateraccelerate" = "10"
+L 05/13/2023 - 16:46:28: "mp_autocrosshair" = "1"
+L 05/13/2023 - 16:46:28: "mp_stalemate_enable" = "0"
+L 05/13/2023 - 16:46:28: "sourcemod_version" = "1.11.0.6934"
+L 05/13/2023 - 16:46:28: "cash_team_elimination_bomb_map" = "3250"
+L 05/13/2023 - 16:46:28: "cash_player_get_killed" = "0"
+L 05/13/2023 - 16:46:28: "mp_roundtime_defuse" = "0"
+L 05/13/2023 - 16:46:28: "sv_autobuyammo" = "0"
+L 05/13/2023 - 16:46:28: "sv_rollspeed" = "200"
+L 05/13/2023 - 16:46:28: "sv_airaccelerate" = "12"
+L 05/13/2023 - 16:46:28: "mp_teams_unbalance_limit" = "1"
+L 05/13/2023 - 16:46:28: "sv_show_team_equipment_prohibit" = "0"
+L 05/13/2023 - 16:46:28: "mp_timelimit" = "5"
+L 05/13/2023 - 16:46:28: "cash_team_loser_bonus" = "1400"
+L 05/13/2023 - 16:46:28: "sv_deadtalk" = "0"
+L 05/13/2023 - 16:46:28: "cash_player_rescued_hostage" = "1000"
+L 05/13/2023 - 16:46:28: "sv_waterfriction" = "1"
+L 05/13/2023 - 16:46:28: "sv_competitive_official_5v5" = "0"
+L 05/13/2023 - 16:46:28: "sv_steamgroup" = ""
+L 05/13/2023 - 16:46:28: "cash_player_killed_enemy_default" = "300"
+L 05/13/2023 - 16:46:28: "coop" = "0"
+L 05/13/2023 - 16:46:28: "mp_respawnwavetime" = "10.0"
+L 05/13/2023 - 16:46:28: "sv_teamid_overhead" = "1"
+L 05/13/2023 - 16:46:28: "tv_enable1" = "0"
+L 05/13/2023 - 16:46:28: "nextlevel" = ""
+L 05/13/2023 - 16:46:28: "sv_stopspeed" = "80"
+L 05/13/2023 - 16:46:28: "sv_specaccelerate" = "5"
+L 05/13/2023 - 16:46:28: "deathmatch" = "1"
+L 05/13/2023 - 16:46:28: "tv_enable" = "0"
+L 05/13/2023 - 16:46:28: "mp_falldamage" = "0"
+L 05/13/2023 - 16:46:28: "mp_teammates_are_enemies" = "0"
+L 05/13/2023 - 16:46:28: "mp_roundtime_hostage" = "0"
+L 05/13/2023 - 16:46:28: "mp_freezetime" = "6"
+L 05/13/2023 - 16:46:28: "sv_accelerate_use_weapon_speed" = "1"
+L 05/13/2023 - 16:46:28: "sv_voiceenable" = "1"
+L 05/13/2023 - 16:46:28: "sv_teamid_overhead_always_prohibit" = "0"
+L 05/13/2023 - 16:46:28: "sv_bounce" = "0"
+L 05/13/2023 - 16:46:28: "r_AirboatViewDampenFreq" = "7.0"
+L 05/13/2023 - 16:46:28: "mp_disable_respawn_times" = "0"
+L 05/13/2023 - 16:46:28: "mp_weaponstay" = "0"
+L 05/13/2023 - 16:46:28: "mp_hostagepenalty" = "10"
+L 05/13/2023 - 16:46:28: "tv_advertise_watchable" = "0"
+L 05/13/2023 - 16:46:28: "mp_friendlyfire" = "0"
+L 05/13/2023 - 16:46:28: "sv_noclipspeed" = "5"
+L 05/13/2023 - 16:46:28: "cash_team_hostage_interaction" = "500"
+L 05/13/2023 - 16:46:28: "sv_allchat" = "1"
+L 05/13/2023 - 16:46:28: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 05/13/2023 - 16:46:28: "mp_buy_during_immunity" = "0"
+L 05/13/2023 - 16:46:28: "cash_player_killed_enemy_factor" = "1"
+L 05/13/2023 - 16:46:28: "r_JeepViewDampenDamp" = "1.0"
+L 05/13/2023 - 16:46:28: "mp_c4timer" = "40"
+L 05/13/2023 - 16:46:28: "r_AirboatViewDampenDamp" = "1.0"
+L 05/13/2023 - 16:46:28: "sv_competitive_minspec" = "1"
+L 05/13/2023 - 16:46:28: "sm_nextmap" = ""
+L 05/13/2023 - 16:46:28: "sv_max_allowed_net_graph" = "1"
+L 05/13/2023 - 16:46:28: "mp_stalemate_at_timelimit" = "0"
+L 05/13/2023 - 16:46:28: "sv_footsteps" = "1"
+L 05/13/2023 - 16:46:28: "mp_limitteams" = "2"
+L 05/13/2023 - 16:46:28: "sv_vote_issue_kick_allowed" = "1"
+L 05/13/2023 - 16:46:28: "cash_team_survive_guardian_wave" = "1000"
+L 05/13/2023 - 16:46:28: "tv_relaypassword" = "BobcatsLikeAdventure"
+L 05/13/2023 - 16:46:28: "mp_teamplay" = "0"
+L 05/13/2023 - 16:46:28: "cash_team_terrorist_win_bomb" = "3500"
+L 05/13/2023 - 16:46:28: "cash_team_elimination_hostage_map_t" = "1000"
+L 05/13/2023 - 16:46:28: "r_JeepViewDampenFreq" = "7.0"
+L 05/13/2023 - 16:46:28: "sv_specnoclip" = "1"
+L 05/13/2023 - 16:46:28: "sv_friction" = "5.2"
+L 05/13/2023 - 16:46:28: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 05/13/2023 - 16:46:28: "cash_player_bomb_planted" = "300"
+L 05/13/2023 - 16:46:28: "mp_autoteambalance" = "1"
+L 05/13/2023 - 16:46:28: "sv_contact" = ""
+L 05/13/2023 - 16:46:28: "sv_vote_kick_ban_duration" = "15"
+L 05/13/2023 - 16:46:28: "cash_player_bomb_defused" = "300"
+L 05/13/2023 - 16:46:28: "mp_roundtime" = "5"
+L 05/13/2023 - 16:46:28: "sv_kick_ban_duration" = "15"
+L 05/13/2023 - 16:46:28: "cash_team_planted_bomb_but_defused" = "800"
+L 05/13/2023 - 16:46:28: "cash_player_killed_hostage" = "-1000"
+L 05/13/2023 - 16:46:28: "sv_vote_issue_loadbackup_allowed" = "1"
+L 05/13/2023 - 16:46:28: "nextmode" = ""
+L 05/13/2023 - 16:46:28: "mp_fraglimit" = "0"
+L 05/13/2023 - 16:46:28: "cash_team_bonus_shorthanded" = "0"
+L 05/13/2023 - 16:46:28: "mp_forcerespawn" = "1"
+L 05/13/2023 - 16:46:28: "mp_buy_anywhere" = "0"
+L 05/13/2023 - 16:46:28: "sv_accelerate" = "5.5"
+L 05/13/2023 - 16:46:28: "mp_winlimit" = "0"
+L 05/13/2023 - 16:46:28: "sv_gravity" = "800"
+L 05/13/2023 - 16:46:28: "sv_password" = "broccoli30"
+L 05/13/2023 - 16:46:28: "cash_team_elimination_hostage_map_ct" = "2000"
+L 05/13/2023 - 16:46:28: "cash_team_win_by_hostage_rescue" = "3500"
+L 05/13/2023 - 16:46:28: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 05/13/2023 - 16:46:28: "r_JeepViewZHeight" = "10.0"
+L 05/13/2023 - 16:46:28: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 05/13/2023 - 16:46:28: "cash_player_damage_hostage" = "-30"
+L 05/13/2023 - 16:46:28: "cash_team_hostage_alive" = "0"
+L 05/13/2023 - 16:46:28: "tv_password" = "BobcatsLikeAdventure"
+L 05/13/2023 - 16:46:28: "sv_specspeed" = "3"
+L 05/13/2023 - 16:46:28: server cvars end
+L 05/13/2023 - 16:46:28: Started map "de_orange" (CRC "-1233476998")
+L 05/13/2023 - 16:46:29: "Console<0><Console><Console>" say ""Running server.cfg""
+L 05/13/2023 - 16:46:29: server_cvar: "sv_competitive_official_5v5" "1"
+L 05/13/2023 - 16:46:29: server_cvar: "sv_contact" "0"
+L 05/13/2023 - 16:46:29: server_cvar: "sv_deadtalk" "1"
+L 05/13/2023 - 16:46:29: server_cvar: "sv_kick_ban_duration" "0"
+L 05/13/2023 - 16:46:29: server_cvar: "tv_enable" "1"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_player_interact_with_hostage" "300"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_hostage_interaction" "600"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_bonus_shorthanded" "1000"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_rescued_hostage" "600"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 05/13/2023 - 16:46:29: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_freezetime" "15"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_friendlyfire" "1"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_maxrounds" "30"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_roundtime" "1.92"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_roundtime_hostage" "1.92"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_roundtime_defuse" "1.92"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_timelimit" "0"
+L 05/13/2023 - 16:46:29: "Console<0><Console><Console>" say ""Running gamemode_competitive_server.cfg""
+L 05/13/2023 - 16:46:29: server_cvar: "sv_deadtalk" "0"
+L 05/13/2023 - 16:46:29: server_cvar: "sv_voiceenable" "0"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_roundtime_hostage" "1.75"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_autoteambalance" "0"
+L 05/13/2023 - 16:46:29: server_cvar: "mp_limitteams" "0"
+L 05/13/2023 - 16:46:36: "GOTV<2><BOT><>" connected, address ""
+L 05/13/2023 - 16:46:36: "GOTV<2><BOT><>" entered the game
+L 05/13/2023 - 16:46:36: "GOTV<2><BOT><Unassigned>" changed name to "zLLTV_CSGO_BRACKET_01"
+L 05/13/2023 - 16:46:36: "Console<0><Console><Console>" say ""executing sourcemod.cfg""
+L 05/13/2023 - 16:46:36: World triggered "Round_Start"
+L 05/13/2023 - 16:46:37: server_cvar: "sv_alltalk" "1"
+L 05/13/2023 - 16:46:37: server_cvar: "sv_deadtalk" "1"
+L 05/13/2023 - 16:46:37: server_cvar: "sv_voiceenable" "1"
+L 05/13/2023 - 16:46:37: Starting Freeze period
+L 05/13/2023 - 16:46:37: World triggered "Match_Start" on "de_orange"
+L 05/13/2023 - 16:46:37: MatchStatus: Team "CT" is unset.
+L 05/13/2023 - 16:46:37: MatchStatus: Team "TERRORIST" is unset.
+L 05/13/2023 - 16:46:37: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 05/13/2023 - 16:46:39: World triggered "Round_Start"
+L 05/13/2023 - 16:47:23: rcon from "172.30.44.240:56145": command "echo HLSW: Test"
+L 05/13/2023 - 16:47:25: rcon from "172.30.44.240:56145": command "log"
+L 05/13/2023 - 16:47:25: rcon from "172.30.44.240:56145": command "logaddress_add "172.30.44.240:7130""
+L 05/13/2023 - 16:47:25: rcon from "172.30.44.240:56145": command "logaddress_del "172.30.44.240:7130""
+L 05/13/2023 - 16:47:25: rcon from "172.30.44.240:56145": command "logaddress_add "172.30.44.240:7130""
+L 05/13/2023 - 16:47:28: rcon from "172.30.44.240:56145": command "status"
+L 05/13/2023 - 16:49:20: "cisco<3><STEAM_1:1:80747828><>" connected, address ""
+L 05/13/2023 - 16:49:22: "cisco<3><STEAM_1:1:80747828><>" STEAM USERID validated
+L 05/13/2023 - 16:49:28: "Saikcrin<4><STEAM_1:1:66543881><>" connected, address ""
+L 05/13/2023 - 16:49:29: "Saikcrin<4><STEAM_1:1:66543881><>" STEAM USERID validated
+L 05/13/2023 - 16:49:30: "anKou<5><STEAM_1:1:95435649><>" connected, address ""
+L 05/13/2023 - 16:49:32: "anKou<5><STEAM_1:1:95435649><>" STEAM USERID validated
+L 05/13/2023 - 16:49:37: "vibe inspector<6><STEAM_1:1:90801417><>" connected, address ""
+L 05/13/2023 - 16:49:38: "vibe inspector<6><STEAM_1:1:90801417><>" STEAM USERID validated
+L 05/13/2023 - 16:49:38: "Saikcrin<4><STEAM_1:1:66543881><>" entered the game
+L 05/13/2023 - 16:49:38: Starting Freeze period
+L 05/13/2023 - 16:49:38: World triggered "Match_Start" on "de_orange"
+L 05/13/2023 - 16:49:38: Team playing "CT": da_donz [NOT READY]
+L 05/13/2023 - 16:49:38: Team playing "TERRORIST": Boshs_burglars [NOT READY]
+L 05/13/2023 - 16:49:38: MatchStatus: Team playing "CT": da_donz [NOT READY]
+L 05/13/2023 - 16:49:38: MatchStatus: Team playing "TERRORIST": Boshs_burglars [NOT READY]
+L 05/13/2023 - 16:49:38: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 05/13/2023 - 16:49:39: "cisco<3><STEAM_1:1:80747828><>" entered the game
+L 05/13/2023 - 16:49:39: "anKou<5><STEAM_1:1:95435649><>" entered the game
+L 05/13/2023 - 16:49:40: World triggered "Round_Start"
+L 05/13/2023 - 16:49:42: "anKou<5><STEAM_1:1:95435649>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:49:42: "anKou<5><STEAM_1:1:95435649><CT>" picked up "knife"
+L 05/13/2023 - 16:49:42: "anKou<5><STEAM_1:1:95435649><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:49:42: World triggered "Game_Commencing"
+L 05/13/2023 - 16:49:42: Team playing "CT": da_donz [NOT READY]
+L 05/13/2023 - 16:49:42: Team playing "TERRORIST": Boshs_burglars [NOT READY]
+L 05/13/2023 - 16:49:43: "anKou<5><STEAM_1:1:95435649><CT>" dropped "knife"
+L 05/13/2023 - 16:49:43: "anKou<5><STEAM_1:1:95435649><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:49:43: Starting Freeze period
+L 05/13/2023 - 16:49:43: "anKou<5><STEAM_1:1:95435649><CT>" picked up "knife"
+L 05/13/2023 - 16:49:43: "anKou<5><STEAM_1:1:95435649><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:49:43: World triggered "Match_Start" on "de_orange"
+L 05/13/2023 - 16:49:43: Team playing "CT": da_donz [NOT READY]
+L 05/13/2023 - 16:49:43: Team playing "TERRORIST": Boshs_burglars [NOT READY]
+L 05/13/2023 - 16:49:43: MatchStatus: Team playing "CT": da_donz [NOT READY]
+L 05/13/2023 - 16:49:43: MatchStatus: Team playing "TERRORIST": Boshs_burglars [NOT READY]
+L 05/13/2023 - 16:49:43: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 05/13/2023 - 16:49:45: World triggered "Round_Start"
+L 05/13/2023 - 16:49:46: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:49:47: "vibe inspector<6><STEAM_1:1:90801417><>" entered the game
+L 05/13/2023 - 16:49:50: "vibe inspector<6><STEAM_1:1:90801417>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:49:50: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "knife"
+L 05/13/2023 - 16:49:50: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:49:52: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:50:09: "cisco<3><STEAM_1:1:80747828>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:50:09: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:50:09: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:50:10: "Saikcrin<4><STEAM_1:1:66543881>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:50:10: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:50:10: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:50:12: "cisco<3><STEAM_1:1:80747828><TERRORIST>" left buyzone with [ weapon_knife_tactical weapon_glock ]
+L 05/13/2023 - 16:50:19: "tdawg<7><STEAM_1:0:531355374><>" connected, address ""
+L 05/13/2023 - 16:50:21: "tdawg<7><STEAM_1:0:531355374><>" STEAM USERID validated
+L 05/13/2023 - 16:50:36: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:50:38: "tdawg<7><STEAM_1:0:531355374><>" entered the game
+L 05/13/2023 - 16:50:41: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:50:48: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:50:51: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:50:57: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:51:02: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:51:03: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:51:04: "ilmari<8><STEAM_1:0:42704764><>" connected, address ""
+L 05/13/2023 - 16:51:06: "ilmari<8><STEAM_1:0:42704764><>" STEAM USERID validated
+L 05/13/2023 - 16:51:11: "ilmari<8><STEAM_1:0:42704764><>" entered the game
+L 05/13/2023 - 16:51:14: "ilmari<8><STEAM_1:0:42704764>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:51:14: "ilmari<8><STEAM_1:0:42704764><CT>" picked up "knife"
+L 05/13/2023 - 16:51:14: "ilmari<8><STEAM_1:0:42704764><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:51:15: "ilmari<8><STEAM_1:0:42704764><CT>" left buyzone with [ weapon_knife_stiletto weapon_usp_silencer ]
+L 05/13/2023 - 16:51:16: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:51:17: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:51:24: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:51:44: "tdawg<7><STEAM_1:0:531355374>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:51:44: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:51:44: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:51:45: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:51:58: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:52:03: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:52:16: "vibe inspector<6><STEAM_1:1:90801417><CT>" say "!ready"
+L 05/13/2023 - 16:52:18: "anKou<5><STEAM_1:1:95435649><CT>" say ".ready"
+L 05/13/2023 - 16:52:23: "ilmari<8><STEAM_1:0:42704764><CT>" say ".ready"
+L 05/13/2023 - 16:53:37: "Uncle Buncle<9><STEAM_1:1:28160686><>" connected, address ""
+L 05/13/2023 - 16:53:38: "Uncle Buncle<9><STEAM_1:1:28160686><>" STEAM USERID validated
+L 05/13/2023 - 16:53:38: "Papafolopha<10><STEAM_1:0:56148244><>" connected, address ""
+L 05/13/2023 - 16:53:39: "Papafolopha<10><STEAM_1:0:56148244><>" STEAM USERID validated
+L 05/13/2023 - 16:53:46: "anKou<5><STEAM_1:1:95435649><CT>" [-1280 -582 216] attacked "cisco<3><STEAM_1:1:80747828><TERRORIST>" [-450 -814 128] with "hkp2000" (damage "119") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 16:53:46: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:53:46: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:53:46: "anKou<5><STEAM_1:1:95435649><CT>" [-1280 -582 216] killed "cisco<3><STEAM_1:1:80747828><TERRORIST>" [-450 -814 192] with "usp_silencer" (headshot)
+L 05/13/2023 - 16:53:48: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:53:48: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:53:48: "Uncle Buncle<9><STEAM_1:1:28160686><>" entered the game
+L 05/13/2023 - 16:53:49: "Papafolopha<10><STEAM_1:0:56148244><>" entered the game
+L 05/13/2023 - 16:53:50: "Boshツ<11><STEAM_1:1:537951224><>" connected, address ""
+L 05/13/2023 - 16:53:51: "Boshツ<11><STEAM_1:1:537951224><>" STEAM USERID validated
+L 05/13/2023 - 16:54:00: "Uncle Buncle<9><STEAM_1:1:28160686>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:54:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "knife"
+L 05/13/2023 - 16:54:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:54:06: "Boshツ<11><STEAM_1:1:537951224><>" entered the game
+L 05/13/2023 - 16:54:08: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" say "!ready"
+L 05/13/2023 - 16:54:10: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:54:11: "ilmari<8><STEAM_1:0:42704764><CT>" left buyzone with [ weapon_knife_stiletto weapon_usp_silencer ]
+L 05/13/2023 - 16:54:11: "Boshツ<11><STEAM_1:1:537951224>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:54:11: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:54:11: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:54:13: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:54:17: "cisco<3><STEAM_1:1:80747828><TERRORIST>" say "!ready"
+L 05/13/2023 - 16:54:18: "cisco<3><STEAM_1:1:80747828><TERRORIST>" left buyzone with [ weapon_knife_tactical weapon_glock ]
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224>" switched from team <TERRORIST> to <CT>
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "knife"
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "glock"
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224><CT>" [358 -743 64] committed suicide with "world"
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "knife"
+L 05/13/2023 - 16:54:19: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><>" connected, address ""
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><>" entered the game
+L 05/13/2023 - 16:54:19: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" left buyzone with [ weapon_knife_gypsy_jackknife weapon_hkp2000 ]
+L 05/13/2023 - 16:54:19: "Xavier<11><BOT><TERRORIST>" money change 16000-2700 = $13300 (tracked) (purchase: weapon_ak47)
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" picked up "ak47"
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" purchased "ak47"
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:54:19: "Xavier<11><BOT><TERRORIST>" money change 13300-1000 = $12300 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:54:19: "Xavier<12><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:54:21: "Xavier<12><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 05/13/2023 - 16:54:21: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:54:35: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 384] with "ak47" (damage "5") (damage_armor "0") (health "85") (armor "0") (hitgroup "left leg")
+L 05/13/2023 - 16:54:35: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 384] with "ak47" (damage "35") (damage_armor "0") (health "50") (armor "0") (hitgroup "chest")
+L 05/13/2023 - 16:54:35: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 384] with "ak47" (damage "35") (damage_armor "0") (health "15") (armor "0") (hitgroup "chest")
+L 05/13/2023 - 16:54:36: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 384] with "ak47" (damage "11") (damage_armor "0") (health "4") (armor "0") (hitgroup "left leg")
+L 05/13/2023 - 16:54:36: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 384] with "ak47" (damage "44") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 05/13/2023 - 16:54:36: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "knife"
+L 05/13/2023 - 16:54:36: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:54:36: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] killed "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1008 -218 430] with "ak47"
+L 05/13/2023 - 16:54:37: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "Boshツ<11><STEAM_1:1:537951224><CT>" [-1190 -4 384] with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0") (hitgroup "right leg")
+L 05/13/2023 - 16:54:37: "Boshツ<11><STEAM_1:1:537951224><CT>" [-1195 -16 384] attacked "Xavier<12><BOT><TERRORIST>" [-727 -214 224] with "hkp2000" (damage "64") (damage_armor "31") (health "36") (armor "68") (hitgroup "head")
+L 05/13/2023 - 16:54:38: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "Boshツ<11><STEAM_1:1:537951224><CT>" [-1195 -16 384] with "ak47" (damage "44") (damage_armor "0") (health "30") (armor "0") (hitgroup "stomach")
+L 05/13/2023 - 16:54:38: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] attacked "Boshツ<11><STEAM_1:1:537951224><CT>" [-1195 -16 384] with "ak47" (damage "44") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 05/13/2023 - 16:54:38: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "knife"
+L 05/13/2023 - 16:54:38: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:54:38: "Xavier<12><BOT><TERRORIST>" [-727 -214 224] killed "Boshツ<11><STEAM_1:1:537951224><CT>" [-1195 -16 430] with "ak47"
+L 05/13/2023 - 16:54:38: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "knife"
+L 05/13/2023 - 16:54:38: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:54:39: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "knife"
+L 05/13/2023 - 16:54:39: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:54:42: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "vesthelm"
+L 05/13/2023 - 16:54:42: "Boshツ<10><STEAM_1:1:537951224><CT>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:54:42: "Boshツ<11><STEAM_1:1:537951224><CT>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:54:42: "Boshツ<10><STEAM_1:1:537951224><CT>" money change 15000-2900 = $12100 (tracked) (purchase: weapon_m4a1_silencer)
+L 05/13/2023 - 16:54:42: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "m4a1"
+L 05/13/2023 - 16:54:42: "Boshツ<11><STEAM_1:1:537951224><CT>" purchased "m4a1_silencer"
+L 05/13/2023 - 16:54:43: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer kevlar(100) helmet ]
+L 05/13/2023 - 16:54:46: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer kevlar(100) helmet ]
+L 05/13/2023 - 16:54:49: "Papafolopha<10><STEAM_1:0:56148244>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:54:49: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:54:49: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:54:50: "FurryEarn<13><STEAM_1:1:101605843><>" connected, address ""
+L 05/13/2023 - 16:54:51: "FurryEarn<13><STEAM_1:1:101605843><>" STEAM USERID validated
+L 05/13/2023 - 16:55:00: "FurryEarn<13><STEAM_1:1:101605843><>" entered the game
+L 05/13/2023 - 16:55:06: "FurryEarn<13><STEAM_1:1:101605843>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:55:06: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:55:06: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT><TERRORIST>" dropped "ak47"
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:55:06: "Xavier<12><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:55:07: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:55:12: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" say ".ready"
+L 05/13/2023 - 16:55:13: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:55:14: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:55:17: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-263 -696 104] attacked "Boshツ<11><STEAM_1:1:537951224><CT>" [-309 -669 122] with "knife" (damage "33") (damage_armor "3") (health "67") (armor "97") (hitgroup "generic")
+L 05/13/2023 - 16:55:40: "Boshツ<11><STEAM_1:1:537951224><CT>" [-1253 -40 384] attacked "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" [-1221 -11 384] with "hkp2000" (damage "26") (damage_armor "0") (health "19") (armor "0") (hitgroup "right leg")
+L 05/13/2023 - 16:55:42: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" say ".ready"
+L 05/13/2023 - 16:55:44: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:56:04: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" say ".ready"
+L 05/13/2023 - 16:56:24: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" left buyzone with [ weapon_knife_flip weapon_glock ]
+L 05/13/2023 - 16:56:37: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:56:43: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" say "!ready"
+L 05/13/2023 - 16:56:44: "cisco<3><STEAM_1:1:80747828><TERRORIST>" left buyzone with [ weapon_knife_tactical weapon_glock ]
+L 05/13/2023 - 16:56:44: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" [-1032 -48 255] attacked "vibe inspector<6><STEAM_1:1:90801417><CT>" [-1025 -13 272] with "knife" (damage "39") (damage_armor "0") (health "61") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 16:56:49: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-432 981 0] attacked "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" [-472 869 5] with "hkp2000" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 16:56:49: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:56:49: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:56:49: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-432 981 0] killed "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" [-472 869 69] with "hkp2000" (headshot)
+L 05/13/2023 - 16:56:49: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ ]
+L 05/13/2023 - 16:56:52: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:56:52: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:56:52: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" say "im sorry"
+L 05/13/2023 - 16:56:53: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-467 950 0] attacked "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-432 981 0] with "knife" (damage "39") (damage_armor "0") (health "61") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 16:56:53: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" say ":("
+L 05/13/2023 - 16:56:53: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-464 993 0] attacked "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-432 981 0] with "knife" (damage "90") (damage_armor "0") (health "0") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 16:56:53: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "knife"
+L 05/13/2023 - 16:56:53: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:56:53: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-464 993 0] killed "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-432 981 64] with "knife_widowmaker"
+L 05/13/2023 - 16:56:53: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" left buyzone with [ ]
+L 05/13/2023 - 16:56:54: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:56:55: "cisco<3><STEAM_1:1:80747828><TERRORIST>" left buyzone with [ weapon_knife_tactical weapon_glock ]
+L 05/13/2023 - 16:56:55: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "knife"
+L 05/13/2023 - 16:56:55: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:56:56: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" say "all guud"
+L 05/13/2023 - 16:56:57: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-400 933 0] attacked "cisco<3><STEAM_1:1:80747828><TERRORIST>" [-280 871 0] with "hkp2000" (damage "136") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 16:56:57: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:56:57: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:56:57: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-400 933 0] killed "cisco<3><STEAM_1:1:80747828><TERRORIST>" [-280 871 64] with "hkp2000" (headshot)
+L 05/13/2023 - 16:56:57: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:56:57: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:56:58: "Boshツ<11><STEAM_1:1:537951224><CT>" say ".ready"
+L 05/13/2023 - 16:56:59: World triggered "Restart_Round_(1_second)"
+L 05/13/2023 - 16:56:59: Team "CT" scored "0" with "5" players
+L 05/13/2023 - 16:56:59: Team "TERRORIST" scored "0" with "5" players
+L 05/13/2023 - 16:56:59: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:56:59: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: "cisco<3><STEAM_1:1:80747828><TERRORIST>" say "i still love you honey"
+L 05/13/2023 - 16:57:00: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:00: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:00: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:00: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:00: "anKou<5><STEAM_1:1:95435649><CT>" dropped "knife"
+L 05/13/2023 - 16:57:00: "anKou<5><STEAM_1:1:95435649><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:00: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "knife"
+L 05/13/2023 - 16:57:00: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:00: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:00: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:00: "ilmari<8><STEAM_1:0:42704764><CT>" dropped "knife"
+L 05/13/2023 - 16:57:00: "ilmari<8><STEAM_1:0:42704764><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "knife"
+L 05/13/2023 - 16:57:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:00: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:00: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "vesthelm"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "knife"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "m4a1"
+L 05/13/2023 - 16:57:00: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:00: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:00: Starting Freeze period
+L 05/13/2023 - 16:57:00: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:00: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:00: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: "ilmari<8><STEAM_1:0:42704764><CT>" picked up "knife"
+L 05/13/2023 - 16:57:00: "ilmari<8><STEAM_1:0:42704764><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:00: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:00: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:00: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "knife"
+L 05/13/2023 - 16:57:00: "vibe inspector<6><STEAM_1:1:90801417><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "knife"
+L 05/13/2023 - 16:57:00: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "knife"
+L 05/13/2023 - 16:57:00: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:00: "anKou<5><STEAM_1:1:95435649><CT>" picked up "knife"
+L 05/13/2023 - 16:57:00: "anKou<5><STEAM_1:1:95435649><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:00: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:00: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:00: World triggered "Match_Start" on "de_orange"
+L 05/13/2023 - 16:57:00: Team playing "CT": da_donz
+L 05/13/2023 - 16:57:00: Team playing "TERRORIST": Boshs_burglars
+L 05/13/2023 - 16:57:00: MatchStatus: Team playing "CT": da_donz
+L 05/13/2023 - 16:57:00: MatchStatus: Team playing "TERRORIST": Boshs_burglars
+L 05/13/2023 - 16:57:00: MatchStatus: Score: 0:0 on map "de_orange" RoundsPlayed: -1
+L 05/13/2023 - 16:57:02: World triggered "Round_Start"
+L 05/13/2023 - 16:57:03: "ilmari<8><STEAM_1:0:42704764><CT>" left buyzone with [ weapon_knife_stiletto weapon_usp_silencer ]
+L 05/13/2023 - 16:57:04: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:57:05: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:57:05: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:57:06: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" left buyzone with [ weapon_knife_flip weapon_glock ]
+L 05/13/2023 - 16:57:07: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:57:08: "anKou<5><STEAM_1:1:95435649><CT>" say "okay gotta go poop .pause"
+L 05/13/2023 - 16:57:09: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:57:09: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:57:18: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" left buyzone with [ weapon_knife_gypsy_jackknife weapon_hkp2000 ]
+L 05/13/2023 - 16:57:18: "anKou<5><STEAM_1:1:95435649><CT>" say "jokes!"
+L 05/13/2023 - 16:57:24: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:57:25: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:57:30: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:57:33: "Saikcrin<4><STEAM_1:1:66543881><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:57:34: "anKou<5><STEAM_1:1:95435649><CT>" [-24 -702 90] attacked "tdawg<7><STEAM_1:0:531355374><TERRORIST>" [-20 -701 18] with "hkp2000" (damage "138") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 16:57:34: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:34: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:34: "anKou<5><STEAM_1:1:95435649><CT>" [-24 -702 90] killed "tdawg<7><STEAM_1:0:531355374><TERRORIST>" [-20 -701 82] with "usp_silencer" (headshot)
+L 05/13/2023 - 16:57:35: "anKou<5><STEAM_1:1:95435649><CT>" [-53 -706 31] attacked "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-85 -707 43] with "hkp2000" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "chest")
+L 05/13/2023 - 16:57:36: "vibe inspector<6><STEAM_1:1:90801417><CT>" [-835 8 236] attacked "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" [-833 -55 276] with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 16:57:36: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:36: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:38: "ilmari<8><STEAM_1:0:42704764><CT>" [-1126 -2 384] attacked "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" [-1042 -107 288] with "hkp2000" (damage "33") (damage_armor "0") (health "2") (armor "0") (hitgroup "chest")
+L 05/13/2023 - 16:57:39: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "knife"
+L 05/13/2023 - 16:57:39: "Boshツ<11><STEAM_1:1:537951224><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:57:39: "Boshツ<11><STEAM_1:1:537951224><CT>" [-533 357 71] committed suicide with "world"
+L 05/13/2023 - 16:57:39: "anKou<5><STEAM_1:1:95435649><CT>" [-126 -711 179] attacked "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-85 -707 43] with "hkp2000" (damage "42") (damage_armor "0") (health "24") (armor "0") (hitgroup "stomach")
+L 05/13/2023 - 16:57:40: "tdawg<6><STEAM_1:0:531355374><TERRORIST>" money change 16000-700 = $15300 (tracked) (purchase: weapon_deagle)
+L 05/13/2023 - 16:57:40: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" purchased "deagle"
+L 05/13/2023 - 16:57:40: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" picked up "deagle"
+L 05/13/2023 - 16:57:41: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "knife"
+L 05/13/2023 - 16:57:41: "Boshツ<11><STEAM_1:1:537951224><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:57:42: "tdawg<7><STEAM_1:0:531355374><TERRORIST>" left buyzone with [ weapon_knife_flip weapon_deagle ]
+L 05/13/2023 - 16:57:44: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:57:47: "anKou<5><STEAM_1:1:95435649><CT>" [-98 -708 115] attacked "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-85 -707 43] with "hkp2000" (damage "43") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 05/13/2023 - 16:57:47: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:47: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:47: "anKou<5><STEAM_1:1:95435649><CT>" [-98 -708 115] killed "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" [-85 -707 107] with "usp_silencer"
+L 05/13/2023 - 16:57:48: "anKou<5><STEAM_1:1:95435649><CT>" [58 -721 0] attacked "cisco<3><STEAM_1:1:80747828><TERRORIST>" [250 -824 0] with "hkp2000" (damage "134") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 16:57:48: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:57:48: "cisco<3><STEAM_1:1:80747828><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:57:48: "anKou<5><STEAM_1:1:95435649><CT>" [58 -721 0] killed "cisco<3><STEAM_1:1:80747828><TERRORIST>" [250 -824 64] with "usp_silencer" (headshot)
+L 05/13/2023 - 16:57:48: "cisco<3><STEAM_1:1:80747828><TERRORIST>" left buyzone with [ ]
+L 05/13/2023 - 16:57:49: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:49: "FurryEarn<13><STEAM_1:1:101605843><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:50: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:57:50: "cisco<3><STEAM_1:1:80747828><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:57:53: "cisco<3><STEAM_1:1:80747828><TERRORIST>" say "is it flipped?"
+L 05/13/2023 - 16:58:04: "vibe inspector<6><STEAM_1:1:90801417><CT>" left buyzone with [ weapon_knife_m9_bayonet weapon_usp_silencer ]
+L 05/13/2023 - 16:58:15: "anKou<5><STEAM_1:1:95435649><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:58:19: "cisco<3><STEAM_1:1:80747828><TERRORIST>" say "Captain for Boshs_burglars: cisco"
+L 05/13/2023 - 16:58:19: "Boshツ<11><STEAM_1:1:537951224><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:58:51: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "knife"
+L 05/13/2023 - 16:58:51: "vibe inspector<6><STEAM_1:1:90801417><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:58:51: "vibe inspector<6><STEAM_1:1:90801417><CT>" [-312 889 64] committed suicide with "world"
+L 05/13/2023 - 16:58:51: "vibe inspector<6><STEAM_1:1:90801417>" switched from team <CT> to <Spectator>
+L 05/13/2023 - 16:58:53: "anKou<5><STEAM_1:1:95435649><CT>" dropped "knife"
+L 05/13/2023 - 16:58:53: "anKou<5><STEAM_1:1:95435649><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:58:53: "anKou<5><STEAM_1:1:95435649><CT>" [-608 -729 192] committed suicide with "world"
+L 05/13/2023 - 16:58:53: "anKou<5><STEAM_1:1:95435649>" switched from team <CT> to <Spectator>
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843>" switched from team <TERRORIST> to <CT>
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" dropped "knife"
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" dropped "glock"
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" [115 -898 64] committed suicide with "world"
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" picked up "knife"
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:00: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:00: "Zim<14><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><>" entered the game
+L 05/13/2023 - 16:59:00: "Zim<11><BOT><TERRORIST>" money change 16000-2700 = $13300 (tracked) (purchase: weapon_ak47)
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "ak47"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" purchased "ak47"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:59:00: "Zim<11><BOT><TERRORIST>" money change 13300-1000 = $12300 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:00: "Zim<11><BOT><TERRORIST>" money change 12300-300 = $12000 (tracked) (purchase: weapon_p250)
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" purchased "p250"
+L 05/13/2023 - 16:59:00: "Zim<11><BOT><TERRORIST>" money change 12000-300 = $11700 (tracked) (purchase: weapon_hegrenade)
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "hegrenade"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" purchased "hegrenade"
+L 05/13/2023 - 16:59:00: "Zim<14><BOT><TERRORIST>" picked up "p250"
+L 05/13/2023 - 16:59:01: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:59:01: "anKou<5><STEAM_1:1:95435649><Spectator>" say "swich teams guise"
+L 05/13/2023 - 16:59:02: "Zim<14><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_p250 weapon_ak47 weapon_hegrenade kevlar(100) helmet ]
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224>" switched from team <CT> to <TERRORIST>
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" dropped "hkp2000"
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" [-1082 -78 288] committed suicide with "world"
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><TERRORIST>" dropped "ak47"
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><TERRORIST>" dropped "p250"
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><TERRORIST>" dropped "hegrenade"
+L 05/13/2023 - 16:59:03: "Zim<14><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:59:03: "Zim<14><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:03: "Chet<15><BOT>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" picked up "knife"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><>" entered the game
+L 05/13/2023 - 16:59:03: "Chet<11><BOT><CT>" money change 16000-3100 = $12900 (tracked) (purchase: weapon_m4a1)
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" picked up "m4a1"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" purchased "m4a1"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" picked up "vesthelm"
+L 05/13/2023 - 16:59:03: "Chet<11><BOT><CT>" money change 12900-1000 = $11900 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:03: "Chet<11><BOT><CT>" money change 11900-700 = $11200 (tracked) (purchase: weapon_deagle)
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" purchased "deagle"
+L 05/13/2023 - 16:59:03: "Chet<15><BOT><CT>" picked up "deagle"
+L 05/13/2023 - 16:59:06: "Chet<15><BOT><CT>" left buyzone with [ weapon_knife weapon_deagle weapon_m4a1 kevlar(100) helmet ]
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828>" switched from team <TERRORIST> to <CT>
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" dropped "knife"
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" dropped "glock"
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" [192 -880 64] committed suicide with "world"
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" picked up "knife"
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:07: "cisco<3><STEAM_1:1:80747828><CT>" left buyzone with [ weapon_knife_tactical weapon_usp_silencer ]
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><>" entered the game
+L 05/13/2023 - 16:59:07: "Wayne<13><BOT><TERRORIST>" money change 16000-2700 = $13300 (tracked) (purchase: weapon_ak47)
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" picked up "ak47"
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" purchased "ak47"
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:59:07: "Wayne<13><BOT><TERRORIST>" money change 13300-1000 = $12300 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:07: "Wayne<16><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:07: "anKou<5><STEAM_1:1:95435649>" switched from team <Spectator> to <TERRORIST>
+L 05/13/2023 - 16:59:08: "anKou<5><STEAM_1:1:95435649><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:08: "anKou<5><STEAM_1:1:95435649><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><TERRORIST>" dropped "ak47"
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:08: "Wayne<16><BOT><Unassigned>" left buyzone with [ ]
+L 05/13/2023 - 16:59:08: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "knife"
+L 05/13/2023 - 16:59:08: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:59:08: "Uncle Buncle<9><STEAM_1:1:28160686><CT>" [-861 160 288] committed suicide with "world"
+L 05/13/2023 - 16:59:08: "Uncle Buncle<9><STEAM_1:1:28160686>" switched from team <CT> to <Spectator>
+L 05/13/2023 - 16:59:09: "anKou<5><STEAM_1:1:95435649><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881>" switched from team <TERRORIST> to <CT>
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881><CT>" dropped "knife"
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881><CT>" dropped "glock"
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881><CT>" [272 553 -128] committed suicide with "world"
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881><CT>" picked up "knife"
+L 05/13/2023 - 16:59:10: "Saikcrin<4><STEAM_1:1:66543881><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:10: "Joe<17><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><>" entered the game
+L 05/13/2023 - 16:59:10: "Joe<13><BOT><TERRORIST>" money change 16000-3000 = $13000 (tracked) (purchase: weapon_sg556)
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "sg556"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" purchased "sg556"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:59:10: "Joe<13><BOT><TERRORIST>" money change 13000-1000 = $12000 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:10: "Joe<13><BOT><TERRORIST>" money change 12000-700 = $11300 (tracked) (purchase: weapon_deagle)
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" purchased "deagle"
+L 05/13/2023 - 16:59:10: "Joe<13><BOT><TERRORIST>" money change 11300-50 = $11250 (tracked) (purchase: weapon_decoy)
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "decoy"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" purchased "decoy"
+L 05/13/2023 - 16:59:10: "Joe<17><BOT><TERRORIST>" picked up "deagle"
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374>" switched from team <TERRORIST> to <CT>
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374><CT>" dropped "knife"
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374><CT>" dropped "deagle"
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374><CT>" [848 708 -90] committed suicide with "world"
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374><CT>" picked up "knife"
+L 05/13/2023 - 16:59:10: "tdawg<7><STEAM_1:0:531355374><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:10: "Chet<15><BOT><CT>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:10: "Chet<15><BOT><CT>" dropped "m4a1"
+L 05/13/2023 - 16:59:10: "Chet<15><BOT><CT>" dropped "deagle"
+L 05/13/2023 - 16:59:10: "Chet<15><BOT>" switched from team <CT> to <Unassigned>
+L 05/13/2023 - 16:59:10: "Chet<15><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:59:10: "Chet<15><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:10: "Zim<18><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><>" entered the game
+L 05/13/2023 - 16:59:10: "Zim<11><BOT><TERRORIST>" money change 16000-2700 = $13300 (tracked) (purchase: weapon_ak47)
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" picked up "ak47"
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" purchased "ak47"
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:59:10: "Zim<11><BOT><TERRORIST>" money change 13300-1000 = $12300 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:10: "Zim<18><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:11: "Joe<17><BOT><TERRORIST>" left buyzone with [ weapon_knife_t weapon_deagle weapon_sg556 weapon_decoy kevlar(100) helmet ]
+L 05/13/2023 - 16:59:11: "Uncle Buncle<9><STEAM_1:1:28160686>" switched from team <Spectator> to <TERRORIST>
+L 05/13/2023 - 16:59:11: "Uncle Buncle<9><STEAM_1:1:28160686><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:11: "Uncle Buncle<9><STEAM_1:1:28160686><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><TERRORIST>" dropped "ak47"
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:59:11: "Zim<18><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:11: "Zim<18><BOT><Unassigned>" left buyzone with [ ]
+L 05/13/2023 - 16:59:13: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:59:13: "Uncle Buncle<9><STEAM_1:1:28160686><TERRORIST>" left buyzone with [ weapon_knife_gypsy_jackknife weapon_glock ]
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764>" switched from team <CT> to <TERRORIST>
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" dropped "hkp2000"
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-1126 -2 430] committed suicide with "world"
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:14: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><TERRORIST>" dropped "sg556"
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><TERRORIST>" dropped "deagle"
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><TERRORIST>" dropped "decoy"
+L 05/13/2023 - 16:59:14: "Joe<17><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><Unassigned>" dropped "vesthelm"
+L 05/13/2023 - 16:59:14: "Joe<17><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:14: "Vinny<19><BOT><>" connected, address ""
+L 05/13/2023 - 16:59:14: "Vinny<19><BOT>" switched from team <Unassigned> to <CT>
+L 05/13/2023 - 16:59:14: "Vinny<19><BOT><CT>" picked up "knife"
+L 05/13/2023 - 16:59:14: "Vinny<19><BOT><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:14: "Vinny<19><BOT><>" entered the game
+L 05/13/2023 - 16:59:15: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" dropped "knife"
+L 05/13/2023 - 16:59:15: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" dropped "glock"
+L 05/13/2023 - 16:59:15: "Papafolopha<10><STEAM_1:0:56148244><TERRORIST>" [-1131 -34 430] committed suicide with "world"
+L 05/13/2023 - 16:59:15: "Papafolopha<10><STEAM_1:0:56148244>" switched from team <TERRORIST> to <Spectator>
+L 05/13/2023 - 16:59:15: "Vinny<19><BOT><CT>" left buyzone with [ weapon_knife weapon_hkp2000 ]
+L 05/13/2023 - 16:59:15: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:59:16: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" left buyzone with [ weapon_knife_stiletto weapon_glock ]
+L 05/13/2023 - 16:59:17: "vibe inspector<6><STEAM_1:1:90801417>" switched from team <Spectator> to <TERRORIST>
+L 05/13/2023 - 16:59:17: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" picked up "knife"
+L 05/13/2023 - 16:59:17: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" picked up "glock"
+L 05/13/2023 - 16:59:18: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:59:19: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" picked up "vesthelm"
+L 05/13/2023 - 16:59:19: "vibe inspector<5><STEAM_1:1:90801417><TERRORIST>" money change 16000-1000 = $15000 (tracked) (purchase: item_assaultsuit)
+L 05/13/2023 - 16:59:19: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" purchased "item_assaultsuit"
+L 05/13/2023 - 16:59:19: "vibe inspector<5><STEAM_1:1:90801417><TERRORIST>" money change 15000-2700 = $12300 (tracked) (purchase: weapon_ak47)
+L 05/13/2023 - 16:59:19: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" picked up "ak47"
+L 05/13/2023 - 16:59:19: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" purchased "ak47"
+L 05/13/2023 - 16:59:20: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 16:59:20: "Papafolopha<10><STEAM_1:0:56148244>" switched from team <Spectator> to <CT>
+L 05/13/2023 - 16:59:20: "Papafolopha<10><STEAM_1:0:56148244><CT>" picked up "knife"
+L 05/13/2023 - 16:59:20: "Papafolopha<10><STEAM_1:0:56148244><CT>" picked up "hkp2000"
+L 05/13/2023 - 16:59:20: "Vinny<19><BOT><CT>" disconnected (reason "Kicked by Console")
+L 05/13/2023 - 16:59:20: "Vinny<19><BOT><CT>" dropped "hkp2000"
+L 05/13/2023 - 16:59:20: "Vinny<19><BOT>" switched from team <CT> to <Unassigned>
+L 05/13/2023 - 16:59:20: "Vinny<19><BOT><Unassigned>" dropped "knife"
+L 05/13/2023 - 16:59:22: "Papafolopha<10><STEAM_1:0:56148244><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:59:28: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 05/13/2023 - 16:59:29: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 16:59:37: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:59:39: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-816 237 352] attacked "cisco<3><STEAM_1:1:80747828><CT>" [-432 981 0] with "glock" (damage "22") (damage_armor "0") (health "78") (armor "0") (hitgroup "chest")
+L 05/13/2023 - 16:59:39: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:59:46: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 16:59:48: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(100) helmet ]
+L 05/13/2023 - 16:59:50: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 16:59:53: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 17:00:02: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 17:00:07: "cisco<3><STEAM_1:1:80747828><CT>" say "vertigo"
+L 05/13/2023 - 17:00:11: "anKou<5><STEAM_1:1:95435649><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 17:00:12: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:00:13: "Papafolopha<10><STEAM_1:0:56148244><CT>" dropped "knife"
+L 05/13/2023 - 17:00:13: "Papafolopha<10><STEAM_1:0:56148244><CT>" dropped "hkp2000"
+L 05/13/2023 - 17:00:13: "Papafolopha<10><STEAM_1:0:56148244><CT>" [-528 350 68] committed suicide with "world"
+L 05/13/2023 - 17:00:15: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-816 237 352] attacked "cisco<3><STEAM_1:1:80747828><CT>" [-432 981 0] with "glock" (damage "89") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 05/13/2023 - 17:00:15: "cisco<3><STEAM_1:1:80747828><CT>" dropped "knife"
+L 05/13/2023 - 17:00:15: "cisco<3><STEAM_1:1:80747828><CT>" dropped "hkp2000"
+L 05/13/2023 - 17:00:15: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-816 237 352] killed "cisco<3><STEAM_1:1:80747828><CT>" [-432 981 64] with "glock" (headshot)
+L 05/13/2023 - 17:00:15: "cisco<3><STEAM_1:1:80747828><CT>" left buyzone with [ ]
+L 05/13/2023 - 17:00:15: "Papafolopha<10><STEAM_1:0:56148244><CT>" picked up "knife"
+L 05/13/2023 - 17:00:15: "Papafolopha<10><STEAM_1:0:56148244><CT>" picked up "hkp2000"
+L 05/13/2023 - 17:00:17: "cisco<3><STEAM_1:1:80747828><CT>" picked up "knife"
+L 05/13/2023 - 17:00:17: "cisco<3><STEAM_1:1:80747828><CT>" picked up "hkp2000"
+L 05/13/2023 - 17:00:17: "Papafolopha<10><STEAM_1:0:56148244><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 17:00:20: "Saikcrin<4><STEAM_1:1:66543881><CT>" [-1165 -13 384] attacked "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-816 237 352] with "hkp2000" (damage "24") (damage_armor "0") (health "76") (armor "0") (hitgroup "right leg")
+L 05/13/2023 - 17:00:23: "Saikcrin<4><STEAM_1:1:66543881><CT>" [-1165 -13 384] attacked "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-816 237 352] with "hkp2000" (damage "24") (damage_armor "0") (health "52") (armor "0") (hitgroup "right leg")
+L 05/13/2023 - 17:00:24: "anKou<5><STEAM_1:1:95435649><TERRORIST>" left buyzone with [ weapon_knife_t weapon_glock ]
+L 05/13/2023 - 17:00:30: "cisco<3><STEAM_1:1:80747828><CT>" say "!pick vertigo"
+L 05/13/2023 - 17:00:37: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" left buyzone with [ weapon_knife_stiletto weapon_glock ]
+L 05/13/2023 - 17:00:42: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:00:43: "FurryEarn<13><STEAM_1:1:101605843><CT>" [91 903 0] attacked "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" [41 935 0] with "knife" (damage "39") (damage_armor "0") (health "61") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 17:00:49: "Saikcrin<4><STEAM_1:1:66543881><CT>" [-1284 -103 384] attacked "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-462 21 384] with "hkp2000" (damage "22") (damage_armor "0") (health "0") (armor "0") (hitgroup "right leg")
+L 05/13/2023 - 17:00:49: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" dropped "knife"
+L 05/13/2023 - 17:00:49: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" dropped "glock"
+L 05/13/2023 - 17:00:49: "Saikcrin<4><STEAM_1:1:66543881><CT>" [-1284 -103 384] killed "ilmari<8><STEAM_1:0:42704764><TERRORIST>" [-462 21 430] with "usp_silencer"
+L 05/13/2023 - 17:00:50: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" picked up "knife"
+L 05/13/2023 - 17:00:50: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" picked up "glock"
+L 05/13/2023 - 17:00:51: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" left buyzone with [ weapon_knife_stiletto weapon_glock ]
+L 05/13/2023 - 17:00:56: "tdawg<7><STEAM_1:0:531355374><CT>" [-729 38 224] attacked "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" [-788 -5 269] with "knife" (damage "33") (damage_armor "3") (health "67") (armor "97") (hitgroup "generic")
+L 05/13/2023 - 17:00:56: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer ]
+L 05/13/2023 - 17:01:02: "FurryEarn<12><STEAM_1:1:101605843><CT>" money change 16000-2900 = $13100 (tracked) (purchase: weapon_m4a1_silencer)
+L 05/13/2023 - 17:01:02: "FurryEarn<13><STEAM_1:1:101605843><CT>" picked up "m4a1"
+L 05/13/2023 - 17:01:02: "FurryEarn<13><STEAM_1:1:101605843><CT>" purchased "m4a1_silencer"
+L 05/13/2023 - 17:01:08: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:01:11: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:01:13: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" [-746 457 64] attacked "FurryEarn<13><STEAM_1:1:101605843><CT>" [-710 485 65] with "knife" (damage "39") (damage_armor "0") (health "61") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 17:01:19: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(97) helmet ]
+L 05/13/2023 - 17:01:26: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 17:01:30: "vibe inspector<6><STEAM_1:1:90801417><TERRORIST>" left buyzone with [ weapon_knife_m9_bayonet weapon_glock weapon_ak47 kevlar(97) helmet ]
+L 05/13/2023 - 17:01:35: "Saikcrin<4><STEAM_1:1:66543881><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 17:02:01: "Papafolopha<10><STEAM_1:0:56148244><CT>" [-805 -743 128] attacked "anKou<5><STEAM_1:1:95435649><TERRORIST>" [-789 -775 128] with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 17:02:20: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 17:02:31: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:02:34: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 17:02:42: "Saikcrin<4><STEAM_1:1:66543881><CT>" say_team "!pick Vertigo"
+L 05/13/2023 - 17:02:45: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 17:02:45: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:02:48: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 17:02:49: "tdawg<7><STEAM_1:0:531355374><CT>" left buyzone with [ weapon_knife_flip weapon_usp_silencer ]
+L 05/13/2023 - 17:03:03: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:03:06: "cisco<3><STEAM_1:1:80747828><CT>" say "!pick vertigo"
+L 05/13/2023 - 17:03:26: "Saikcrin<4><STEAM_1:1:66543881><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:03:28: "FurryEarn<13><STEAM_1:1:101605843><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:03:29: "Papafolopha<10><STEAM_1:0:56148244><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:03:30: "tdawg<7><STEAM_1:0:531355374><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:03:49: "anKou<5><STEAM_1:1:95435649><TERRORIST>" say "I believe you all need to attempt !pick map cuz one person was granted admin vote priviledge or something like that"
+L 05/13/2023 - 17:03:53: "Saikcrin<4><STEAM_1:1:66543881><CT>" say_team "pick vertigo"
+L 05/13/2023 - 17:03:54: "cisco<3><STEAM_1:1:80747828><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:03:57: "Saikcrin<4><STEAM_1:1:66543881><CT>" say_team "vertigo"
+L 05/13/2023 - 17:03:57: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" [371 -731 0] attacked "tdawg<7><STEAM_1:0:531355374><CT>" [321 -754 0] with "knife" (damage "39") (damage_armor "0") (health "61") (armor "0") (hitgroup "generic")
+L 05/13/2023 - 17:03:59: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:04:02: "Papafolopha<10><STEAM_1:0:56148244><CT>" left buyzone with [ weapon_knife weapon_usp_silencer ]
+L 05/13/2023 - 17:04:10: "cisco<3><STEAM_1:1:80747828><CT>" say "!get5"
+L 05/13/2023 - 17:04:15: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:04:26: "ilmari<8><STEAM_1:0:42704764><TERRORIST>" left buyzone with [ weapon_knife_stiletto weapon_glock ]
+L 05/13/2023 - 17:04:28: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:04:33: "cisco<3><STEAM_1:1:80747828><CT>" say_team "!pick vertigo"
+L 05/13/2023 - 17:04:39: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:04:50: "anKou<5><STEAM_1:1:95435649><TERRORIST>" say "!pick vertigo"
+L 05/13/2023 - 17:05:10: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:05:28: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:05:44: "cisco<3><STEAM_1:1:80747828><CT>" say "!pick overpass"
+L 05/13/2023 - 17:05:50: "Uncle Buncle<9><STEAM_1:1:28160686><TERRORIST>" left buyzone with [ weapon_knife_gypsy_jackknife weapon_glock ]
+L 05/13/2023 - 17:05:59: "anKou<5><STEAM_1:1:95435649><TERRORIST>" say "!pick ancient"
+L 05/13/2023 - 17:06:00: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:06:03: "Boshツ<11><STEAM_1:1:537951224><TERRORIST>" left buyzone with [ weapon_knife_widowmaker weapon_glock ]
+L 05/13/2023 - 17:06:12: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:06:28: "cisco<3><STEAM_1:1:80747828><CT>" say "!pick inferno"
+L 05/13/2023 - 17:06:39: "anKou<5><STEAM_1:1:95435649><TERRORIST>" say "!ban nuke"
+L 05/13/2023 - 17:06:47: "cisco<3><STEAM_1:1:80747828><CT>" say "!ban anubis"
+L 05/13/2023 - 17:06:54: "FurryEarn<13><STEAM_1:1:101605843><CT>" left buyzone with [ weapon_knife_widowmaker weapon_usp_silencer weapon_m4a1_silencer ]
+L 05/13/2023 - 17:06:57: [META] Loaded 0 plugins (1 already loaded)
+L 05/13/2023 - 17:06:57: [META] Loaded 0 plugins (1 already loaded)
+L 05/13/2023 - 17:06:57: Log file closed

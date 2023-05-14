@@ -1,0 +1,18 @@
+L 05/13/2023 - 16:46:29: SourceMod log file session started (file "/app/csgo/addons/sourcemod/logs/L20230513.log") (Version "1.11.0.6934")
+L 05/13/2023 - 16:46:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/app/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 05/13/2023 - 16:46:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 05/13/2023 - 16:46:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 05/13/2023 - 16:46:29: [get5.smx] SteamWorks not installed. Cannot perform Get5 version check.
+L 05/13/2023 - 16:46:29: [get5.smx] Basebans plugin detected. You should remove this plugin as it conflicts with Get5. Unloading...
+L 05/13/2023 - 16:46:29: [get5.smx] Unloaded basebans.smx.
+L 05/13/2023 - 16:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 05/13/2023 - 16:46:37: [get5.smx] Match configuration was loaded via get5_autoload_config.
+L 05/13/2023 - 17:06:59: -------- Mapchange to de_vertigo --------
+L 05/13/2023 - 17:07:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 05/13/2023 - 17:08:14: [get5.smx] Recording to logs/2023-05-13_17-08-14__map1_de_vertigo.dem
+L 05/13/2023 - 17:38:24: -------- Mapchange to de_overpass --------
+L 05/13/2023 - 17:38:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 05/13/2023 - 17:46:50: [get5.smx] Recording to logs/2023-05-13_17-46-50__map2_de_overpass.dem
+L 05/13/2023 - 18:22:47: -------- Mapchange to de_ancient --------
+L 05/13/2023 - 18:22:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 05/13/2023 - 18:44:44: [get5.smx] Recording to logs/2023-05-13_18-44-44__map3_de_ancient.dem
